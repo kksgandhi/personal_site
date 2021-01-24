@@ -1,0 +1,1 @@
+the level at which different annotators agree. If it is high, it means that it is probably troll-tolerant

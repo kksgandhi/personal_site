@@ -1,0 +1,1 @@
+found textblob, which supposedly does sentiment analysis. I'm not sure how well it works though... Things like "this is disappointing" or "I can't imagine doing this any longer" don't really work or "this sucks". (all of them say they are neutral, even though they are obviously negative)
