@@ -8,6 +8,7 @@ jobs:
   neuron:
     runs-on: ubuntu-latest
     steps:
+    - uses: actions/checkout@v2
     - name: Deploy to gh-pages 🚀
       uses: peaceiris/actions-gh-pages@v3
       with:
