@@ -1,3 +1,3 @@
-[study design](study%20design.md)
+[[study design]]
 
-[replication crisis](replication%20crisis.md)
+[[replication crisis]]

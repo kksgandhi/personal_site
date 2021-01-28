@@ -2,16 +2,15 @@ shttps://www.connectedpapers.com/main/373587d6822cde9111d7d90377bbc978f252c0d7/A
 
 piles of pebbles placed on paths so that hikers know others have been there. Act as motivators, telling people to go on.
 
-In [citizen science](citizen%20science.md) they are diversions, giving participants a break
+In [[citizen science]] they are diversions, giving participants a break
 
-another term is *microdiversions*
+another term is [[microdiversions]]
 
 how can users choose cairns?
+ - IOPsych
+ - work psychology
 
-* IOPsych
-* work psychology
-
-[types of cairns to use in cartoscope](types%20of%20cairns%20to%20use%20in%20cartoscope.md)
+[[types of cairns to use in cartoscope]]
 
 decision points? controlling flight paths
 

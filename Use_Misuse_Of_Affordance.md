@@ -1,6 +1,6 @@
-Authors: *Burlamaqui* *Dong*
+Authors: [[Burlamaqui]] [[Dong]]
 Year   : 2014
-Tags   : [affordances](affordances.md)
+Tags   : [[affordances]]
 
 Gibson gave birth to the term, and Norman brought it into the design space
 

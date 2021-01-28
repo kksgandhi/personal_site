@@ -1,8 +1,8 @@
 Year   : 2000
 Tags   :
-Authors: *Chi* *Pirolli* *Pitkow*
+Authors: [[Chi]] [[Pirolli]] [[Pitkow]]
 
-*information foraging theory*
+[[information foraging theory]]
 
 presents an architecture and system for the analysis and prediction of user behavior and website usability
 
@@ -10,7 +10,7 @@ with the web being the way it is, an automated method of analyzing website usabi
 
 usability metrics are simplistic numerics like number of visitors, reading time, session length, etc.
 
-There are some [GOMS](GOMS.md) analyses, but this doesn't look at higher level ideas and doesn't actually analyze content
+There are some [[GOMS]] analyses, but this doesn't look at higher level ideas and doesn't actually analyze content
 
 webmasters want to understand alternative designs for slightly different users, not just understanding what current users are doing
 
@@ -22,9 +22,9 @@ assumes that users have some information goal
 
 their bots scored links based on the distal content's similarity to their information goal. Despite the fact that users don't directly see distal content, it was still a fruitful way to find problems with proximal content
 
-* content similarity (how similar are webpages)
-* Usage graph: how much do real users actually move between edges
-* co citation graph: How often is the same node linked to by the same page
+ - content similarity (how similar are webpages)
+ - Usage graph: how much do real users actually move between edges
+ - co citation graph: How often is the same node linked to by the same page
 
 LRS: If users start at some node, the LRS is the longest path users take often enough
 

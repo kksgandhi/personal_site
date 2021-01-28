@@ -1,1 +1,1 @@
-*Giovanni* used [Scratch](scratch.md) and game design to teach kids about STEM
+[[Giovanni]] used [[Scratch]] and game design to teach kids about STEM

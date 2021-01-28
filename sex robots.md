@@ -1,1 +1,1 @@
-*Giovanni* used these to discuss the idea of representing humanity, and how they could represent *GSM* people
+[[Giovanni]] used these to discuss the idea of representing humanity, and how they could represent [[GSM]] people

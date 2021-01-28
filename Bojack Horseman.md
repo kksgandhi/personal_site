@@ -1,4 +1,4 @@
-Bojack is one of my favorite shows, potentially of all time. On the surface it's a show about [depression](depression.md), but I think leaving it at that doesn't do it justice. 
+Bojack is one of my favorite shows, potentially of all time. On the surface it's a show about [[depression]], but I think leaving it at that doesn't do it justice. 
 
 Aside from being a damn clever show, I think Bojack does two things absurdly well: 
 
@@ -6,4 +6,4 @@ Many shows have a message akin to "we're all different, have our flaws, and have
 
 Many shows have an Uncle Iroh character, a Forrest Gump, a wise sensei who rains wisdom upon the main character and is infallibly wizened themself. Bojack sets up a few of those characters, but then shows how their supposedly perfect personalities dooms even them for failure. Instead of having one character spew all of the show's wisdom, characters each fill other's flaws and personality failures. No one is perfect, everyone supports each other.
 
-Tags: [diversity of thought](diversity%20of%20thought.md) [nobody is perfect](nobody%20is%20perfect.md) [actor audience paradigm](actor%20audience%20paradigm.md)
+Tags: [[diversity of thought]] [[nobody is perfect]] [[actor audience paradigm]]

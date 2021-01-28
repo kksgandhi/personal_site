@@ -1,13 +1,12 @@
-[HCI](HCI.md) interacts with a variety of fields
+[[HCI]] interacts with a variety of fields
 
-Bad [HCI](HCI.md) can cause large losses of profit
+Bad [[HCI]] can cause large losses of profit
 
-[subjects](subjects.md) with diminished autonomy deserve greater protections.
+[[subjects]] with diminished autonomy deserve greater protections.
 
-[ethnography](ethnography.md)
+[[ethnography]]
 
-HCI involves [stakeholders](stakeholders.md)
+HCI involves [[stakeholders]]
 
 personas and scenarios
-
-* [stories](stories.md) about fictitious people using your interfaces. Lowest *barrier to entry* form of [UI](UI.md) design
+ - [[stories]] about fictitious people using your interfaces. Lowest [[barrier to entry]] form of [[UI]] design

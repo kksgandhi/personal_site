@@ -1,6 +1,6 @@
-\#coherentism
+#coherentism
 
-*libertarians* are all about liberty. Your liberty to do this, to own that, etc.  Isaiah Berlin split up freedom into "positive liberties" end "negative liberties".
+[[libertarians]] are all about liberty. Your liberty to do this, to own that, etc.  Isaiah Berlin split up freedom into "positive liberties" end "negative liberties".
 
 Negative liberty is what we typically think about. The government granting you free speech is a negative liberty, the ability to say whatever you want without (government) consequences.
 
@@ -8,5 +8,5 @@ Positive liberty is far more interesting IMO, it's the ability to actually act a
 
 For a while I joked that I was a "socialist libertarian", an oxymoron that I used because I hadn't read about positive vs negative liberties. I think that liber
 
-\#todo
-*politics*
+#todo
+[[politics]]

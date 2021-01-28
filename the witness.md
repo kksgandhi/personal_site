@@ -1,10 +1,10 @@
-[Lecture-The Witness](Lecture-The%20Witness.md)
+[[Lecture-The Witness]]
 
 The Witness is a game by Jonathan Blow, both a genius, and a pretentious git (according to Electron Dance)
 
-[The Unbearable Now-Electron Dance](The%20Unbearable%20Now-Electron%20Dance.md)
+[[The Unbearable Now-Electron Dance]]
 
-\#todo *The greatest game you shouldn't play*
+#todo [[The greatest game you shouldn't play]]
 
 The witness is not explicit about its philosophical points; despite that I think there are some arguments I've seen in a variety of criticisms.
 
@@ -16,7 +16,7 @@ The ultimate puzzles in the witness aren't the explicit ones, but the circles an
 
 # Achievement
 
-What is the point of playing games, of doing things? The Witness seems slightly... anti-achievement. While there are achievements in the game, the design seems to argue against playing the game for achievements sake. The game should be played in an [autoelotic](autoelotic.md) sense, and you shouldn't look up tutorials just to progress. If you get stuck, the game encourages you to go to a different area and come back with a new perspective (in fact, there are a variety of puzzles designed to make you stuck and come back)
+What is the point of playing games, of doing things? The Witness seems slightly... anti-achievement. While there are achievements in the game, the design seems to argue against playing the game for achievements sake. The game should be played in an [[autoelotic]] sense, and you shouldn't look up tutorials just to progress. If you get stuck, the game encourages you to go to a different area and come back with a new perspective (in fact, there are a variety of puzzles designed to make you stuck and come back)
 
 # Perspective
 
@@ -24,7 +24,7 @@ The audio logs scattered throughout the game all talk about perspective. There a
 
 # Game Design
 
-The Witness' game design attempts to be perfect, almost to a problematic level. It eschews non-[diagetic](diagetic.md) elements and attempts to teach through small tutorial puzzles. Since nothing is explicitly said, it fails often, but when it does succeed it is beautiful
+The Witness' game design attempts to be perfect, almost to a problematic level. It eschews non-[[diagetic]] elements and attempts to teach through small tutorial puzzles. Since nothing is explicitly said, it fails often, but when it does succeed it is beautiful
 
 # Time
 
@@ -34,6 +34,6 @@ The animations in the witness are slow, which lends to its broader theme of 'slo
 
 The witness has a narrative and meaning, but it is light on both those. Hell, I think if this note was twice as long, it would probably cover the entire story of the witness and everything it says.
 
-Does the Witness need to be a 40 hour experience to tell a 40 minute story? On the one hand, the time taken allows the meaning to sink in, and meshes well with the idea of 'slow down' present. On the other hand, the length of the game allows it to appear [deep](deep.md) without actually being so. 
+Does the Witness need to be a 40 hour experience to tell a 40 minute story? On the one hand, the time taken allows the meaning to sink in, and meshes well with the idea of 'slow down' present. On the other hand, the length of the game allows it to appear [[deep]] without actually being so. 
 
-the theater and the story of [the candle](the%20candle.md)
+the theater and the story of [[the candle]]

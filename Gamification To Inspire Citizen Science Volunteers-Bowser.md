@@ -1,4 +1,4 @@
 Year   :
 Tags   :
-Authors: *Bowser* *Hansen*
-\#unread 
+Authors: [[Bowser]] [[Hansen]]
+#unread 

@@ -1,5 +1,5 @@
-Tags: *podcast*
-
+Tags: [[podcast]]
+ 
 WTNV is the kind of podcast that shouldn't be that good... but holy hell it is.
 
 Everything below assumes you've listened to WTNV already

@@ -1,3 +1,3 @@
-* Shape changing interfaces
-  -	Deformable interfaces
-  -	Reconfigurable 
+	-	Shape changing interfaces
+	-	Deformable interfaces
+	-	Reconfigurable 

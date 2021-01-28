@@ -1,13 +1,13 @@
-\#chiplay20
+#chiplay20
 
 Year   :
-Tags   : [cheating](cheating.md)
-Authors: *Spiel*
+Tags   : [[cheating]]
+Authors: [[Spiel]]
 
-* gain an unfair advantage
-* make progress
-* play god
-* fast forward tedious aspects
+ - gain an unfair advantage
+ - make progress
+ - play god
+ - fast forward tedious aspects
 
 most prevalent reason to cheat was mood
 

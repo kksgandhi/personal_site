@@ -1,4 +1,4 @@
-Authors: *Sophie*
+Authors: [[Sophie]]
 Year   :
 Tags   :
 

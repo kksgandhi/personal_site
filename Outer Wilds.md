@@ -1,4 +1,4 @@
-Absolutely one of my favorite games. I say that a lot, but honestly i only have time to play really good [games](games.md). 
+Absolutely one of my favorite games. I say that a lot, but honestly i only have time to play really good [[games]]. 
 
 It's insane how well they crafted the mystery. Mystery games are hard to make because what if people don't get it, how do you lay out the clues, etc. but outer wilds had so many unique challenges with super clever clues that made you feel like a goddamn genius when you got over them. 
 

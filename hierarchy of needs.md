@@ -1,2 +1,2 @@
-\#coherentism 
-\#todo 
+#coherentism 
+#todo 

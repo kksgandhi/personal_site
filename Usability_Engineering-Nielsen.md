@@ -2,27 +2,27 @@
 
 Dude just take a fucking field trip to your users
 
-*Usability* studies are relatively easy to do and so absurdly useful
+[[Usability]] studies are relatively easy to do and so absurdly useful
 
 Users are always right, but they may not know what they need
 
 Knowledge is a curse
 
-avoid too much *cognitive load*
+avoid too much [[cognitive load]]
 
 Scenarios? Thinking aloud?
 
-1. recognize the need for usability
-1. Make it clear that usability has management support
-1. devote resources to usability engineering
-1. integrate usability activities into various stages of your development lifecycle
-1. Make sure that all user interfaces are subjected to user testing
+1) recognize the need for usability
+2) Make it clear that usability has management support
+3) devote resources to usability engineering
+4) integrate usability activities into various stages of your development lifecycle
+5) Make sure that all user interfaces are subjected to user testing
 
 ### Chapter 7
 
-* In an *observation* the observer should be as unintrusive as possible, and avoid helping, since it's all about testing the system's usability.
-* Be neutral in interviews
-* make it easy for them to respond
+ - In an [[observation]] the observer should be as unintrusive as possible, and avoid helping, since it's all about testing the system's usability.
+ - Be neutral in interviews
+ - make it easy for them to respond
 
 ### Chapter 5
 

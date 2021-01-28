@@ -1,8 +1,8 @@
 Year   :
 Tags   :
-Authors: *Avery* *Pikarski* *Warren* *Thomas*
+Authors: [[Avery]] [[Pikarski]] [[Warren]] [[Thomas]]
 
-Typical views into [AR](AR.md) are about increased functionality
+Typical views into [[AR]] are about increased functionality
 
 describes a variety of indoor AR games, like mahjong and hockey
 

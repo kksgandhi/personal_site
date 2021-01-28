@@ -1,8 +1,8 @@
 Year   :
 Tags   : #gamifiedEducation
-Authors: *Chen*
+Authors: [[Chen]]
 
-So this did an [AR](AR.md) vs digital, game vs non-game for insect identification w/ children. 
+So this did an [[AR]] vs digital, game vs non-game for insect identification w/ children. 
 
 has a great #worksCited
 

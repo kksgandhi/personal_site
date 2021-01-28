@@ -1,5 +1,5 @@
-\#unread
+#unread
 
 Year   :
 Tags   :
-Authors: *Schrier*
+Authors: [[Schrier]]

@@ -1,6 +1,6 @@
 Year   :
 Tags   :
-Authors: *Watts* *Sharlin*
-\#hciFinalProject
+Authors: [[Watts]] [[Sharlin]]
+#hciFinalProject
 
-[AR](AR.md) game with a physical control schema
+[[AR]] game with a physical control schema

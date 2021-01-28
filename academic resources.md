@@ -1,9 +1,9 @@
-[tools](tools.md)
+[[tools]]
 
-[conferences](conferences.md)
+[[conferences]]
 
-[groups](groups.md)
+[[groups]]
 
-*contacts*
+[[contacts]]
 
-[resources for games](resources%20for%20games.md)
+[[resources for games]]

@@ -1,4 +1,4 @@
 Year   :
 Tags   :
-Authors: *Sauermann* *Franzoni*
-\#unread 
+Authors: [[Sauermann]] [[Franzoni]]
+#unread 

@@ -1,4 +1,5 @@
-\#coherentism[leadership](leadership.md)
+
+#coherentism[[leadership]]
 There are people who don't feel comfortable asking the group for things. "I want to go here instead" is something they may feel and imply, but never say out loud. One thing that will often happen is that these things won't be said to the whole group, but rather someone who is "the leader".
 
 Dealing with varying people who have differing views about where to go is frustrating, since you can't make everyone happy

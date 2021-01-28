@@ -1,9 +1,9 @@
 Year   :
-Tags   : [interface comparison](interface%20comparison.md)
-Authors: *Crowe* *Narayanan*
+Tags   : [[interface comparison]]
+Authors: [[Crowe]] [[Narayanan]]
 
-used *eye tracking*.
+used [[eye tracking]].
 
-\#hciFinalProject
+#hciFinalProject
 
-
+![[Comparing Interfaces-Crowe.pdf]]

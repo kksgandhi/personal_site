@@ -1,6 +1,6 @@
-Authors: *Still*
+Authors: [[Still]]
 Year   :
-Tags   : [affordances](affordances.md) [perception](perception.md)
+Tags   : [[affordances]] [[perception]]
 
 Affordances have moved beyond their original definition, which is a problem
 

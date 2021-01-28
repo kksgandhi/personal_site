@@ -1,18 +1,19 @@
-Science is [falsifiable](falsifiable.md). Philosophy is the study of everything else. This makes many people uncomfortable, since people like answerable questions.
+Science is [[falsifiable]]. Philosophy is the study of everything else. This makes many people uncomfortable, since people like answerable questions.
 
-[Some people think philosophy is useless.](defending%20philosophy.md)
+[[defending philosophy|Some people think philosophy is useless.]]
 
-[Hell, maybe it is.](metaphilosophy.md)
+[[metaphilosophy|Hell, maybe it is.]]
 
-[Is it counterproductive to learn philosophy? Is ignorance bliss?](chains%20and%20a%20key.md)
+[[chains and a key|Is it counterproductive to learn philosophy? Is ignorance bliss?]]
+
+[potato](falsifiable)
 
 Branches of philosophy:
-
-* *ethics*
-  * [bioethics](bioethics.md)
-* *meaning of life*
-* *consciousness*
-* *free will*
-* [self](self.md)
-* [stoicism](stoicism.md)
-* [hedonism](hedonism.md)
+ - [[ethics]]
+   - [[bioethics]]
+ - [[meaning of life]]
+ - [[consciousness]]
+ - [[free will]]
+ - [[self]]
+ - [[stoicism]]
+ - [[hedonism]]

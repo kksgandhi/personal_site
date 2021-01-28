@@ -1,4 +1,4 @@
-\#coherentism
+#coherentism
 
 Schools teach so many "leadership skills" which ended up boiling down to "speak loudly and confidently" and "here's how to make a powerpoint". I think leadership skills as they are discussed in schools are really just business skills, which are important too, but it's frustrating that real leadership skills aren't as tangible / measurable / teachable as summer camps would have you believe.
 

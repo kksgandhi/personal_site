@@ -1,11 +1,10 @@
-[qualitative study](qualitative%20study.md)
+[[qualitative study]]
 
-[survey design](survey%20design.md)
+[[survey design]]
 
-[comparative study](comparative%20study.md)
+[[comparative study]]
 
-[statistical tests](statistical%20tests.md)
+[[statistical tests]]
 
 # Terms
-
-[study saturation](study%20saturation.md) is the amount of participants in a study before you don't learn anything new.
+[[study saturation]] is the amount of participants in a study before you don't learn anything new.

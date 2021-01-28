@@ -1,12 +1,12 @@
-\#todo
-\#coherentism
+#todo
+#coherentism
 
-[games to play](games%20to%20play.md)
+[[games to play]]
 
 Games are low stakes ways to simulate life
 
-*ludonarrative dissonance*
+[[ludonarrative dissonance]]
 
-[media](media.md)
+[[media]]
 
-[games I have played](games%20I%20have%20played.md)
+[[games I have played]]

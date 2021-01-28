@@ -1,8 +1,8 @@
-\#chiplay20
+#chiplay20
 
 Year   :
-Tags   : *board games* [immersion](immersion.md)
-Authors: *Farkas*
+Tags   : [[board games]] [[immersion]]
+Authors: [[Farkas]]
 
 board game players have different ideas of immersions than VG players
 

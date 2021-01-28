@@ -1,6 +1,6 @@
-\#coherentism
-\#todo
+#coherentism
+#todo
 
-[realism](realism.md)
+[[realism]]
 
-[media as reflection](media%20as%20reflection.md)
+[[media as reflection]]

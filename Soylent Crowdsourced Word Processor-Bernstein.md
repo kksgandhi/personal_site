@@ -1,5 +1,5 @@
 Year   :
 Tags   :
-Authors: *Bernstein* *Little* *Miller*
+Authors: [[Bernstein]] [[Little]] [[Miller]]
 
-Neat little thing that turns *word processing* (such as editing) into a [crowdsourcing](crowdsourcing.md) project via #mturk
+Neat little thing that turns [[word processing]] (such as editing) into a [[crowdsourcing]] project via #mturk

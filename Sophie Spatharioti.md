@@ -1,7 +1,7 @@
-lead researcher on the [tileoscope](tileoscope.md) project
+lead researcher on the [[tileoscope]] project
 
-wrote about [flight path context](flight%20path%20context.md)
+wrote about [[flight path context]]
 
-and [required work payment scheme](required%20work%20payment%20scheme.md)
+and [[required work payment scheme]]
 
-[Variety_Complexity_Engagement-Sophie](Variety_Complexity_Engagement-Sophie.md)
+[[Variety_Complexity_Engagement-Sophie]]

@@ -1,3 +1,3 @@
 papers: 
-[Detecting_Betrayers_Online-Chaima](Detecting_Betrayers_Online-Chaima.md)
-[Mixed_Methods_Analysis_Of_Debugging_Sequences-Chaima](Mixed_Methods_Analysis_Of_Debugging_Sequences-Chaima.md)
+[[Detecting_Betrayers_Online-Chaima]]
+[[Mixed_Methods_Analysis_Of_Debugging_Sequences-Chaima]]

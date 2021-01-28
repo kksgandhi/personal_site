@@ -1,4 +1,4 @@
-Tags: [race](race.md)
+Tags: [[race]]
 
 someone may experiences the world differently because of an identity (race, sexuality, gender, class, etc), but they may also experience the world differently because of an intersection between different identities.
 

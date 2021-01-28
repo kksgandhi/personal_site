@@ -1,8 +1,8 @@
 Year   :
-Tags   : [AR](AR.md) #hciFinalProject
-Authors: *Linaza*
+Tags   : [[AR]] #hciFinalProject
+Authors: [[Linaza]]
 
-[pervasive games](pervasive%20games.md)
+[[pervasive games]]
 
 for tourism.
 
@@ -10,4 +10,4 @@ Go to points of interest, get a bit of story and a hint about where the next POI
 
 neat paper, it was mostly a description of the AR game, rather than a formal study
 
-
+![[Ar Tourism-Linaza.pdf]]

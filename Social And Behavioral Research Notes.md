@@ -1,18 +1,18 @@
-Bruh the *Tuskegee* study wtf.
+Bruh the [[Tuskegee]] study wtf.
 
 Belmont Report
-People should have autonomy
-If people don't have autonomy, they should be protected (children)
-
+	People should have autonomy
+	If people don't have autonomy, they should be protected (children)
+	
 Voluntary, informed consent
 
 Beneficence - respect their decisions, protect from harm, secure their wellbeing
-
+	
 Don't choose something just because it is convenient (like prisoners)
 
 Anonymity can be easily broken by someone intelligent
 
----
+-------------
 
 IRB only necessary if human subject and is research.
 

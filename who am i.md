@@ -6,4 +6,4 @@ I read this really neat... [article](http://www.plausiblydeniable.com/opinion/gs
 
 Another thing that is kind of a factor is the fact that I still have a lot of social anxiety in one on one situations. In public settings where you are meeting people, they have the ability to escape from you. In large groups, the same (they can just start talking to someone else, or go back to the activity that everyone is doing). In one on one settings, someone can hate you and you have no way of knowing, they just sat through the meal because they were being polite.
 
-\#todo [work life balance](work%20life%20balance.md)
+#todo [[work life balance]]

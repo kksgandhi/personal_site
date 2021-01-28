@@ -1,3 +1,4 @@
-[inter-annotator agreement](inter-annotator%20agreement.md)
+[[inter-annotator agreement]]
 
-[citizen science](citizen%20science.md)
+[[citizen science]]
+

@@ -1,8 +1,8 @@
 Year   :
-Tags   : *capitalism*
-Authors: *Opel* *Smith*
+Tags   : [[capitalism]]
+Authors: [[Opel]] [[Smith]]
 
-explores the way *environmental* messages are portrayed to the public, the tensions between management and labor. Argues from a [media as reflection](media%20as%20reflection.md) point.
+explores the way [[environment|environmental]] messages are portrayed to the public, the tensions between management and labor. Argues from a [[media as reflection]] point.
 
 Zoo tycoon allows control over one's environment. What does it mean about us that we seek out such a game
 

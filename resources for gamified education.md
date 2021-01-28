@@ -1,9 +1,9 @@
 Educational game examples:
 
-* https://explorabl.es/
-* http://edugames.design/big-list
-* https://www.quandarygame.org/play
-  * philosophical game
+ - https://explorabl.es/
+ - http://edugames.design/big-list
+ - https://www.quandarygame.org/play
+   - philosophical game
 
 Reading list for learning through failure:
 

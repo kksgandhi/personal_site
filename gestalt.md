@@ -2,7 +2,7 @@ gestalt is a item that is more than the sum of its parts. We don't see letters, 
 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3482144/
 
-a subcategory of [perception](perception.md) [HCI](HCI.md) research. 
+a subcategory of [[perception]] [[HCI]] research. 
 
 # History
 

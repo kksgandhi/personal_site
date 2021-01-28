@@ -1,10 +1,10 @@
-Authors: *Harteveld*
+Authors: [[Harteveld]]
 Year   :
-Tags   : *game design* #gamifiedEducation *transformational games*
+Tags   : [[game design]] #gamifiedEducation [[transformational games]]
 
 Reality, Meaning, and Play
 
-([Leadership skill](leadership.md)s with games, Yee 2006, check it out)
+([[leadership|Leadership skill]]s with games, Yee 2006, check it out)
 
 You always learn within a game, does that translate to the outside
 
@@ -12,7 +12,7 @@ Some games are used seriously though they were not designed that way, we focus o
 
 There is a long tradition of games being referred to as simulations for life, strategy games like "Go" and "Chess" as metaphors for the complexity of life
 
-*Edutainment* had a reputation for low quality, and the games industry cut ties with it. Now a lot of those are known as "educational software"
+[[edutainment|Edutainment]] had a reputation for low quality, and the games industry cut ties with it. Now a lot of those are known as "educational software"
 
 Games as objects (theoretical)
 Game usage
@@ -23,11 +23,11 @@ Games as tools
 
 September 12: Shoot terrorists, but killing civilians makes mourning civilians terrorists. Shows how it's kind of impossible to destroy terrorism in this manner
 
-*System*: Interacting set of elements that forms a whole with a common goal or purpose
+[[system|System]]: Interacting set of elements that forms a whole with a common goal or purpose
 
 Iterate, and between iterations, take into account multiple facets of game design
 
-*self efficacy* - power over your world. Gaming gives you that feeling, and has helped people with cancer who feel powerless
+[[self efficacy]] - power over your world. Gaming gives you that feeling, and has helped people with cancer who feel powerless
 
 Games that help with PTSD by slowly reintroducing traumas
 
@@ -50,26 +50,25 @@ In addition, games are dynamic and players are creative, so there can be a lot o
 
 How complex and rigid are the rules?
 Action
-Twitch, fast paced, simple to learn
+  Twitch, fast paced, simple to learn
 Adventure
-Story, side quest, exploration
+  Story, side quest, exploration
 Puzzle
-Objective and manipulation
+  Objective and manipulation
 RP
-More action, less story
+  More action, less story
 Simulation
-how is it like to be <thing that exists in the real world>
-
+  how is it like to be <thing that exists in the real world>
 Strategy
-Management and presentation of many units and resources
+  Management and presentation of many units and resources
 Virtual Worlds
-MMORPGs, RP but with more people
+  MMORPGs, RP but with more people
 
 In TGD, players are people (with cultures), interpreters of the message you display, and are players (yes ok, but they have different goals and wants)
 
 Page 84 describes a variety of other design books similar to TGD
 
-*Representations* re-engage us with reality from a different, potentially more narrow perspective.
+[[represenation|Representations]] re-engage us with reality from a different, potentially more narrow perspective.
 
 Understand the problem that your clients are facing
 
@@ -88,17 +87,17 @@ Games such as the Chiquita game and the McDonalds game can provide empathy for o
 
 Behaviorism: The external behaviors produced are all that matters, and behaviors can be positively / negatively reinforced
 
-*Cognitivism*: Learning can involve internal mental events that are not reflected by behavior
+[[Cognitivism|Cognitivism]]: Learning can involve internal mental events that are not reflected by behavior
 
-*Humanism*: Learning should be centered around human growth, and believes that humans are inherently good and strive for a better world.
+[[humanism|Humanism]]: Learning should be centered around human growth, and believes that humans are inherently good and strive for a better world.
 
-*Constructivism*: Learning is a process entangled with one's background, culture and motivation. Learning involves taking new information and reconciling it with previous ideas and experience
+[[constructivism|Constructivism]]: Learning is a process entangled with one's background, culture and motivation. Learning involves taking new information and reconciling it with previous ideas and experience
 
-*Socio-Culturalism*: Collaborative environments should be built where the environment and people themselves aid in learning
+[[socioculturalism|Socio-Culturalism]]: Collaborative environments should be built where the environment and people themselves aid in learning
 
-*Socio-constructivism*: Knowledge itself is situated in an environmental context and such environments must include authentic experience for learning to be meaningful
+[[socioconstructivism|Socio-constructivism]]: Knowledge itself is situated in an environmental context and such environments must include authentic experience for learning to be meaningful
 
-*constructionism*: Learning happens when knowledge is applied external to one's self (onto the environment), even with something as simple as writing a paper
+[[constructionism]]: Learning happens when knowledge is applied external to one's self (onto the environment), even with something as simple as writing a paper
 
 Operations are mechanisms in the game or actions players can take. Do your operations create a meaning, or does your meaning create operations (bottom up vs top down)
 
@@ -153,3 +152,5 @@ Give time to reflect. Moments were thought is required should be given at times 
 Uncertainty tension: Lack of knowledge can be interesting, but also frustrating
 
 Exams are hard, scoring is similar
+
+

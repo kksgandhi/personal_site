@@ -1,4 +1,4 @@
-This is a *scholarship* that you can apply to within 12 months of starting graduate studies.
+This is a [[scholarship]] that you can apply to within 12 months of starting graduate studies.
 
 Apply at the beginning of your second year, deadline is at the end of October.
 
@@ -8,6 +8,6 @@ The GRFP is essentially about funding you, not the proposed project, though the 
 
 GRFP gives 3 years of funding I can use anytime.
 
-I can apply to the *GRIP* or the *GROW* after getting into the GRFP.
+I can apply to the [[GRIP]] or the [[GROW]] after getting into the GRFP.
 
 m.wald@northeastern.edu

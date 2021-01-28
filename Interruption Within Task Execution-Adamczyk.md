@@ -1,6 +1,6 @@
 Year   :
-Tags   : *interruptions* *context switching*
-Authors: *Adamczyk* *Bailey*
+Tags   : [[interruptions]] [[context switching]]
+Authors: [[Adamczyk]] [[Bailey]]
 
 interruptions suck, and they might not even get the information to the user
 

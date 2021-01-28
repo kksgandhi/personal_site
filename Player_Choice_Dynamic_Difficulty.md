@@ -1,8 +1,8 @@
 Authors:
 Year   :
-Tags   : *DDA* [flow](flow.md)
+Tags   : [[DDA]] [[flow]]
 
-[autoelotic](autoelotic.md) - satisfaction deriving *intrinsically*, not from external stuff like *achievements*
+[[autoelotic]] - satisfaction deriving [[intrinsic motivation|intrinsically]], not from external stuff like [[achievements]]
 
 Automatic difficulty adjustment is good
 

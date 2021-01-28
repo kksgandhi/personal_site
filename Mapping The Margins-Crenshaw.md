@@ -1,5 +1,5 @@
 Year   :
 Tags   :
-Authors: *Crenshaw*
+Authors: [[Crenshaw]]
 
-A good look at [intersectionalism](intersectionalism.md)
+A good look at [[intersectionalism]]

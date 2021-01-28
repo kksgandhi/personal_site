@@ -1,7 +1,7 @@
-Companion project to [tileoscope](tileoscope.md)
+Companion project to [[tileoscope]]
 
 # Physical - Digital study
 
 # Cairns
 
-let's see how to implement [cairns](cairns.md) into cartoscope
+let's see how to implement [[cairns]] into cartoscope

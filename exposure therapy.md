@@ -1,1 +1,1 @@
-*therapy*
+[[therapy]]

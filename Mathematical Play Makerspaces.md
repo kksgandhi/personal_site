@@ -1,3 +1,3 @@
-\#chiplay20
+#chiplay20
 
-mathematical play within *makerspace*s involving embodied cognition
+mathematical play within [[makerspace]]s involving embodied cognition

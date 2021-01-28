@@ -1,8 +1,8 @@
-Authors: *Culyba*
+Authors: [[Culyba]]
 Year   :
-Tags   : *game design* *transformational games*
+Tags   : [[game design]] [[transformational games]]
 
-Art of game design by *Schell*, apparently I should read it
+Art of game design by [[Schell]], apparently I should read it
 
 Transformational games attempt to change the player irl in a manner that persists
 
@@ -15,7 +15,7 @@ Expert Resources
 Prior Works
 Assessment Plan
 
-Don't *design* something that directly features the purpose, instead think about how the design will foster the purpose.
+Don't [[design]] something that directly features the purpose, instead think about how the design will foster the purpose.
 
 Understand your players. What is their beginning state? (Do they know geometry)
 

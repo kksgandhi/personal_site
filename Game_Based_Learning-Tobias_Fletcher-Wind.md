@@ -1,8 +1,9 @@
-\#relook
+#relook
 
-Authors: *Tobias* *Fletcher* *Wind*
+Authors: [[Tobias]] [[Fletcher]] [[Wind]]
 Year   :
 Tags   : #gamifiedEducation 
+
 
 https://docs.google.com/document/d/13dOOL-z0iS02QaXuE8jC-b8ZUV77SeCCMdN6CVL-Zm0/edit
 

@@ -1,3 +1,3 @@
-[fun websites](fun%20websites.md)
+[[fun websites]]
 
-[social activities](social%20activities.md)
+[[social activities]]

@@ -1,9 +1,9 @@
-\#chiplay20
+#chiplay20
 
-*VR* [exposure therapy](exposure%20therapy.md)
+[[VR]] [[exposure therapy]]
 
 participants create terrain, and then use VR to enter that terrain
 
-therapy for *acrophobia*
+therapy for [[acrophobia]]
 
 seems like a ~valuable concept~

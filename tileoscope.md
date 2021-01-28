@@ -1,9 +1,9 @@
-Companion project to [cartoscope](cartoscope.md)
+Companion project to [[cartoscope]]
 
-* TOSAR was built to see how discussion would be beneficial in AR based games
-* it is developed using *Unity* and *Vuforia*
-* Customizable rulesets means that people can come up with many games
-* Chose people from different backgrounds (like game designers) or sociology people or environmental people
+ - TOSAR was built to see how discussion would be beneficial in AR based games
+ - it is developed using [[Unity]] and [[Vuforia]]
+ - Customizable rulesets means that people can come up with many games
+ - Chose people from different backgrounds (like game designers) or sociology people or environmental people
 
 # Planned Research
 

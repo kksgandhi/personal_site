@@ -1,4 +1,4 @@
-\#coherentism
+#coherentism
 
 I'm doing this all from memory, this isn't exactly a historical document.
 

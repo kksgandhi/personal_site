@@ -1,6 +1,6 @@
-Authors: *Ramcharitar*
+Authors: [[Ramcharitar]]
 Year   :
-Tags   : *controller* *motor behavior*
+Tags   : [[controller]] [[motor behavior]]
 
 There are so many input modalities such as triggers, back paddles, analog buttons, and touchscreens. Why have game consoles mostly stuck to thumbsticks and buttons?
 
