@@ -8,25 +8,6 @@ jobs:
   neuron:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
-    - name: Download neuron
-      run: |
-        curl --silent https://api.github.com/repos/srid/neuron/actions/artifacts \
-          | jq 'first(.artifacts | .[] | select(.name == "neuron-bundle-linux") | .archive_download_url)' -r \
-          | xargs curl -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" --silent -L -o neuron-bundle-linux.zip
-        unzip neuron-bundle-linux.zip
-        chmod +x neuron
-        ./neuron --version  # This extracts the bundle; should take a while
-    - name: Edit with sedit
-      run:  |
-        sed 's/^.*$\|John/J/' *.md
-    - name: Scream
-      run:  |
-        rm philosophy.md
-    - name: Build neuron site 🔧
-      run: |
-        ./neuron -d $PWD gen
-        touch .neuron/output/.nojekyll
     - name: Deploy to gh-pages 🚀
       uses: peaceiris/actions-gh-pages@v3
       with:
