@@ -18,7 +18,11 @@ jobs:
         chmod +x neuron
         ./neuron --version  # This extracts the bundle; should take a while
     - name: Edit with sedit
-      run: sed 's/^.*$\|John/J/' *.md
+      run:  |
+        sed 's/^.*$\|John/J/' *.md
+    - name: Scream
+      run:  |
+        rm philosophy.md
     - name: Build neuron site 🔧
       run: |
         ./neuron -d $PWD gen
