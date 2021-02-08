@@ -1,0 +1,1 @@
+unstructured, curiosity driven exploration

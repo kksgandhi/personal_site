@@ -12,6 +12,7 @@ Because this is a dump of *all* my notes, a couple of disclaimers are in order:
  - I don't strongly stand by any opinions in here, most of the stuff I've written is kinda off the cuff instead of formally being "a statement of my convictions"
 
 [[Who am I - professionally]]
+
 [[Who am I - personally]]
 
 [[stuff worth reading]]

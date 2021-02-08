@@ -4,7 +4,7 @@ Identity politics are the tendency to vote because of a certain identity. For ex
 
 I think in modern times identity politics often refers to the tendency to vote someone in because they are of a certain identity and thus promote [[diversity]].
 
-Diversity is important for obvious reasons, and so identity politics are important. My concern is that identity politics have been co-opted for problematic purposes. 
+Diversity is important, diversity is incredibly important. My concern is that identity politics have been co-opted for problematic purposes. 
 
 "If you can convince the lowest white man he's better than the best colored man, he won't notice you're picking his pocket. Hell, give him somebody to look down on, and he'll empty his pockets for you." - LBJ apparently
 

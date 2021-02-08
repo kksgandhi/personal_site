@@ -1,1 +1,5 @@
-#todo
+Work life balance is difficult for me as a grad student. Part of it is because I just have a lot of work so of course it bleeds over into my free time. Another part of it is that my work often needs to be done at odd times, like I need to interview someone at 7PM because that is the only time they are free.
+
+The biggest thing for me though is that it is hard to define what work is. I love what I do, I love games, I love research, and so even if I'm staying late reading some paper, it's weird for me to think about it as work because it's so interesting. Now of course that isn't the worst thing, but if I keep it up too long I burn out. Heck, my life is a constant cycle of interest -> burnout -> inefficiency. Smoothing these curves would probably be a good thing for me, but how can I if I can't even define what work is?
+
+Another problem with overworking is that I enjoy [[diversity]] in the activities I do, and focusing too much on work means that I may not have time to do a variety of activities.
