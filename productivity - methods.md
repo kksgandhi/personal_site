@@ -1,0 +1,4 @@
+ - The [[pomodoro method]]
+   - One problem when I work is that I work with extreme focus for an hour or to until I burn out, at which point I stare at my phone for a long time. The [[pomodoro method]] reminds me that things are a marathon, not a sprint.
+ - [Getting things done](https://hamberg.no/gtd)
+   - I don't use it overly much because I don't actually have that much on my "to do list", but it seems like a neat system.
