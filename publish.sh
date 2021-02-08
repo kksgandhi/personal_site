@@ -12,3 +12,5 @@ git add ./.neuron/*
 git commit -am "automatic commit"
 
 git push origin
+
+git status
