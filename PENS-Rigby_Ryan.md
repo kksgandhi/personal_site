@@ -2,19 +2,7 @@ Authors: [[Rigby]] [[Ryan]]
 Year   :
 Tags   : [[survey design]]
 
-How do you measure the player experience?
-
-Go beyond surface expressions of fun and understand basic psychological needs provided by a game
-
-PENS can help lower learning curve
-
-This paper talks a lot about improving player outcomes, pretty complex and interesting, may be worth a reread
-
-[[OFAs]]: Opportunities for action, things that the player can do in the game world
-
-[[immersion]]
-
-I might just be dumb, but this paper talked a lot about how to make a good game, but didn't actually talk about how to use the PENS evaluation.
+[[PENS]]
 
 ![[PENS-Rigby_Ryan.pdf]]
 

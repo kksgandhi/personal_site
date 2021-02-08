@@ -13,7 +13,7 @@ talks a bit about differences with other [[qualitative analysis]] and how the re
 
 Never say that themes emerge from the data, you were the one who emerged the themes
 
-A theme is a truth across the entire dataset, though it may be applicable to some more than others. e.g. "AR is slower" is true regardless, but some care about it more than others
+A theme is a truth across the entire dataset, though it may be applicable to some more than others. e.g. "AR is slower" is true regardless, but some care about it more than others and it affects different people in different ways
 
 how many times does something need to show up before it's a theme? It's up to youuuu. Plus if something doesn't show up a lot it can still be important
 
@@ -32,7 +32,7 @@ create candidate themes and all the extracts of data that have been coded to the
 
 review your themes. discard ones that don't have enough data, combine similar ones, etc
 
-themes are formed of subthemes, human subcultures are fractally nested
+themes are formed of subthemes, human [[subcultures]] are fractally nested
 
 remember to actually analyze the data and go beyond what it says
 

@@ -1,5 +1,5 @@
 Authors: [[Chaima]], [[Magy]], [[Paola]]
-Tags: [[deception]] [[games]]
+Tags: [[deception]]
 
  - There exists research on detecting betrayal using [[anomaly detection]]
  - There are a few assumptions about betrayers, for example, that they have thought processes vastly different from those who do not betray. They expect that individuals who have betrayed will feel guilty, anxious, trapped, and distant from the group. 

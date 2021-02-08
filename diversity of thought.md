@@ -14,3 +14,5 @@ I think that teams would be better if there were differences within about the fu
  - Someone who cares about the bottom line
 
 Ok I'm realizing a lot of these are pretty similar but if I thought harder I'd come up with some actually unique ones but I don't wanna so goodbyeee
+
+
