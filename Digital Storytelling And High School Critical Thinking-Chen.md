@@ -1,4 +1,7 @@
 Year   :
-Tags   :
+Tags   : 
 Authors: [[Chen]] [[Chuang]]
-#unread criticalThinking
+
+claims that [[digital storytelling]] promotes [[critical thinking]]
+
+used the [[critical thinking tests|critical thinking test]], level 2

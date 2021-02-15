@@ -20,6 +20,12 @@ Beyoooooond
  - going somewhere ~far~ like... New York or something
  - Scream at ducks
 
+Nature
 
-https://rootsrated.com/boston-ma/climbing/hammond-pond-reservation
-https://rootsrated.com/boston-ma/climbing/middlesex-fells-climbing
+ - https://rootsrated.com/boston-ma/climbing/hammond-pond-reservation
+ - https://rootsrated.com/boston-ma/climbing/middlesex-fells-climbing
+
+Restaurants
+
+ - bourbon and milk
+ - pho place across from berklee school of music
