@@ -7,3 +7,4 @@ resources.md
 _*.md
 *.pdf
 .obsidian/*
+*.bak
