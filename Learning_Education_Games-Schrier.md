@@ -28,7 +28,7 @@ Tags   : [[games for education]] #gamifiedEducation
  - Play the Knave
  - Sydney’s World
  - Walden, a game
- - ### Social studies / Civics games
+### Social studies / Civics games
  - Ayiti: The Cost of Life
  - Ballot Box Bumble
  - BREAKAWAY
@@ -43,24 +43,24 @@ Tags   : [[games for education]] #gamifiedEducation
  - Thunderbird Strike
  - Time Trek
 ### Ethics/[[SEL]] Games
- - Alien Rescue
- - Antura & the Letters
- - Ayiti: The Cost of Life
- - Ballot Box Bumble
- - BREAKAWAY
- - Buffalo
- - Honeymoon
- - Mission: Admission
- - Never Alone
- - Oregon Trail
- - Pathfinder Roleplaying Game
- - Quandary
- - The Red Dot Game
- - Spent
- - The Migrant Trail
- - Thunderbird Strike
- - Walden, a game
- - Art and/or Music Games
+ - [[Alien Rescue]]
+ - [[Antura & the Letters]]
+ - [[Ayiti: The Cost of Life]]
+ - [[Ballot Box Bumble]]
+ - [[BREAKAWAY]]
+ - [[Buffalo]]
+ - [[Honeymoon]]
+ - [[Mission: Admission]]
+ - [[Never Alone]]
+ - [[Oregon Trail]]
+ - [[Pathfinder Roleplaying Game]]
+ - [[Quandary]]
+ - [[The Red Dot Game]]
+ - [[Spent]]
+ - [[The Migrant Trail]]
+ - [[Thunderbird Strike]]
+ - [[Walden, a game]]
+### Art and/or Music Games
  - Paint-a-Long
  - Piano Maestro
  - Splattershmup
@@ -110,3 +110,8 @@ Tags   : [[games for education]] #gamifiedEducation
 [[Quandary]]
 [[The Red Dot Game]]
 [[Thunderbird Strike]]
+[[Mission: Admission]]
+[[Honeymoon]]
+[[Pathfinder]]
+[[Ballot Box Bumble]]
+[[Two Rooms and a Boom]]
