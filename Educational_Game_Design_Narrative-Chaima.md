@@ -1,5 +1,6 @@
+#notesFromPaper
 Authors: [[Chaima]], [[Magy]]
-Tags: [[narrative]] [[engagement]]
+Tags: [[narrative]] [[engagement]] [[GBL]]
 
 Good games create engagement, engagement creates learning, but the link between *engaging games* and learning is not in the literature.
 

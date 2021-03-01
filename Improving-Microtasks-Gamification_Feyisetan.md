@@ -1,3 +1,4 @@
+#notesFromPaper
 Authors: [[Feyisetan]] [[Simperl]]
 Year   :
 Tags   : [[cairns]] [[gamification]] [[crowdsourcing]]

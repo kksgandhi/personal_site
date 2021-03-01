@@ -1,3 +1,4 @@
+#notesFromPaper
 Authors: [[Newell]] [[Ruths]]
 Year   : 2016
 Tags   : [[mturk]] [[exhaustion]] [[intertask effects]] [[crowdsourcing]] #cairns

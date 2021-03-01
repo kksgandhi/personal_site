@@ -3,3 +3,5 @@ a form of [[crowdsourcing]] where the ultimate purpose is to aid scientific disc
 databases such as Citizen Science Central, SciStarter, and the Citizen Science Alliance help people interested in CS
 
 [[foldit]], [[zooniverse]], [[galaxy zoo]] are some of the most famous citizen science projects
+
+[[community building in citizen science]]

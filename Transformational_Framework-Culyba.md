@@ -1,3 +1,4 @@
+#notesFromPaper
 Authors: [[Culyba]]
 Year   :
 Tags   : [[game design]] [[transformational games]]
@@ -31,6 +32,6 @@ What concepts are you focusing on, including, or cutting?
 
 Prior works can be any media, not just games
 
-Mediating variables: x and y are not causated, instead x -> z -> y. Instead of targeting x -> y, target x -> z. Studies show that improving self-efficacy can lead people to quit. Maybe don't target "quitting smoking", but rather "self-efficacy"
+Mediating variables: x and y are not causated, instead x -> z -> y. Instead of targeting x -> y, target x -> z. Studies show that improving [[self efficacy]] can lead people to quit. Maybe don't target "quitting smoking", but rather "[[self efficacy]]"
 
 Moderating variables: x -> y is dependant on z. Students need basic algebra to learn calc, so only target students who know basic algebra

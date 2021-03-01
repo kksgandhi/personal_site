@@ -1,0 +1,1 @@
+Everything you consider consciousness is not your brain doing things, but rather your brain justifying why it took the actions it did. Consciousness is not a thing of its own, but rather a narrative inserted after the fact so that we can communicate with each other.

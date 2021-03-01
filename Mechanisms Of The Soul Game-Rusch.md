@@ -1,3 +1,4 @@
+#notesFromPaper
 Year   :
 Tags   : [[philosophical games]] [[human condition]] [[self]] [[fiction]]
 Authors: [[Rusch]]

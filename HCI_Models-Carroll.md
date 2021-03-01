@@ -1,3 +1,4 @@
+#notesFromPaper
 ## Chapter 8 (Distributed Cognition)
 
 One user is simple. Many is hard

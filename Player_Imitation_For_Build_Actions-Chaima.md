@@ -1,3 +1,4 @@
+#notesFromPaper
 Authors: [[Chaima]] [[Nathan]] [[Madkour]] [[Josh]] [[Magy]]
 Tags   : [[AI]] [[player imitation]]
 

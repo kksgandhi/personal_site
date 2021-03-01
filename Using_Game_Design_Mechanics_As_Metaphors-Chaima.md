@@ -1,3 +1,4 @@
+#notesFromPaper
 Authors: [[Chaima]] [[Magy]] [[Erica]]
 Tags   : [[cs education]] [[gamification]]
 

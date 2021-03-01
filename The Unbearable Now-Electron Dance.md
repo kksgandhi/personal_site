@@ -1,3 +1,4 @@
+#notesFromPaper
 A rather well made summary of the spiritual aspects of the witness (didn't talk about achievement or the candle).
 
 Argues that:

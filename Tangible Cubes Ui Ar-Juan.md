@@ -1,3 +1,4 @@
+#notesFromPaper
 Year   :
 Tags   : [[AR]]
 Authors: [[Juan]] [[Tofetti]] [[Giacomo]] [[Abad]] [[Francisco]]

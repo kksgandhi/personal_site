@@ -2,6 +2,7 @@
  - [[files]]
  - [[processes]]
  - [[threads]]
- - [[thread synchronization]]
  - [[virtual machine|virtual machines]]
  - [[programming language|programming languages]]
+ - [[file systems]]
+ - [[memory management]]

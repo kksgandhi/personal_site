@@ -1,5 +1,8 @@
+#notesFromPaper
 #unread
 
-Authors:
+Authors: [[Subhash]] [[Cudney]]
 Year   :
 Tags   :
+
+[[LMS]]

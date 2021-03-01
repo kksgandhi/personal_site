@@ -3,6 +3,13 @@ Eliza, Gris, dicey dungeons, night in the woods, outer wilds, interactivity, dis
 
 https://soup.gua-le-ni.com/
 
+here!
+http://here.gua-le-ni.com/
+
 Eliza, Gris, dicey dungeons, night in the woods, outer wilds, interactivity, disco elysium, Signs of the Sojourner (Tori recommend), Quadrilateral cowboys, Codename: ROOM, recording the predestined time (45 mins)
 
 minit - itch bundle
+
+something something soup
+ 
+GONE HOME

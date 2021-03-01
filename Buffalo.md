@@ -1,3 +1,3 @@
-Flip over two cards, a qualifier and a noun, then try to name someone there.
+Flip over two cards, a qualifier and a noun, then try to name someone there. For example, if you flip over "female" and "chemist", you could say "Marie Curie"
 
-Teaches people to think about [[diversity]]. One player flipped over "attractive feminist" and snickered, which led to a teachable moment about what feminism is. Similarly "female physicist" forces them to think about who they value in that field or why they can't think of anyone 
+Teaches people to think about [[diversity]] because you may flip over pairs that are non-stereotypical. If you flipped "female chemist" and were unable to come up with an answer, it could prompt discussion about why female physicists aren't common in popular culture. One player flipped over "attractive feminist" and snickered because their perception of feminists were ugly man haters. This led to a teachable moment about what feminism is when the male host of the game said "oh you don't think I'm handsome? I'm a feminist".

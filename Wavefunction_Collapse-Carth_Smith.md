@@ -1,3 +1,4 @@
+#notesFromPaper
 Authors:
 Year   :
 Tags   : [[wavefunction collapse]]

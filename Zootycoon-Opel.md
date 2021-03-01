@@ -1,3 +1,4 @@
+#notesFromPaper
 Year   :
 Tags   : [[capitalism]]
 Authors: [[Opel]] [[Smith]]

@@ -1,3 +1,4 @@
+#notesFromPaper
 Authors: [[Chaima]] [[Erica]] [[Magy]]
 Year   : 2020
 Tags   : [[debugging]] [[cs education]] [[Mays_Journey-Chaima]]

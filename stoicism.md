@@ -6,6 +6,4 @@ http://smbc-comics.com/comic/stoicism
 
 Here is a... better view of stoicism:
 
-Stoicism is a philosophy of [[emotional intelligence]]. A stoic understands why an event makes them feel happy or sad, and understands the value of those emotions, without letting emotions control them. A stoic might be [[happiness|happy]], but their happiness does not derive solely from their surroundings, and will retain their happiness even if they lose their material wealth. Similarly, a stoic might endure some hardship, and feel [[sadness|sad]] as a way to deal it, but won't let their sadness define them, won't lash out in [[anger]]
-
-I consider stoicism amongst my most important personal philosophies.
+Stoicism is a philosophy of [[emotional intelligence]]. A stoic understands why an event makes them feel happy or sad, and understands the value of those emotions, without letting emotions control them. A stoic might be [[happiness|happy]], but their happiness does not derive solely from their surroundings, and will retain their happiness even if they lose their material wealth. Similarly, a stoic might endure some hardship, and feel [[sadness|sad]] as a tool to deal it, but won't let their sadness define them, won't lash out in [[anger]].

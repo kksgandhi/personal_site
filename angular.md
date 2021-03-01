@@ -1,4 +1,4 @@
-[[coding]]
+[[programming]]
 
  - Written in typescript
  - components define views which are elements that can be manipulated
