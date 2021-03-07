@@ -8,6 +8,7 @@ Surveys designs that already exist
  - [[UPEQ-Azadvar_Canossa]]
  - [[Gaming Motivation Scale-Lafrieniere]]
  - [[Three Factor Psychological Sense Of Community Scale-Jason]] (this one has some other notes within it)
+ - [[Work Preference Inventory]]
 
 If you really need game evaluation questionnaires, go here: https://designrshub.com/2019/05/gaming-questionnaires.html
 

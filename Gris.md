@@ -8,3 +8,4 @@ Every goddamn frame of the game is a wallpaper worthy screenshot. It's one of th
 ![](https://images.pushsquare.com/screenshots/101456/large.jpg)
 ![](https://images.pushsquare.com/screenshots/101455/large.jpg)
 ![](https://wallpapercave.com/wp/wp6250394.png)
+![](https://assets.rockpapershotgun.com/images/2018/12/GRIS-g.jpg)
