@@ -1,0 +1,32 @@
+1-4 scale
+  
+ - I am not that concerned about what other people think of my work.
+ - I prefer having someone set clear goals for me in my work.
+ - The more difficult the problem, the more I enjoy trying to solve it.
+ - I am keenly aware of the goals I have for getting good grades.
+ - I want my work to provide me with opportunities for increasing my knowledge and skills.
+ - To me, success means doing better than other people.
+ - I prefer to figure things out for myself.
+ - No matter what the outcome of a project, I am satisfied if I feel I gained a new experience. 	
+ - I enjoy relatively simple, straightforward tasks.
+ - I am keenly aware of the GPA (grade point average) goals I have set for myself.
+ - Curiosity is the driving force behind much of what I do.
+ - I'm less concerned with what work I do than what I get for it.
+ - I enjoy tackling problems that are completely new to me.
+ - I prefer work I know I can do well over work that stretches my abilities.
+ - I'm concerned about how other people are going to react to my ideas.
+ - I seldom think about grades and awards.
+ - I'm more comfortable when I can set my own goals.
+ - I believe that there is no point in doing a good job if nobody else knows about it.
+ - I am strongly motivated by the grades I can earn.
+ - It is important for me to be able to do what I most enjoy.
+ - I prefer working on projects with clearly specified procedures.
+ - As long as I can do what I enjoy, I'm not that concerned about exactly what grades or awards I earn.
+ - I enjoy doing work that is so absorbing that I forget about everything else.
+ - I am strongly motivated by the recognition I can earn from other people.
+ - I have to feel that I'm earning something for what I do.
+ - I enjoy trying to solve complex problems.
+ - It is important for me to have an outlet for self-expression.
+ - I want to find out how good I really can be at my work.
+ - I want other people to find out how good I really can be at my work.
+ - What matters most to me is enjoying what I do.
