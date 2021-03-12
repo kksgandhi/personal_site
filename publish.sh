@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/zsh
 git commit -am "automatic commit"
 
 rm -r /tmp/temp-obsidian
