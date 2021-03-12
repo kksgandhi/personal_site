@@ -1,5 +1,7 @@
 "Recommendability" is how comfortable I feel recommending the game to others. Low recommendability doesn't mean a game is bad, it just means that it's for a niche audience or you have to have a certain mindset going in.
 
+**The short paragraphs I've written here do not do the games justice. If a game interests you, message me because I always love to talk about them**
+
  - The Beginner's Guide (2 hours)
     Short, but with a powerful message. I think everyone should try this game (mostly so I can discuss it with you) Trigger Warning: Depression
    - Recommendability: 10/10
@@ -13,7 +15,7 @@
    - An intense commentary on the military and the brutal wars we start. Trigger warning: war crimes
    - Recommendability: 6/10 (For gore and an incredibly intensive story)
  - [[The Talos Principle]] (20-30 hours)
-   - This game taught me more philosophy than any textbook ever could. Beautiful story, beautiful message, and tons of neat puzzles. [[The Talos Principle|Click here for some video essays that summarize the game without you having to play the whole long thing]]
+   - This game taught me more philosophy than any textbook ever could. Beautiful story, beautiful message, and tons of neat puzzles. The actual philosophy of the game is varied, but touches on what it means to be human, religion, consciousness, AI, and meaning of life. [[The Talos Principle|Click here for some video essays that summarize the game without you having to play the whole long thing]]
    - Recommendability: 6/10 (It's very long, and while I think the length helps the game's message soak in, it is still a problem)
  - The Witness (30+ hours)
    - A Zen garden of puzzles with a beautiful message, though it doesn't really tell you the message until late into the game. Beautifully designed

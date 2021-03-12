@@ -24,7 +24,7 @@ The audio logs scattered throughout the game all talk about perspective. There a
 
 # Game Design
 
-The Witness' game design attempts to be perfect, almost to a problematic level. It eschews non-[[diagetic]] elements and attempts to teach through small tutorial puzzles. Since nothing is explicitly said, it fails often, but when it does succeed it is beautiful
+The Witness' game design attempts to be perfect, almost to a problematic level. It eschews non-[[diegetic]] elements and attempts to teach through small tutorial puzzles. Since nothing is explicitly said, it fails often, but when it does succeed it is beautiful
 
 # Time
 

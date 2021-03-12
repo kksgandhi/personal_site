@@ -1,0 +1,1 @@
+Plots in media typically... make sense, but life is nonsensical and incomprehensible, so why does media need to adhere to the fiction that is realism. I love media like [[Welcome to Nightvale]], [[blaseball]], and [[17776]] because they care about telling a good story over any silly ideas of [[realism]], and by being absurd themselves, they allow us to face [[the absurd]].
