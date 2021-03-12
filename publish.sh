@@ -5,7 +5,7 @@ rm -r /tmp/temp-obsidian
 git clone ./.git /tmp/temp-obsidian
 # sed -i 's/\[\[\([^|]*\)|\([^]]*\)\]\]/\2 ([[\1]])/' /tmp/temp-obsidian/*.md
 # perl -pie 's/\[\[([^|\]]+)\|([^\]]+\s+[^\]]+)\]\]/\2 ([[\1]])/' /tmp/temp-obsidian/*.md
-/home/kksgandhi/.cargo/bin/sd '\[\[([^|\]]+)\|([^\]]+\s+[^\]]+)\]\]' '$2 ([[$1]])' /tmp/temp-obsidian/*.md
+/home/kksgandhi/.cargo/bin/sd '\[\[([^|\]]+)\|([^\]]+)\]\]' '$2 ([[$1]])' /tmp/temp-obsidian/*.md
 rm -r /tmp/temp-obsidian/.neuron
 neuron gen -d /tmp/temp-obsidian/
 
