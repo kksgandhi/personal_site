@@ -5,3 +5,5 @@ If we are told that a world has dragons, we suspend our disbelief about the drag
 This is crucial to understand for game design, because many designers throw in mechanics for the sake of realism, even when they detract from the game experience. As long as players can reasonably suspend disbelief, it is fine if a game is not realistic.
 
 Overwatch exists in a cartoonish world with different physics than us. The developers could have put fall damage into the game, but decided that it didn't actually add anything, and removed it. Arthur from RDR2 should not be allowed to hold his breath underwater indefinitely, since Arthur seems like a normal human being. Madeline from Celeste can reasonably hold her breath underwater since it has been repeatedly shown that the physics of her world are totally different from ours and that honestly the whole video game might be a metaphor anyways.
+
+#todo spiderman

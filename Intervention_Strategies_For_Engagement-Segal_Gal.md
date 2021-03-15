@@ -7,6 +7,8 @@ Most citizen scientists are [[dabblers]], who join briefly and never come back.
 
 Used [[machine learning]] to identify which people were likely to disengage. They want to put engaging messages at the right time.
 
+Using Mao et. al's work, they identified the most important characteristics for predicting disengagement. They used 16, but said only 5 were super relevant: user's average session time over sessions so far, user's average dwell time, user's session count, number of seconds elapsed in current session, and difference between # of tasks completed in this session and number of tasks they do (based on median of last 10 sessions)
+
 Sending the message at times when disengagement was predicted to be high worked, sending at random times did not.
 
 Their intro section has a couple of other works with different types of messages. Segal found that sending an email a few days later increased engagement in a [[MOOC]]
