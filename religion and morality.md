@@ -1,0 +1,1 @@
+According to Landau, if [[God]] commanded certain things as right or wrong, then They must have had reason to do so (since without reason, [[God]] would be imperfect), and so morality exists unconnected to [[God]]

@@ -6,6 +6,8 @@ Science is [[falsifiable]]. Philosophy is the study of everything else. This mak
 
 [[chains and a key|Is it counterproductive to learn philosophy? Is ignorance bliss?]]
 
+[[philosophy media recommendations|Media that has taught me philosophy]]
+
 Branches of philosophy:
  - [[ethics]]
    - [[bioethics]]

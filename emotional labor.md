@@ -8,7 +8,7 @@ I think this one is rather self explanatory
 
 ### Hiding your true emotions
 
-Smiling when you want to cry, or being [diplomatic](diplomacy) to someone who you hate.
+Smiling when you want to cry, or being [[diplomacy|diplomatic]] to someone who you hate.
 
 ### Managing a household
 

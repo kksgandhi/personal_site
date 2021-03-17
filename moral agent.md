@@ -1,0 +1,1 @@
+An [[agent]] to which morality applies. Animals are not moral agents since it's unreasonable to say that a dog "did something immoral" (this is a simplification).
