@@ -1,7 +1,7 @@
 #notesFromPaper
 Authors: [[Segal]], [[Gal]], [[Kamar]], [[Horvitz]], [[Bowyer]], [[Miller]]
 
-Tags: [[cairns]], [[citizen science]]
+Tags: [[cairns]], #cairnsRL
 
 Most citizen scientists are [[dabblers]], who join briefly and never come back.
 

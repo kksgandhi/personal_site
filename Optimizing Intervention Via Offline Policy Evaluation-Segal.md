@@ -1,8 +1,7 @@
 #notesFromPaper
 Year   :
-Tags   :
+Tags   : #cairnsRL 
 Authors: [[Segal]] [[Gal]] [[Kamar]] [[Horvitz]] [[Miller]]
-#unread 
 
 Their previous work here: [[Intervention_Strategies_For_Engagement-Segal_Gal]]
 

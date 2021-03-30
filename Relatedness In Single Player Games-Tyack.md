@@ -2,7 +2,6 @@
 Year   :
 Tags   : [[NPCs]]
 Authors: [[Tyack]] [[Wyeth]]
-#unread 
 
 [[relatedness]] in [[SDT]] and singleplayer games, can singleplayer games fulfill that need?
 

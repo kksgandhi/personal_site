@@ -5,3 +5,7 @@ I listen to, and sometimes actively seek out ideas that are very different to mi
  - Much of my confidence in my own views comes from the fact that I've seen the strongest possible opposition. The smartest people arguing against me, and still I stuck with my views. That's really all I have to say. I can't imagine someone simultaneously being confident in their ideas while also refusing to hear any opposition or criticism.  
 
 There are some ideas that are just plain stupid. Not every idea is valid and deserves attention. That said, not every idea you disagree with is just plain stupid. Looking at a slew of ideas that make you uncomfortable makes your own views and self stronger.
+
+[[the banality of evil]]
+
+"I study bigots not because I want to empathize with them, but to avoid becoming a bigot myself. When you dehumanize the villains, you become unable to understand the villain within - Natalie Wynn"

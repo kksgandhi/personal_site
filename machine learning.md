@@ -1,3 +1,9 @@
-GUI for tenserflow ML:
+## Problems ML can solve
 
-https://www.perceptilabs.com/papers
+classification: choose from a finite set
+
+regression: choose from an interval
+
+preference learning: learning relative relation between [[ordinal]] values.
+
+[[ML tools]]

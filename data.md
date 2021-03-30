@@ -1,0 +1,1 @@
+[[nominal]], [[ordinal]], [[interval]], [[ratio]]

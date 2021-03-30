@@ -2,8 +2,8 @@ Macro theory of human motivation concerned with the development and functioning 
 
 humans are intrinsically motivated to engage in activities that satisfy three innate psychological needs:
 
- - autonomy
- - competence
+ - [[autonomy]]
+ - [[competence]]
    - growing in skills
- - relatedness
+ - [[relatedness]]
    - To others

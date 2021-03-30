@@ -1,0 +1,1 @@
+Playing games and having [[diversity|diverse]] experiences teaches you things. I think this informal learning is under-appreciated in a fast paced, STEM focused, and competitive world. One of my driving goals is determining how to encourage and enable informal learning.

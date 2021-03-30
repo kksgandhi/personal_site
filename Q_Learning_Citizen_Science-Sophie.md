@@ -1,7 +1,7 @@
 #notesFromPaper
 Authors: [[Sophie]]
 Year   :
-Tags   : [[q learning]] [[reinforcement learning]]
+Tags   : [[q learning]] [[reinforcement learning]] [[cartoscope]] #cairnsRL [[cairns]]
 
 Diversity in tasks to prevent boredom
 

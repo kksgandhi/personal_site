@@ -1,4 +1,4 @@
-Educational game examples:
+educational game examples:
 
  - https://explorabl.es/
  - http://edugames.design/big-list

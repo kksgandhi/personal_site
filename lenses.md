@@ -1,3 +1,5 @@
+#conceptualHandle
+#prepublishtodo with narrative?
 Tags: [[coherentism]]
 
 Everything you know changes the way you take in new information. Someone who grew up in different circumstances than I probably views the world in an absurdly different way, which is why [[diversity]] is so important to me.
