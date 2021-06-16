@@ -1,0 +1,6 @@
+ - ICA (Contemporary art. Very great, but very small)
+ - Freedom trail
+ - [Boston harborwalk](https://www.bostonharborwalk.org/)
+ - Zoo!
+ - So many art museums
+ - Science museum?
