@@ -1,3 +1,5 @@
 [[game prototyping]]
 
-[[gameplay loop]]
+[[gameplay loops]]
+
+[[tutorial design]]

@@ -1,3 +1,5 @@
+#todo clean up
+
 Remember your fundamentals. Google a bunch about college interviews and if you see the same advice repeated, drill it into your head
 Don't just say what you did. Your paper application will list what you did. If all you do is rehash your paper application, then there's no point in an interview. Use the interview space to elaborate on how the various elements of your resume has affected you, talk about who you are as a person (aka show aspects of yourself that don't come across on paper)
 Know things about Rice specifically. There are a bunch of things that made me appreciate Rice over other Unis, find some that appeal to you and talk about them.

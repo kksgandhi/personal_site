@@ -6,6 +6,8 @@ In [[citizen science]] they are diversions, giving participants a break
 
 another term is [[microdiversions]]
 
+cairns (as microdiversions) are related to the [[pringles effect]]
+
 how can users choose cairns?
  - IOPsych
  - work psychology

@@ -1,6 +1,6 @@
 #notesFromPaper
 Year   :
-Tags   : #cairnsRL 
+Tags   : #cairnsRL [[citizen science - engagement]]
 Authors: [[Segal]] [[Gal]] [[Kamar]] [[Horvitz]] [[Miller]]
 
 Their previous work here: [[Intervention_Strategies_For_Engagement-Segal_Gal]]

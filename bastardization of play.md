@@ -1,0 +1,1 @@
+play is ostensibly something done for frivolity and fun, spontaneously and carelessly. In the fast paced modern world, everything has to be productive, and so many things people do just for fun are turned into something that needs to be productive as well.

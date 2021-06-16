@@ -6,7 +6,7 @@ Does what it says on the tin, measures intrinsic motivation
 
 modify the questions slightly based on activity
 
-uses a [[likert scale]]
+uses a [[Likert scale]]
 
 ![[Intrinsic_Motivation_Inventory.pdf]]
 

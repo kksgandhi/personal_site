@@ -21,4 +21,12 @@ This study threw a lot of hypotheses out the window. While empathic concern incr
 
 They expected that winning the game would lead to a higher belief in controllability, but it turns out winning lead to the opposite. Their hypothesis is that Spent's real power comes from education about poverty, not empathy.
 
-#unread STUDY 2
+## Study 2
+
+Does meritocracy beliefs affect how much Spent affected them?
+
+Did a meritocracy scale, an empathy scale, and a "how do you feel about these groups (e.g. lawyers, clowns, drug addicts, black people)" test
+
+Spent did not significantly affect attitudes towards the poor, and high meritocracy was affected even less.
+
+Spent was about an outgroup with something ostensibly controllable (poverty is somewhat controllable), but maybe playing with an outgroup that isn't controllable (e.g. a disability) might have different effects.

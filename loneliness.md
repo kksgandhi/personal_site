@@ -1,11 +1,6 @@
-#coherentism
 [[socializing]]
 
-Having no friends is much better than having bad friends. Or even on a
-more minor note: Filling all your time with scheduled activities means
-that you have less time for more organic, but potentially similarly
-meaningful activities.\
-Being afraid of spending Friday night alone means that you'll find
-annoying people to fill that Friday night with. Filling every Friday
-with DnD means that you can't have smaller organic hangouts. Sometimes
-plans will fall apart and you will be alone. That's fine.
+ - Having no friends is much better than having bad friends.
+   - Trying to be around people 24/7 will inevitably mean that you hang out with toxic people. Don't do this.
+ - If you avoid loneliness by filling all your time with clubs and events, you miss the ability to have organic and potentially more meaningful events.
+   - Of course, this means that you may spend some nights alone. That's fine.

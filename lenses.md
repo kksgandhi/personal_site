@@ -1,9 +1,5 @@
-#conceptualHandle
-#prepublishtodo with narrative?
-Tags: [[coherentism]]
+Our past experiences affect how we view new experiences. My dad grew up in poverty in India whereas I grew up in wealth in America, and even the act of going to get groceries is massively modified by that difference.
 
-Everything you know changes the way you take in new information. Someone who grew up in different circumstances than I probably views the world in an absurdly different way, which is why [[diversity]] is so important to me.
+[[diversity|Diversity]] is important as a way to gain perspective and have the ability to look at the same problem or event through different lenses.
 
-Something I've noticed out of other academics is that if you study a field for long enough, you start to see things in the context of that field. I personally am a games researcher, and a lot of times when I'm looking at things I translate them into gaming terms. [[MDA]] is a gaming specific framework, but I extend it a lot to other contexts.
-
-I'll be real, this note made a lot more sense in my head, but whatever, I'm going to keep it up here haha.
+I feel like a lot of accusations of [[hypocrisy]] boil down to the accuser not understanding the lenses of the accused. Similarly, many who try to change other's minds fail to do so because they [[target the lenses|fail to understand the other's lenses.]]

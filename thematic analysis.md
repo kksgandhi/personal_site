@@ -17,7 +17,7 @@ A theme is a truth across the entire dataset, though it may be applicable to som
 
 how many times does something need to show up before it's a theme? It's up to youuuu. Plus if something doesn't show up a lot it can still be important
 
-[[inductive thematic analysis]]
+[[inductive thematic analysis]] and [[deductive thematic analysis]]
 
 [[theoretical thematic analysis]]
 

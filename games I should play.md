@@ -12,4 +12,7 @@ minit - itch bundle
 
 something something soup
  
-GONE HOME
+ULTRA DELUXE
+SILKSONG
+ECHOES OF THE EYE
+DISCO ELYSIUM

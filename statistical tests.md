@@ -2,3 +2,5 @@
 
 [[chi square test]]
 [[t test]]
+
+[[test validity]]

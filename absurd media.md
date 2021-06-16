@@ -1,1 +1,3 @@
-Plots in media typically... make sense, but life is nonsensical and incomprehensible, so why does media need to adhere to the fiction that is [[realism]]. I love media like [[Welcome to Nightvale]], [[blaseball]], and [[17776]] because they have internal consistency, but beyond that, they don't care about sticking to some silly notion of [[realism]]. By being absurd themselves, they allow us to face [[the absurd]].
+[[media|Media]] that breaks from the norm is my jam. Either it deconstructs media itself, forcing you to ask what you enjoy from media and why ([[blaseball]], [[The Crimson Necklace]]), or it deconstructs "real life" and forces you to face [[the absurd]]ity that is real life ([[Welcome to Nightvale]], [[17776]])
+
+Some media tries to adhere to [[realism]] (sitcoms), some media sticks to its own internal consistency ([[Game of Thrones]]), but absurd media eschews realism altogether because the world is [[the absurd|absurd]] anyways.

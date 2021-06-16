@@ -1,7 +1,7 @@
 #notesFromPaper
 Authors: [[Feyisetan]] [[Simperl]]
 Year   :
-Tags   : [[cairns]] [[gamification]] [[crowdsourcing]]
+Tags   : [[cairns]] [[gamification]] [[crowdsourcing]] [[citizen science - engagement]]
 
 You gamify crowdwork? it gets better :D
 

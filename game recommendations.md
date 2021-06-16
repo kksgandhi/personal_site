@@ -1,4 +1,4 @@
-[[philosophical games|Games with a focus on philosophy, or at the least games that have a strong message.]]
+[[philosophy - games|Games with a focus on philosophy, or at the least games that have a strong message.]]
 
 [[indie games|Games with a focus on narrative and emotion. These games are characterised by being cheap, short, and accessible. Wonderful for a quiet night :)]]
 

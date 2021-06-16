@@ -1,0 +1,1 @@
+Two people look at the same image and type words that they think will label it. If they type the same word then they win. Common labels are listed as "taboo" to ensure that there is a variety of labels

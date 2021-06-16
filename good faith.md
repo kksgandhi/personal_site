@@ -1,0 +1,1 @@
+Arguing, criticizing, etc. with the best intentions. Your friend giving you tough love? Good faith. Some jerk on the internet yelling at you about your political views? Probably not arguing in good faith, don't bother interacting with them.

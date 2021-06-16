@@ -22,3 +22,5 @@ I think that everyone does this sort of metaphilosophy all the time, and it expl
 
 https://www.smbc-comics.com/comic/heap-problems
 The heap doesn't exist, it's only a human construct, just like all of philosophy.
+
+In normative ethics, perhaps the question is how much knowledge you have about a moral scenario. #todo heuristics are helpful when you don't know everything.
