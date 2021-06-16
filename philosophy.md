@@ -1,7 +1,3 @@
-<center><em>Potato</em></center>
-
----------
-
 Science is [[falsifiable]]. Philosophy is the study of everything else. This makes many people uncomfortable, since people like answerable questions.
 
 [[defending philosophy|Some people think philosophy is useless.]]
