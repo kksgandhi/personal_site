@@ -1,0 +1,1 @@
+Similar to [[positive liberty|positive]] and [[negative liberty|negative]] liberties, there is positive and negative duties. Negative is don't interfere with other people's lives, positive is that you have a duty to help others.
