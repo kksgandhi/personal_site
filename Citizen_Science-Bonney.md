@@ -19,4 +19,4 @@ Think about
  - recruitment
  - training
 
-Nothing crazy from this, just a good beginner's guide to citizen science. Maybe looking at the #references is a good idea?
+Nothing crazy from this, just a good beginner's guide to citizen science. Maybe looking at the #worksCited  is a good idea?

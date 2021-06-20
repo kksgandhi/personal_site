@@ -1,6 +1,6 @@
 #notesFromPaper
 Year   : 2017
-Tags   : #games #morality #learning #design [[games for critical thinking]] [[critical thinking]]
+Tags   : #games #ethics #learning #design [[games for critical thinking]] [[critical thinking]]
 Authors: [[Schrier]]
 
 Discusses games that exist for the purpose of "moral knowledge creation", discusses how other games have been used for scientific knowledge production (e.g. [[foldit]])

@@ -2,4 +2,5 @@
 Year   :
 Tags   :
 Authors: [[Saldana]]
-#unread 6
+[[qualitative analysis]]
+[[thematic analysis]]

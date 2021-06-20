@@ -9,3 +9,7 @@ Consequentialism is nice because it is impartial, do the most good, whether no m
 Consequentialism is also nice because it enables flexibility, no rule is absolute. Not killing sounds like a good rule on paper, but what if you are forced to kill someone in order to save a hundred lives? Utilitarianism offers this flexibility.
 
 [[bioethics|Who deserves good?]]
+
+[[framing the innocent]]
+
+[[utilitarianism]]

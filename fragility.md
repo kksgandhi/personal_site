@@ -6,4 +6,4 @@ People cling to identities for their [[happiness]]. "I'm part of this religion",
 
 On a more abstract level, people look for [[external validation]] for [[happiness]]. "People think I'm funny", "People think I'm smart", "People think I'm cool", but [[external validation]] is fragile too, because it constantly needs to be fed.
 
-I think the key to becoming happy is finding sources of [[happiness]] that avoid fragility.
+I think the key to becoming happy is finding sources of [[happiness]] that avoid fragility, e.g. [[eudaimonia]]

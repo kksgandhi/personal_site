@@ -1,5 +1,4 @@
 #notesFromPaper
-#unread
 
 Year   :
 Tags   :
@@ -38,3 +37,9 @@ apparently there's something wrong with the way games studies are done? Didn't f
 p9 is some eligibility criteria...
 
 p10 has some neat stuff on how they actually performed the meta analysis
+
+So moving on they look at a variety of characteristics and talk about how they might have affected pre / post test
+
+Design is just as important as medium. Don't assume a shittily designed game will do what you want it to
+
+Alright so I've skimmed it, it was neat but I didn't get any big conclusions

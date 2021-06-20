@@ -21,3 +21,5 @@ argument, instead relying on the listener to interpret it as they like
 and ignore any weeds they might have caught if you had been more
 explicit. Of course listeners will find fewer flaws with an argument
 they interpreted themselves.
+
+#todo connect with intent? What is the intention of systems? Can systems have an intention?

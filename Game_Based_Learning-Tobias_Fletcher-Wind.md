@@ -1,5 +1,5 @@
 #notesFromPaper
-#relook
+#skimmed 
 
 Authors: [[Tobias]] [[Fletcher]] [[Wind]]
 Year   :
