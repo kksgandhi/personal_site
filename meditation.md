@@ -9,3 +9,7 @@ Thoughts are inevitably going to bounce around my brain, but when I notice mysel
 And... that's all there is to it. Letting go of negative thoughts is so much easier when you take 10 minutes a day to practice it.
 
 I don't personally like meditation apps or meditation coaches. Usually these coaches will talk to you / "guide" you while you are meditating (because they need to appear valuable somehow) but this just takes away from the core experience.
+
+----
+
+All this said I'm pretty shit at actually meditating on a consistent schedule. It's important to not beat yourself up about that either.
