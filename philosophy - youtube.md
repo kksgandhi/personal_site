@@ -12,7 +12,7 @@ Typically more science than philosophy, but "The Egg", "Optimistic Nihilism", an
 
 A bit crude and informal, but some of the best work on happiness and meaning. I suggest "You probably don't exist" and "Meaning is a jumper you have to knit yourself" since their other videos are more poetry than relaxing videos.
 
-### Jacob Geller
+### [[Jacob Geller]]
 
 Art, Games, and how art can help us in our search for meaning
 
