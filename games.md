@@ -12,4 +12,6 @@ Similarly, I'm frustrated that games (especially video games) are often lumped t
 
 [[transformational games|My notes on transformational games, games built for a purpose beyond simply being fun.]]
 
+[[games - resources]]
+
 Tags: [[media]]

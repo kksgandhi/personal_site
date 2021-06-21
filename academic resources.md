@@ -6,4 +6,4 @@
 
 [[contacts]]
 
-[[resources for games]]
+[[games - resources]]

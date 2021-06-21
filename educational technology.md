@@ -1,4 +1,4 @@
-[[resources for gamified education]]
+[[gamified education - resources]]
 
 kahoot: a way to build quizzes that can be played in real time and answered using student's phones.
 

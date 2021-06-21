@@ -3,4 +3,4 @@ Transformational games are games designed to transform the player by making them
 Transformational games are an umbrella term for [[serious games]], [[educational games]], [[gwap|Games with a purpose]], etc.
 
 
-[[resources for transformational games]]
+[[transformational games - resources]]

@@ -4,4 +4,4 @@ I really, really, really like the [solarized](https://ethanschoonover.com/solari
 
 Darkreader is a good browser extension.
 
-![[static/solarized.png]]
+![](static/solarized.png)
