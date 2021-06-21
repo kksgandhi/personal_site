@@ -1,1 +1,2 @@
-[[meditation]]
+ - [[meditation]]
+ - [[diary|keeping a diary]]
