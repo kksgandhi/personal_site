@@ -1,6 +1,6 @@
 #notesFromPaper
 Year   :
-Tags   : [[Spent]]
+Tags   : [[Spent]] [[list of civics games]]
 Authors: [[Roussos]] [[Dovidio]]
 
 Media affects one's [[lenses]]. Playing a black character beating up a white character increases negative attitudes toward black people.

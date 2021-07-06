@@ -24,6 +24,7 @@ Fields
  - playerPsychology
  - citizenScience
  - transformationalGame
+ - civicsGame
  - transformationalGameStudy
  - gamifiedEducation
  - HCI

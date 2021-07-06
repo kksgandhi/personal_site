@@ -18,6 +18,10 @@ Games
  - [[UPEQ-Azadvar_Canossa]]
  - [[Gaming Motivation Scale-Lafrieniere]]
  - More questionnaires here: https://designrshub.com/2019/05/gaming-questionnaires.html
+ - PXI
+ - PANAS
+ - IEQ
+ - GEngQ
 
 Edugames
 --------

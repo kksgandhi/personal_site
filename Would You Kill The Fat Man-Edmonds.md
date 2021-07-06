@@ -21,4 +21,20 @@ this thing has too many trolley problems. p83 introduces two more
 
 p109 goes into some [[epistemology]] and [[JTB]] theory
 
-#unread p113
+showing the [[looped trolley problem]] or the [[fat man problem]] before [[SPUR]] causes people to change how they view SPUR
+
+If the puller *wants* to kill the one person in SPUR, people find it unethical.
+
+ - captain eating his cabin boy
+ - blowing up the fat man w/ dynamite
+ - pushing the freezing man off the ladder
+ - Sophie's choice
+ - The conjoined twin seperations
+ - smother a child to save from the Nazis?
+   - there's apparently a gender divide with this one, but not the lifeboat jettison problem
+ - jettison from the lifeboat?
+
+there was a real life surgeon case with a doctor who killed a guy faster for his organs (he was dying anyways). He claimed [[DDE]] that he was just giving painkiller meds to give him comfort. 
+
+
+128/147

@@ -10,13 +10,24 @@ communities haze to avoid transient communities
 
 comedy and darkness, sack lunch bunch
 
-shittiness being the easy way out?
-
-kindness pays back in subtle ways
-
 small open world games feel big
 (https://www.youtube.com/watch?v=S3cPJL4ISlU&list=WL&index=16)
 
+literature is codification of the unknowable
+
+if you had a recipe with eggs, you'd know it was about chicken eggs. What is lost to history because of assumptions
+
+correlation, how some things aren't as correlated as people think they are, how ineffable quality is often correlated with effable quality
+
+would really like to do this priority
+-------------------------------------
+
 forcing the symptoms (sitting in a church doesn't make you christian just like sitting in a garage doesn't make you a car)
 
-literature is codification of the unknowable
+the best philosophy isn't explicit (Outer Wilds, 17776)
+
+highest priority:
+-----------------
+
+art & media
+retrospective of college

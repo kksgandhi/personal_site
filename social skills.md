@@ -5,3 +5,8 @@ Social skills are something practiced, not something you are born with. The best
 God I love this article
 
 http://www.plausiblydeniable.com/opinion/gsf.html
+
+-----
+
+ - [[socializing|how people socialize]]
+ - [[communication]]

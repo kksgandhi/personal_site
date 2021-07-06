@@ -1,11 +1,15 @@
-[[medical test paradox]]
+I have no idea how to organize this note.
 
-[[statistical error]]
+ - [[statistical tests]]
+ - [[inferential statistics]] vs [[descriptive statistics]]
+ - [[p value]]
+ - [[statistical error]]
 
-[[inter-rater reliability]]
+------
 
-[[floor effect]], [[ceiling effect]]
+ - [[inter-rater reliability]]
 
-[[inferential statistics]] vs [[descriptive statistics]]
+----------
 
-[[statistical tests]]
+ - [[floor effect]], [[ceiling effect]]
+ - [[medical test paradox]]

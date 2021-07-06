@@ -9,6 +9,7 @@ Science is [[falsifiable]]. Philosophy is the study of everything else. This mak
 [[philosophy media recommendations|Philosophy resources]]
 
 Branches of philosophy:
+
  - [[ethics]]
    - [[bioethics]]
  - [[meaning of life]]

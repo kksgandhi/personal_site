@@ -1,6 +1,6 @@
 #notesFromPaper
 Year   :
-Tags   : [[transformational games]] [[policy]] [[crowdsourced philosophy]]
+Tags   : [[policy]] [[crowdsourced philosophy]]
 Authors: [[Landwehr]] [[Spraragen]] [[Zyda]]
 
 Not a game to teach, but to [[crowdsource]] philosophical thought by making a [[social simulation]] of the sudanese conflict

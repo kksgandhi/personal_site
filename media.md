@@ -1,6 +1,6 @@
-#coherentism
 #todo
 
-[[realism]]
-
-[[media as reflection]]
+ - [[realism]]
+ - [[media as reflection]]
+ - [[actor audience paradigm]]
+ - [[serious comedy]]

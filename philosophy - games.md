@@ -4,7 +4,7 @@
 
 ### The Beginner's Guide (2 hours)
 
-Short, but with a powerful message. I think everyone should try this game (mostly so I can discuss it with you) Trigger Warning: Depression
+Short, but with a powerful message. I think everyone should try this game (mostly so I can discuss it with you) **Trigger Warning: Depression**
 
 Recommendability: 10/10
 

@@ -1,10 +1,5 @@
-#todo
-#coherentism
-
-Everyone is a bit of a hypocrite. I fully believe that $20 would create more happiness for a poor person than for me, and that maximizing happiness is correct ethically, yet I do not donate most of my money.
-
-Republicans are for small government, but have many authoritarian tendencies.
-
 I recently saw a meme which was along the lines of: Democrats claim they care about the lives of children, yet they allow millions of [[abortion|abortions]] to happen!
 
 I saw another meme: Republicans claim they care about the lives of fetuses, yet once they're born, they'll happily sell guns to school shooters!
+
+Lots of people are hypocrites. Lots of people can't fully think through their own core beliefs. But honestly, there have been so many times where I've seen some politician or just some random person accused of hypocrisy (or just plain stupidity) and all I can think of is "yeah... they're a vile person and their beliefs are misguided... but they aren't a hypocrite. Like their belief makes sense with the very specific (and problematic) [[lenses|way they view the world]]"

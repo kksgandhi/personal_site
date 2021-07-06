@@ -1,1 +1,1 @@
-media reflects the biases and views of its creators, and in a larger sense, the times in which it was written. The Tom Sawyer books have a different view on race than books written today just because of the time period it was written in
+media reflects the biases and views of its creators, and in a larger sense, the times in which it was written. The Tom Sawyer books have a different view on race than books written today just because of the time period it was written in.
