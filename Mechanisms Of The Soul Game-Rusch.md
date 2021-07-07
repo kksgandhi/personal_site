@@ -9,7 +9,7 @@ Games involve real rules and fictional worlds. Games are real in a sense, fictio
 
 [[hybrid illusion theory]]
 
-[[emotion]] is evoked by events that are perceived as real. Playing a game makes one focus on its goals, rules, and mechanics, potentially overruling the emotional impact of fictional elements.
+[[emotions]] are evoked by events that are perceived as real. Playing a game makes one focus on its goals, rules, and mechanics, potentially overruling the emotional impact of fictional elements.
 
 is this [[ludonarrative dissonance]]?
 

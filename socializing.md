@@ -5,3 +5,7 @@ I feel like people go through "phases of socializing" depending on where they ar
 Setting up large, inclusive events is awesome for phase 1. Setting up smaller, reliable events is great for phase 2. Setting up organic, individual events is great for phase 3. One of my biggest failures in college was that I didn't move to phase 3 as fast as I should have.
 
 [[everyone socializes differently]]
+
+-----
+
+From [[Dunbar'S Layers And Mmo Design-Kim|Dunbar's Layers]]:  People need constant, positive, personal interactions with others. Second, they need to know their bond is stable, that there is mutual concern, and that this attachment will continue.

@@ -37,8 +37,10 @@ Game Design
 Games User Research
 -------------------
 
+ - [Reviewing Reflection: On the use of reflection in interactive system design](https://dl.acm.org/doi/10.1145/2598510.2598598)
  - Evaluating Serious Experience In Games-Iacovides.md
  - Gaming Motivation Scale-Lafrieniere.md
+ - [[Self Reflection Through Roleplay In Chimeria Grayscale-Ortiz]]has some more at the beginning of the reflection section.
 
 AR
 ----

@@ -36,5 +36,7 @@ If the puller *wants* to kill the one person in SPUR, people find it unethical.
 
 there was a real life surgeon case with a doctor who killed a guy faster for his organs (he was dying anyways). He claimed [[DDE]] that he was just giving painkiller meds to give him comfort. 
 
+![[good samaritan]]
 
+![[unconscious morality]]
 128/147

@@ -7,6 +7,8 @@ Administrative
  - unread
  - todo
  - skimmed
+ - killerPaper
+   - A really good paper
 
 Fields
 ------

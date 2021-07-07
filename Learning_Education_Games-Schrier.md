@@ -95,7 +95,7 @@ Tags   : [[games for education]] #gamifiedEducation
 ### Indie games
  - A Normal Lost Phone
  - Everyday the same dream
- - Gone Home
+ - [[Gone Home]]
  - Her Story
  - Loneliness
  - Papers, Please

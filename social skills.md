@@ -10,3 +10,9 @@ http://www.plausiblydeniable.com/opinion/gsf.html
 
  - [[socializing|how people socialize]]
  - [[communication]]
+ - [[basilisks|killing basilisks]]
+ - [[Dunbar's layers]]
+
+----
+
+Apparently people spend an average of 0.65 hours a day socializing?? Not including socializing at work and playing games. Holy shit that's so much less than me aaaa

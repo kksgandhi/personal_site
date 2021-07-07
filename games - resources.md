@@ -4,3 +4,4 @@
  - [[game conferences]]
  - [[game researchers]]
  - [[game groups]]
+ - [[game development - resources]]

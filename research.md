@@ -1,9 +1,5 @@
-[[research - tools]]
-
-[[study design]]
-
-[[replication crisis]]
-
-[[control group]]
-
-[[experiment interpretation]]
+ - [[research - tools]]
+ - [[study design]]
+ - [[replication crisis]]
+ - [[control group]]
+ - [[experiment interpretation]]

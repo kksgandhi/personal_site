@@ -13,7 +13,7 @@ Author: [[Deterding]]
 
 talks about the [[PENS]] model which is itself based on [[SDT]]
 
-[[edutainment]] that merely uses games to cover up distasteful parts of learning (chocolate covered broccoli) has historically failed. All activities can be motivating and enjoyable, but the system needs to be holistically created.
+[[edutainment]] that merely uses games to cover up distasteful parts of learning ([[chocolate covered broccoli]]) has historically failed. All activities can be motivating and enjoyable, but the system needs to be holistically created.
 
 [[MDA]]
 
