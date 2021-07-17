@@ -4,6 +4,14 @@
 
 **The short paragraphs I've written here do not do the games justice. If a game interests you, message me because I always love to talk about them**
 
+### [[Before Your Eyes]] (1-2 hours)
+
+A game with an incredible story that is controlled entirely by your blinks! It sounds good on paper, and is perfect in practice, this game made me cry and then cry some more and I couldn't stop listening to the end credit soundtrack on repeat and I love this game so much just go play it goddammit it. (Ok content warning it is very sad)
+
+My rating:        10/10
+
+Recommendability: 10/10
+
 ### A Short Hike (2-3 hours)
 
 This game makes me happy on a core level. It's completely pure and innocent joy, and touches me in a way very few things have. I tell everyone I can to buy this game and save it for a rainy or sad day.
@@ -19,14 +27,6 @@ Very cute, very relaxing, and has a very interesting story / themes on "growth".
 My rating:        9/10
 
 Recommendability: 9/10
-
-### Undertale (6-8 hours)
-
-This game has a cult following for a reason! Incredibly memorable characters and a very unique approach to character relationships that I unfortunately can't speak about because of spoilers...
-
-My rating: 8/10
-
-Recommendability: 8/10
 
 ### [[Gris]] (3-4 hours)
 
@@ -52,6 +52,14 @@ My rating: 7/10
 
 Recommendability: 6/10
 
+### Undertale (6-8 hours)
+
+This game has a cult following for a reason! Incredibly memorable characters and a very unique approach to character relationships that I unfortunately can't speak about because of spoilers... Slightly lower recommendability because it's a parody of video games, so it only works if you've played a lot.
+
+My rating: 8/10
+
+Recommendability: 6/10
+
 ### A Hat in Time (9 hours)
 
 This was a cute modern interpretation of the fun and style of Super Mario Galaxy
@@ -60,7 +68,7 @@ My rating: 7/10
 
 Recommendability: 7/10 (it's still a slightly difficult platformer, though still one of the more accessible ones)
 
-### Outer Wilds (24+ hours)
+### [[Outer Wilds]] (24+ hours)
 
 By fucking god do I love Outer Wilds. When I'm sad, I listen to Outer Wilds music and every time it hits me like a truck. The story is incredible, and the way that it lets you put the story together instead of just letting you walk through the story linearly makes you incredibly emotionally invested in the things I was piecing together. It is a very niche game: It is an exploration focused game that doesn't hold your hand, with a variety of puzzles and complex challenges. Absolutely worth it if you think that's the kind of game for you.
 

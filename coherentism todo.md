@@ -19,6 +19,10 @@ if you had a recipe with eggs, you'd know it was about chicken eggs. What is los
 
 correlation, how some things aren't as correlated as people think they are, how ineffable quality is often correlated with effable quality
 
+trauma breaks your body down
+
+banality, the ordinary is everything
+
 would really like to do this priority
 -------------------------------------
 
@@ -31,3 +35,4 @@ highest priority:
 
 art & media
 retrospective of college
+time

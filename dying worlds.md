@@ -1,0 +1,1 @@
+ - [I'm thinking about ending things and Dark Souls III, a look into decaying worlds and the use of continuing when everything is falling apart.](https://www.youtube.com/watch?v=lnAWQz34PJs&t=1409s)

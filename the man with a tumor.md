@@ -1,0 +1,1 @@
+A man has a tumor that turns him into a pedophile, when it's removed, he has no problems. Is he to blame for his actions?

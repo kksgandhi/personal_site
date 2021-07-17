@@ -5,3 +5,7 @@ I feel so oddly on the fence about this because anger is such a poisonous emotio
 Anger is a powerful motivational tool, though [[stoicism]] can help turn it into a tool instead of letting it control you.
 
 Tags: [[stoicism]], [[pain is a motivator]]
+
+--------
+
+If you are angry, but intelligent enough to understand the source of your anger, does it matter? Does it mean anything to explain yourself if you've lashed out?

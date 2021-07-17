@@ -39,4 +39,13 @@ there was a real life surgeon case with a doctor who killed a guy faster for his
 ![[good samaritan]]
 
 ![[unconscious morality]]
-128/147
+
+[[the man with a tumor]]
+
+Brain damage, an inability to visualize things, blunted emotions, all of these can make you have less of an emotional response to morality.
+
+Is it moral to [[mind modification|modify your mind]] to be a better person? A happier person? Reminds me of the [[experience machine]]
+
+the [[ultimatum game]]
+
+

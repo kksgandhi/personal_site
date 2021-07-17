@@ -2,7 +2,7 @@
 
 Things that interest me. Not everything, but a good place to start.
 
- - [[life|personal growth]]
+ - [[phronesis|practical wisdom and life lessons]]
  - [[philosophy]]
  - [[games]]
  - [[art]]

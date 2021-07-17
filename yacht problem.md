@@ -1,0 +1,1 @@
+Two capsized yachts, you can only go to one before the other hits the rocks. Do you save (A) a yacht you know has 5 people trapped underneath it, or (B) a yacht where you can *see* one person clinging on. We have a bias towards moral decisions that have more visible effects.
