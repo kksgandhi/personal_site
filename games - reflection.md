@@ -17,4 +17,4 @@ These steps don't necessarily happen in order
 
 [[Fleck and Fitzpatrick's reflection framework]]
 
-[[Mekler and Hornbæk's reflection framework]]
+[[Mekler and Hornbaek's reflection framework]]

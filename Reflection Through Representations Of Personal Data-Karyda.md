@@ -11,7 +11,7 @@ A data agent is a mundane object combined with people's personal data in a meani
 
 Fleck and Fitzpatrick's framework to describe different levels of reflection.
 
-[[Mekler and Hornbæk's reflection framework]] to help articulate how these data agents prompted deeper levels of reflection. 
+[[Mekler and Hornbaek's reflection framework]] to help articulate how these data agents prompted deeper levels of reflection. 
 
 Choe et al: Participant insights during data visualizations, but possibly flawed study
 
