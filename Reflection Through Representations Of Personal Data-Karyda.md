@@ -76,5 +76,16 @@ Experiences that compare the person to the world or others supports higher level
  - Data agents flexibility and portability through different contexts supports inter-experience relation building
  - Data agent connectedness to the world enables higher levels of reflection.
 
-Google calendar, OW play of the game
+Personal thoughts
+-----------------
+
+The related work confused me, the idea of reflection is a complex one and so it's reasonable to me that there would be a variety of differing papers and frameworks about it. The deluge of background work that wasn't necessarily contradictory, but just *different* from one another was a bit overwhelming.
+
+That said, the actual projects were incredibly interesting and thought provoking.
+
+One interesting sticking point is that these objects were designed with an incredible amount of personalization and design. It required someone intelligent and someone who knew the target well (with slight exceptions in the case of project 3). As a game designer, I'm interested in how to enable reflection in games, but the issue is that I don't know my players, nor would it be feasible to hand design something for all of them. 
+
+I talk a bit more in the [[games - reflection]] note.
+
+Google Calendar also does something interesting where if you put "watch the Red Sox game" in your calendar it'll look up pictures of the Red Sox and make that the icon. A little bit of personalization that can be done in a "mass media" sense.
 
