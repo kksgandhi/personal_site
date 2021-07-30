@@ -23,6 +23,10 @@ trauma breaks your body down
 
 banality, the ordinary is everything
 
+[post hoc reasoning is a social function](https://www.youtube.com/watch?v=_ArVh3Cj9rw&list=PLM0XOPE-p91H0bY1nrHPiSILBMsCEJ6AL&index=10&t=180s)
+
+that's the way the world is, not the way it should be (in argument)
+
 would really like to do this priority
 -------------------------------------
 

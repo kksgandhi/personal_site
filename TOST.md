@@ -1,0 +1,1 @@
+https://en.wikipedia.org/wiki/Equivalence_test

@@ -4,22 +4,21 @@ Pure Philosophy
 Philosophical Games
 -------------------
 
- - Joeckel: Gut or game, influence or moral intuitions on decisions in video games.
  - Boyan Grizzard Massively Moral Game: Mass effect to study the influence of moral intuitions on adherence to hero or antihero play styles
 
 Benefits of Games
 -----------------
 
- - Perspective Taking And Decision Making In Educational Game Play-Hilliard.md
- - Moral And Character Education-Berkowitz.md
- - Reflection In Player Experience-Mekler.md
+ - Moral And Character Education-Berkowitz.md (exists)
+ - Reflection In Player Experience-Mekler.md (exists)
  - [Benefits of playing non-action games on cognition](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0058546)
+ - Young 2012, Our princess is in another castle, a review of trends in serious gaming for education (anti chocolate covered broccoli)
  - Education And Involvement In Games-Iacovides.md
+ - [Game Based Learning](https://www-jime.open.ac.uk/articles/10.5334/2004-8-oblinger/)
 
 Philosophy in the classroom
 ---------------------------
 
- - Critical Thinking Through Games In Secondary Schools-Mcdonald.md
  - Game Based Learning In Higher Education-Crocco.md (largescale)
  - Survey On Teaching With Digital Games-Takeuchi.md
  - Schrier: Designing and using games to teach ethics and ethical thinking
@@ -32,14 +31,14 @@ Philosophy in the classroom
 Game Design
 -----------
 
- - Games As Speculative Design-Coulton.md
+ - Games As Speculative Design-Coulton.md (exists)
 
 Games User Research
 -------------------
 
  - [Reviewing Reflection: On the use of reflection in interactive system design](https://dl.acm.org/doi/10.1145/2598510.2598598)
- - Evaluating Serious Experience In Games-Iacovides.md
- - Gaming Motivation Scale-Lafrieniere.md
+ - Evaluating Serious Experience In Games-Iacovides.md (exists)
+ - Gaming Motivation Scale-Lafrieniere.md (exists)
  - [[Self Reflection Through Roleplay In Chimeria Grayscale-Ortiz]]has some more at the beginning of the reflection section.
 
 AR
@@ -50,6 +49,7 @@ AR
 Other / Someday
 ---------------
 
+ - Conceptualization Of Skill Chains-Miller.md (exists)
  - Brain Computation By Assemblies Of Neurons-Papadimitriou.md (downloaded)
- - Work Group Diversity-Knippenberg.md
+ - Work Group Diversity-Knippenberg.md (exists)
  - Gender Stereotypes In Modern Countries-Breda.md

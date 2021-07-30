@@ -1,0 +1,1 @@
+https://medium.com/philosophy-caf%C3%A9/similarities-and-differences-between-kants-categorical-imperative-and-the-golden-rule-3e1393cee14a

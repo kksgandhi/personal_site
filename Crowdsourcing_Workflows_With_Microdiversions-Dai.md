@@ -17,7 +17,7 @@ Research questions:
 
 If someone stays, they're considered engaged, since they could have just left
 
-[[Wikipedia]] article quality rating, [[Freebase]] entity merging and [[image analysis]] are the tasks people were given
+[[Wikipedia]] article quality rating, [[Freebase]] entity merging and [[image labeling]] are the tasks people were given
 
 Should diversions be 
  a) different tasks

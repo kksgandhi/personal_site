@@ -2,7 +2,6 @@
 Year   :
 Tags   : #gamifiedEducation, #transformationalGameStudy
 Authors: [[Hilliard]] [[Buckingham]] [[Geldhof]] [[Lerner]]
-#unread gamified education
 
 An analysis of [[Quandary]] and whether games could be used for [[SEL]], [[learning philosophy]], [[moral learning]]
 

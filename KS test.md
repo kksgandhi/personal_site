@@ -1,0 +1,1 @@
+like Mann Whitney U but possibly sensitive to differences in shape instead of just differences of distribution
