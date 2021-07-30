@@ -15,3 +15,16 @@ https://www.atlasobscura.com/places/museum-sex
 https://www.atlasobscura.com/places/new-york-s-hidden-tropical-forest
 
 Mighty Quinn's
+
+Lincoln Square
+
+Geometric Properties
+https://www.artechouse.com/program/geometric-properties/
+
+Guggenheim!
+
+Dumbo
+
+the met, cloisters?
+
+MoMA
