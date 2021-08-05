@@ -1,3 +1,5 @@
+#todo this entire thing is trash
+
 Tags: [[Bo Burnham]] [[Bojack Horseman]]
 
 Many professional entertainers (e.g.[[Bo Burnham]]) have talked about how they find difficulty separating their characters from their real personas. Bo is forced to play an loud funny guy on stage, even though he claims that he's actually reasonably shy and quiet in real life. Thing is, if everyone sees you as something, they start treating you that way. Audiences expect their actors to act in certain ways. (tag: [[stereotypes]]) If you play a character all the time, it's easy for you to start seeing yourself in that character.

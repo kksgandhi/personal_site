@@ -18,3 +18,5 @@ ECHOES OF THE EYE
 DISCO ELYSIUM
 
 wandersong?
+
+Opera Omnia - critical thinking / philo game

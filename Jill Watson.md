@@ -1,0 +1,3 @@
+A [[conversational agent]] created by Ashok [[Goel]] to TA his class. Can apparently answer 40% of questions
+
+Apparently got misogynistic towards pregnant female students near the end...

@@ -1,0 +1,143 @@
+{
+  "main": {
+    "id": "05014e325104e55e",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c31447bfb9eb95e",
+        "type": "leaf",
+        "dimension": 71.11255692908263,
+        "state": {
+          "type": "localgraph",
+          "state": {
+            "file": "hexad.md",
+            "options": {
+              "collapse-filter": true,
+              "search": "",
+              "localJumps": 2,
+              "localBacklinks": true,
+              "localForelinks": true,
+              "localInterlinks": true,
+              "showTags": true,
+              "showAttachments": true,
+              "hideUnresolved": false,
+              "collapse-color-groups": true,
+              "colorGroups": [],
+              "collapse-display": true,
+              "showArrow": false,
+              "textFadeMultiplier": 0,
+              "nodeSizeMultiplier": 1,
+              "lineSizeMultiplier": 1.48352941176471,
+              "collapse-forces": true,
+              "centerStrength": 0.564102564102564,
+              "repelStrength": 10,
+              "linkStrength": 1,
+              "linkDistance": 30,
+              "scale": 1.1721119034337748,
+              "close": true
+            }
+          }
+        },
+        "group": "e9c44d2b7308be98"
+      },
+      {
+        "id": "79a4ee527e222e95",
+        "type": "leaf",
+        "dimension": 28.887443070917374,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "hexad.md",
+            "mode": "source"
+          }
+        },
+        "group": "e9c44d2b7308be98"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c256bbad1fc2aed9",
+    "type": "split",
+    "children": [
+      {
+        "id": "57ea201fcf19ab14",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fcb82200a8cf5cac",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0bc9a120e68aa394",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#killerPaper",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 323,
+    "collapsed": true
+  },
+  "right": {
+    "id": "2802726c462e05f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "425a9b71f3f57cc2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c5d7e59cb494fe1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "hexad.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "79a4ee527e222e95",
+  "lastOpenFiles": [
+    "hexad.md",
+    "Likert scale.md",
+    "Jill Watson.md",
+    "Educational_Game_Design_Narrative-Chaima.md",
+    "chocolate covered broccoli.md",
+    "Intrinsic Skill Atoms For Gameful Design.md",
+    "Chaima.md",
+    "Using_Game_Design_Mechanics_As_Metaphors-Chaima.md",
+    "philosophy - games.md",
+    "Mechanisms Of The Soul Game-Rusch.md"
+  ]
+}

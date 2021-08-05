@@ -4,9 +4,9 @@
 
 Politics, identity, the issues with modern life
 
-### Kurzgesagt
+### [[Kurzgesagt]]
 
-Typically more science than philosophy, but "The Egg", "Optimistic Nihilism", and "The Tail End" are some of the best videos on Youtube
+Typically more science than philosophy, but "The Egg", "Optimistic Nihilism", and "[[the tail end|The Tail End]]" are some of the best videos on Youtube
 
 ### exurb1a
 

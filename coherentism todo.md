@@ -19,7 +19,7 @@ if you had a recipe with eggs, you'd know it was about chicken eggs. What is los
 
 correlation, how some things aren't as correlated as people think they are, how ineffable quality is often correlated with effable quality
 
-trauma breaks your body down
+trauma breaks your body down, trauma teaches you, but is only good for that circumstance. People return to their traumas because it's what they understand.
 
 banality, the ordinary is everything
 
@@ -27,12 +27,12 @@ banality, the ordinary is everything
 
 that's the way the world is, not the way it should be (in argument)
 
+industry is motivated to make money, academia is motivated to do new things, how can we fill in the gaps (hey I've made this new Unity plugin, but have no motivation to advertise it)
+
 would really like to do this priority
 -------------------------------------
 
 forcing the symptoms (sitting in a church doesn't make you christian just like sitting in a garage doesn't make you a car)
-
-the best philosophy isn't explicit (Outer Wilds, 17776)
 
 highest priority:
 -----------------

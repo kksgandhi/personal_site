@@ -1,0 +1,1 @@
+Hexad model is a model of player types. FDG2021 had a poster that modified an [[exergame]]'s goals and design based on player type

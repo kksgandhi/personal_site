@@ -28,3 +28,5 @@ Germans were liberal?? US adolescents were conservative?? No major differences b
 German elders violated authority a lot because they grew up in authoritarian regimes.
 
 Conclusion: moral salience predicts moral transgressions in video games
+
+[[moral games]]

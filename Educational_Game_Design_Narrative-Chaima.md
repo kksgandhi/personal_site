@@ -4,7 +4,7 @@ Tags: [[narrative]] [[engagement]] [[GBL]]
 
 Good games create engagement, engagement creates learning, but the link between *engaging games* and learning is not in the literature.
 
-Why have games with narrative failed in the past to improve [[learning]]? It's because narrative elements are unrelated to the [[gameplay]] or subject. It also makes the game longer, which should be accounted for.
+Why have games with narrative failed in the past to improve [[learning]]? It's because narrative elements are unrelated to the [[gameplay]] or subject. It also makes the game longer, which should be accounted for. (tag: [[chocolate covered broccoli]])
 
 There was a powerpoint vs a game [56] and the friggin powerpoint won out. 
 

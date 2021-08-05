@@ -1,0 +1,1 @@
+Every person [[lenses|looks at the world a different way]], has millions of different experiences, has such incredible complexity. If [[consciousness is the universe experiencing itself]], then every [[death]] is a death of a universe, and that is so incredibly, [[existentialism|existentially]], sad.

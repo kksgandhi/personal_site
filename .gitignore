@@ -6,7 +6,7 @@ someday.md
 resources.md
 _*.md
 *.pdf
-.obsidian/*
+# .obsidian/*
 *.bak
 today.md
 peole.md
