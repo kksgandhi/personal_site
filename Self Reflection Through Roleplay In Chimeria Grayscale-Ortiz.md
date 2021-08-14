@@ -1,6 +1,6 @@
 #notesFromPaper
 Year   :
-Tags   : [[games - reflection]] [[Chimeria: Grayscale]] [[roleplay]] #transformationalGameStudy
+Tags   : [[games - reflection]] [[Chimeria: Grayscale]] [[roleplay]] [[feminism]] [[misogyny]] #transformationalGameStudy
 Authors: [[Ortiz]] [[Harrell]]
 
 How can [[interactive fiction]] and [[roleplay]] support reflection?

@@ -10,7 +10,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "hexad.md",
+            "file": "moral foundations theory.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -33,7 +33,7 @@
               "repelStrength": 10,
               "linkStrength": 1,
               "linkDistance": 30,
-              "scale": 1.1721119034337748,
+              "scale": 0.8192600876921963,
               "close": true
             }
           }
@@ -47,8 +47,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "hexad.md",
-            "mode": "source"
+            "file": "moral foundations theory.md",
+            "mode": "preview"
           }
         },
         "group": "e9c44d2b7308be98"
@@ -78,7 +78,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#killerPaper",
+                "query": "philosophy review",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hexad.md",
+                "file": "moral foundations theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,15 +129,15 @@
   },
   "active": "79a4ee527e222e95",
   "lastOpenFiles": [
-    "hexad.md",
-    "Likert scale.md",
-    "Jill Watson.md",
-    "Educational_Game_Design_Narrative-Chaima.md",
-    "chocolate covered broccoli.md",
-    "Intrinsic Skill Atoms For Gameful Design.md",
-    "Chaima.md",
-    "Using_Game_Design_Mechanics_As_Metaphors-Chaima.md",
-    "philosophy - games.md",
-    "Mechanisms Of The Soul Game-Rusch.md"
+    "moral foundations theory.md",
+    "Moral Intuitions And Video Game Decisions-Joeckel.md",
+    "Haidt.md",
+    "Intervention_Strategies_For_Engagement-Segal_Gal.md",
+    "Horvitz.md",
+    "The Righteous Mind.md",
+    "philosophy - books.md",
+    "deontology.md",
+    "cartesian demons.md",
+    "falsifiable.md"
   ]
 }

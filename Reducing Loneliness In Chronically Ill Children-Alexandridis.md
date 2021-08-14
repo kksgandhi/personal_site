@@ -1,6 +1,6 @@
 #notesFromPaper
 Year   :
-Tags   :
+Tags   : #gameStudy
 Authors: [[Alexandridis]] [[Bakkes]] [[Nijhof]] [[Veltkamp]]
 #unread 
 

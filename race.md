@@ -1,4 +1,4 @@
-#coherentism
+#todo this probably needs improvement
 
 I always used to count myself lucky that, despite being a Muslim growing up in post 9-11 Texas, I wasn't really the target of much harassment. Sure, my parents told me stories about how they hired cops at my 4th (or something) birthday party, but as far as I can actually remember, overt and blatant racism has happened to me once or twice. (I did grow up presenting mostly Indian, not Muslim, and lived in a wealthy and diverse community. I'm sure that contributed *heavily*) 
 

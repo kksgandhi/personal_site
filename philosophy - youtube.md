@@ -1,8 +1,10 @@
 **The short notes I've written for each channel don't do them justice, I would really suggest looking into them yourself**
 
-### PhilosophyTube
+### PhilosophyTube / Contrapoints
 
-Politics, identity, the issues with modern life
+Incredible videos spanning a range of topics. They usually focus on a sort of practical philosophy, talking about modern issues as a way to introduce deeper philosophical concepts.
+
+Philosophy, identity, modern life, GSRM issues
 
 ### [[Kurzgesagt]]
 
@@ -16,9 +18,6 @@ A bit crude and informal, but some of the best work on happiness and meaning. I 
 
 Art, Games, and how art can help us in our search for meaning
 
-### Contrapoints
-
-Identity, GSRM issues, and politics
 
 ### Innuendo Studios
 

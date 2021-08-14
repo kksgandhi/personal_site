@@ -28,6 +28,7 @@ Fields
  - citizenScience
  - transformationalGame
  - civicsGame
+ - gameStudy
  - transformationalGameStudy
  - gamifiedEducation
  - HCI

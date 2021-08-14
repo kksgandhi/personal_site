@@ -1,0 +1,1 @@
+Environmental impacts disproportionately affect certain communities.
