@@ -6,5 +6,3 @@ I'm really not that old, and that scares me. If I've had so much time to mess up
  - [[leadership]]
  - [[self care]]
  - [[time]]
-
-A [[retrospective on undergrad]]

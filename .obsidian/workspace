@@ -10,7 +10,6 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "moral foundations theory.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -33,7 +32,7 @@
               "repelStrength": 10,
               "linkStrength": 1,
               "linkDistance": 30,
-              "scale": 0.8192600876921963,
+              "scale": 0.9025332508413848,
               "close": true
             }
           }
@@ -45,11 +44,8 @@
         "type": "leaf",
         "dimension": 28.887443070917374,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "moral foundations theory.md",
-            "mode": "preview"
-          }
+          "type": "empty",
+          "state": {}
         },
         "group": "e9c44d2b7308be98"
       }
@@ -78,7 +74,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "philosophy review",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,13 +83,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 323,
-    "collapsed": true
+    "width": 323
   },
   "right": {
     "id": "2802726c462e05f0",
@@ -109,7 +103,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "moral foundations theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,17 +120,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "79a4ee527e222e95",
+  "active": "0c31447bfb9eb95e",
   "lastOpenFiles": [
-    "moral foundations theory.md",
-    "Moral Intuitions And Video Game Decisions-Joeckel.md",
-    "Haidt.md",
-    "Intervention_Strategies_For_Engagement-Segal_Gal.md",
-    "Horvitz.md",
-    "The Righteous Mind.md",
-    "philosophy - books.md",
-    "deontology.md",
-    "cartesian demons.md",
-    "falsifiable.md"
+    "Conservatives vs Liberals.md",
+    "leadership frustrations.md",
+    "idealized class structure.md",
+    "emotional intelligence.md",
+    "Bo Burnham.md",
+    "it's not a big deal.md",
+    "philosophy.md",
+    "_potato.md",
+    "cartoscope.md",
+    "q learning.md"
   ]
 }

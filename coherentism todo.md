@@ -8,8 +8,6 @@ slang is just like manners
 
 communities haze to avoid transient communities
 
-comedy and darkness, sack lunch bunch
-
 small open world games feel big
 (https://www.youtube.com/watch?v=S3cPJL4ISlU&list=WL&index=16)
 
@@ -29,14 +27,4 @@ that's the way the world is, not the way it should be (in argument)
 
 industry is motivated to make money, academia is motivated to do new things, how can we fill in the gaps (hey I've made this new Unity plugin, but have no motivation to advertise it)
 
-would really like to do this priority
--------------------------------------
-
-forcing the symptoms (sitting in a church doesn't make you christian just like sitting in a garage doesn't make you a car)
-
-highest priority:
------------------
-
-art & media
-retrospective of college
-time
+some stereotypes are harmful, others are not

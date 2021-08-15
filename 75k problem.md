@@ -1,3 +1,3 @@
-#todo
+Apparently [[money can't buy happiness|money does buys happiness]] up until you make $75,000 ([Link](https://www.pnas.org/content/107/38/16489)). In all honesty I haven't actually read this study, and even if I had, it's not really my field of expertise, so I probably couldn't accurately judge it.
 
-happiness at 75k. Ok that's one thing, but isn't it shitty that all the mindfulness in the world can't fix just giving someone 75k?
+Regardless of whether it's true or not, I think it's rather sad that you can throw all the [[self care]] as you want at certain problems, but at the end of the day what people sometimes need is just a little bit of money. I've been in unfortunately many situations where I tell people about [[self care]] and [[self improvement]] because it's what they have access to, but what I really just want to say is "damn man, you just need to never speak to that person again" (which often isn't feasible) or "damn man, you just need a couple extra hundred a month."

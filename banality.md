@@ -1,0 +1,1 @@
+I think it's easy to underestimate the power of the boring. Evil in the world isn't perpetuated by people in dark rooms rubbing their hands and thinking about evil, a lot of times it's just people who don't care.

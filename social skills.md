@@ -12,3 +12,4 @@ http://www.plausiblydeniable.com/opinion/gsf.html
  - [[communication]]
  - [[basilisks|killing basilisks]]
  - [[Dunbar's layers]]
+ - [[forcing the symptoms]]
