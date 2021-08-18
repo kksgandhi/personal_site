@@ -10,6 +10,7 @@ _*.md
 *.bak
 today.md
 peole.md
+schedule.md
 todo*
 meetings.md
 .trash/*

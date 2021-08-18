@@ -1,3 +1,9 @@
+Important read next
+-------------------
+
+ - Clark failure of DBL (exists)
+ - Stasis and Stillness Rainforest Scully-Blaker
+
 Pure Philosophy
 ---------------
 

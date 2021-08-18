@@ -11,3 +11,5 @@ preference learning: learning relative relation between [[ordinal]] values.
 [[online learning]]
 
 [[models - KISS|simplistic models are better]]
+
+[[image labeling]]

@@ -14,7 +14,7 @@ representational holding: Holding items in short term memory because not everyth
 
  - Split essential learning between two channels, don't force someone to read something and look at an image at the same time
  - Segment learning
- - pretrain: It's similar to segmenting, but essentially you give them base information about terms and such before hitting them with the essential information
+ - [[learning - pretrain|pretrain]]: It's similar to segmenting, but essentially you give them base information about terms and such before hitting them with the essential information
  - don't mix essential and incidental processing in the same channel
  - make words and pictures near each other
  - eliminate redundancy (such as narrative and onscreen text) (don't know how much I agree with this one.)

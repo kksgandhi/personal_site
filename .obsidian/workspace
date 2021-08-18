@@ -10,6 +10,7 @@
         "state": {
           "type": "localgraph",
           "state": {
+            "file": "image labeling.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -40,14 +41,44 @@
         "group": "e9c44d2b7308be98"
       },
       {
-        "id": "79a4ee527e222e95",
-        "type": "leaf",
+        "id": "8a821c9047a9129e",
+        "type": "split",
         "dimension": 28.887443070917374,
-        "state": {
-          "type": "empty",
-          "state": {}
-        },
-        "group": "e9c44d2b7308be98"
+        "children": [
+          {
+            "id": "79a4ee527e222e95",
+            "type": "leaf",
+            "dimension": 61.75548589341693,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "image labeling.md",
+                "mode": "preview"
+              }
+            },
+            "group": "e9c44d2b7308be98"
+          },
+          {
+            "id": "0cf07e759a21b1b3",
+            "type": "leaf",
+            "dimension": 38.24451410658307,
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "image labeling.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "byModifiedTime",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            },
+            "group": "e9c44d2b7308be98"
+          }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -74,7 +105,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "pretrain",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,7 +114,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -103,6 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "image labeling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,15 +155,15 @@
   },
   "active": "0c31447bfb9eb95e",
   "lastOpenFiles": [
-    "Conservatives vs Liberals.md",
-    "leadership frustrations.md",
-    "idealized class structure.md",
-    "emotional intelligence.md",
-    "Bo Burnham.md",
-    "it's not a big deal.md",
+    "image labeling.md",
+    "image classification.md",
+    "image analysis.md",
+    "Failure Of Discovery Based Learning And Benefits Of Guided Training Methods-Clark.md",
+    "gestalt.md",
     "philosophy.md",
-    "_potato.md",
-    "cartoscope.md",
-    "q learning.md"
+    "philosophy media recommendations.md",
+    "philosophy - other media.md",
+    "cognitive task analysis.md",
+    "Mayer's Multimedia Design Principles.md"
   ]
 }

@@ -1,0 +1,26 @@
+sort of a [[gestalt]], but for [[learning]]
+
+ - Multimedia
+   - Pictures + Words, rather than just words ([[dual channel theory]])
+ - Spatial
+   - put things near each other
+ - Temporal
+   - put things near each other
+ - coherence
+   - remove extraneous things
+ - modality
+   - animation and narration rather than animation and text
+ - redundancy
+   - animation and narration rather than animation, text, and narration (hilarious how the bullet on redundancy feels redundant)
+ - individuality
+   - instructional design makes more of an impact on high knowledge learners (does this mean smart learners, or learners with a lot of background...)
+ - signaling
+   - underlining + arrows
+ - pacing
+   - let students control pacing
+ - concepts first
+   - [[learning - pretrain]]
+ - personalization
+   - use "you" or "yours"
+ - human voice
+   - no machine voice or foreign accents
