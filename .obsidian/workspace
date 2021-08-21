@@ -10,7 +10,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "fun websites.md",
+            "file": "fun resources.md",
             "options": {
               "collapse-filter": false,
               "search": "",
@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fun websites.md",
+                "file": "fun resources.md",
                 "mode": "preview"
               }
             },
@@ -65,7 +65,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "fun websites.md",
+                "file": "fun resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "fun websites.md",
+                "file": "fun resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,10 +152,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "79a4ee527e222e95",
+  "active": "0c31447bfb9eb95e",
   "lastOpenFiles": [
-    "fun websites.md",
     "fun resources.md",
+    "fun websites.md",
     "resources.md",
     "websites.md",
     "fragility.md",
