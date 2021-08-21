@@ -1,6 +1,6 @@
-Hi! I'm Kutub Gandhi.
+Hi! I'm Kutub Gandhi. Welcome to my... blog?
 
-This website is a dump of all my notes. And when I say all, I mean *all*. It also doubles as a blog of sorts. I take notes using [[Obsidian]], so these pages are probably easier to read and navigate if you had the program ([download this site here](https://github.com/kksgandhi/personal_site)). I recognize that not everyone wants to download an app though, hence why I have this site.
+This website is a dump of all my notes. And when I say all, I mean *all*. I take notes using [[Obsidian]], a wonderful tool (And hey, if you have Obsidian, [download the website here](https://github.com/kksgandhi/personal_site) and view it within Obsidian, it'll probably be a better experience)
 
 [[disclaimers|BEFORE YOU CONTINUE PLEASE FOR THE LOVE OF BANANAS READ MY DISCLAIMERS]]
 
@@ -10,6 +10,6 @@ This website is a dump of all my notes. And when I say all, I mean *all*. It als
 
 [[Who am I - personally]]
 
-[[stuff worth reading]]
+[[stuff worth reading|Stuff I've written that you may actually enjoy reading. No guarantees.]]
 
 [[anonymous feedback form|I value self growth. If you have anonymous feedback, put it here.]]

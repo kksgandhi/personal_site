@@ -7,3 +7,5 @@ In addition to letting you jump around, Obsidian also creates a visual graph tha
 **I know this is an extreme statement, and I don't say it lightly: Obsidian literally changed my life.** I've started writing notes for fun, and love seeing my graph grow; it's a visual representation of myself learning and growing. I reread my old notes instead of them being lost in the void of my directory structure
 
 ![](static/obsidian.png)
+
+Oh, if you do end up using Obsidian, start using the local graph instead of the global graph, it's far better.

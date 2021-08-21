@@ -6,4 +6,4 @@ This the 99% problem, when something works for you 99% of the time, but then tha
 
 This is how I feel about not having a car in [[Boston]]. 99% of the time I just public transport or my bike or whatnot, but that 1% of the time is just sooo frustrating.
 
-Similarly how I feel about [[linux]]. It does everything I need it to, but the 1% of time it can't do something really sucks.
+Similarly how I feel about [[Linux]]. It does everything I need it to, but the 1% of time it can't do something really sucks.
