@@ -1,7 +1,6 @@
 Important read next
 -------------------
 
- - Clark failure of DBL (exists)
  - Stasis and Stillness Rainforest Scully-Blaker
 
 Pure Philosophy
@@ -21,6 +20,12 @@ Benefits of Games
  - Young 2012, Our princess is in another castle, a review of trends in serious gaming for education (anti chocolate covered broccoli)
  - Education And Involvement In Games-Iacovides.md
  - [Game Based Learning](https://www-jime.open.ac.uk/articles/10.5334/2004-8-oblinger/)
+
+Learning
+--------
+
+ - [Response to Clark's failure of PBL](https://www.tandfonline.com/doi/abs/10.1080/00461520701263368)
+ - [Expertise reversal effect about reducing structure after people have competency](https://doi.apa.org/doiLanding?doi=10.1037%2Fa0022243)
 
 Philosophy in the classroom
 ---------------------------

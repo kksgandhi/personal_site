@@ -10,9 +10,9 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "image labeling.md",
+            "file": "philosophy and laypeople.md",
             "options": {
-              "collapse-filter": true,
+              "collapse-filter": false,
               "search": "",
               "localJumps": 2,
               "localBacklinks": true,
@@ -23,7 +23,7 @@
               "hideUnresolved": false,
               "collapse-color-groups": true,
               "colorGroups": [],
-              "collapse-display": true,
+              "collapse-display": false,
               "showArrow": false,
               "textFadeMultiplier": 0,
               "nodeSizeMultiplier": 1,
@@ -33,7 +33,7 @@
               "repelStrength": 10,
               "linkStrength": 1,
               "linkDistance": 30,
-              "scale": 0.9025332508413848,
+              "scale": 0.7545526897895937,
               "close": true
             }
           }
@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "image labeling.md",
+                "file": "philosophy and laypeople.md",
                 "mode": "preview"
               }
             },
@@ -65,7 +65,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "image labeling.md",
+                "file": "philosophy and laypeople.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -114,8 +114,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -135,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "image labeling.md",
+                "file": "philosophy and laypeople.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,15 +154,15 @@
   },
   "active": "0c31447bfb9eb95e",
   "lastOpenFiles": [
-    "image labeling.md",
-    "image classification.md",
-    "image analysis.md",
-    "Failure Of Discovery Based Learning And Benefits Of Guided Training Methods-Clark.md",
-    "gestalt.md",
+    "philosophy and laypeople.md",
+    "defending philosophy.md",
     "philosophy.md",
-    "philosophy media recommendations.md",
-    "philosophy - other media.md",
-    "cognitive task analysis.md",
-    "Mayer's Multimedia Design Principles.md"
+    "money can't buy happiness.md",
+    "A Time For Telling-Schwartz.md",
+    "philosophy - games.md",
+    "image labeling.md",
+    "Image Augmentation For Machine Learning Datasets-Yu.md",
+    "image classification.md",
+    "machine learning.md"
   ]
 }

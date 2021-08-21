@@ -9,4 +9,4 @@ There are some ideas that are just plain stupid. Not every idea is valid and des
 
 [[the banality of evil]]
 
-"I study bigots not because I want to empathize with them, but to avoid becoming a bigot myself. When you dehumanize the villains, you become unable to understand the villain within" - Natalie Wynn
+"I study bigots not because I want to empathize with them, but to avoid becoming a bigot myself. When you dehumanize the villains, you become unable to understand the villain within" - Natalie Wynn, aka [[Contrapoints]]

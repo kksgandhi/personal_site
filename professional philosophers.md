@@ -7,3 +7,5 @@ Mill wrote about [[utilitarianism]] in 1861. While most haven't heard of his the
 In addition, when [[abstraction|abstract]] ideas do reach the mainstream, everyone sees them as exactly that, mainstream ideas that have been around for so long, that they are self evident. Most western educated individuals have grown up with modern ideas of the world for so long, that they don't think about how these ideas were originally the armchair musings of philosophers.
 
 I think these two effects combined explain why most dismiss professional philosophy, but once you actually see the effect professional philosophers have had on practical discourse, their role makes a lot more sense.
+
+Plus, professional philosophers are like, a percent of a percent of most university budgets.

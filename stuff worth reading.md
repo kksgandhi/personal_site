@@ -6,6 +6,6 @@ Things that interest me. Not everything, but a good place to start.
  - [[philosophy]]
  - [[games]]
  - [[art]]
- - [[productivity]]
  - [[social skills]]
+ - [[productivity]]
  - [[society]]

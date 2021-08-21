@@ -28,3 +28,7 @@ that's the way the world is, not the way it should be (in argument)
 industry is motivated to make money, academia is motivated to do new things, how can we fill in the gaps (hey I've made this new Unity plugin, but have no motivation to advertise it)
 
 some stereotypes are harmful, others are not
+
+structure helps the weak, hinders the strong
+
+effing the ineffable

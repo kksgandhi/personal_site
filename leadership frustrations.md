@@ -1,5 +1,3 @@
-#coherentism
-
 [[leadership]]
 
  - There are people who don't feel comfortable asking the group for things. "I want to do this instead" is something they may feel and imply, but never say out loud. One thing that will often happen is that these things won't be said to the whole group, but rather someone who is "the leader". Dealing with varying people who have differing views about where to go is a losing game, since you can't make everyone happy.
