@@ -5,6 +5,8 @@ Tags   : [[game design]] #gamifiedEducation [[transformational games]]
 
 Reality, Meaning, and Play
 
+#todo this could probably use a reread now that I have a better grasp on game design generally.
+
 ([[leadership|Leadership skill]]s with games, Yee 2006, check it out)
 
 You always learn within a game, does that translate to the outside
