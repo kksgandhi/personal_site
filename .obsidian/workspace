@@ -10,9 +10,9 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "fun resources.md",
+            "file": "anything can be art.md",
             "options": {
-              "collapse-filter": false,
+              "collapse-filter": true,
               "search": "",
               "localJumps": 2,
               "localBacklinks": true,
@@ -23,7 +23,7 @@
               "hideUnresolved": false,
               "collapse-color-groups": true,
               "colorGroups": [],
-              "collapse-display": false,
+              "collapse-display": true,
               "showArrow": false,
               "textFadeMultiplier": 0,
               "nodeSizeMultiplier": 1,
@@ -33,7 +33,7 @@
               "repelStrength": 10,
               "linkStrength": 1,
               "linkDistance": 30,
-              "scale": 0.7545526897895937,
+              "scale": 0.7011295699454116,
               "close": true
             }
           }
@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fun resources.md",
+                "file": "anything can be art.md",
                 "mode": "preview"
               }
             },
@@ -65,7 +65,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "fun resources.md",
+                "file": "anything can be art.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "fun resources.md",
+                "file": "anything can be art.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,15 +154,15 @@
   },
   "active": "0c31447bfb9eb95e",
   "lastOpenFiles": [
-    "fun resources.md",
-    "fun websites.md",
-    "resources.md",
-    "websites.md",
-    "fragility.md",
-    "philosophy and laypeople.md",
-    "defending philosophy.md",
-    "philosophy.md",
-    "money can't buy happiness.md",
-    "A Time For Telling-Schwartz.md"
+    "anything can be art.md",
+    "The Talos Principle.md",
+    "Who am I - professionally.md",
+    "index.md",
+    "Untitled.md",
+    "my publications.md",
+    "tutorial design.md",
+    "listening to the other side.md",
+    "philosophy - youtube.md",
+    "research.md"
   ]
 }

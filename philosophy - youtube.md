@@ -1,6 +1,6 @@
 **The short notes I've written for each channel don't do them justice, I would really suggest looking into them yourself**
 
-### PhilosophyTube / Contrapoints
+### [[PhilosophyTube]] / [[Contrapoints]]
 
 Incredible videos spanning a range of topics. They usually focus on a sort of practical philosophy, talking about modern issues as a way to introduce deeper philosophical concepts.
 

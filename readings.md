@@ -1,14 +1,13 @@
 Important read next
 -------------------
 
- - Stasis and Stillness Rainforest Scully-Blaker
-
 Pure Philosophy
 ---------------
 
 Philosophical Games
 -------------------
 
+ - Ethics and Game Design Schrier (exists)
  - Boyan Grizzard Massively Moral Game: Mass effect to study the influence of moral intuitions on adherence to hero or antihero play styles
 
 Benefits of Games
@@ -43,6 +42,8 @@ Game Design
 -----------
 
  - Games As Speculative Design-Coulton.md (exists)
+ - [character believability in games](https://loading.journals.publicknowledgeproject.org/loading/index.php/loading/article/view/42/51)
+ - [Well played 2.0, games value and meaning](https://www.google.com/books/edition/Well_Played_3_0/wapFAwAAQBAJ?hl=en&gbpv=0)
 
 Games User Research
 -------------------
