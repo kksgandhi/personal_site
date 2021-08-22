@@ -5,7 +5,7 @@ Tags   : [[game design]] #gamifiedEducation [[transformational games]]
 
 Reality, Meaning, and Play
 
-#todo this could probably use a reread now that I have a better grasp on game design generally.
+#todo this could probably use a re-read now that I have a better grasp on game design generally.
 
 ([[leadership|Leadership skill]]s with games, Yee 2006, check it out)
 
