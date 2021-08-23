@@ -1,5 +1,3 @@
-[[philosophy]]
-
 Due to the problem of [[deconstruction]], we fall into a paradox where large swaths and techniques of philosophical thinking lead us into [[nihilism]]
 
 What is the meaning of life? What is knowledge? What ethical framework should we live under? Philosophers have been doing nothing but slinging mud at every theory under the fun; there are so many counter-arguments and nitpicks for every philosophical theory out there that I feel like no theory can be correct.

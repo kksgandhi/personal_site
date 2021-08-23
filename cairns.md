@@ -4,22 +4,4 @@ piles of pebbles placed on paths so that hikers know others have been there. Act
 
 In [[citizen science]] they are diversions, giving participants a break
 
-another term is [[microdiversions]]
-
-cairns (as microdiversions) are related to the [[pringles effect]]
-
-how can users choose cairns?
- - IOPsych
- - work psychology
-
-[[types of cairns to use in cartoscope]]
-
-decision points? controlling flight paths
-
-machine learning scheduling of cairns
-
-work on context switching and interruptability!! Taking breaks (in the context of learning) and variety
-
-quality diversity human search algorithms 
-
-map elites - applications to Citizen Science?
+cairns (as [[microdiversions]]) are related to the [[pringles effect]]

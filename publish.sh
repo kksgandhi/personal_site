@@ -1,4 +1,6 @@
 #!/bin/bash
+git add *.md
+git add -u
 git commit -am "automatic commit"
 
 rm -r /tmp/temp-obsidian

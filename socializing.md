@@ -6,4 +6,4 @@ Setting up large, inclusive events is awesome for phase 1. Setting up smaller, r
 
 -----
 
-From [[Dunbar'S Layers And Mmo Design-Kim|Dunbar's Layers]]:  People need constant, positive, personal interactions with others. Second, they need to know their bond is stable, that there is mutual concern, and that this attachment will continue.
+From [[Dunbar's Layers And Mmo Design-Kim|Dunbar's Layers]]:  People need constant, positive, personal interactions with others. Second, they need to know their bond is stable, that there is mutual concern, and that this attachment will continue.

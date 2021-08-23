@@ -32,3 +32,5 @@ some stereotypes are harmful, others are not
 structure helps the weak, hinders the strong
 
 effing the ineffable
+
+subtle changes in the setup of social networks changes how social groups are formed. (Also urban planning?)

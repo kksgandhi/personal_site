@@ -10,7 +10,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "anything can be art.md",
+            "file": "SDT.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -52,8 +52,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "anything can be art.md",
-                "mode": "preview"
+                "file": "SDT.md",
+                "mode": "source"
               }
             },
             "group": "e9c44d2b7308be98"
@@ -65,7 +65,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "anything can be art.md",
+                "file": "SDT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -105,7 +105,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pretrain",
+                "query": "doesnot",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "anything can be art.md",
+                "file": "SDT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,17 +152,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0c31447bfb9eb95e",
+  "active": "79a4ee527e222e95",
   "lastOpenFiles": [
-    "anything can be art.md",
-    "The Talos Principle.md",
-    "Who am I - professionally.md",
-    "index.md",
-    "Untitled.md",
-    "my publications.md",
-    "tutorial design.md",
-    "listening to the other side.md",
-    "philosophy - youtube.md",
-    "research.md"
+    "SDT.md",
+    "learning - cognitive load.md",
+    "cognitive load.md",
+    "Usability_Engineering-Nielsen.md",
+    "cognitive load theory.md",
+    "Dunbar'S Layers And Mmo Design-Kim.md",
+    "Dunbar's layers.md",
+    "Anonymity In Toxic Online Disinhibition-Lapidot-Lefler.md",
+    "absurd media.md",
+    "Welcome to Nightvale.md"
   ]
 }

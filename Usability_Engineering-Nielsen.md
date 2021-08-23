@@ -1,7 +1,7 @@
 #notesFromPaper
 ### Chapter 1
 
-Dude just take a fucking field trip to your users
+Dude just take a field trip to your users, easy
 
 [[Usability]] studies are relatively easy to do and so absurdly useful
 
@@ -30,5 +30,3 @@ Scenarios? Thinking aloud?
 mmm, mmmmmmm, mmmmmm
 
 a mumble screen gets rid of words so you can focus on layout
-
-Honestly this chapter was good but I'm a numbnut and wanna shelp

@@ -9,6 +9,6 @@ Hits a lot of the "obvious notes", people are more likely to be toxic over text 
 
 People are less likely to answer sensitive survey questions when a photo of the surveyer was attached.
 
-The study had anonymity (identifying screen name or not), visibility (side view webcam or not), or eye contact (forward webcam or not)
+The study had anonymity (identifying screen name or not), visibility (side view webcam or not), or eye contact (forward webcam or not) and found that eye contact was the biggest factor in decreasing toxicity.
 
 Participants had to argue about whether their loved one deserved a life saving drug or not (wtf???)

@@ -1,4 +1,4 @@
-tags: [[people are resistant to change]]
+tags: [[people are resistant to change]] [[cognitive load]]
 
 According to [[Failure Of Discovery Based Learning And Benefits Of Guided Training Methods-Clark]]:
 
