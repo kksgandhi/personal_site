@@ -10,7 +10,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "SDT.md",
+            "file": "social groups.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SDT.md",
+                "file": "social groups.md",
                 "mode": "source"
               }
             },
@@ -65,7 +65,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SDT.md",
+                "file": "social groups.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SDT.md",
+                "file": "social groups.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,17 +152,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "79a4ee527e222e95",
+  "active": "0c31447bfb9eb95e",
   "lastOpenFiles": [
+    "social groups.md",
+    "Dunbar's Layers And Mmo Design-Kim.md",
+    "online community building.md",
     "SDT.md",
     "learning - cognitive load.md",
     "cognitive load.md",
     "Usability_Engineering-Nielsen.md",
     "cognitive load theory.md",
     "Dunbar'S Layers And Mmo Design-Kim.md",
-    "Dunbar's layers.md",
-    "Anonymity In Toxic Online Disinhibition-Lapidot-Lefler.md",
-    "absurd media.md",
-    "Welcome to Nightvale.md"
+    "Dunbar's layers.md"
   ]
 }
