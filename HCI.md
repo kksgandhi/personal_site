@@ -1,3 +1,5 @@
+[[CHI conference]] is the premier HCI conference
+
 [[HCI]] interacts with a variety of fields
 
 Bad [[HCI]] can cause large losses of profit

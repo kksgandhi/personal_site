@@ -13,3 +13,7 @@ I don't personally like meditation apps or meditation coaches. Usually these coa
 ----
 
 All this said I'm pretty shit at actually meditating on a consistent schedule. It's important to not beat yourself up about that either.
+
+----
+
+https://student.korumindfulness.org/free-guided-meditations.html

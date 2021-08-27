@@ -10,7 +10,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "social groups.md",
+            "file": "stories.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "social groups.md",
+                "file": "stories.md",
                 "mode": "source"
               }
             },
@@ -65,7 +65,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "social groups.md",
+                "file": "stories.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "social groups.md",
+                "file": "stories.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,15 +154,15 @@
   },
   "active": "0c31447bfb9eb95e",
   "lastOpenFiles": [
+    "stories.md",
+    "HCI.md",
+    "conferences.md",
+    "Chi.md",
+    "CHI_Paper_Submissions.md",
+    "Microbreaks-Crowdsourcing_Rzeszotarski.md",
+    "image labeling.md",
+    "being yourself.md",
     "social groups.md",
-    "Dunbar's Layers And Mmo Design-Kim.md",
-    "online community building.md",
-    "SDT.md",
-    "learning - cognitive load.md",
-    "cognitive load.md",
-    "Usability_Engineering-Nielsen.md",
-    "cognitive load theory.md",
-    "Dunbar'S Layers And Mmo Design-Kim.md",
-    "Dunbar's layers.md"
+    "social hierarchy.md"
   ]
 }

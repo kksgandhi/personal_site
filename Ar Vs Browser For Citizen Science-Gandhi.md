@@ -3,6 +3,8 @@ Year   : 2021
 Tags   : #AR
 Authors: [[Gandhi]] [[Miller]] [[Sophie]] [[Apte]] [[Fatehi]] [[Wylie]] [[Cooper]]
 
+[PAPER PREPRINT](https://drive.google.com/file/d/1ca4L80-M8J9yoRtWJhRSEodBqnWUMMaY/view?usp=sharing)
+
 [[citizen science]] gamifies itself for retention. Could [[AR]] be useful for this?
 
 AR can
@@ -35,7 +37,6 @@ Major theme: *AR is a leisurely toy*
  - Physicality slows down AR play
  - AR affords and demands spatial processing
  - The AR novelty has toy qualities
-
 
 ### The browser game is more fast, familiar, and accessible
 
