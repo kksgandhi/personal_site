@@ -4,3 +4,5 @@ My interests primarily lie in [[educational games]], with a specific focus on [[
 
  - [[publications|my publications]]
  - [[projects|my projects]]
+
+**Note: If you do want to click on these links and go deeper into the site, please read my [[disclaimers]] first!**

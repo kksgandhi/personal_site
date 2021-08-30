@@ -7,3 +7,5 @@ I think one of my core beliefs is [[diversity]]. I like [[do things|doing as man
 In my free time I like hanging out with as many different people as will tolerate me, [[rock climbing]], [[DnD]], [[biking]], [[board games]], exploring using the [[Atlas Obscura]] and obviously [[video games]]
 
 [[stuff worth reading|Other things I like enough to have thoughts about it]]
+
+**Note: If you do want to click on these links and go deeper into the site, please read my [[disclaimers]] first!**

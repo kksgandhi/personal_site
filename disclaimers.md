@@ -1,3 +1,5 @@
+This website contains *all* my notes. Feel free to read them, but remember:
+
  - These notes should not be taken as well researched bastions of information. Quite frankly they should be taken as the incoherent ramblings of a madman.
  - I don't strongly stand by any opinions in here, most of the stuff I've written is kinda off the cuff instead of formally being "a statement of my convictions"
  - If you disagree with my opinions in something I've written, please don't hate me. Instead, contact me. I'm always curious to hear new opinions and learn!

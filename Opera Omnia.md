@@ -1,0 +1,4 @@
+ - Some things hidden, but that's just environmental storytelling
+   - The blue killing the others
+ - makes you feel "good at" changing the past
+ - 
