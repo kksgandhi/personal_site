@@ -1,0 +1,11 @@
+In Opera Omnia you play as an academic studying population movements and history. Your work is funded by a politician who asks you to create models for potential historical scenarios. At first, the politician simply asks for what the population of a certain city likely was a thousand years ago, or what migration routes people used, but as the game goes on, things become increasingly sinister, and not even in a subtle way. 
+
+The first clue is that the two populations you look at are "Us" and "The Other". As the game progresses, the politician asks you to "prove" that "The Other" cause plagues wherever they go, that they are nomads without any culture of their own, and that they have no claim to the lands they consider ancestral. The game ends with a genocide of "The Other". The game shows you, in no uncertain terms, that the genocide was perpetrated on the back of your dehumanizing research. Despite that, your player character denies his involvement to the very end, saying that he was merely doing research with no bearing on the genocide, and that "Meaning isn't [his] concern. Only the facts"
+
+Writing all this, I feel like I'm doing Opera Omnia a disservice. In some ways (such as calling the immigrant group "The Other") the plot of Opera Omnia is incredibly heavy handed, but I don't really consider that a negative, especially since the subtle parts of Opera Omnia are done really, really well. Opera Omnia does a great job at having story beats be tied in with the mechanics: There were plenty of times where the solution to a puzzle helped me understand a story beat, where the way you bent history revealed things about your player character's unconscious biases.
+
+Beyond that, Opera Omnia did an incredible job at making you think about how to do research unethically. Solving the puzzles was a constant cycle of "ooh, how do I futz with this" and "dang, this is an objective fact, but how can I bend everything around it so it says what I want"
+
+All in all, Opera Omnia definitely could have been better, and honestly was a slog to play at times, but I don't think I've seen a game do better at [[perspective taking|making you take a perspective it wanted you to take]].
+
+[[false objectivity]]

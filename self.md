@@ -9,3 +9,7 @@ In the same way America doesn't really "exist", I'm of the opinion that the idea
 Most people would say that me from a decade ago is the same me that exists right now, but honestly there are so many differences that [[death of a self|we may as well be different people]]
 
 This is why a lot of questions around [[mind uploading]] and the [[experience machine]] confuse us, because the self doesn't really exist as much as we want it to.
+
+-----------
+
+#todo: https://www.smbc-comics.com/comic/2014-06-12

@@ -4,4 +4,8 @@
  - [[Quandary]]
    - Interesting children's philosophy game
  - [Sisyphus](https://gprosser.itch.io/sisyphus)
+ - [[Opera Omnia]]
  - [[Chimeria: Grayscale]]
+
+[[list of transformational games]]\
+[[list of civics games]]

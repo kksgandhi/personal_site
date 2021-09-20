@@ -1,6 +1,6 @@
 #notesFromPaper
 Authors: [[Chaima]] [[Magy]] [[Erica]]
-Tags   : [[cs education]] [[gamification]]
+Tags   : [[CS education]] [[gamification]]
 
 constructivist approaches such as scratch increase engagement, but don't actually teach students core concepts.
 

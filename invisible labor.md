@@ -16,6 +16,8 @@ Smiling when you want to cry, or being [[diplomacy|diplomatic]] to someone who y
 
 I'm not talking about the physical act of chores, but rather the mental effort of remembering what needs to be done and when, what needs to be purchased from the store, how to do things to avoid complications later on.
 
+[A good comic strip on the effect](https://www.workingmother.com/this-comic-perfectly-explains-mental-load-working-mothers-bear)
+
 ### Organizing an event
 
 Similar to managing a household, but with the additional fact that organizing an event requires burning [[social capital]]. You have to put yourself out there, [[leadership frustrations|be on the hook if things don't go as planned]], and bother people to encourage them to come to the event.

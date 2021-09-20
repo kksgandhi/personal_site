@@ -9,6 +9,7 @@ Philosophical Games
 
  - Ethics and Game Design Schrier (exists)
  - Boyan Grizzard Massively Moral Game: Mass effect to study the influence of moral intuitions on adherence to hero or antihero play styles
+ - Emotionally moving moments in digital games - Bopp, Mekler, Opwis
 
 Benefits of Games
 -----------------

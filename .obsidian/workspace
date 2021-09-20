@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "0c31447bfb9eb95e",
+        "id": "e02c218f9364dba2",
         "type": "leaf",
-        "dimension": 71.11255692908263,
+        "dimension": 58.791581805838426,
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "stories.md",
+            "file": "tactile games.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -18,8 +18,8 @@
               "localBacklinks": true,
               "localForelinks": true,
               "localInterlinks": true,
-              "showTags": true,
-              "showAttachments": true,
+              "showTags": false,
+              "showAttachments": false,
               "hideUnresolved": false,
               "collapse-color-groups": true,
               "colorGroups": [],
@@ -27,55 +27,55 @@
               "showArrow": false,
               "textFadeMultiplier": 0,
               "nodeSizeMultiplier": 1,
-              "lineSizeMultiplier": 1.48352941176471,
-              "collapse-forces": true,
-              "centerStrength": 0.564102564102564,
+              "lineSizeMultiplier": 1,
+              "collapse-forces": false,
+              "centerStrength": 0.518713248970312,
               "repelStrength": 10,
               "linkStrength": 1,
               "linkDistance": 30,
-              "scale": 0.7011295699454116,
+              "scale": 0.9051466533494986,
               "close": true
             }
           }
         },
-        "group": "e9c44d2b7308be98"
+        "group": "076293d558864a66"
       },
       {
-        "id": "8a821c9047a9129e",
+        "id": "b6e3b7b40377ff70",
         "type": "split",
-        "dimension": 28.887443070917374,
+        "dimension": 41.208418194161574,
         "children": [
           {
-            "id": "79a4ee527e222e95",
+            "id": "88ca5577cc5fa077",
             "type": "leaf",
-            "dimension": 61.75548589341693,
+            "dimension": 64.5360824742268,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "stories.md",
-                "mode": "source"
+                "file": "tactile games.md",
+                "mode": "preview"
               }
             },
-            "group": "e9c44d2b7308be98"
+            "group": "076293d558864a66"
           },
           {
-            "id": "0cf07e759a21b1b3",
+            "id": "d5247d02b6771c66",
             "type": "leaf",
-            "dimension": 38.24451410658307,
+            "dimension": 35.4639175257732,
             "state": {
               "type": "backlink",
               "state": {
-                "file": "stories.md",
+                "file": "tactile games.md",
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "byModifiedTime",
+                "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
             },
-            "group": "e9c44d2b7308be98"
+            "group": "076293d558864a66"
           }
         ],
         "direction": "horizontal"
@@ -105,7 +105,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "doesnot",
+                "query": "PBL",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,7 +114,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -134,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "stories.md",
+                "file": "tactile games.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,17 +153,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "79a4ee527e222e95",
+  "active": "88ca5577cc5fa077",
   "lastOpenFiles": [
-    "stories.md",
-    "HCI.md",
-    "conferences.md",
-    "Chi.md",
-    "CHI_Paper_Submissions.md",
-    "Microbreaks-Crowdsourcing_Rzeszotarski.md",
-    "image labeling.md",
-    "being yourself.md",
-    "social groups.md",
-    "social hierarchy.md"
+    "tactile games.md",
+    "innovative games.md",
+    "list of transformational games.md",
+    "teaching - leadership.md",
+    "Quandary.md",
+    "Perspective Taking And Decision Making In Educational Game Play-Hilliard.md",
+    "SEL.md",
+    "Learning_Education_Games-Schrier.md",
+    "Two Rooms and a Boom.md",
+    "list of civics games.md"
   ]
 }

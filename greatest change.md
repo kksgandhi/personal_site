@@ -1,0 +1,1 @@
+"When we hit our lowest point, we are open to the greatest change."

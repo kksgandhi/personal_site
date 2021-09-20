@@ -2,4 +2,5 @@
 Year   :
 Tags   :
 Authors: [[Schrier]] [[Gibson]]
-#unread 
+
+[[Designing Ethical Gameplay-Sicart]]

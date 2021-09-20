@@ -15,3 +15,7 @@ In open world games there's this notion of locks and keys. You don't want player
 #todo write about mandatory death in the Outer Wilds
 
 https://youtu.be/Y7dUk7Wi-BA
+
+-------
+
+#todo read this: https://medium.com/@Urzashottub/finding-meaning-in-outer-wilds-41ebf1909a8b

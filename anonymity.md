@@ -1,0 +1,1 @@
+[[Ethics And Game Design-Schrier]] preface xviii says Good Play project at Harvard showed that young people don't apply an ethical understanding to online experiences because they are taught that what happens online doesn't matter.

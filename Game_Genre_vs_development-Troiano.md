@@ -1,7 +1,7 @@
 #notesFromPaper
 Authors: [[Giovanni]]
 Year   :
-Tags   : [[scratch]] [[genre]] #gamifiedEducation [[computational thinking]] [[cs education]]
+Tags   : [[scratch]] [[genre]] #gamifiedEducation [[computational thinking]] [[CS education]]
 
 When designing games using something like Scratch, the game genre can matter and create different outcomes
 
