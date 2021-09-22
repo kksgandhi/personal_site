@@ -1,1 +1,1 @@
-subset of [[philosophy - games]]
+subset of [[philosophy - game recommendations]]

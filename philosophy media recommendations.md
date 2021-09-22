@@ -1,4 +1,4 @@
- - [[philosophy - youtube|Here are a bunch of youtube channels that do fantastic video essays]]
- - [[philosophy - games|Video games with a philosophical bent]]
+ - [[philosophy - youtube|Youtube channels that do fantastic video essays]]
+ - [[philosophy - game recommendations|Video games with a philosophical bent]]
  - [[philosophy - books|Books]]
  - [[philosophy - other media|Other media]]

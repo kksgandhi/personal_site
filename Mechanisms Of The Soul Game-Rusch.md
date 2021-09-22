@@ -1,6 +1,6 @@
 #notesFromPaper
 Year   :
-Tags   : [[philosophy - games]] [[human condition]] [[self]] [[fiction]]
+Tags   : [[philosophy - game recommendations]] [[human condition]] [[self]] [[fiction]]
 Authors: [[Rusch]]
 
 Games involve real rules and fictional worlds. Games are real in a sense, fictional in others

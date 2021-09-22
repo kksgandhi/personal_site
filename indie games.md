@@ -6,10 +6,9 @@
 
 ### [[Before Your Eyes]] (1-2 hours)
 
-A game with an incredible story that is controlled entirely by your blinks! It sounds good on paper, and is perfect in practice, this game made me cry and then cry some more and I couldn't stop listening to the end credit soundtrack on repeat and I love this game so much just go play it goddammit it. (Ok content warning it is very sad)
+A game with an incredible story that is controlled entirely by your blinks! It sounds good on paper, and is even better in practice, this game made me cry and then cry some more and I couldn't stop listening to the end credit soundtrack on repeat and I love this game so much just go play it goddammit it. (Ok content warning it is very sad)
 
-My rating:        10/10
-
+My rating:        10/10\
 Recommendability: 10/10
 
 ### A Short Hike (2-3 hours)
@@ -30,7 +29,7 @@ Recommendability: 9/10
 
 ### [[Gris]] (3-4 hours)
 
-Literally the most beautiful game I've ever played, every frame of that game is wallpaper worthy. I played Gris when I was at a bad point in my life, and afterwards I described it as a game that squished my soul back together again. Honestly I'm not sure how memorable the game is, nor do I know how recommendable it is (since it's rather slow at times), but it absolutely deserves to be on this list.
+Literally the most beautiful game I've ever played, every frame of that game is wallpaper worthy. I played Gris when I was at a bad point in my life, and afterwards I described it as a game that squished my soul back together again. It is rather slow at times, but it absolutely deserves to be on this list.
 
 My rating: 8/10
 
@@ -68,7 +67,7 @@ My rating: 7/10
 
 Recommendability: 7/10 (it's still a slightly difficult platformer, though still one of the more accessible ones)
 
-### [[Outer Wilds]] (24+ hours)
+### [[Outer Wilds]] (15 - 20 hours / 22 minutes)
 
 By fucking god do I love Outer Wilds. When I'm sad, I listen to Outer Wilds music and every time it hits me like a truck. The story is incredible, and the way that it lets you put the story together instead of just letting you walk through the story linearly makes you incredibly emotionally invested in the things I was piecing together. It is a very niche game: It is an exploration focused game that doesn't hold your hand, with a variety of puzzles and complex challenges. Absolutely worth it if you think that's the kind of game for you.
 

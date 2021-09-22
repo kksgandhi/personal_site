@@ -10,7 +10,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "tactile games.md",
+            "file": "philosophy - game recommendations.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tactile games.md",
+                "file": "philosophy - game recommendations.md",
                 "mode": "preview"
               }
             },
@@ -65,7 +65,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tactile games.md",
+                "file": "philosophy - game recommendations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "PBL",
+                "query": "Spec Ops",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tactile games.md",
+                "file": "philosophy - game recommendations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,15 +155,15 @@
   },
   "active": "88ca5577cc5fa077",
   "lastOpenFiles": [
-    "tactile games.md",
-    "innovative games.md",
+    "philosophy - game recommendations.md",
+    "philosophy - games.md",
+    "philosophy media recommendations.md",
+    "game recommendations.md",
+    "Mechanisms Of The Soul Game-Rusch.md",
     "list of transformational games.md",
-    "teaching - leadership.md",
-    "Quandary.md",
-    "Perspective Taking And Decision Making In Educational Game Play-Hilliard.md",
-    "SEL.md",
-    "Learning_Education_Games-Schrier.md",
-    "Two Rooms and a Boom.md",
-    "list of civics games.md"
+    "transformational games - resources.md",
+    "transformational games.md",
+    "games.md",
+    "Opera Omnia.md"
   ]
 }
