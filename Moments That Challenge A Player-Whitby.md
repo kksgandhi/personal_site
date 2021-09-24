@@ -19,3 +19,5 @@ The main section is a long list of types of transformations and quotes, it's pre
 [[people are resistant to change]]. Most transformations are small, and [[endotransformative]]
 
 Not too many recommendations for design.
+
+"Are we the baddies"

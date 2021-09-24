@@ -13,8 +13,6 @@ small open world games feel big
 
 literature is codification of the unknowable
 
-if you had a recipe with eggs, you'd know it was about chicken eggs. What is lost to history because of assumptions
-
 correlation, how some things aren't as correlated as people think they are, how ineffable quality is often correlated with effable quality
 
 trauma breaks your body down, trauma teaches you, but is only good for that circumstance. People return to their traumas because it's what they understand.
@@ -46,3 +44,7 @@ Projection + Disliking what we see in ourselves
 Not trans, but there is a juxtaposition between who I present as and who I am
 
 The three selves
+
+To love is to be vulnerable, and therefore in order to love you must be impenetrable
+
+flexibility vs productivity, happiness vs productivity

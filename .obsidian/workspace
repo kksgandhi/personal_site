@@ -10,7 +10,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "philosophy - game recommendations.md",
+            "file": "looped trolley problem.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -28,12 +28,12 @@
               "textFadeMultiplier": 0,
               "nodeSizeMultiplier": 1,
               "lineSizeMultiplier": 1,
-              "collapse-forces": false,
+              "collapse-forces": true,
               "centerStrength": 0.518713248970312,
               "repelStrength": 10,
               "linkStrength": 1,
               "linkDistance": 30,
-              "scale": 0.9051466533494986,
+              "scale": 0.9489000883886161,
               "close": true
             }
           }
@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "philosophy - game recommendations.md",
+                "file": "looped trolley problem.md",
                 "mode": "preview"
               }
             },
@@ -65,7 +65,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "philosophy - game recommendations.md",
+                "file": "looped trolley problem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Spec Ops",
+                "query": "survey",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "philosophy - game recommendations.md",
+                "file": "looped trolley problem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,15 +155,15 @@
   },
   "active": "88ca5577cc5fa077",
   "lastOpenFiles": [
-    "philosophy - game recommendations.md",
-    "philosophy - games.md",
-    "philosophy media recommendations.md",
-    "game recommendations.md",
-    "Mechanisms Of The Soul Game-Rusch.md",
-    "list of transformational games.md",
-    "transformational games - resources.md",
-    "transformational games.md",
-    "games.md",
-    "Opera Omnia.md"
+    "looped trolley problem.md",
+    "trolley problems.md",
+    "ethical dilemmas.md",
+    "games - reflection.md",
+    "Moments That Challenge A Player-Whitby.md",
+    "ARG.md",
+    "Gamified_Education_Lit_Review.md",
+    "STEM.md",
+    "Games Design Learning Review And Meta-Analysis-Clark.md",
+    "games.md"
   ]
 }

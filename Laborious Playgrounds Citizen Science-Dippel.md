@@ -7,7 +7,7 @@ Authors: [[Dippel]] [[Fizek]]
 
 [[eterna]]
 
-[[world without oil]]
+[[World without Oil]]
 
 protein patterns, neural retina pathways, galaxy morphology, Higgs Boson detection, social language tagging, and art tagging.
 

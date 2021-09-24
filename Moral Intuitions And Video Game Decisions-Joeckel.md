@@ -21,7 +21,7 @@ Players were told they were evaluating a game, then were given 6 scenarios testi
 
 used a moral foundations questionnaire created by [[Haidt]]
 
-The first part of their hypothesis was correct, more salient modules were less transgressed.
+The first part of their hypothesis was correct, more [[certain taboos are maintained in games|salient modules were less transgressed]].
 
 Germans were liberal?? US adolescents were conservative?? No major differences between nationalities?
 

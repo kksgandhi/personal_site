@@ -25,4 +25,4 @@ GBL had higher enjoyment.
 
 Increased enjoyment means increased learning, and games increase enjoyment (even if the direct link isn't significant)
 
-GBL better for high anxiety and low confidence, eases the learning process.
+GBL better for [[intrinsic ease of learning|high anxiety and low confidence]], eases the learning process.

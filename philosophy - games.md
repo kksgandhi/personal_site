@@ -30,6 +30,7 @@ See also: [[philosophy - game recommendations]] for the games I actually recomme
 
  - [[The Witness]]
  - [[Antichamber]]
+ - [[Portal]]
 
 ### Grief
 
@@ -45,6 +46,6 @@ See also: [[philosophy - game recommendations]] for the games I actually recomme
 
 ### Politics
 
- - [[Bioshock]]
+ - [[Bioshock]]\*
  - [[September 12th]]
  - [[Opera Omnia]]

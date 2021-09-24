@@ -3,3 +3,5 @@ The me from 10 years ago is dead. I have a lot of his memories, his beliefs, he 
 People die in this way all the time, and we're all fine with it. If your friend learns something new or changes their mind, we don't mourn the loss of who was, we barely register it. 
 
 #todo Thinking about it in this way makes saying goodbye a lot easier.
+
+https://www.smbc-comics.com/comic/2014-06-12

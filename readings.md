@@ -24,7 +24,6 @@ Benefits of Games
 Learning
 --------
 
- - [Response to Clark's failure of PBL](https://www.tandfonline.com/doi/abs/10.1080/00461520701263368)
  - [Expertise reversal effect about reducing structure after people have competency](https://doi.apa.org/doiLanding?doi=10.1037%2Fa0022243)
 
 Philosophy in the classroom

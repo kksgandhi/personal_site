@@ -54,7 +54,7 @@ serious games for entrepreneurship
 
 Moncada and Moncada: games in an accounting class, and also how to build games / gamification into your course if you are not a programmer
 
-I think this survey uses gamified when it actually means game based... Either that or its put a lot of gamification stuff in the GBL category
+I think this survey uses gamified when it actually means [[gameful learning|game based]]... Either that or its put a lot of gamification stuff in the GBL category
 
 game based bio classroom did well
 
