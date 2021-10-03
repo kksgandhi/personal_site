@@ -33,12 +33,6 @@ effing the ineffable
 
 subtle changes in the setup of social networks changes how social groups are formed. (Also urban planning?)
 
-Opera Omnia
-
-Homunculus and seeing people as they truly are, the three selves. You are an amalgamation of the various people you've met.
-
-Should you change the world, or should you change yourself?
-
 Projection + Disliking what we see in ourselves
 
 Not trans, but there is a juxtaposition between who I present as and who I am

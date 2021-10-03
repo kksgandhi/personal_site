@@ -1,3 +1,3 @@
 [[emotional intelligence]]
 
-[[thinking fast and slow]]
+[[the power of emotions]]

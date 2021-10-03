@@ -1,0 +1,1 @@
+"Where Kohlberg saw the capacity to make rational moral judgements as the basis of [[moral competency]], Neo-Kohlbergians contend that it is merely *part* of a much larger and complex cognitive apparatus".

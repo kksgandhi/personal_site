@@ -6,7 +6,7 @@ Authors: [[Whitby]] [[Deterding]] [[Iacovides]]
 
 [[games - reflection]]
 
-Discusses reflective games: [[Braid]], [[Spec Ops: The Line]], [[Metal Gear Solid]], [[September 12th]]
+Discusses reflective games: [[Braid]], [[Spec Ops, The Line]], [[Metal Gear Solid]], [[September 12th]]
 
 Open online survey
 

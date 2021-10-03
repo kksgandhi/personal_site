@@ -48,7 +48,7 @@ Matches took 4x longer in the AR version without an increase in accuracy. About 
 
 ### AR affords and demands spatial processing
 
-Increased cognitive load for some, better physical affordances for others. Many players "broke the game" or used the tiles in ways they wanted to, which would be impossible with the hardcoded digital game.
+Increased cognitive load for some, better physical affordances for others. Many players "[[gameplay subversion|broke the game]]" or used the tiles in ways they wanted to, which would be impossible with the hardcoded digital game.
 
 ### The AR novelty has toy qualities
 

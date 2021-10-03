@@ -3,11 +3,12 @@ See also: [[philosophy - game recommendations]] for the games I actually recomme
 ### Ethics
 
  - [[Papers Please]]
- - [[Spec Ops: The Line]]
+ - [[Spec Ops, The Line]]
  - [[Opera Omnia]]
  - [[This War of Mine]]
  - [[Bioshock]]
  - [[Seedship]]
+ - [[Ultima IV]]
 
 ### Meaning of Life / Purpose
 
@@ -40,7 +41,7 @@ See also: [[philosophy - game recommendations]] for the games I actually recomme
 
 ### War
 
- - [[Spec Ops: The Line]]
+ - [[Spec Ops, The Line]]
  - [[Dujanah]]
  - [[September 12th]]
 
@@ -49,3 +50,4 @@ See also: [[philosophy - game recommendations]] for the games I actually recomme
  - [[Bioshock]]\*
  - [[September 12th]]
  - [[Opera Omnia]]
+ - [[Spent]]

@@ -6,6 +6,6 @@
 
 ### Feminism
 
- - [[Chimeria: Grayscale]]
+ - [[Chimeria Grayscale]]
 
 [[list of civics games]]

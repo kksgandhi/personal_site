@@ -5,5 +5,8 @@
   "promptDelete": false,
   "alwaysUpdateLinks": true,
   "spellcheck": true,
-  "enabledPlugins": []
+  "enabledPlugins": [],
+  "spellcheckDictionary": [
+    "transformational"
+  ]
 }

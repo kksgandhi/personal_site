@@ -43,6 +43,7 @@ Game Design
 
  - Games As Speculative Design-Coulton.md (exists)
  - [character believability in games](https://loading.journals.publicknowledgeproject.org/loading/index.php/loading/article/view/42/51)
+ - pals in power armor besmann (anthropomorphization in games)
  - [Well played 2.0, games value and meaning](https://www.google.com/books/edition/Well_Played_3_0/wapFAwAAQBAJ?hl=en&gbpv=0)
 
 Games User Research

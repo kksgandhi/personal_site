@@ -5,7 +5,7 @@ Authors: [[Ortiz]] [[Harrell]]
 
 How can [[interactive fiction]] and [[roleplay]] support reflection?
 
-Research through the game [[Chimeria: Grayscale]], 31 participants played it and completed a survey. Results suggest that the game enabled critical reflection.
+Research through the game [[Chimeria Grayscale]], 31 participants played it and completed a survey. Results suggest that the game enabled critical reflection.
 
 Design on reflection from a cognitive or learning sciences POV are largely absent from the literature. Previous work assumes that simply providing access to data will create reflection, but this doesn't account for [[backfire|backfire effects]] and really doesn't have any basis in general. Reflection needs to be [[frameworks|scaffolded]]
 

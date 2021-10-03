@@ -1,3 +1,5 @@
+#killerPaper
+
 Chapter in [[Ethics And Game Design-Schrier]]
 
 Games have the capability to deepen moral reasoning.
@@ -12,4 +14,13 @@ A bit of talk on [[intuitionism]] and how that's not necessarily all of morality
 
 Ok but how do we deal with the fact that [[people act differently in games]]?
 
-#bookmark Learning by Seeing
+[[prosocial game claims bolster violent video game claims]]
+
+[[teach via rules and outcomes]]
+
+encourage [[gameplay subversion]]
+
+implications for design:
+
+ - expand the range of vicarious experiences games offer
+ - highlight the moral dimension of system impacting choices. See [[intuitionism]]

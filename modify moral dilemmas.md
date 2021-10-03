@@ -1,0 +1,1 @@
+A good way to really hit home with [[moral dilemmas]] is to modify them slightly to mess with whatever implicit moral theory someone is using to solve them. Aka mess with a utilitarian by turning the [[trolley problem]] into the [[fat man problem]]

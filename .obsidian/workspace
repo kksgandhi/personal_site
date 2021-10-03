@@ -10,7 +10,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "chocolate covered broccoli.md",
+            "file": "stoicism.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -33,7 +33,7 @@
               "repelStrength": 10,
               "linkStrength": 1,
               "linkDistance": 30,
-              "scale": 0.8022802925838228,
+              "scale": 0.8499307881287108,
               "close": true
             }
           }
@@ -48,11 +48,11 @@
           {
             "id": "88ca5577cc5fa077",
             "type": "leaf",
-            "dimension": 64.5360824742268,
+            "dimension": 47.64079147640791,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "chocolate covered broccoli.md",
+                "file": "stoicism.md",
                 "mode": "preview"
               }
             },
@@ -61,11 +61,11 @@
           {
             "id": "d5247d02b6771c66",
             "type": "leaf",
-            "dimension": 35.4639175257732,
+            "dimension": 52.35920852359209,
             "state": {
               "type": "backlink",
               "state": {
-                "file": "chocolate covered broccoli.md",
+                "file": "stoicism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "survey",
+                "query": "cgp",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "chocolate covered broccoli.md",
+                "file": "stoicism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,15 +155,15 @@
   },
   "active": "88ca5577cc5fa077",
   "lastOpenFiles": [
-    "chocolate covered broccoli.md",
-    "edugames don't fit well into the classroom structure.md",
-    "educational games.md",
-    "transformational games.md",
-    "looped trolley problem.md",
-    "trolley problems.md",
-    "ethical dilemmas.md",
-    "games - reflection.md",
-    "Moments That Challenge A Player-Whitby.md",
-    "ARG.md"
+    "stoicism.md",
+    "sadness.md",
+    "eudaimonia.md",
+    "jealousy.md",
+    "hedonic treadmill.md",
+    "single mindedness corrupts.md",
+    "happiness.md",
+    "anger.md",
+    "memes.md",
+    "emotions.md"
   ]
 }
