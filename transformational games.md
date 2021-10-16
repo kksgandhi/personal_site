@@ -2,8 +2,9 @@ Games designed to transform the player by making them learn something, [[lenses|
 
 Transformational games are an umbrella term for [[serious games]], [[educational games]], [[gwap|Games with a purpose]], etc.
 
-
 [[transformational games - resources]]
+
+[[it's hard to evaluate transformational games|Unfortunately, transformational games are hard to study]]
 
 How do transformational games work?
 

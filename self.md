@@ -13,3 +13,5 @@ This is why a lot of questions around [[mind uploading]] and the [[experience ma
 -----------
 
 [[three selves]]
+
+what does it mean if we [[offloading the self|offload the self?]]

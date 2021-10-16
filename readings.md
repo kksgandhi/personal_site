@@ -29,7 +29,6 @@ Learning
 Philosophy in the classroom
 ---------------------------
 
- - Game Based Learning In Higher Education-Crocco.md (largescale)
  - Survey On Teaching With Digital Games-Takeuchi.md
  - Schrier: Designing and using games to teach ethics and ethical thinking
  - Campbell 2007: How can we know that ethics education produces ethical doctors?
@@ -66,8 +65,8 @@ AR
 
  - Why Is Ar Meaningful-Laato.md
 
-Other / Someday
----------------
+Other
+-----
 
  - Conceptualization Of Skill Chains-Miller.md (exists)
  - Brain Computation By Assemblies Of Neurons-Papadimitriou.md (downloaded)

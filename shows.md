@@ -1,7 +1,7 @@
 Mythic Quest?
 It's always sunny
-Loki
 Taskmaster
 Futurama
 Fleabag
 Undone
+Fargo

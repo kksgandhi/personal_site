@@ -6,9 +6,11 @@ See also: [[philosophy - game recommendations]] for the games I actually recomme
  - [[Spec Ops, The Line]]
  - [[Opera Omnia]]
  - [[This War of Mine]]
- - [[Bioshock]]
+ - [[Frostpunk]]\*
+ - [[Bioshock]]\*
  - [[Seedship]]
- - [[Ultima IV]]
+ - [[Ultima IV]]\*
+ - [[The Vanishing of Ethan Carter]]
 
 ### Meaning of Life / Purpose
 
@@ -51,3 +53,12 @@ See also: [[philosophy - game recommendations]] for the games I actually recomme
  - [[September 12th]]
  - [[Opera Omnia]]
  - [[Spent]]
+ - [[Papers Please]]
+ - [[Detention]]
+
+### Transhumanism
+
+ - [[Observer]]\*
+ - [[SOMA]]\*
+
+### 

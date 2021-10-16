@@ -1,1 +1,1 @@
-a common claim is that [[violen video games]] make children violent, which games advocates claim is not true... but if games researchers also claim that games can teach their themes, doesn't that imply that games *can* teach kids violence?
+a common claim is that [[violent video games]] make children violent, which games advocates claim is not true... but if games researchers also claim that games can teach their themes, doesn't that imply that games *can* teach kids violence?

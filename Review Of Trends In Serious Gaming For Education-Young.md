@@ -42,7 +42,7 @@ Post reading Kutub thoughts:
 
 So first and foremost, I'm wondering if this paper is overly critical or possibly outdated. No alarm bells actually went off in my head, but I don't know the field well enough to say whether this paper found all of the relevant literature and represented it properly. Furthermore, this paper was written in 2012, so I'm wondering if any other work has overturned this paper since then.
 
-Assuming that it is correct (which I feel is reasonable because no alarm bells went off as I read it), I think this is my major takeaway: Games and [[declarative learning]] don't work well together; past studies haven't shown too much of a benefit. [[it's hard to evaluate edugames|There are a variety of reasons that this might be the case]]. Games are better for [[SEL]]. There are a variety of ways for the field of [[GUR]] to improve itself, which I've detailed above.
+Assuming that it is correct (which I feel is reasonable because no alarm bells went off as I read it), I think this is my major takeaway: Games and [[declarative learning]] don't work well together; past studies haven't shown too much of a benefit. [[it's hard to evaluate transformational games|There are a variety of reasons that this might be the case]]. Games are better for [[SEL]]. There are a variety of ways for the field of [[GUR]] to improve itself, which I've detailed above.
 
 ----
 

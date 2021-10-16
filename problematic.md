@@ -1,0 +1,3 @@
+ - directly offensive to those around you
+ - perpetuates harmful stereotypes
+ - indicates a moral failing

@@ -36,9 +36,3 @@ subtle changes in the setup of social networks changes how social groups are for
 Projection + Disliking what we see in ourselves
 
 Not trans, but there is a juxtaposition between who I present as and who I am
-
-The three selves
-
-To love is to be vulnerable, and therefore in order to love you must be impenetrable
-
-flexibility vs productivity, happiness vs productivity

@@ -10,7 +10,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "stoicism.md",
+            "file": "problematic.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -33,7 +33,7 @@
               "repelStrength": 10,
               "linkStrength": 1,
               "linkDistance": 30,
-              "scale": 0.8499307881287108,
+              "scale": 0.8907953817348615,
               "close": true
             }
           }
@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "stoicism.md",
+                "file": "problematic.md",
                 "mode": "preview"
               }
             },
@@ -65,7 +65,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "stoicism.md",
+                "file": "problematic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cgp",
+                "query": "induc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -119,7 +119,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323
+    "width": 323,
+    "collapsed": true
   },
   "right": {
     "id": "2802726c462e05f0",
@@ -135,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "stoicism.md",
+                "file": "problematic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,15 +156,15 @@
   },
   "active": "88ca5577cc5fa077",
   "lastOpenFiles": [
-    "stoicism.md",
-    "sadness.md",
+    "problematic.md",
+    "_apartment search.md",
+    "apartment search.md",
     "eudaimonia.md",
-    "jealousy.md",
-    "hedonic treadmill.md",
-    "single mindedness corrupts.md",
-    "happiness.md",
-    "anger.md",
-    "memes.md",
-    "emotions.md"
+    "moral competency.md",
+    "Neo-Kohlbergianism.md",
+    "Kohlberg.md",
+    "edugames don't fit well into the classroom structure.md",
+    "it's hard to evaluate transformational games.md",
+    "games research needs longitudinal studies.md"
   ]
 }

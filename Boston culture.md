@@ -5,3 +5,10 @@
  - So many art museums
  - Science museum?
  - Dorchester Art Project
+ - Bad art Museum (indefinitely closed)
+ - CCVA_Harvard + MIT Art and Architecture
+ - Cooper Gallery (harvard)
+ - New England Conservatory
+ - Lily Pad Club
+ - Sinclaire Show on Harvard Square
+ - Secret Boston
