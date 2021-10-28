@@ -1,6 +1,8 @@
 Important read next
 -------------------
 
+ - Good and bad controls in statistics (exists)
+
 Pure Philosophy
 ---------------
 

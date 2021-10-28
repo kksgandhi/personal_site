@@ -13,3 +13,5 @@ Consequentialism is also nice because it enables flexibility, no rule is absolut
 [[framing the innocent]]
 
 [[utilitarianism]]
+
+[[counterexamples to utilitarianism]]

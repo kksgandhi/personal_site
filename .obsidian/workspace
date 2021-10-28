@@ -10,7 +10,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "problematic.md",
+            "file": "It's not necessarily hypocritical to be unethical in an unethical system.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -33,7 +33,7 @@
               "repelStrength": 10,
               "linkStrength": 1,
               "linkDistance": 30,
-              "scale": 0.8907953817348615,
+              "scale": 1.143120644674994,
               "close": true
             }
           }
@@ -48,11 +48,11 @@
           {
             "id": "88ca5577cc5fa077",
             "type": "leaf",
-            "dimension": 47.64079147640791,
+            "dimension": 53.91752577319588,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "problematic.md",
+                "file": "It's not necessarily hypocritical to be unethical in an unethical system.md",
                 "mode": "preview"
               }
             },
@@ -61,11 +61,11 @@
           {
             "id": "d5247d02b6771c66",
             "type": "leaf",
-            "dimension": 52.35920852359209,
+            "dimension": 46.08247422680412,
             "state": {
               "type": "backlink",
               "state": {
-                "file": "problematic.md",
+                "file": "It's not necessarily hypocritical to be unethical in an unethical system.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,13 +114,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 323,
-    "collapsed": true
+    "width": 323
   },
   "right": {
     "id": "2802726c462e05f0",
@@ -136,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "problematic.md",
+                "file": "It's not necessarily hypocritical to be unethical in an unethical system.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,17 +152,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "88ca5577cc5fa077",
+  "active": "e02c218f9364dba2",
   "lastOpenFiles": [
-    "problematic.md",
-    "_apartment search.md",
-    "apartment search.md",
-    "eudaimonia.md",
-    "moral competency.md",
-    "Neo-Kohlbergianism.md",
-    "Kohlberg.md",
-    "edugames don't fit well into the classroom structure.md",
-    "it's hard to evaluate transformational games.md",
-    "games research needs longitudinal studies.md"
+    "It's not necessarily hypocritical to be unethical in an unethical system.md",
+    "ethics under oppressive structures.md",
+    "you don't exist.md",
+    "consciousness is just a narrative.md",
+    "Untitled 1.md",
+    "mturk.md",
+    "mturk pay.md",
+    "stochastic labor.md",
+    "hypocrisy.md",
+    "ethics.md"
   ]
 }

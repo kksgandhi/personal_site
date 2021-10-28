@@ -1,23 +1,56 @@
-BTT = Before Tax & Tips
+BTT = Before Tax & Tips, an \* means I haven't actually been there
 
-Places I have been
+[List of authentic foreign cuisine](https://www.reddit.com/r/boston/comments/phcsq5/foreignborn_people_of_boston_what_is_the_best/)
 
- - Penguin Pizza on Huntington
- - Pho Basil (Mass Ave)
+### Near NEU / West on Huntington
+
+ - Pho Basil
+ - Penguin Pizza
  - El Jefe's
- - http://www.athansbakery.com/
 
-Places I've never been but want to check out
+### Near BU
+
+ - athans bakery
+ - Kaju Tofu\* (and Harvard Ave generally)
+ - Nud pob\*
+
+### Somerville
+
+ - Bow Market!!
+
+### South End
+
+ - Picco pizza
+
+### North End
+
+ - Mike's Pastries (yes it lives up to the hype)
+ - Galleria Unberto\*
+
+### JP
+
+ - [Tres Gatos](http://www.tresgatosjp.com/) (~30 BTT)
+ - Blue Nile
+ - JP soup shack\*
+
+### Cambridge
+
+ - A4Cade\*
+ - Nirvana Cambridge
+
+### Seaport
+
+ - taiyakinyc
+
+Uncategorized yet
 
  - bourbon and milk
  - Yume Wo Katare
- - https://www.nirvanacambridge.com/menu/
  - A4Cade (Closed for Covid)
  - Silk Road Uyghar Cuisine
- - Blue Nile
- - [Tres Gatos](http://www.tresgatosjp.com/) (~30 BTT)
- - https://taiyakinyc.com/locations
  - andala coffeehouse (palestinian)
  - asmara (eritrean)
-
-[List of authentic foreign cuisine](https://www.reddit.com/r/boston/comments/phcsq5/foreignborn_people_of_boston_what_is_the_best/)
+ - Mike and Chains
+ - Spyce
+ - Grasshopper (Vegan chinese)
+ - Phinista Crepes

@@ -11,6 +11,7 @@ See also: [[philosophy - game recommendations]] for the games I actually recomme
  - [[Seedship]]
  - [[Ultima IV]]\*
  - [[The Vanishing of Ethan Carter]]
+ - [[Prey]]
 
 ### Meaning of Life / Purpose
 

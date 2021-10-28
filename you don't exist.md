@@ -15,4 +15,6 @@ The video posted above lists these as things that aren't really you.
    - For a short while, yes, but eventually your unconscious mind takes over and does it passively. If you've driven a car on familiar streets, you usually just autopilot through them.
  - Motor movements
    - The neurons to move your hand actually begin movement long before "you" decide to move your hand, based on a paper by Libet
-   - [[consciousness is just a narrative]]
+   
+  
+[[consciousness is just a narrative|Maybe consciousness is just a narrative we tell ourselves about to maintain sanity]]

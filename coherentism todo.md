@@ -36,3 +36,5 @@ subtle changes in the setup of social networks changes how social groups are for
 Projection + Disliking what we see in ourselves
 
 Not trans, but there is a juxtaposition between who I present as and who I am
+
+Left is the party of personal responsibility because they take responsibility for privilige and fight systems and wear masks

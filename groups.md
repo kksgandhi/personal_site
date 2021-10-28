@@ -1,0 +1,1 @@
+https://gamephilosophy.org/news/ - game philosophy group

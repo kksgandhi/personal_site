@@ -1,0 +1,1 @@
+Forcing people to work is generally considered a bad thing, but if someone has to work to avoid starvation, homelessness, and a loss of healthcare, are they really choosing to work? They can choose where they work and such, but the fact that they have to work is not a choice.
