@@ -62,4 +62,6 @@ See also: [[philosophy - game recommendations]] for the games I actually recomme
  - [[Observer]]\*
  - [[SOMA]]\*
 
-### 
+### Meta Discussion / Games Criticisms
+
+ - [[Undertale]]

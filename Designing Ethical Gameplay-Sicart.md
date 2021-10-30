@@ -13,5 +13,3 @@ Break traditional HCI principles: Increase [[thinking fast and slow|cognitive fr
 "An ethically successful game pitches players against their own morals"
 
 [[Shadow of the Colossus]] takes a very hands off approach in reflection, but its there, oh its definitely there.
-
-#bookmark at All games are moral systems

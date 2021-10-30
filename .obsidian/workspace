@@ -10,7 +10,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "It's not necessarily hypocritical to be unethical in an unethical system.md",
+            "file": "philosophy - other media.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -33,7 +33,7 @@
               "repelStrength": 10,
               "linkStrength": 1,
               "linkDistance": 30,
-              "scale": 1.143120644674994,
+              "scale": 1.337921137836316,
               "close": true
             }
           }
@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "It's not necessarily hypocritical to be unethical in an unethical system.md",
+                "file": "philosophy - other media.md",
                 "mode": "preview"
               }
             },
@@ -65,7 +65,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "It's not necessarily hypocritical to be unethical in an unethical system.md",
+                "file": "philosophy - other media.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "induc",
+                "query": "badd",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "It's not necessarily hypocritical to be unethical in an unethical system.md",
+                "file": "philosophy - other media.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,17 +152,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e02c218f9364dba2",
+  "active": "88ca5577cc5fa077",
   "lastOpenFiles": [
-    "It's not necessarily hypocritical to be unethical in an unethical system.md",
-    "ethics under oppressive structures.md",
-    "you don't exist.md",
-    "consciousness is just a narrative.md",
-    "Untitled 1.md",
-    "mturk.md",
-    "mturk pay.md",
-    "stochastic labor.md",
-    "hypocrisy.md",
-    "ethics.md"
+    "philosophy - other media.md",
+    "philosophy.md",
+    "research.md",
+    "researcher humor.md",
+    "morality systems.md",
+    "MDA.md",
+    "direct morality system.md",
+    "direct morality systems.md",
+    "Frostpunk.md",
+    "Moments That Challenge A Player-Whitby.md"
   ]
 }
