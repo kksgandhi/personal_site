@@ -65,3 +65,11 @@ See also: [[philosophy - game recommendations]] for the games I actually recomme
 ### Meta Discussion / Games Criticisms
 
  - [[Undertale]]
+ - [[The Beginner's Guide]]
+
+### Currently Uncategorized, TODO
+
+ - [[Nier Automata]]
+ - [[Little Inferno]]
+
+(An asterix is an indicator that I haven't actually played that game)

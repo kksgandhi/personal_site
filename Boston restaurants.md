@@ -1,22 +1,27 @@
-BTT = Before Tax & Tips, an \* means I haven't actually been there
-
-[List of authentic foreign cuisine](https://www.reddit.com/r/boston/comments/phcsq5/foreignborn_people_of_boston_what_is_the_best/)
+BTT = Before Tax & Tips, a \* means I want to go there but haven't yet
 
 ### Near NEU / West on Huntington
 
  - Pho Basil
- - Penguin Pizza
  - El Jefe's
+ - Phinista Crepes (Fenway)
 
 ### Near BU
 
  - athans bakery
  - Kaju Tofu\* (and Harvard Ave generally)
  - Nud pob\*
+ - Silk Road Uyghar Cuisine\*
+ - Grasshopper
+
+### Newbury / Copley
+
+ - Buttermilk and Bourbon \*
+ - Dig!
 
 ### Somerville
 
- - Bow Market!!
+ - Bow Market!!!
 
 ### South End
 
@@ -24,7 +29,7 @@ BTT = Before Tax & Tips, an \* means I haven't actually been there
 
 ### North End
 
- - Mike's Pastries (yes it lives up to the hype)
+ - Mike's Pastries!!!
  - Modern Pastry (Less Canolis than Mikes, more everything else)
  - Galleria Unberto\*
 
@@ -36,28 +41,27 @@ BTT = Before Tax & Tips, an \* means I haven't actually been there
 
 ### Cambridge
 
- - A4Cade\*
- - Nirvana Cambridge
+ - A4Cade (closed for covid)\*
+ - Nirvana Cambridge (I liked it, friends said it was only ok)
+ - Yume Wo Katare
+ - andala coffeehouse (palestinian)
+ - asmara (eritrean)
+ - Spyce
 
 ### Seaport
 
  - taiyakinyc
+ - Everything is too expensive, avoid
 
 ### Brookline
 
  - Orinico
  - Bottega de capri
+ - Brothers & Sisters coffeeshop
 
-Uncategorized yet
+### Mission Hill
 
- - bourbon and milk
- - Yume Wo Katare
- - A4Cade (Closed for Covid)
- - Silk Road Uyghar Cuisine
- - andala coffeehouse (palestinian)
- - asmara (eritrean)
- - Mike and Chains
- - Spyce
- - Grasshopper (Vegan chinese)
- - Phinista Crepes
- - Dig
+ - Penguin Pizza!!
+ - Milkweed \*
+
+[List of authentic foreign cuisine](https://www.reddit.com/r/boston/comments/phcsq5/foreignborn_people_of_boston_what_is_the_best/)
