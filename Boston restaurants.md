@@ -4,7 +4,7 @@ BTT = Before Tax & Tips, a \* means I want to go there but haven't yet
 
  - Pho Basil
  - El Jefe's
- - Phinista Crepes (Fenway)
+ - Phinista Crepes\* (Fenway)
 
 ### Near BU
 
@@ -36,27 +36,27 @@ BTT = Before Tax & Tips, a \* means I want to go there but haven't yet
 ### JP
 
  - [Tres Gatos](http://www.tresgatosjp.com/) (~30 BTT)
- - Blue Nile
+ - Blue Nile!
  - JP soup shack\*
 
 ### Cambridge
 
  - A4Cade (closed for covid)\*
  - Nirvana Cambridge (I liked it, friends said it was only ok)
- - Yume Wo Katare
+ - Yume Wo Katare\*
  - andala coffeehouse (palestinian)
  - asmara (eritrean)
- - Spyce
+ - Spyce\*
 
 ### Seaport
 
- - taiyakinyc
+ - taiyakinyc\*
  - Everything is too expensive, avoid
 
 ### Brookline
 
- - Orinico
- - Bottega de capri
+ - Orinico\*
+ - Bottega de capri\*
  - Brothers & Sisters coffeeshop
 
 ### Mission Hill
