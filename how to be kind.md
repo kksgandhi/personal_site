@@ -1,0 +1,2 @@
+ - give people the [[benefit of the doubt]]
+ - [[attack the action, not the person]]

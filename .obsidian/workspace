@@ -6,11 +6,11 @@
       {
         "id": "e02c218f9364dba2",
         "type": "leaf",
-        "dimension": 58.791581805838426,
+        "dimension": 74.40597420230822,
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "philosophy - other media.md",
+            "file": "Mann Whitney test.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -33,52 +33,25 @@
               "repelStrength": 10,
               "linkStrength": 1,
               "linkDistance": 30,
-              "scale": 1.337921137836316,
+              "scale": 1.0645617130858736,
               "close": true
             }
           }
         },
-        "group": "076293d558864a66"
+        "group": "1a3829d07b661dcf"
       },
       {
-        "id": "b6e3b7b40377ff70",
-        "type": "split",
-        "dimension": 41.208418194161574,
-        "children": [
-          {
-            "id": "88ca5577cc5fa077",
-            "type": "leaf",
-            "dimension": 53.91752577319588,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "philosophy - other media.md",
-                "mode": "preview"
-              }
-            },
-            "group": "076293d558864a66"
-          },
-          {
-            "id": "d5247d02b6771c66",
-            "type": "leaf",
-            "dimension": 46.08247422680412,
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "philosophy - other media.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            },
-            "group": "076293d558864a66"
+        "id": "618f02ed934953c6",
+        "type": "leaf",
+        "dimension": 25.594025797691778,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Mann Whitney test.md",
+            "mode": "preview"
           }
-        ],
-        "direction": "horizontal"
+        },
+        "group": "1a3829d07b661dcf"
       }
     ],
     "direction": "vertical"
@@ -105,7 +78,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "badd",
+                "query": "\"the way the world\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,7 +87,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -134,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "philosophy - other media.md",
+                "file": "Mann Whitney test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,17 +126,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "88ca5577cc5fa077",
+  "active": "618f02ed934953c6",
   "lastOpenFiles": [
-    "philosophy - other media.md",
-    "philosophy.md",
-    "research.md",
-    "researcher humor.md",
-    "morality systems.md",
-    "MDA.md",
-    "direct morality system.md",
-    "direct morality systems.md",
-    "Frostpunk.md",
-    "Moments That Challenge A Player-Whitby.md"
+    "Mann Whitney test.md",
+    "KS test.md",
+    "statistics.md",
+    "Hume's bundle.md",
+    "social constructs.md",
+    "social constructivism.md",
+    "Friedman test.md",
+    "statistical tests.md",
+    "negative binomial distribution.md",
+    "paradox of hedonism.md"
   ]
 }

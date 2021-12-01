@@ -1,1 +1,5 @@
-as best I can tell, grounded theory involves modifying hypotheses and testing setup as the experiment is done. 
+Useful for creating new theories through a constant cycle of formulating and testing hypotheses.
+
+Heavily influenced by [[bias is baked in - academia|researcher bias]]
+
+

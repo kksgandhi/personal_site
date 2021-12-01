@@ -1,5 +1,3 @@
-# Heroic
-American Gods
 # Sci-Fi
 Artemis by Andy Weir
 # Games
@@ -131,3 +129,4 @@ How we know that online communities are designed by white males
 
 The importance of being earnest
 
+Several people are typing book about uploading your consciousness into Slack

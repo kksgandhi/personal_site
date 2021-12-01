@@ -1,0 +1,3 @@
+From [[Coding Manual For Qualitative Researchers-Saldana]]:
+
+Some say identity is composed of the personal stories you tell; others say it is composed of the interpersonal relationships you have. Some say identity is what you do; some say it is what you value and believe; some say it is how you perform; and others say it is what you own and consume. Some say identity can be categorized; some say it is holistic; and others say it is composed of multiple and shifting forms in different social contexts. Some say identity is cultural; some say it is political; some say it is psychological; and others say it is sociological.  Still others will say it is all of the above; and still others will say it is some of that but it is also something more.

@@ -1,0 +1,5 @@
+ - [[normal distribution]]
+ - [[poisson distribution]]
+ - [[binomial distribution]]
+ - [[negative binomial distribution]]
+   - [[geometric distribution]]

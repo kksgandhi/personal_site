@@ -1,9 +1,6 @@
-[[tools]]
-
-[[conferences]]
-
-[[groups]]
-
-[[contacts]]
-
-[[games - resources]]
+ - [[tools]]
+ - [[conferences]]
+ - [[groups]]
+ - [[games - resources]]
+ - [[jobs in industry]]
+ - [[fellowships]]

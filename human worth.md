@@ -1,0 +1,1 @@
+Ostensibly, the amount of money you make is an indication of how much others are willing to pay for your skills and work. While this isn't a great metric, even if it was, its frustrating that the value people have for corporations is often conflated with the amount of value people have, period.

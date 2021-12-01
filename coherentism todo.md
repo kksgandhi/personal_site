@@ -1,8 +1,4 @@
-Nouns vs Adjectives
-
 being type A, how everything is bastardized
-
-dark mode ok, but only when everything
 
 slang is just like manners
 
@@ -27,7 +23,7 @@ industry is motivated to make money, academia is motivated to do new things, how
 
 some stereotypes are harmful, others are not
 
-structure helps the weak, hinders the strong
+structure helps the weak, hinders the strong (the steak sauce effect, everything becomes medium)
 
 effing the ineffable
 
@@ -35,6 +31,16 @@ subtle changes in the setup of social networks changes how social groups are for
 
 Projection + Disliking what we see in ourselves
 
-Not trans, but there is a juxtaposition between who I present as and who I am
-
 Left is the party of personal responsibility because they take responsibility for privilige and fight systems and wear masks
+
+Write about your priviliges and biases
+
+https://www.smbc-comics.com/comic/eugenics-is-a-great-idea
+
+We fall into our own traumas, and our own stereotypes. We fall into our own self image
+
+vulnerability - controlling the narrative
+
+universities work because they gatekeep 
+
+paradox of tolerance

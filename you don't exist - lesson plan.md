@@ -7,8 +7,8 @@ Maybe start with lessons from [[consciousness - lesson plan]]
  - [[ship of Theseus]]
  - [[false memories]]
 
-Lesson plan from philosophy club "You don't exist"
-==================================================
+60 Minute Lesson plan
+---------------------
 
 Start with [[turing test bullying]]
 
@@ -18,5 +18,7 @@ If there's plenty of time, let people discuss defenses, and if not, let some oth
 **20 minutes**
 
 Give the [[you don't exist]] spiel and let people discuss it.
+
+**40 Minutes**
 
 Discuss mind uploading, teleporter problem, million dollar torture, and false memories, death of the self perhaps?

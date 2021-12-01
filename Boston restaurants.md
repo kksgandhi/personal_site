@@ -25,6 +25,7 @@ BTT = Before Tax & Tips, an \* means I haven't actually been there
 ### North End
 
  - Mike's Pastries (yes it lives up to the hype)
+ - Modern Pastry (Less Canolis than Mikes, more everything else)
  - Galleria Unberto\*
 
 ### JP
@@ -42,6 +43,11 @@ BTT = Before Tax & Tips, an \* means I haven't actually been there
 
  - taiyakinyc
 
+### Brookline
+
+ - Orinico
+ - Bottega de capri
+
 Uncategorized yet
 
  - bourbon and milk
@@ -54,3 +60,4 @@ Uncategorized yet
  - Spyce
  - Grasshopper (Vegan chinese)
  - Phinista Crepes
+ - Dig

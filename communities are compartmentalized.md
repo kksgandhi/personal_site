@@ -1,0 +1,3 @@
+Work, life, and fun are all their own little communities. Usually this is a good thing, but sometimes it can cause issue. If you move to a new job, start a new hobby, or break up with your significant other(s), that can cause a complete shift in your social scene. This means that [[transient communities|communities change members more often and become more transient]]
+
+This also limits the amount of interaction we have with each other. Most people are so tired after work that they only interact with their nuclear family. If they want to interact with anyone else, they often have to plan and travel, rather than naturally having those interactions.

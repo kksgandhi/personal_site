@@ -1,0 +1,1 @@
+[[Experiencing new ways of being in RPGs]] argues that religions (or general moral communities) don't form around existing ethical systems, most cultures engage in a muddier process of normalizing already existing practices or rationalizing practice into norms

@@ -4,7 +4,9 @@ I really, really, really like the [solarized](https://ethanschoonover.com/solari
 
 Darkreader is a good browser extension.
 
-![](static/solarized.png)
+![](static/dark_colorscheme_example.png)
+
+![](static/light_colorscheme_example.png)
 
 Like look at how sexy this is:
 

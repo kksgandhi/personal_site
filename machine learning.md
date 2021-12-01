@@ -6,6 +6,8 @@ regression: choose from an interval
 
 preference learning: learning relative relation between [[ordinal]] values.
 
+----
+
 [[ML tools]]
 
 [[online learning]]

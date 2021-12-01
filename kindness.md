@@ -7,3 +7,7 @@ I wrote three notes on the topic and they're all pretty terrible. I couldn't pro
  - [[kindness repays subtly]]
  - [[single mindedness corrupts]]
  - [[jealousy]]
+
+----
+
+ - [[how to be kind]]

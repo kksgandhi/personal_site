@@ -74,3 +74,4 @@ Other
  - Brain Computation By Assemblies Of Neurons-Papadimitriou.md (downloaded)
  - Work Group Diversity-Knippenberg.md (exists)
  - Gender Stereotypes In Modern Countries-Breda.md
+ - [Colonialism in Civ 5](http://gamestudies.org/1602/articles/ford)
