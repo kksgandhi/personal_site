@@ -16,3 +16,7 @@ How to get tenure: graduate a student, have 500K of grants, and get papers publi
 Teaching track faculty, it's the wild west in terms of policies and contracts. Some have some security, some don't
 
 How is grant writing different than normal writing? - Grant writing is a combination of logistics, persuasive writing, and following strict guidelines from various funding agencies.
+
+-------
+
+https://twitter.com/annetropy/status/1465444410188079107?t=OvQoqCQ0KWFBdNOoN-6Cpw&s=19

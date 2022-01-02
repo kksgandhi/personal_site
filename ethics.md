@@ -7,5 +7,6 @@ Extremely broadly speaking, ethics is split into two categories: "There are cert
 Some other notes:
 
  - [[religion and morality]]
+ - [[ethical dynamics]]
 
 Most of my notes on ethics come from PHIL 306, the ethics course I took at Rice, and [The Fundamentals of Ethics, by Russ Shafer Landau](https://www.amazon.com/Fundamentals-Ethics-Russ-Shafer-Landau/dp/0199997233)

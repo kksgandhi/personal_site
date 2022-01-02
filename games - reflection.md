@@ -1,3 +1,5 @@
+Tags: [[games]]
+
 How can we design games to encourage reflection? According to [[Reflection Through Representations Of Personal Data-Karyda|this paper]] reflective pieces are best done through personalized design, but if you're making mass media, you won't know your players nor could you design something personal for them even if you did.
 
 Potential solutions:

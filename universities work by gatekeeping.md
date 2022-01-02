@@ -1,0 +1,3 @@
+Part of the reason university degrees are valued by employers because they show you've learned something...
+
+but I think a large part is that Universities are massive [[gatekeeping]] operations. Getting into a university is the ultimate job interview, and simply knowing someone got into a university is an indication that they have those basic skills of passing the interview. (Ideally. Often people in uni don't have those skills or got in via legacy admissions etc.)

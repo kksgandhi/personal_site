@@ -1,0 +1,1 @@
+http://perrymitchell.net/article/npm-symlinks-through-vagrant-windows/

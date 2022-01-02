@@ -1,0 +1,1 @@
+[Gatekeeping](https://www.urbandictionary.com/define.php?term=Gatekeeping) as its normally described is obviously bad, but I can't help but think about the most positive interpretation: preventing the [[paradox of tolerance]].

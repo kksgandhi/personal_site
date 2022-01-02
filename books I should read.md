@@ -110,7 +110,6 @@ If on a winter night a traveler - Steve
 Racing in the Rain - Movie and Book
 The authoritarians - ebook
 Snowcrash - Tori recommend Cyberpunk
-American Gods
 Love & Sex with robots
 Class: a guide through the American status system
 Games: Agency as Art by Tin Nguyen

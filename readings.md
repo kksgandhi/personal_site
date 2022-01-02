@@ -50,6 +50,7 @@ Game Design
 Games User Research
 -------------------
 
+ - Charline Foch's player perceptions of failure
  - [Reviewing Reflection: On the use of reflection in interactive system design](https://dl.acm.org/doi/10.1145/2598510.2598598)
  - Evaluating Serious Experience In Games-Iacovides.md (exists)
  - Gaming Motivation Scale-Lafrieniere.md (exists)

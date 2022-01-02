@@ -11,7 +11,7 @@ BTT = Before Tax & Tips, a \* means I want to go there but haven't yet
  - athans bakery
  - Kaju Tofu\* (and Harvard Ave generally)
  - Nud pob\*
- - Silk Road Uyghar Cuisine\*
+ - Silk Road Uyghar Cuisine (16 BTT)
  - Grasshopper
 
 ### Newbury / Copley
@@ -31,7 +31,8 @@ BTT = Before Tax & Tips, a \* means I want to go there but haven't yet
 
  - Mike's Pastries!!!
  - Modern Pastry (Less Canolis than Mikes, more everything else)
- - Galleria Unberto\*
+ - Galleria Unberto (6 BTT)
+ - Bova's
 
 ### JP
 

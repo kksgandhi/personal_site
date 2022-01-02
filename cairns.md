@@ -4,4 +4,4 @@ piles of pebbles placed on paths so that hikers know others have been there. Act
 
 In [[citizen science]] they are diversions, giving participants a break
 
-cairns (as [[microdiversions]]) are related to the [[pringles effect]]
+cairns (as [[microdiversions]], specifically [[blocking microdiversions]]) are related to the [[pringles effect]]

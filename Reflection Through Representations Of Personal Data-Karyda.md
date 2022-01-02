@@ -1,6 +1,6 @@
 #notesFromPaper
 Year   :
-Tags   :
+Tags   : [[data visualization]]
 Authors: [[Karyda]] [[Mekler]] [[Lucero]]
 
 Used data agents to encourage [[games - reflection|reflection]] by placing individual experience in relation to others.

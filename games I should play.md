@@ -12,7 +12,9 @@ minit - itch bundle
  - ECHOES OF THE EYE
  - DISCO ELYSIUM
 
-wandersong? Hatoful boyfriend, little inferno
+wandersong? Hatoful boyfriend, little inferno, Old Man's Journey, Subsurface Circular, INSCRYPTION, it takes two
+
+unearthu
 
 Philosophy Games
 ----------------

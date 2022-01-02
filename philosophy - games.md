@@ -35,6 +35,7 @@ See also: [[philosophy - game recommendations]] for the games I actually recomme
  - [[The Witness]]
  - [[Antichamber]]
  - [[Portal]]
+ - [[The Graveyard]]
 
 ### Grief
 
@@ -51,11 +52,12 @@ See also: [[philosophy - game recommendations]] for the games I actually recomme
 ### Politics
 
  - [[Bioshock]]\*
- - [[September 12th]]
+ - [[September 12th]]\*
  - [[Opera Omnia]]
  - [[Spent]]
  - [[Papers Please]]
- - [[Detention]]
+ - [[Detention]]\*
+ - [[Under Ash]]
 
 ### Transhumanism
 
@@ -72,4 +74,4 @@ See also: [[philosophy - game recommendations]] for the games I actually recomme
  - [[Nier Automata]]
  - [[Little Inferno]]
 
-(An asterix is an indicator that I haven't actually played that game)
+(An asterix is an indicator that I'm not overly familiar with that game)

@@ -43,20 +43,8 @@ if you are using a priori codes, you have to think deeply about what they mean i
 
 When doing exploratory work, you can often code with different styles one after the other to get a better perspective on the data.
 
-First Cycle coding methods:
+Instead of saying "this code appeared 5 times in the text", maybe say "3 different participants said this code" (to avoid a vocal participant from dominating.)
 
- - [[attribute coding]]
- - [[structural coding]] or [[holistic coding]]
- - [[descriptive coding]]
- - [[in vivo coding]], [[initial coding]], and / or [[values coding]]
+[[first cycle coding methods]]
 
-Second Cycle coding methods:
-
- - [[eclectic coding]]
- - [[pattern coding]] and/or [[focused coding]]
-
-Other coding methods
-
- - [[magnitude coding]]
- - [[hierarchical coding]]
- - [[simultaneous coding]]
+[[second cycle coding methods]]

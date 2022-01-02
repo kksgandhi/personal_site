@@ -10,7 +10,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "Mann Whitney test.md",
+            "file": "philosophy - games.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -33,7 +33,7 @@
               "repelStrength": 10,
               "linkStrength": 1,
               "linkDistance": 30,
-              "scale": 1.0645617130858736,
+              "scale": 1.016231484490676,
               "close": true
             }
           }
@@ -47,8 +47,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mann Whitney test.md",
-            "mode": "preview"
+            "file": "philosophy - games.md",
+            "mode": "source",
+            "source": false
           }
         },
         "group": "1a3829d07b661dcf"
@@ -78,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"the way the world\"",
+                "query": "\"mmo\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,12 +88,12 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 323
+    "width": 323,
+    "collapsed": true
   },
   "right": {
     "id": "2802726c462e05f0",
@@ -108,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mann Whitney test.md",
+                "file": "philosophy - games.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,17 +127,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "618f02ed934953c6",
+  "active": "e02c218f9364dba2",
   "lastOpenFiles": [
-    "Mann Whitney test.md",
-    "KS test.md",
-    "statistics.md",
-    "Hume's bundle.md",
-    "social constructs.md",
-    "social constructivism.md",
-    "Friedman test.md",
-    "statistical tests.md",
-    "negative binomial distribution.md",
-    "paradox of hedonism.md"
+    "philosophy - games.md",
+    "games - lists.md",
+    "philosophy - adjacent games.md",
+    "innovative games.md",
+    "Quandary.md",
+    "game recommendations.md",
+    "games.md",
+    "anything can be art.md",
+    "we can't see everything.md",
+    "video games.md"
   ]
 }

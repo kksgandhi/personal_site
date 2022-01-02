@@ -8,5 +8,10 @@
   "enabledPlugins": [],
   "spellcheckDictionary": [
     "transformational"
-  ]
+  ],
+  "legacyEditor": false,
+  "livePreview": true,
+  "foldHeading": true,
+  "showLineNumber": false,
+  "rightToLeft": false
 }

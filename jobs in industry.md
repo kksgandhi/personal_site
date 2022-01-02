@@ -1,3 +1,7 @@
-https://careers.microsoft.com/us/en/job/1190736/Research-Intern-Computational-Social-Science
+[[MS jobs]]
 
-https://careers.microsoft.com/us/en/job/1191774/Research-Intern-Fairness-Accountability-Transparency-and-Ethics
+[[edugame companies]]
+
+apparently NASA is gamifying stuff and could use interns??
+
+[[Boston game companies]]

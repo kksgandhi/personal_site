@@ -1,0 +1,4 @@
+ - [[philosophy - games]]
+ - [[games can teach philosophy through interaction]]
+ - [[games can teach philosophy through simulation]]
+ - [[games can teach philosophy by creating organic problems]]

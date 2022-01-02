@@ -8,6 +8,8 @@
 
 A game with an incredible story that is controlled entirely by your blinks! It sounds good on paper, and is even better in practice, this game made me cry and then cry some more and I couldn't stop listening to the end credit soundtrack on repeat and I love this game so much just go play it goddammit it. (Ok content warning it is very sad)
 
+"This game is a once in a generation experience" - Jacob Geller
+
 My rating:        10/10\
 Recommendability: 10/10
 

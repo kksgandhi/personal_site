@@ -5,3 +5,9 @@ You don't have to turn something into a game in order to gamify it, all you have
 Buckley and Doyle 2016 found that gamification is better for intrinsically motivated students.
 
 Don't confuse gamification with [[gamefulness]], gamification can be stripped away, [[gamefulness]] cannot
+
+------
+
+[Some definitions](https://www.gamefulbits.com/2021/11/30/what-is-gamification-and-other-definitions/)
+
+[Redefining gamification](https://www.gamified.uk/2021/11/15/i-was-wrong-a-definition-of-gamification-that-should-make-sense-to-everyone/)

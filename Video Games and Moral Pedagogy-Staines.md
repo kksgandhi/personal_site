@@ -4,7 +4,7 @@ Discusses [[Neo-Kohlbergianism]], starts with an intro on how Kohlberg came up w
 
 [[moral competency]]
 
-Apparently [[Ultima IV]] uses [[moral dilemmas]] in its character creation. Recommends that UIV could have used consequences (aka [[direct morality systems|skill points]]) and [[modify moral dilemmas|repeatedly modifying moral dilemmas]]
+Apparently [[Ultima IV]] uses [[moral dilemmas]] in its character creation. Recommends that UIV could have used consequences (aka [[mechanical morality systems|skill points]]) and [[modify moral dilemmas|repeatedly modifying moral dilemmas]]
 
 [[games are contextless]]
 
@@ -16,7 +16,7 @@ Talks a bit about [[scaffolding]]
 
 Talks a bit about Navaez's [[integrated ethics education]], but doesn't really go to deep into it.
 
-Are [[direct morality systems]] that bad? People still understand the consequences and such.
+Are [[mechanical morality systems]] that bad? People still understand the consequences and such.
 
  - [[prosocial game claims bolster violent video game claims]]
  - integrated ethics education is great, but doesn't talk about whether it should be groups or solo, lesson structure, and metrics.

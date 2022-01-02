@@ -1,6 +1,6 @@
 #notesFromPaper, #killerPaper
 Year   :
-Tags   : [[online community building]]
+Tags   : [[online community building]] [[MMOs]]
 Authors: [[Kim]] [[Cook]] [[Cartwright]] [[Hughes]]
 
 [[Dunbar's layers]]

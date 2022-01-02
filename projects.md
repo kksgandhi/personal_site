@@ -7,7 +7,7 @@ Serious Stuff
 
 Fun Stuff
 ---------
-
- - [Glitch Art Image Combiner](https://github.com/kksgandhi/glitch_art_image_combiner)
+ - [Directory Burner, a visual way to cathartically destroy a directory](https://github.com/kksgandhi/directory-burner)
+ - [Glitch Art Image Combiner, combine images to make neat patterns](https://github.com/kksgandhi/glitch_art_image_combiner)
  - [isIsEven, a library to check if a function is "isEven"](https://github.com/kksgandhi/isIsEven)
- - [Cursed Java Formatter](https://github.com/kksgandhi/java-format-like-python)
+ - [Cursed Java Formatter, make your java look like cursed python](https://github.com/kksgandhi/java-format-like-python)

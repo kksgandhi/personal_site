@@ -1,0 +1,2 @@
+ - dealing with the [[paradox of tolerance]]
+ - [[basilisks|killing basilisks]]

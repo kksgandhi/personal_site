@@ -2,6 +2,7 @@
  - Freedom trail
  - [Boston harborwalk](https://www.bostonharborwalk.org/)
  - Zoo!
+ - [JP historical society](https://www.jphs.org/about)
  - So many art museums
  - Science museum?
  - Dorchester Art Project

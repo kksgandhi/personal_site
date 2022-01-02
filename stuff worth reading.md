@@ -5,6 +5,7 @@ Things that interest me. Not everything, but a good place to start.
  - [[phronesis|practical wisdom and life lessons]]
  - [[philosophy]]
  - [[games]]
+   - [[game recommendations|Games you should play!]]
  - [[art]]
  - [[social skills]]
  - [[productivity]]

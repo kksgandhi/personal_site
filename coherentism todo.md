@@ -41,6 +41,19 @@ We fall into our own traumas, and our own stereotypes. We fall into our own self
 
 vulnerability - controlling the narrative
 
-universities work because they gatekeep 
+friendships falling apart
+https://imgur.com/ilgVlNf
 
-paradox of tolerance
+[Social spaces and payload races](https://www.youtube.com/watch?v=-hj1haLcdI0&list=PLM0XOPE-p91H0bY1nrHPiSILBMsCEJ6AL&index=9)
+
+Mistakes are a two way street, e.g. doctors and popup fatigue
+
+working definitions (of liberty, of science)
+
+science
+ - as a process
+ - as a dogma (that justifies)
+ - as a tabloid
+
+This american life episode 752: An invitation to tea
+Radiolab return of alphagal
