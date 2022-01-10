@@ -1,5 +1,7 @@
 See also: [[philosophy - game recommendations]] for the games I actually recommend you play.
 
+[[what makes a game philosophical|What do I consider a "philosophy game?"]]
+
 ### Ethics
 
  - [[Papers Please]]
@@ -28,6 +30,7 @@ See also: [[philosophy - game recommendations]] for the games I actually recomme
 
  - [[The Talos Principle]]
  - [[SOMA]]
+ - [[Detroit - Become Human]]
  - [[The Swapper]]\*
 
 ### Perspective
@@ -71,7 +74,8 @@ See also: [[philosophy - game recommendations]] for the games I actually recomme
 
 ### Currently Uncategorized, TODO
 
- - [[Nier Automata]]
- - [[Little Inferno]]
+ - [[Nier Automata]]\*
+ - [[Little Inferno]]\*
+ - [[Subsurface Circular]]\*
 
 (An asterix is an indicator that I'm not overly familiar with that game)

@@ -1,0 +1,1 @@
+Learning takes cognitive load, gameplay takes cognitive load, don't overwhelm the player - [[Cognitive Science - Games for Moral Education]]

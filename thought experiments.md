@@ -1,3 +1,3 @@
-[[ethical dilemmas]]
+[[moral dilemmas]]
 
  - the [[company project problem]]

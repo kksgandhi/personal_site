@@ -8,7 +8,7 @@ Games, beyond teaching morality, Can teach [[character education]]. Tag: [[proso
 
 A bit of talk on [[intuitionism]] and how that's not necessarily all of morality and moral learning.
 
-[[ethical dilemmas]] are a good way to do [[prosocial learning]]
+[[moral dilemmas]] are a good way to do [[prosocial learning]]
 
 [[care ethics]] tries to encourage goodness by creating conditions likely to encourage goodness.
 

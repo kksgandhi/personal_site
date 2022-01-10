@@ -1,0 +1,1 @@
+https://dailynous.com/2019/07/01/manifesto-public-philosophy-guest-post-c-thi-nguyen/

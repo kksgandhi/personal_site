@@ -1,6 +1,6 @@
 Gris is so fucking beautiful
 
-https://www.youtube.com/watch?v=A-UD-aW2tpg&list=PLM0XOPE-p91H0bY1nrHPiSILBMsCEJ6AL&index=2
+[How Gris made you cry with its colors](https://www.youtube.com/watch?v=A-UD-aW2tpg&list=PLM0XOPE-p91H0bY1nrHPiSILBMsCEJ6AL&index=2)
 
 Every goddamn frame of the game is a wallpaper worthy screenshot. It's one of those games (just like [[A Short Hike]]) that's perfect for "oh I'm sad and my soul needs to be put back together, let me bask in the wonder of this game"
 

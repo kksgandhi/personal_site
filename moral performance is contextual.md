@@ -1,0 +1,1 @@
+[[the Milgram experiment]] show that moral transgressions occur in ways not entirely explained by standard views of [[moral competency]]. Perhaps agents use moral competency to identify when to self-regulate their behavior, but if there's doubt, agents can be externally influenced to act immorally.

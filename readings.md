@@ -10,6 +10,7 @@ Philosophical Games
 -------------------
 
  - Ethics and Game Design Schrier (exists)
+ - [Meaning making in video games](https://bruchansky.name/2011/07/01/the-semiotics-of-video-games/)
  - Boyan Grizzard Massively Moral Game: Mass effect to study the influence of moral intuitions on adherence to hero or antihero play styles
  - Emotionally moving moments in digital games - Bopp, Mekler, Opwis
 

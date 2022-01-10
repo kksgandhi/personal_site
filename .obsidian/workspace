@@ -10,9 +10,9 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "philosophy - games.md",
+            "file": "jobs in industry.md",
             "options": {
-              "collapse-filter": true,
+              "collapse-filter": false,
               "search": "",
               "localJumps": 2,
               "localBacklinks": true,
@@ -33,7 +33,7 @@
               "repelStrength": 10,
               "linkStrength": 1,
               "linkDistance": 30,
-              "scale": 1.016231484490676,
+              "scale": 0.8953616676720405,
               "close": true
             }
           }
@@ -47,7 +47,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "philosophy - games.md",
+            "file": "jobs in industry.md",
             "mode": "source",
             "source": false
           }
@@ -79,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"mmo\"",
+                "query": "\"are we the baddies\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,12 +88,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 323,
-    "collapsed": true
+    "width": 323
   },
   "right": {
     "id": "2802726c462e05f0",
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "philosophy - games.md",
+                "file": "jobs in industry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,15 +129,15 @@
   },
   "active": "618f02ed934953c6",
   "lastOpenFiles": [
+    "jobs in industry.md",
+    "Challenges to Moral Engagement-Svelch.md",
     "philosophy - games.md",
-    "games - lists.md",
-    "philosophy - adjacent games.md",
-    "innovative games.md",
-    "Quandary.md",
-    "game recommendations.md",
-    "games.md",
-    "anything can be art.md",
-    "we can't see everything.md",
-    "video games.md"
+    "what makes a game philosophical.md",
+    "projective identity hypothesis.md",
+    "avatar.md",
+    "perspective taking.md",
+    "knowledge.md",
+    "declarative knowledge.md",
+    "declarative learning.md"
   ]
 }

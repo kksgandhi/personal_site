@@ -1,20 +1,24 @@
-In Boston
----------
+Near Boston
+-----------
 
  - iCivics
  - Learning Games Network
+ - Mightier
+ - FableVision
+ - Muzzy Lane
+ - abcya games
 
-Not in Boston
+Northeast
 -------------
 
- - https://www.filamentgames.com/careers/
  - Schell Games
 
-Maybe in Boston I haven't actually checked yet lol
-----------------
+ General
+ --------
 
- - Mightier
- - Fablevision
- - Muzzy Lane
+ - Wibbu
+ - Kuato Studios
+ - Triseum
+ - https://www.filamentgames.com/careers/
 
 Tag: [[educational games]]
