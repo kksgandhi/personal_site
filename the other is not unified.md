@@ -1,1 +1,3 @@
 It can be easy to look at a group of [[the other]], and out of a lack of understanding of them, assume that they are all similar in view and extremism. This leads to an assumption that they are unified, when in reality there may be more fracturing and infighting than expected.
+
+Sometimes people accuse members of a group of [[hypocrisy]] without realizing they're talking to different members of the group with different views.

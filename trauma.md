@@ -14,5 +14,5 @@ Ramblings:
 
  - Maybe trauma doesn't teach, but experience teaches, and trauma is the price we pay for experience? Probably not, but it sounds wise.
  - Trauma teaches you to be handle specific scenarios, but hurts you generally. If someone cheats on you, that trauma will make you better at identifying red flags and handling cheating in the future, but that insecurity and fear will hurt your future relationships in general.
- - After being given time to think, people understand their traumas and proceed to seek them out again. Some perpetuate the cycle of trauma and abuse others in the same way, others seek out trauma and find people who hurt them in the same way. This is because their trauma is painful, but at least it's a situation they understand in some twisted way.
+ - After being given time to think, people understand their traumas and [[we fall into the way the world should be|proceed to seek them out again]]. Some perpetuate the cycle of trauma and abuse others in the same way, others seek out trauma and find people who hurt them in the same way. This is because their trauma is painful, but at least it's a situation they understand in some twisted way.
  - [[greatest change]]

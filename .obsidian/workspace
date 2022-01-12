@@ -10,7 +10,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "jobs in industry.md",
+            "file": "edugame companies.md",
             "options": {
               "collapse-filter": false,
               "search": "",
@@ -33,7 +33,7 @@
               "repelStrength": 10,
               "linkStrength": 1,
               "linkDistance": 30,
-              "scale": 0.8953616676720405,
+              "scale": 1.2809901084196411,
               "close": true
             }
           }
@@ -47,7 +47,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "jobs in industry.md",
+            "file": "edugame companies.md",
             "mode": "source",
             "source": false
           }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "jobs in industry.md",
+                "file": "edugame companies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,15 +129,15 @@
   },
   "active": "618f02ed934953c6",
   "lastOpenFiles": [
+    "edugame companies.md",
     "jobs in industry.md",
-    "Challenges to Moral Engagement-Svelch.md",
-    "philosophy - games.md",
-    "what makes a game philosophical.md",
-    "projective identity hypothesis.md",
-    "avatar.md",
-    "perspective taking.md",
-    "knowledge.md",
-    "declarative knowledge.md",
-    "declarative learning.md"
+    "human worth.md",
+    "gatekeeping.md",
+    "universities work by gatekeeping.md",
+    "tragedy of bilingualism.md",
+    "listening to the other side.md",
+    "the other is not unified.md",
+    "hypocrisy.md",
+    "It's not necessarily hypocritical to be unethical in an unethical system.md"
   ]
 }
