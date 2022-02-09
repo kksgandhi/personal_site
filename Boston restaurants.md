@@ -34,6 +34,11 @@ BTT = Before Tax & Tips, a \* means I want to go there but haven't yet
  - Galleria Unberto (6 BTT)
  - Bova's
 
+### Chinatown
+
+ - Tora
+ - WakuWaku
+
 ### JP
 
  - [Tres Gatos](http://www.tresgatosjp.com/) (~30 BTT)

@@ -16,7 +16,7 @@ Refers a lot to [[Baumer's dimensions of reflective informatics]]
 
 The main section is a long list of types of transformations and quotes, it's pretty good.
 
-[[people are resistant to change]]. Most transformations are small, and [[endotransformative]]
+[[people are resistant to change]]. Most [[game transformations are low level|transformations are small]], and [[endotransformative]].
 
 Not too many recommendations for design.
 

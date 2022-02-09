@@ -6,8 +6,6 @@ https://www.atlasobscura.com/places/museum-of-reclaimed-urban-space
 
 https://theevolutionstore.com/about-us/
 
-https://www.atlasobscura.com/places/dream-house
-
 https://www.atlasobscura.com/places/mmuseumm-2
 
 https://www.atlasobscura.com/places/museum-sex

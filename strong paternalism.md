@@ -1,0 +1,1 @@
+You can prevent someone from doing something, even if they are doing it with informed consent. (As opposed to weak paternalism, which says that you must allow someone with informed consent to do something)

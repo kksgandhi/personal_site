@@ -1,0 +1,1 @@
+Just like an [[NFA]], there are non deterministic turing machines?

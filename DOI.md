@@ -1,0 +1,1 @@
+Uniquely identify a digital object. Often used for academic papers / books.

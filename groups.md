@@ -1,1 +1,6 @@
-https://gamephilosophy.org/news/ - game philosophy group
+ - https://gamephilosophy.org/news/ - game philosophy group
+ - PetLab - Parsons the New School
+ - Values@Play
+ - Tiltfactor
+ - Good Play / The Good Project
+ - Play Innovation Lab

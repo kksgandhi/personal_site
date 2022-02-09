@@ -10,8 +10,7 @@ Philosophical Games
 -------------------
 
  - Ethics and Game Design Schrier (exists)
- - [Meaning making in video games](https://bruchansky.name/2011/07/01/the-semiotics-of-video-games/)
- - Boyan Grizzard Massively Moral Game: Mass effect to study the influence of moral intuitions on adherence to hero or antihero play styles
+ - Boyan Grizzard Massively Moral Game: Mass effect to study the influence of moral intuitions on adherence to hero or antihero play styles (exists)
  - Emotionally moving moments in digital games - Bopp, Mekler, Opwis
 
 Benefits of Games
@@ -20,7 +19,6 @@ Benefits of Games
  - Moral And Character Education-Berkowitz.md (exists)
  - Reflection In Player Experience-Mekler.md (exists)
  - [Benefits of playing non-action games on cognition](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0058546)
- - Young 2012, Our princess is in another castle, a review of trends in serious gaming for education (anti chocolate covered broccoli)
  - Education And Involvement In Games-Iacovides.md
  - [Game Based Learning](https://www-jime.open.ac.uk/articles/10.5334/2004-8-oblinger/)
 
@@ -28,6 +26,7 @@ Learning
 --------
 
  - [Expertise reversal effect about reducing structure after people have competency](https://doi.apa.org/doiLanding?doi=10.1037%2Fa0022243)
+ - [Casel Framework](https://casel.org/fundamentals-of-sel/what-is-the-casel-framework/)
 
 Philosophy in the classroom
 ---------------------------
@@ -43,6 +42,7 @@ Philosophy in the classroom
 Game Design
 -----------
 
+ - [Game Juice vs educational goals](https://www.sciencedirect.com/science/article/pii/S2666557322000039)
  - Games As Speculative Design-Coulton.md (exists)
  - [character believability in games](https://loading.journals.publicknowledgeproject.org/loading/index.php/loading/article/view/42/51)
  - pals in power armor besmann (anthropomorphization in games)
@@ -69,9 +69,33 @@ AR
 
  - Why Is Ar Meaningful-Laato.md
 
+Violent Video Games
+-------------------
+
+ - Violent Video Games Makes Players Violent (exists)
+ - Games and Aggression (exists)
+ - General aggression model (exists)
+ - Implicit association test effects of video games (exists)
+
+Reflection in Games Paper
+-------------------------
+
+ - Fleck's Operationalised reflection framework, citation 17 and 18 in Reflection in player experience-Mekler
+ - Reflective Game Design-Khaled
+ - off-peak, ordinary player experience-Tyack
+ - Uncomfortable experiences-Gowler
+ - Reflective Practicum, a framework of sensitising concepts to design for transformational reflection-Slovak
+ - Evaluating serious experience in games-Iacovides
+ - emotionally moving moments in digital games-Bopp, 2016 (there is also a 2015 paper I may want to skim)
+ - emotional complexity in games-Mekler
+ - emotional challenge in games-Bopp
+ - Ethics practice and implementation-Schrier
+
 Other
 -----
 
+ - [Making games in a fucked up world](https://www.molleindustria.org/blog/making-games-in-a-fucked-up-world-games-for-change-2014/)
+ - Pierre Duhem physical theory and experiment
  - Conceptualization Of Skill Chains-Miller.md (exists)
  - Brain Computation By Assemblies Of Neurons-Papadimitriou.md (downloaded)
  - Work Group Diversity-Knippenberg.md (exists)

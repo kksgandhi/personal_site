@@ -1,0 +1,1 @@
+can be defined by a [[finite automata]]

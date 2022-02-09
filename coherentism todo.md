@@ -1,7 +1,3 @@
-being type A, how everything is bastardized
-
-slang is just like manners
-
 small open world games feel big
 (https://www.youtube.com/watch?v=S3cPJL4ISlU&list=WL&index=16)
 
@@ -23,12 +19,6 @@ Left is the party of personal responsibility because they take responsibility fo
 
 Write about your priviliges and biases
 
-https://www.smbc-comics.com/comic/eugenics-is-a-great-idea
-
-vulnerability - controlling the narrative
-
-[Social spaces and payload races](https://www.youtube.com/watch?v=-hj1haLcdI0&list=PLM0XOPE-p91H0bY1nrHPiSILBMsCEJ6AL&index=9)
-
 Mistakes are a two way street, e.g. doctors and popup fatigue
 
 working definitions (of liberty, of science)
@@ -40,3 +30,7 @@ science
 
 This american life episode 752: An invitation to tea
 Radiolab return of alphagal
+
+challenging yourself for learning vs sanity
+
+Explanation as a way to make your own thoughts clearer, consciousness is an explanatory venture.

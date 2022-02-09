@@ -1,0 +1,1 @@
+The ability to actually act and change the world around you. Billionaires have the same [[negative liberty|negative liberties]] as you because they are (ostensibly) beholden to the same laws you are, but they have far more positive liberty since if they want something to happen, they can make it happen. 

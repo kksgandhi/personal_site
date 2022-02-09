@@ -7,3 +7,5 @@ So how do we separate a [[we are all immoral|reasonable level of unethical livin
 For example, my lab pays people to do [[microwork]], and I believe that we pay people a fair wage. At the same time, I think that microwork is inherently problematic, along with the larger systems that it is a part of. Am I a hypocrite for thinking so, while continuing to encourage microwork? Should I cease interacting with microwork platforms altogether? Our microwork platform of choice (mechanical turk) allows us to set a good wage, but what if there are aspects of mturk that I don't like and can't control, is my only option to step away from mturk altogether? Are the problems of microwork useless to try and solve when [[tangible problems nested in structural problems|there are larger structural problems]] of capitalism?
 
 [[It's not necessarily hypocritical to be unethical in an unethical system]]
+
+[[perfect as the enemy of the good|Don't let perfect be the enemy of the good]], don't let [[structural change as the enemy of smaller change|the need for structural change stop you from taking smaller steps.]]

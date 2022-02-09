@@ -2,7 +2,7 @@
 
 [[games provide a safe space for experimentation]]
 
-For [[declarative knowledge]] [[games - transference|transference]], [[avatar|your identity in game]] is not really relevant, but it's definitely more relevant for teaching ethics.
+For [[declarative knowledge]] [[games - transference|transference]], [[avatars|your identity in game]] is not really relevant, but it's definitely more relevant for teaching ethics.
 
 [[we project our values onto game characters]], feeling responsible for them and wanting them to succeed. Might this go in the other direction, where acting ethically can transfer to the real person acting ethically?
 

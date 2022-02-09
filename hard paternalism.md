@@ -1,0 +1,1 @@
+You can prevent someone from doing something, even if they are doing it with informed consent (As opposed to soft paternalism, which says that you can only prevent someone from doing something *in order to determine* whether they have informed consent.)

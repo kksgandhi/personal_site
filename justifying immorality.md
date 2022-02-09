@@ -1,0 +1,4 @@
+ - moral justification
+ - advantageous comparison
+ - euphemistic labeling
+ - minimizing or ignoring consequences

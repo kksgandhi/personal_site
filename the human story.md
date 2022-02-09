@@ -1,0 +1,1 @@
+"Every story builds upon ones that came before. In a sense, there aren't multiple stories, there is only just one story - the human story" - [[Welcome to Nightvale]], paraphrased

@@ -10,9 +10,9 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "edugame companies.md",
+            "file": "Reflection Through Representations Of Personal Data-Karyda.md",
             "options": {
-              "collapse-filter": false,
+              "collapse-filter": true,
               "search": "",
               "localJumps": 2,
               "localBacklinks": true,
@@ -33,7 +33,7 @@
               "repelStrength": 10,
               "linkStrength": 1,
               "linkDistance": 30,
-              "scale": 1.2809901084196411,
+              "scale": 1.3199778950429097,
               "close": true
             }
           }
@@ -47,7 +47,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "edugame companies.md",
+            "file": "Reflection Through Representations Of Personal Data-Karyda.md",
             "mode": "source",
             "source": false
           }
@@ -79,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"are we the baddies\"",
+                "query": "khaled",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "edugame companies.md",
+                "file": "Reflection Through Representations Of Personal Data-Karyda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,15 +129,15 @@
   },
   "active": "618f02ed934953c6",
   "lastOpenFiles": [
-    "edugame companies.md",
-    "jobs in industry.md",
-    "human worth.md",
-    "gatekeeping.md",
-    "universities work by gatekeeping.md",
-    "tragedy of bilingualism.md",
-    "listening to the other side.md",
-    "the other is not unified.md",
-    "hypocrisy.md",
-    "It's not necessarily hypocritical to be unethical in an unethical system.md"
+    "Reflection Through Representations Of Personal Data-Karyda.md",
+    "reflection.md",
+    "Fleck and Fitzpatrick's reflection framework.md",
+    "Reflection In Player Experience-Mekler.md",
+    "readings.md",
+    "contexts around games.md",
+    "Mekler and Hornbaek's reflection framework.md",
+    "Mekler.md",
+    "Moments That Challenge A Player-Whitby.md",
+    "games - reflection.md"
   ]
 }
