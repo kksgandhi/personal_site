@@ -1,0 +1,1 @@
+[[stress allows us to learn]], and irritation makes us wonder why things are like that. Why did the artist put this feature in? Presumably it wasn't just to irritate, so how does that choice affect all others?

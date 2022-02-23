@@ -6,13 +6,13 @@
       {
         "id": "e02c218f9364dba2",
         "type": "leaf",
-        "dimension": 74.40597420230822,
+        "dimension": 74.20230821452817,
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "Reflection Through Representations Of Personal Data-Karyda.md",
+            "file": "Sicart.md",
             "options": {
-              "collapse-filter": true,
+              "collapse-filter": false,
               "search": "",
               "localJumps": 2,
               "localBacklinks": true,
@@ -21,9 +21,17 @@
               "showTags": false,
               "showAttachments": false,
               "hideUnresolved": false,
-              "collapse-color-groups": true,
-              "colorGroups": [],
-              "collapse-display": true,
+              "collapse-color-groups": false,
+              "colorGroups": [
+                {
+                  "query": "tag:#notesFromPaper",
+                  "color": {
+                    "a": 1,
+                    "rgb": 8755456
+                  }
+                }
+              ],
+              "collapse-display": false,
               "showArrow": false,
               "textFadeMultiplier": 0,
               "nodeSizeMultiplier": 1,
@@ -33,7 +41,7 @@
               "repelStrength": 10,
               "linkStrength": 1,
               "linkDistance": 30,
-              "scale": 1.3199778950429097,
+              "scale": 0.883136902572313,
               "close": true
             }
           }
@@ -41,18 +49,45 @@
         "group": "1a3829d07b661dcf"
       },
       {
-        "id": "618f02ed934953c6",
-        "type": "leaf",
-        "dimension": 25.594025797691778,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Reflection Through Representations Of Personal Data-Karyda.md",
-            "mode": "source",
-            "source": false
+        "id": "74f14d9a6a5639cd",
+        "type": "split",
+        "dimension": 25.797691785471827,
+        "children": [
+          {
+            "id": "618f02ed934953c6",
+            "type": "leaf",
+            "dimension": 52.37113402061856,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sicart.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "1a3829d07b661dcf"
+          },
+          {
+            "id": "47fd7ea62fd84737",
+            "type": "leaf",
+            "dimension": 47.62886597938144,
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Sicart.md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "byModifiedTimeReverse",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            },
+            "group": "1a3829d07b661dcf"
           }
-        },
-        "group": "1a3829d07b661dcf"
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -79,12 +114,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "khaled",
+                "query": "agent",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           }
@@ -109,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reflection Through Representations Of Personal Data-Karyda.md",
+                "file": "Sicart.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,15 +164,15 @@
   },
   "active": "618f02ed934953c6",
   "lastOpenFiles": [
-    "Reflection Through Representations Of Personal Data-Karyda.md",
-    "reflection.md",
-    "Fleck and Fitzpatrick's reflection framework.md",
-    "Reflection In Player Experience-Mekler.md",
-    "readings.md",
-    "contexts around games.md",
-    "Mekler and Hornbaek's reflection framework.md",
-    "Mekler.md",
-    "Moments That Challenge A Player-Whitby.md",
-    "games - reflection.md"
+    "Sicart.md",
+    "games can teach philosophy through organic interaction.md",
+    "games can teach philosophy by simulating moral agents.md",
+    "games can teach philosophy by creating organic problems.md",
+    "moral performance is contextual.md",
+    "encouraging reflection.md",
+    "Framework For Transformative Reflection Design-Slovak.md",
+    "games can teach philosophy.md",
+    "games can teach philosophy through interaction.md",
+    "Designing Ethical Gameplay-Sicart.md"
   ]
 }

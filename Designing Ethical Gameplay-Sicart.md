@@ -1,3 +1,5 @@
+[[Sicart]]
+
 Chapter in [[Ethics And Game Design-Schrier]]
 
 The starting of COD kills you. It implies that you will get agency and action, but it subverts that by simply executing you. In that way, [[COD]] 4 is taking a critical stance towards its own genre.

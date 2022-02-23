@@ -16,6 +16,9 @@ wandersong? Hatoful boyfriend, little inferno, Old Man's Journey, Subsurface Cir
 
 unearthu
 
+gathering sky - game about gathering birds
+unpacking
+
 Philosophy Games
 ----------------
 

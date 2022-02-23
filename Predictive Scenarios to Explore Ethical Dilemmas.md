@@ -23,7 +23,7 @@
 
 iterative design, 20-80 people, 3-5 GMs
 
-[[debriefing]] about how your actions affected others, using the [[socratic method]] to make them think through their decisions.
+[[debrief]] about how your actions affected others, using the [[socratic method]] to make them think through their decisions.
 
 [[externalization with game avatars]]
 

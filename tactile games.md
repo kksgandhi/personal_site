@@ -1,4 +1,4 @@
 #todo
 
-[[What Remains of Edith Finch]]
-[[In Other Waters]]
+ - [[What Remains of Edith Finch]]
+ - [[In Other Waters]]

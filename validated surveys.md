@@ -64,3 +64,8 @@ Nature relatedness
 ------------------
 
  - https://journals.sagepub.com/doi/pdf/10.1177/0013916508318748
+
+Other
+------
+
+ - [[Emotionally Moving Moments In Games-Bopp]] mentions an emotional gratification in media survey by Bartsch

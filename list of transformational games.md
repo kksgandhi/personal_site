@@ -8,4 +8,6 @@
 
  - [[Chimeria Grayscale]]
 
+ - [[The McDonalds Game]]
+
 [[list of civics games]]

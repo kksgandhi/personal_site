@@ -9,3 +9,5 @@ I'm doing a project where we are using Cohen's Kappa and summing the codes. Code
 [Kendall's W?](https://en.wikipedia.org/wiki/Kendall%27s_W)
 
 [[Coding Manual For Qualitative Researchers-Saldana]] pg (35|58) says 80-90\% agreement is good
+
+For Cohen's Kappa, Landis and Koch 1977 The measurement of observer agreement for categorical data (biometrics) talks about appropriate interrater reliability.

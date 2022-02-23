@@ -20,5 +20,6 @@ Northeast
  - Kuato Studios
  - Triseum
  - https://www.filamentgames.com/careers/
+  - https://www.panoramaed.com/careers
 
 Tag: [[educational games]]

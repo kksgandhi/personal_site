@@ -1,3 +1,3 @@
-[[physical presence]]
-[[emotional presence]]
-[[narrative presence]]
+ - [[physical presence]]
+ - [[emotional presence]]
+ - [[narrative presence]]

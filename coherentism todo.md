@@ -34,3 +34,9 @@ Radiolab return of alphagal
 challenging yourself for learning vs sanity
 
 Explanation as a way to make your own thoughts clearer, consciousness is an explanatory venture.
+
+A lot of academic work is bullshit, but cherry picks what participants say in order to have the necessary trappings of an academic venture.
+
+philosophy not as a search for truth, but as a framework for answering questions means that everything can be true.
+
+Blood is compulsory

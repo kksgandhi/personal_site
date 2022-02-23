@@ -1,0 +1,1 @@
+Game takes place in a real airport. Tap your phone on an unsuspecting victim's phone before security to plant virtual drugs on them. Then tap it again after security to grab your drugs, turning the victim into an inadvertent "drug smuggler".

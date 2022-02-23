@@ -80,15 +80,6 @@ Violent Video Games
 Reflection in Games Paper
 -------------------------
 
- - Fleck's Operationalised reflection framework, citation 17 and 18 in Reflection in player experience-Mekler
- - Reflective Game Design-Khaled
- - off-peak, ordinary player experience-Tyack
- - Uncomfortable experiences-Gowler
- - Reflective Practicum, a framework of sensitising concepts to design for transformational reflection-Slovak
- - Evaluating serious experience in games-Iacovides
- - emotionally moving moments in digital games-Bopp, 2016 (there is also a 2015 paper I may want to skim)
- - emotional complexity in games-Mekler
- - emotional challenge in games-Bopp
  - Ethics practice and implementation-Schrier
 
 Other
