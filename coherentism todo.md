@@ -39,4 +39,6 @@ A lot of academic work is bullshit, but cherry picks what participants say in or
 
 philosophy not as a search for truth, but as a framework for answering questions means that everything can be true.
 
+philosophy seems obvious, but it's more about the confidence of having seen something from every angle and being absolutely certain it is true.
+
 Blood is compulsory

@@ -1,3 +1,5 @@
+#notesFromPaper 
+
 [[culture and games]]
 
 [[people act differently in games]] because it's just a simulation, and also [[rewind morality]] is a problem.

@@ -1,3 +1,5 @@
+#notesFromPaper 
+
 [[Brathwaite]], [[Sharp]]
 
 [[contexts around games]]

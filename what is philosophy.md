@@ -1,0 +1,3 @@
+In my opinion, philosophy is discussion about questions that are unfalsifiable, however I've received some pushback on that statement.  Apparently physical theory and experiment by Pierre Duhem has more, though I haven't read it yet.
+
+[[Definition Of Philosophical Game-Gualeni]] defines philosophical themes as themes that put into question shared beliefs and challenge socially established assumptions. Answering these kinds of questions requires rational and critical commitment.

@@ -1,3 +1,5 @@
+#notesFromPaper 
+
 [[Swain]]
 
 [[transformational games need thoughtful implementation]]

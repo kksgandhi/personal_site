@@ -21,4 +21,4 @@ Crookall Hofstede: games need a [[debrief]] section for players to let the learn
 
 some discussion on [[Art Game]] and how it doesn't set goals for players / has "irritating" elements to aid in immersion and [[irritation triggers reflection|reflection triggering]].
 
-[[Joust]]
+Also discussed the game [[Joust - game]]

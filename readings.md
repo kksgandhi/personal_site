@@ -80,6 +80,7 @@ Violent Video Games
 Reflection in Games Paper
 -------------------------
 
+ - False dichotomy between positive and negative affect in gameplay-Birk
  - Ethics practice and implementation-Schrier
 
 Other

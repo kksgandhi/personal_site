@@ -5,7 +5,7 @@ Author: [[Deterding]]
 
 [[motivation]] vs [[enjoyment]]
 
-[[HCI]] should look into using [[games]] for understanding motivation in other [[HCI]] contexts
+[[HCI]] should look into using games for understanding motivation in other [[HCI]] contexts
 
 ![[free play]] vs ![[gamefulness]]
 

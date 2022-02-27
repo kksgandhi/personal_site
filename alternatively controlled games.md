@@ -1,6 +1,6 @@
 Games that aren't played on a computer screen with controllers
 
- - [[Joust]]
+ - [[Joust - game]]
  - Dark Room Sex Game
    - Play with your wiimotes till orgasm
  - Taphobos

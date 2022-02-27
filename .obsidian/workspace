@@ -6,11 +6,11 @@
       {
         "id": "e02c218f9364dba2",
         "type": "leaf",
-        "dimension": 74.20230821452817,
+        "dimension": 71.0261569416499,
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "Sicart.md",
+            "file": "Outer Wilds.md",
             "options": {
               "collapse-filter": false,
               "search": "",
@@ -41,7 +41,7 @@
               "repelStrength": 10,
               "linkStrength": 1,
               "linkDistance": 30,
-              "scale": 0.883136902572313,
+              "scale": 0.8187788877721083,
               "close": true
             }
           }
@@ -51,7 +51,7 @@
       {
         "id": "74f14d9a6a5639cd",
         "type": "split",
-        "dimension": 25.797691785471827,
+        "dimension": 28.973843058350102,
         "children": [
           {
             "id": "618f02ed934953c6",
@@ -60,7 +60,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sicart.md",
+                "file": "Outer Wilds.md",
                 "mode": "source",
                 "source": false
               }
@@ -74,7 +74,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sicart.md",
+                "file": "Outer Wilds.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "byModifiedTimeReverse",
@@ -114,7 +114,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "agent",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -123,12 +123,12 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 323
+    "width": 323,
+    "collapsed": true
   },
   "right": {
     "id": "2802726c462e05f0",
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sicart.md",
+                "file": "Outer Wilds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,15 +164,15 @@
   },
   "active": "618f02ed934953c6",
   "lastOpenFiles": [
-    "Sicart.md",
-    "games can teach philosophy through organic interaction.md",
-    "games can teach philosophy by simulating moral agents.md",
-    "games can teach philosophy by creating organic problems.md",
-    "moral performance is contextual.md",
-    "encouraging reflection.md",
-    "Framework For Transformative Reflection Design-Slovak.md",
-    "games can teach philosophy.md",
-    "games can teach philosophy through interaction.md",
-    "Designing Ethical Gameplay-Sicart.md"
+    "Outer Wilds.md",
+    "AI consciousness.md",
+    "AI.md",
+    "philosophy - games.md",
+    "The Talos Principle.md",
+    "self.md",
+    "consciousness is just a narrative.md",
+    "consciousness is the universe experiencing itself.md",
+    "consciousness.md",
+    "what makes a game philosophical.md"
   ]
 }

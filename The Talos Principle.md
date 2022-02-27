@@ -1,3 +1,5 @@
+Game that deals with religion, consciousness, AI, and what it means to be human.
+
 [**My favorite work on the Talos Principle**, here is a master's thesis on the game that does a fantastic job breaking down its philosophy](https://playtestingphilosophy.neocities.org/index.html)
 
 [Analyzing the Philosophy of The Talos Principle (A game that touches on a lot of AI philosophy questions):](https://www.youtube.https://dima.bio/demos/talos/?lang=enucom/watch?v=g5FloMq9Lck&feature=youtu.be)

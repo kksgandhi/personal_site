@@ -1,0 +1,5 @@
+[[AI]]
+
+[[consciousness]]
+
+#todo
