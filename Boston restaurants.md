@@ -53,6 +53,7 @@ BTT = Before Tax & Tips, a \* means I want to go there but haven't yet
  - andala coffeehouse (palestinian)
  - asmara (eritrean)
  - Spyce\*
+ - Toscanini's ice cream!! (Kendall Square)
 
 ### Seaport
 

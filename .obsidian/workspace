@@ -10,7 +10,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "Outer Wilds.md",
+            "file": "Boston restaurants.md",
             "options": {
               "collapse-filter": false,
               "search": "",
@@ -60,7 +60,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Outer Wilds.md",
+                "file": "Boston restaurants.md",
                 "mode": "source",
                 "source": false
               }
@@ -74,7 +74,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Outer Wilds.md",
+                "file": "Boston restaurants.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "byModifiedTimeReverse",
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Outer Wilds.md",
+                "file": "Boston restaurants.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,6 +164,7 @@
   },
   "active": "618f02ed934953c6",
   "lastOpenFiles": [
+    "Boston restaurants.md",
     "Outer Wilds.md",
     "AI consciousness.md",
     "AI.md",
@@ -172,7 +173,6 @@
     "self.md",
     "consciousness is just a narrative.md",
     "consciousness is the universe experiencing itself.md",
-    "consciousness.md",
-    "what makes a game philosophical.md"
+    "consciousness.md"
   ]
 }
