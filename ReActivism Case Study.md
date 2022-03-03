@@ -1,3 +1,5 @@
+#notesFromPaper 
+
 [[Macklin]]
 
 Described an urban game in lower Manhattan where participants ran between various protest sites and engaged in activities / answered questions that could only be answered there.

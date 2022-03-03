@@ -17,3 +17,6 @@ games can provide an extended scaffold for thinking through problems?
  - assess success of learning objectives
  - build opportunities for projective identity
  - allow user generated content
+
+
+#notesFromPaper 

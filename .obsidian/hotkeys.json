@@ -90,8 +90,7 @@
   "app:go-back": [
     {
       "modifiers": [
-        "Mod",
-        "Shift"
+        "Mod"
       ],
       "key": "ArrowLeft"
     }
@@ -99,8 +98,7 @@
   "app:go-forward": [
     {
       "modifiers": [
-        "Mod",
-        "Shift"
+        "Mod"
       ],
       "key": "ArrowRight"
     }
@@ -157,5 +155,6 @@
       "key": "t"
     }
   ],
-  "editor:toggle-checklist-status": []
+  "editor:toggle-checklist-status": [],
+  "open-with-default-app:open": []
 }

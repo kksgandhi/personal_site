@@ -7,3 +7,6 @@ Imagine the "humanistic needs" of an anthropomorphized "video game"
  - Fears of [[negative escapism]] stem from the feeling that games take from their players needs, but maybe that's just [[capitalism]] lol
 
 continues with a bunch of neat examples of countercultural and artisticly experimental games.
+
+
+#notesFromPaper 

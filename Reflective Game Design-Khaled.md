@@ -3,6 +3,8 @@ Year   :
 Tags   :
 Authors: [[Khaled]]
 
+[[docs/Reflective Game Design-Khaled.pdf]]
+
 [[conventional game design works against reflection]]
 
 refers to reflection using the definition I usually ascribe to [[critical thinking]]

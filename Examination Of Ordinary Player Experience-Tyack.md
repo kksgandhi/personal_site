@@ -15,6 +15,6 @@ ordinariness does not mean boredom, in fact being bored in a game is an unfortun
  - [[co-attentive play]]
  - [[abstractly memorable events]]
 
-Ordinary PX and extraordinary PX work in tandem, ordinary PX makes extraordinary PX that much more memorable.
+Ordinary PX and extraordinary PX work in tandem, ordinary PX makes extraordinary PX that much more memorable. - [[balance types of experience]]
 
 Ordinary PX can be comforting and important for wellbeing.

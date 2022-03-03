@@ -24,3 +24,6 @@ implications for design:
 
  - expand the range of vicarious experiences games offer
  - highlight the moral dimension of system impacting choices. See [[intuitionism]]
+
+
+#notesFromPaper 

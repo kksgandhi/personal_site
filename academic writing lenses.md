@@ -1,3 +1,9 @@
+Structure and Flow
+--------------------
+
+ - Read the first sentence of every paragraph. Does it tell a story?
+ - Read every header. Does it tell a story?
+
 Necessary inclusions
 --------------------
 

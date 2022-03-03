@@ -17,3 +17,6 @@ When developing a game, think about:
  - game format
  - reward structure
  - game mechanics
+
+
+#notesFromPaper 

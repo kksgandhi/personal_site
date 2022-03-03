@@ -1,3 +1,5 @@
+#notesFromPaper 
+
 [[Hoffman]]
 
 Discusses the history of [[death]] in games.

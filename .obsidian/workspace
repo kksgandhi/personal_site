@@ -6,11 +6,11 @@
       {
         "id": "e02c218f9364dba2",
         "type": "leaf",
-        "dimension": 71.0261569416499,
+        "dimension": 65.87651598676956,
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "Boston restaurants.md",
+            "file": "social games.md",
             "options": {
               "collapse-filter": false,
               "search": "",
@@ -41,7 +41,7 @@
               "repelStrength": 10,
               "linkStrength": 1,
               "linkDistance": 30,
-              "scale": 0.8187788877721083,
+              "scale": 1.1579115639368434,
               "close": true
             }
           }
@@ -51,16 +51,16 @@
       {
         "id": "74f14d9a6a5639cd",
         "type": "split",
-        "dimension": 28.973843058350102,
+        "dimension": 34.12348401323043,
         "children": [
           {
             "id": "618f02ed934953c6",
             "type": "leaf",
-            "dimension": 52.37113402061856,
+            "dimension": 49.08906882591093,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Boston restaurants.md",
+                "file": "social games.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,11 +70,11 @@
           {
             "id": "47fd7ea62fd84737",
             "type": "leaf",
-            "dimension": 47.62886597938144,
+            "dimension": 50.91093117408907,
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Boston restaurants.md",
+                "file": "social games.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "byModifiedTimeReverse",
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Boston restaurants.md",
+                "file": "social games.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,15 +164,15 @@
   },
   "active": "618f02ed934953c6",
   "lastOpenFiles": [
-    "Boston restaurants.md",
-    "Outer Wilds.md",
-    "AI consciousness.md",
-    "AI.md",
-    "philosophy - games.md",
-    "The Talos Principle.md",
-    "self.md",
-    "consciousness is just a narrative.md",
-    "consciousness is the universe experiencing itself.md",
-    "consciousness.md"
+    "social games.md",
+    "game recommendations.md",
+    "Moments That Challenge A Player-Whitby.md",
+    "Whitby.md",
+    "academic writing lenses.md",
+    "lenses.md",
+    "Uncomfortable Experiences In Games-Gowler.md",
+    "Gowler.md",
+    "Train - game.md",
+    "declarative learning.md"
   ]
 }

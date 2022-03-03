@@ -1,8 +1,11 @@
+
 #notesFromPaper
 Year   :
 Tags   :
 Authors: [[Whitby]] [[Deterding]] [[Iacovides]]
 #unread 
+
+[[Moments That Challenge A Player-Whitby.pdf]]
 
 [[games - reflection]]
 

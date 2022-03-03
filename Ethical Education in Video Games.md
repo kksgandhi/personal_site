@@ -11,3 +11,6 @@ The chained men in the [[allegory of the cave]] are [[immersion|immersed]] in th
 [[game worlds are inherently limited]]
 
 [[games enforce ethical frameworks]]
+
+
+#notesFromPaper 

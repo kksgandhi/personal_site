@@ -1,3 +1,7 @@
+[[Staines]]
+
+#notesFromPaper 
+
 [[games can teach philosophy through interaction]]
 
 Discusses [[Neo-Kohlbergianism]], starts with an intro on how Kohlberg came up with his theories on moral development.

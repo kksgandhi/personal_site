@@ -13,3 +13,6 @@ discusses chunking and [[frameworks]], calls them "schema". Schema, especially s
 completely unstructured [[play]] helps children learn, but so does [[scaffolding]]. Games can stand in between by offering spaces for both.
 
 [[media learning is better shared]]
+
+
+#notesFromPaper 
