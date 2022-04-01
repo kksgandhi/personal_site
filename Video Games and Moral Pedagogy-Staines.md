@@ -1,6 +1,6 @@
 [[Staines]]
 
-#notesFromPaper 
+#notesFromPaper #inbib 
 
 [[games can teach philosophy through interaction]]
 

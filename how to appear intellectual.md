@@ -1,3 +1,3 @@
 The easiest way to appear deep is to say a simple thing in a complex way, to contradict yourself and fluff words. Ideally your listener understands you and is confused by you. They understand parts (parts they agree with), that way they see you as speaking some great truths. They are confused by parts (the fluff, and the contradictions) so that they believe your words are wise beyond your understanding.
 
-[[pseudointellectualism]]
+[[pseudointellectualism]], [[element of truth]]

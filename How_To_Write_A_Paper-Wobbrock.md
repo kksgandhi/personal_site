@@ -3,4 +3,10 @@ Authors: [[Wobbrock]]
 Year   :
 Tags   : [[research]] [[papers]]
 
-Ok so this doesn't actually have much to do with titles, it's a good paper on the structure of papers that you absolutely should refer back to.
+Introduction:
+
+ - State of the world
+ - Big BUT
+ - Therefore we did
+ - The key findings are
+ - contributions of this work are

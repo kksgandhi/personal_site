@@ -1,4 +1,4 @@
-I read a story about some company (I think Apple). When they started, they didn't have special parking for pregnant women, who then had to walk from a faraway garage. When they finally had a woman on the board of directors, she mentioned that and everyone said "oh! I didn't think about that!". People are blinded by what their experiences.
+I read a story about some company (I think Apple). When they started, they didn't have special parking for pregnant women, who then had to walk from a faraway garage. When they finally had a woman on the board of directors, she mentioned that and everyone said "oh! I didn't think about that!". People are blinded to their experiences.
 
 I feel like this is pretty common sentiment among my generation. I do think I take it a step further, where I advocate not only for diversity of thought through identities (race, gender, etc.) but diversity of more fundamental thought patterns. (though of course [[identity politics]] are still very important). 
 

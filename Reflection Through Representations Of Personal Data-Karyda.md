@@ -1,4 +1,4 @@
-	#notesFromPaper
+#notesFromPaper
 Year   :
 Tags   : [[data visualization]]
 Authors: [[Karyda]] [[Mekler]] [[Lucero]]

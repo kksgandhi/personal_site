@@ -1,3 +1,5 @@
+[[social activities|Other social activiites]]
+
 A dollar sign means that it requires purchase
 
 Online only

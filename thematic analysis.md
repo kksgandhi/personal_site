@@ -1,6 +1,8 @@
 Year   :
 Tags   :
 Authors: [[Braun]] [[Clarke]]
+
+Maybe read this: https://www.tandfonline.com/doi/abs/10.1080/13645579.2016.1195588?journalCode=tsrm20
 ![[./docs/thematic analysis.pdf]]
 
 *The* site for thematic analysis:

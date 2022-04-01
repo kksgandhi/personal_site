@@ -1,36 +1,49 @@
-#notesFromPaper
+#notesFromPaper #inbib
 Authors: [[Culyba]]
 Year   :
 Tags   : [[game design]] [[transformational games]]
 
 Art of game design by [[Schell]], apparently I should read it
 
-Transformational games attempt to change the player irl in a manner that persists
+transformational games are specifically about [[exotransformative|exotransformation]]
 
-High Level Purpose
-Audience & Context
-Player Transformations
-Barriers
-Domain Concepts
-Expert Resources
-Prior Works
-Assessment Plan
+define the problem first. [[iterative game design]] doesn't work as well with transformational games.
 
-Don't [[design]] something that directly features the purpose, instead think about how the design will foster the purpose.
+The pieces of the transformational framework:
 
-Understand your players. What is their beginning state? (Do they know geometry)
+ - High Level Purpose
+ - Audience & Context
+ - Player Transformations
+ - Barriers
+ - Domain Concepts
+ - Expert Resources
+ - Prior Works
+ - Assessment Plan
 
-Also understand other stakeholders such as teachers
+Major questions:
 
-Focus on specific transformations instead of high level goals. "The Player loves Reading" -> "The player has increased positive feelings about reading"
-
-Hey quick question, why aren't your players already transformed? What barriers are in their way?
-
-Motivation, Relevance, Social Norms, Access, Ability, Complexity, Unfamiliarity, Misconceptions, Fear
-
-What concepts are you focusing on, including, or cutting?
-
-Prior works can be any media, not just games
+ - Why is it important that your game transform players?
+   - Agreeing on this helps create a shared vision for your team.
+ - What is the ecosystem in which your game must create change?
+   - Who will play it, and where?
+   - Where do your players stand before playing the game?
+   - Why do your players want to transform?
+     - Are they forced externally? Trying to reach a personal goal? Just interested in the topic?
+   - Remember all your stakeholders
+   - Do [[user research]], your stakeholders may have different desires than anticipated.
+ - How should players be different after playing your game?
+   - Focus on specific transformations instead of high level goals. "The Player loves Reading" -> "The player has increased positive feelings about reading"
+   - Don't expect unattainable goals
+   - [[types of transformation]]
+ - Why aren't your players already transformed?
+   - [[types of barriers to transformation]]
+   - deal with the barrier (directly or indirectly), limit your audience, or simply accept the barrier
+ - What is essential to include to transform your players?
+   - Prioritize, don't try to cover everything
+ - For fucks sake remember your [[subject matter experts|SMEs]]
+ - Learn from others
+ - How will you measure your game's impact?
+   - [[evaluating transformational games]]
 
 Mediating variables: x and y are not causated, instead x -> z -> y. Instead of targeting x -> y, target x -> z. Studies show that improving [[self efficacy]] can lead people to quit. Maybe don't target "quitting smoking", but rather "[[self efficacy]]"
 

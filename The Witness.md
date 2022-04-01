@@ -34,6 +34,6 @@ The animations in the witness are slow, which lends to its broader theme of 'slo
 
 The witness has a narrative and meaning, but it is light on both those. Hell, I think if this note was twice as long, it would probably cover the entire story of the witness and everything it says.
 
-Does the Witness need to be a 40 hour experience to tell a 40 minute story? On the one hand, the time taken allows the meaning to sink in, and meshes well with the idea of 'slow down' present. On the other hand, the length of the game allows it to appear [[deep]] without actually being so. 
+Does the Witness need to be a 40 hour experience to tell a 40 minute story? On the one hand, the time taken allows the meaning to sink in, and meshes well with the idea of 'slow down' present. On the other hand, the length of the game allows it to appear [[how to appear intellectual|deep]] without actually being so. 
 
 the theater and the story of [[the candle]]

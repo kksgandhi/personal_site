@@ -10,7 +10,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "social games.md",
+            "file": "converse.md",
             "options": {
               "collapse-filter": false,
               "search": "",
@@ -41,7 +41,7 @@
               "repelStrength": 10,
               "linkStrength": 1,
               "linkDistance": 30,
-              "scale": 1.1579115639368434,
+              "scale": 1.1103293658007332,
               "close": true
             }
           }
@@ -56,11 +56,11 @@
           {
             "id": "618f02ed934953c6",
             "type": "leaf",
-            "dimension": 49.08906882591093,
+            "dimension": 74.59514170040485,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "social games.md",
+                "file": "converse.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,11 +70,11 @@
           {
             "id": "47fd7ea62fd84737",
             "type": "leaf",
-            "dimension": 50.91093117408907,
+            "dimension": 25.40485829959514,
             "state": {
               "type": "backlink",
               "state": {
-                "file": "social games.md",
+                "file": "converse.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "byModifiedTimeReverse",
@@ -114,7 +114,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "#kille",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -123,7 +123,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -144,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "social games.md",
+                "file": "converse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,15 +165,15 @@
   },
   "active": "618f02ed934953c6",
   "lastOpenFiles": [
-    "social games.md",
-    "game recommendations.md",
-    "Moments That Challenge A Player-Whitby.md",
-    "Whitby.md",
-    "academic writing lenses.md",
-    "lenses.md",
-    "Uncomfortable Experiences In Games-Gowler.md",
-    "Gowler.md",
-    "Train - game.md",
-    "declarative learning.md"
+    "converse.md",
+    "reducing agency.md",
+    "Communicating Values through Mechanics.md",
+    "transformational games need thoughtful implementation.md",
+    "Mechanic as the Message.md",
+    "teach via rules and outcomes.md",
+    "teach via rules nd outcomes.md",
+    "Tyack.md",
+    "Examination Of Ordinary Player Experience-Tyack.md",
+    "Designing For Emotional Complexity In Games-Mekler.md"
   ]
 }

@@ -15,7 +15,7 @@ Game designers are tempted to [[stealth learning|mask the learning to make it mo
 
 Crookall Hofstede: games need a [[debrief]] section for players to let the learning outcomes soak in.
 
-[[immersion]] means we [[projective identity hypothesis|are more likely to change our views]], though [[immersion is counter to reflection]]
+[[immersion]] means we [[projective identity hypothesis|are more likely to chunter to reflection]]
 
 [[critical design]] is not "user friendly", though avoid challenging to the point where the art is alienating.
 

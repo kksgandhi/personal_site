@@ -5,7 +5,7 @@ Authors: [[Del-Moral]] [[Rodriguez-Gonzalez]]
 
 uses the [[WarVG-A]] war game analysis tool to analyze the critical thinking towards war. Honestly the abstract wasn't that great so I'm hoping the rest of the paper is.
 
-Do war games [[banality of evil|banalize war]]?
+Do war games [[the banality of evil|banalize war]]?
 
 I mean yes, and this paper identifies a variety of mechanics that make war seem simpler than it actually is.
 

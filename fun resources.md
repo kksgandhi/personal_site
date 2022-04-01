@@ -1,3 +1,3 @@
-[[fun websites]]
-
-[[social activities]]
+ - [[fun websites]]
+ - [[social activities]]
+ - [[stupid stuff]]

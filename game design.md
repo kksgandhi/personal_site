@@ -1,7 +1,6 @@
-[[game prototyping]]
+#[[design]]
 
-[[gameplay loops]]
-
-[[tutorial design]]
-
-[[games for nongamers]]
+ - [[game prototyping]]
+ - [[gameplay loops]]
+ - [[tutorial design]]
+ - [[games for nongamers]]

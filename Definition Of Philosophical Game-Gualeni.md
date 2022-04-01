@@ -1,6 +1,6 @@
-#notesFromPaper
+#notesFromPaper #inbib 
 Year   :
-Tags   :
+Tags   : [[philosophical games]]
 Authors: [[Gualeni]]
 
 [[what makes a game philosophical]]? Also, may as well link my list of [[philosophy - games]]

@@ -5,3 +5,5 @@ Thus, if you want to teach something, the rules and outcomes of decisions have t
 Game players don't merely copy the ideas in a game's systems, instead they use them as a simulation ground to see what the outcomes of actions are.
 
 This is why (according to [[Video Games for Prosocial Learning-Koo]]) [[prosocial game claims bolster violent video game claims]] isn't too much of a problem. Players don't simply copy the actions they do in a video game, rather they see the effects that violence can have and internalize those rules and systems.
+
+

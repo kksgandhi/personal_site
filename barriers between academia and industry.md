@@ -1,0 +1,6 @@
+ - low accessibility (paywalls, jargon)
+ - industry doesn't see academia as a source of information
+ - opinions of each "side"
+ - [[academia is slow|pace of output]]
+ - IP issues
+ - differing [[incentive structures]]

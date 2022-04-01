@@ -12,5 +12,6 @@
  - New England Conservatory
  - Lily Pad Club
  - Sinclaire Show on Harvard Square
- - Secret Boston
  - BPL main branch
+ - Middlesex Thursday/phoenix landing Wednesday nights
+ - Lovestruck, dancing on the Charles

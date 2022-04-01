@@ -1,0 +1,1 @@
+[[the other side]] sometimes doesn't exist in the way you think it does. It's often a fiction created by [[propaganda]] (sometimes [[gray propaganda]]), a mishmash of people with different views who are [[strawman|strawmanned]] and represented by [[vocal minorities]].

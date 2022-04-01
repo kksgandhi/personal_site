@@ -12,4 +12,4 @@ Made a game with her daughter about the emotional aspects of the southwest passa
 
 [[show don't tell]]
 
-
+[[tying message and mechanics]]

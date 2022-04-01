@@ -1,0 +1,32 @@
+ - Start with Hayden and the Oyster (Till 15 mins)
+ - Use that to transition to higher pleasures and lower pleasures
+   - What do you think some higher and lower pleasures are?
+ - Maslow's hierarchy of needs
+   - Basics
+   - Safety
+   - Love and Belonging
+   - Esteem
+   - Self Actualization (Till 30 mins)
+ - Fragility
+   - Bring up the happy businessman. Why do we not want to live his life. Go into fragility
+ - Purpose can help us find something deep seated that allows us to avoid fragility
+   - How do you find purpose?
+   - Alienation from labor
+   - Change vs Happiness
+   - Societal change vs happiness (Till 45)
+ - Stoicism
+ - Buddhism
+ - Nihilism
+ - Absurdism
+ (Till 60)
+
+ - Hayden and the Oyster
+ - Rags to riches or vice versa?
+ - Greater pleasures or lower ones?
+ - Absurdism
+ - Maslow's hierarchy of needs
+ - Optimistic Nihilism
+ - Happy Businessman
+ - Change vs Happiness
+ - Societal change vs happiness
+ - Doctrine of the mean

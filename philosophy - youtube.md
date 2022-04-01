@@ -10,10 +10,6 @@ Philosophy, identity, modern life, GSRM issues
 
 Typically more science than philosophy, but "The Egg", "Optimistic Nihilism", and "[[the tail end|The Tail End]]" are some of the best videos on Youtube
 
-### exurb1a
-
-exurb1a is a great youtuber, but there's some evidence that he might be an absolutely *horrible* person. [[exurb1a|more here]]
-
 ### [[Jacob Geller]]
 
 Art, Games, and how art can help us in our search for meaning
@@ -38,3 +34,6 @@ Race and politics
 
 I don't know how to feel about Hbomberguy... He makes really good videos explaining global warming, and why the earth isn't flat, etc... but I don't personally need those videos. I'm more interested in stuff like Folding Ideas' "In Search of a Flat Earth", but I still think hbomberguy deserves to be on here.
 
+### exurb1a
+
+exurb1a is a great youtuber, but there's some evidence that he might be an absolutely *horrible* person. [[exurb1a|more here]]

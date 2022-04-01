@@ -4,20 +4,25 @@ BTT = Before Tax & Tips, a \* means I want to go there but haven't yet
 
  - Pho Basil
  - El Jefe's
+ - Wagamamas (20 BTT)
  - Phinista Crepes\* (Fenway)
 
-### Near BU
+### Allston
 
- - athans bakery
+ - athans bakery!
  - Kaju Tofu\* (and Harvard Ave generally)
  - Nud pob\*
  - Silk Road Uyghar Cuisine (16 BTT)
- - Grasshopper
+ - Grasshopper!!!
+ - Stoked Pizza Washington Square!!
+ - Shinmio Tea\*
 
 ### Newbury / Copley
 
  - Buttermilk and Bourbon \*
  - Dig!
+ - Red White Buddha Ramen!
+ - Santouka Ramen!!
 
 ### Somerville
 
@@ -33,11 +38,13 @@ BTT = Before Tax & Tips, a \* means I want to go there but haven't yet
  - Modern Pastry (Less Canolis than Mikes, more everything else)
  - Galleria Unberto (6 BTT)
  - Bova's
+ - Regina's Pizza (though only the North End one, the others are crap)
 
 ### Chinatown
 
  - Tora
- - WakuWaku
+ - WakuWaku\*
+ - Boba and Waffles\*
 
 ### JP
 
@@ -54,6 +61,7 @@ BTT = Before Tax & Tips, a \* means I want to go there but haven't yet
  - asmara (eritrean)
  - Spyce\*
  - Toscanini's ice cream!! (Kendall Square)
+ - Cafe Luna (Porter Square)
 
 ### Seaport
 

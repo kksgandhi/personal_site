@@ -1,4 +1,4 @@
-#killerPaper
+#killerPaper #inbib 
 
 Chapter in [[Ethics And Game Design-Schrier]]
 

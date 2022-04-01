@@ -2,9 +2,9 @@
 
 Chapter in [[Ethics And Game Design-Schrier]]
 
-The starting of COD kills you. It implies that you will get agency and action, but it subverts that by simply executing you. In that way, [[COD]] 4 is taking a critical stance towards its own genre.
+The starting of COD kills you. It implies that you will get agency and action, but it [[expectation subversion|subverts]] that by simply executing you. In that way, [[COD]] 4 is taking a critical stance towards its own genre.
 
-What is a [[moral game]]? It's not just making binary choices because morality is more of a system and a rationale. Thus, ethics is a series of systems and choices in a gameworld.
+What is a [[moral game]]? It's not just making binary choices because morality is more of a system and a rationale. Thus, ethics is a series of [[teach via rules and outcomes|systems and choices]] in a gameworld.
 
 Fallout 3 has a no-win quest as well that forces reflection.
 

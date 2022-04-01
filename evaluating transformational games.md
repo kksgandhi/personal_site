@@ -7,3 +7,27 @@
  - Focus groups or case studies
  - Ethnographic approaches
  - Designer reflection
+
+Notes from [[Transformational_Framework-Culyba]]:
+
+Levels of evaluation
+
+ - It seems reasonable
+ - Prior research shows it'll probably work
+ - Experts say it will work
+ - Anecdotal data
+ - Formally researched
+
+How to evaluate:
+
+ - Track player actions in game
+ - Track player actions irl
+ - Survey players about their intentions
+ - Survey stakeholders surrounding the players
+ - Test the player
+
+Try to evaluate with the audience and context you would actually deploy in.
+
+Players may themselves be interested in assessments, implicit or explicit
+
+

@@ -42,3 +42,11 @@ philosophy not as a search for truth, but as a framework for answering questions
 philosophy seems obvious, but it's more about the confidence of having seen something from every angle and being absolutely certain it is true.
 
 Blood is compulsory
+
+Abstract morality still appeals to common sense morality through analogy, e.g. the violinist example works because it's not socially acceptable to chain someone up
+
+Breaking the rules requires the maturity to understand why they are there in the first place.
+
+The kindness power fantasy and intellectual power fantasy
+
+intentionally being bad (Minecraft, influencers, controversial games, discussion building games)

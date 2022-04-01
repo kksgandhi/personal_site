@@ -1,0 +1,9 @@
+ - motivation
+ - relevance
+ - social norms
+ - access
+ - ability
+ - complexity
+ - unfamiliarity
+ - misconceptions
+ - fear

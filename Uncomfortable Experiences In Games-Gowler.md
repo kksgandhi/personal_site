@@ -25,3 +25,5 @@ Final Themes
 [[reducing agency]]
 
 [[people bond sharing uncomfortable experiences]]
+
+[[discomfort is valued]]

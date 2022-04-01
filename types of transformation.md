@@ -1,0 +1,10 @@
+ - knowledge
+ - skills
+ - physical
+ - disposition
+ - [[perspective taking|experience]]
+ - behavior
+ - belief
+ - relationships
+ - identity
+ - society
