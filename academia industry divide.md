@@ -1,3 +1,5 @@
+[[academia]], [[industry]]
+
 From [[Gap Between Academia And Game Devs-Greenwood]]
 
 Academics see industry people as only worried about profit while industry people see academics as standoffish and pretentious.

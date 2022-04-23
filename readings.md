@@ -21,6 +21,7 @@ Benefits of Games
  - [Benefits of playing non-action games on cognition](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0058546)
  - Education And Involvement In Games-Iacovides.md
  - [Game Based Learning](https://www-jime.open.ac.uk/articles/10.5334/2004-8-oblinger/)
+ - https://www.degruyter.com/document/doi/10.1515/9783110675184-008/html
 
 Learning
 --------
@@ -31,6 +32,7 @@ Learning
 Philosophy in the classroom
 ---------------------------
 
+ - [Designing Technology to support reflection](https://link.springer.com/article/10.1007/BF02299633)
  - Survey On Teaching With Digital Games-Takeuchi.md
  - Schrier: Designing and using games to teach ethics and ethical thinking
  - Campbell 2007: How can we know that ethics education produces ethical doctors?
@@ -93,3 +95,8 @@ Other
  - Work Group Diversity-Knippenberg.md (exists)
  - Gender Stereotypes In Modern Countries-Breda.md
  - [Colonialism in Civ 5](http://gamestudies.org/1602/articles/ford)
+
+Things to google
+----------------
+
+ the generation effect of memory and the self-explanation principle of instructional desig

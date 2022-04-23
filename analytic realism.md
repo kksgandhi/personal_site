@@ -1,0 +1,5 @@
+ - context is import
+ - researchers interacting changes the setting
+ - what is presented is a perspective, not truth
+ - the reader themselves impose meaning
+ - style does not have to be a paper

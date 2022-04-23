@@ -27,4 +27,4 @@ for file_name in relevant_files:
     org_file = path.join(MAIN_DIR, file_name)
 
     orig_file_time_str = datetime.fromtimestamp(path.getmtime(org_file)).strftime("%B %e, %Y")
-    insert(tmp_file, f'<center><em>Last Modified {orig_file_time_str}</em></center>\n\n-------------------------------\n\n')
+    insert(tmp_file, f'<center><em>This note last modified {orig_file_time_str}</em></center>\n\n-------------------------------\n\n')

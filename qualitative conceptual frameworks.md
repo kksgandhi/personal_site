@@ -1,0 +1,10 @@
+[[qualitative analysis]]
+
+ - [[postpositivist research]]
+ - [[analytic realism]]
+ - [[interpretive perspective]]
+ - [[model of inquiry]]
+ - [[semiotics]]
+ - [[phenomenelogical model]]
+ - [[poststructuralism]]
+ - [[symbolic interactionism]]

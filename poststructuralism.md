@@ -1,0 +1,1 @@
+[[structuralism]] states that structures are there, created, we just have to understand them. Poststructuralism argue that what structuralists find are products of a particular culture and context. What cultures and viewpoints aren't being represented by social science?

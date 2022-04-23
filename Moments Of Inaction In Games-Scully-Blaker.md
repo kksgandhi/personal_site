@@ -4,7 +4,7 @@ Year   :
 Tags   :
 Authors: [[Scully-Blaker]]
 
-[[stasis]] and [[stillness]]
+![[stasis]] and ![[stillness]]
 
 non-interactivity is nonsensical here because even within stasis and stillness players are "interacting" with the game.
 

@@ -1,0 +1,7 @@
+ - phenomenology
+   - behavior is a product of how individuals interact with the world. Researchers aim to understand how individuals interpret their actions, researchers engage with the phenomena
+ - hermeneutics
+   - meaning is participative and requires engagement with tradition
+   - I think it means that researchers ought to participate in the actions their subjects are undertaking?
+ - [[symbolic interactionism]]
+   - interpretation takes place continuously, researchers catch the process of interpretation

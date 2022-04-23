@@ -50,3 +50,5 @@ Breaking the rules requires the maturity to understand why they are there in the
 The kindness power fantasy and intellectual power fantasy
 
 intentionally being bad (Minecraft, influencers, controversial games, discussion building games)
+
+don't tell women they can be CEOs, wonder why we value money at all

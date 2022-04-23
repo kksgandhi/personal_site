@@ -10,9 +10,9 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "converse.md",
+            "file": "paradox of hedonism.md",
             "options": {
-              "collapse-filter": false,
+              "collapse-filter": true,
               "search": "",
               "localJumps": 2,
               "localBacklinks": true,
@@ -41,7 +41,7 @@
               "repelStrength": 10,
               "linkStrength": 1,
               "linkDistance": 30,
-              "scale": 1.1103293658007332,
+              "scale": 2.530722820005077,
               "close": true
             }
           }
@@ -60,7 +60,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "converse.md",
+                "file": "paradox of hedonism.md",
                 "mode": "source",
                 "source": false
               }
@@ -74,7 +74,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "converse.md",
+                "file": "paradox of hedonism.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "byModifiedTimeReverse",
@@ -93,87 +93,52 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "c256bbad1fc2aed9",
-    "type": "split",
+    "id": "c588d5c5bdd52105",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "57ea201fcf19ab14",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "fcb82200a8cf5cac",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "0bc9a120e68aa394",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "#kille",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "byModifiedTime"
-              }
-            }
+        "id": "e7df788061a5ac7b",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "b835c0fe2c79808b",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ],
-        "currentTab": 1
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 323,
-    "collapsed": true
+    "currentTab": 0
   },
   "right": {
-    "id": "2802726c462e05f0",
-    "type": "split",
-    "children": [
-      {
-        "id": "425a9b71f3f57cc2",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9c5d7e59cb494fe1",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "converse.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          }
-        ]
-      }
-    ],
-    "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "id": "2fc38dd642115dfa",
+    "type": "mobile-drawer",
+    "children": [],
+    "currentTab": 0
   },
-  "active": "618f02ed934953c6",
+  "active": "e02c218f9364dba2",
   "lastOpenFiles": [
-    "converse.md",
-    "reducing agency.md",
-    "Communicating Values through Mechanics.md",
-    "transformational games need thoughtful implementation.md",
-    "Mechanic as the Message.md",
-    "teach via rules and outcomes.md",
-    "teach via rules nd outcomes.md",
-    "Tyack.md",
-    "Examination Of Ordinary Player Experience-Tyack.md",
-    "Designing For Emotional Complexity In Games-Mekler.md"
+    "paradox of hedonism.md",
+    "the absurd.md",
+    "happiness - lesson plan.md",
+    "non-technical debugging.md",
+    "ReActivism Case Study.md",
+    "ludopedagogical dissonance.md",
+    "Ethical Education in Video Games.md",
+    "negative escapism.md",
+    "the world is a simulation to improve your soul.md",
+    "Network Analysis In The Social Sciences-Borgatti.md"
   ]
 }

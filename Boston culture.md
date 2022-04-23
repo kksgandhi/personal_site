@@ -15,3 +15,4 @@
  - BPL main branch
  - Middlesex Thursday/phoenix landing Wednesday nights
  - Lovestruck, dancing on the Charles
+ - [ice skating!](https://www.mass.gov/ice-skating)
