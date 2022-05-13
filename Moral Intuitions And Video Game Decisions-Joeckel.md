@@ -1,6 +1,6 @@
 #notesFromPaper
 Year   :
-Tags   :
+Tags   :[[intuitionism in games]]
 Authors: [[Joeckel]] [[Bowman]] [[Dogruel]]
 
 morals are often intuitive ([[thinking fast and slow]])

@@ -7,3 +7,5 @@ People [[thinking fast and slow|act intuitively about morality]]. The opposite o
  3) authority / respect
  4) ingroup / loyalty
  5) purity / sanctity
+
+Dang, everyone and their mother is using MFT for games research...

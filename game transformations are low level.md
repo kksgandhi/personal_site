@@ -1,1 +1,1 @@
-Games don't support high level transformation.
+Games can support [[games - reflection|reflection]] and transformation, but these are often [[Fleck and Fitzpatrick's reflection framework|lower level]]

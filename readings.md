@@ -1,23 +1,18 @@
 Important read next
 -------------------
 
- - Good and bad controls in statistics (exists)
-
 Pure Philosophy
 ---------------
 
 Philosophical Games
 -------------------
 
- - Ethics and Game Design Schrier (exists)
  - Boyan Grizzard Massively Moral Game: Mass effect to study the influence of moral intuitions on adherence to hero or antihero play styles (exists)
- - Emotionally moving moments in digital games - Bopp, Mekler, Opwis
 
 Benefits of Games
 -----------------
 
  - Moral And Character Education-Berkowitz.md (exists)
- - Reflection In Player Experience-Mekler.md (exists)
  - [Benefits of playing non-action games on cognition](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0058546)
  - Education And Involvement In Games-Iacovides.md
  - [Game Based Learning](https://www-jime.open.ac.uk/articles/10.5334/2004-8-oblinger/)
@@ -59,13 +54,6 @@ Games User Research
  - Gaming Motivation Scale-Lafrieniere.md (exists)
  - [[Self Reflection Through Roleplay In Chimeria Grayscale-Ortiz]]has some more at the beginning of the reflection section.
 
-Data Justice
-------------
-
- - https://mitpress.mit.edu/books/software-studies
- - https://www.dukeupress.edu/captivating-technology
- - https://www.wiley.com/en-us/Race+After+Technology:+Abolitionist+Tools+for+the+New+Jim+Code-p-9781509526437
-
 AR
 ----
 
@@ -78,12 +66,13 @@ Violent Video Games
  - Games and Aggression (exists)
  - General aggression model (exists)
  - Implicit association test effects of video games (exists)
+ - Hartmann Moral Disengagement in violent video games
 
 Reflection in Games Paper
 -------------------------
 
- - False dichotomy between positive and negative affect in gameplay-Birk
  - Ethics practice and implementation-Schrier
+ - https://www.youtube.com/watch?v=sxy_HPxYVss
 
 Other
 -----

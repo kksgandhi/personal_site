@@ -41,6 +41,7 @@ Edugames
 Most of the above came from [[Perspective Taking And Decision Making In Educational Game Play-Hilliard]]
 
  - [[learning activities survey]]
+ - Moral Foundations Questionnaire
 
 Community
 ---------
@@ -64,6 +65,11 @@ Nature relatedness
 ------------------
 
  - https://journals.sagepub.com/doi/pdf/10.1177/0013916508318748
+
+Aesthetic Appreciation
+----------------------
+
+ - AESTHEMOS
 
 Other
 ------

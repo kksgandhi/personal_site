@@ -1,7 +1,6 @@
 Administrative
 --------------
 
- - prepublishtodo (todo before publishing blog)
  - conceptualHandle (A word that serves as a nice hook for a complex idea)
  - notesFromPaper (Notes from an academic paper, as opposed to freestanding notes)
  - unread

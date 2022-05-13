@@ -1,0 +1,1 @@
+Every subject gets every condition

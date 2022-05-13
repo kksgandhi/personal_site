@@ -55,7 +55,7 @@ See also: [[philosophy - game recommendations]] for the games I actually recomme
 ### Politics
 
  - [[Bioshock]]\*
- - [[September 12th]]\*
+ - [[September 12th]]
  - [[Opera Omnia]]
  - [[Spent]]
  - [[Papers Please]]
@@ -77,5 +77,7 @@ See also: [[philosophy - game recommendations]] for the games I actually recomme
  - [[Nier Automata]]\*
  - [[Little Inferno]]\*
  - [[Subsurface Circular]]\*
+ - Cruelty Squad & Absurdism
+ - Dark Souls and Perseverance
 
 (An asterix is an indicator that I'm not overly familiar with that game)

@@ -52,3 +52,13 @@ The kindness power fantasy and intellectual power fantasy
 intentionally being bad (Minecraft, influencers, controversial games, discussion building games)
 
 don't tell women they can be CEOs, wonder why we value money at all
+
+Ebrahim's CS stuff, put it in your website
+
+Games as the first education
+
+Gameengines from madkour / colan
+
+art as a value judgement as opposed to a definition
+
+the temptation of clarity and escapism validates our belief systems

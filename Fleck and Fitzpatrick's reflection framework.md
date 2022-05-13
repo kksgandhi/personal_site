@@ -6,6 +6,6 @@
  3) Reflection that causes changes in one's behavior
  4) Relating experience to social and ethical implications
 
-Higher levels are rare
+[[game transformations are low level]]
 
 Original paper with some more notes: [[Reflection - Framing A Design Landscape-Fleck]]
