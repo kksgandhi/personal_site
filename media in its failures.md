@@ -1,0 +1,1 @@
+The specific experience of [[media]] is in its failures. The lines you see in a VHS, the darkness around the edges of a TV screen, the feel of a controller in your hands. When a media is perfectly immersive, then we forget that it is media, but the ways that immersion fails is the experience only that media can provide.

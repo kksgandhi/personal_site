@@ -1,7 +1,5 @@
-[[transformational games shouldn't have safe environments]]
-
-[[the temptation of clarity]] and [[overmetricing]] means that game designers try for scenarios with simple answers.
-
-[[designing for everyone]]
-
-[[immersion is counter to reflection]]
+ - [[transformational games shouldn't have safe environments]]
+ - [[the temptation of clarity]] and [[overmetricing]] means that game designers try for scenarios with simple answers.
+ - [[designing for everyone]] makes it difficult for you to focus your message
+ - [[immersion is counter to reflection|immersion is an uncritical acceptance of a gameworld, and thus is counterproductive for critical reflection]]
+ - Game designers are tempted to [[stealth learning|mask the educational aspects of their game]] to make it more palatable, but this sabotages the larger meanings of their works.

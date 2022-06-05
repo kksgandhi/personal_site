@@ -6,13 +6,13 @@
       {
         "id": "e02c218f9364dba2",
         "type": "leaf",
-        "dimension": 72.91666666666667,
+        "dimension": 69.97863247863248,
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "Positive And Negative Affect In Games-Birk.md",
+            "file": "games - good endings.md",
             "options": {
-              "collapse-filter": true,
+              "collapse-filter": false,
               "search": "",
               "localJumps": 2,
               "localBacklinks": true,
@@ -41,14 +41,14 @@
               "collapse-display": false,
               "showArrow": false,
               "textFadeMultiplier": 0,
-              "nodeSizeMultiplier": 1,
+              "nodeSizeMultiplier": 1.025,
               "lineSizeMultiplier": 1,
               "collapse-forces": true,
               "centerStrength": 0.518713248970312,
               "repelStrength": 10,
               "linkStrength": 1,
               "linkDistance": 30,
-              "scale": 0.9874647004099076,
+              "scale": 0.8468651916104957,
               "close": true
             }
           }
@@ -58,16 +58,16 @@
       {
         "id": "74f14d9a6a5639cd",
         "type": "split",
-        "dimension": 27.083333333333336,
+        "dimension": 30.02136752136752,
         "children": [
           {
             "id": "618f02ed934953c6",
             "type": "leaf",
-            "dimension": 59.48345439870864,
+            "dimension": 71.70172084130019,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Positive And Negative Affect In Games-Birk.md",
+                "file": "games - good endings.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,11 +77,11 @@
           {
             "id": "47fd7ea62fd84737",
             "type": "leaf",
-            "dimension": 40.51654560129136,
+            "dimension": 28.298279158699806,
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Positive And Negative Affect In Games-Birk.md",
+                "file": "games - good endings.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "byModifiedTimeReverse",
@@ -121,7 +121,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "reskin",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -147,15 +147,15 @@
   },
   "active": "618f02ed934953c6",
   "lastOpenFiles": [
-    "Positive And Negative Affect In Games-Birk.md",
-    "moral foundations theory.md",
-    "Grizzard.md",
-    "reverse transference of moral values.md",
-    "intuitionism.md",
-    "Challenges to Moral Engagement-Svelch.md",
-    "Video Games for Prosocial Learning-Koo.md",
-    "Mass Effect And Player Moral Intuitions-Boyan.md",
-    "data justice.md",
-    "Ethics Practice And Implementation In Education-Schrier.md"
+    "games - good endings.md",
+    "realism.md",
+    "reality.md",
+    "implied designer.md",
+    "intellectual exploration.md",
+    "Frostpunk.md",
+    "ham fisted themes.md",
+    "stasis.md",
+    "how to design reflective games.md",
+    "Reflection Through Representations Of Personal Data-Karyda.md"
   ]
 }

@@ -9,3 +9,5 @@ In addition to letting you jump around, Obsidian also creates a visual graph tha
 ![](static/obsidian.png)
 
 Oh, if you do end up using Obsidian, start using the local graph instead of the global graph, it's far better.
+
+![](static/obsidian_so_much.png)

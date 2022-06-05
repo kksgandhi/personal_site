@@ -1,9 +1,5 @@
 Tags: [[games]] [[reflection]]
 
-How can we design games to encourage reflection? According to [[Reflection Through Representations Of Personal Data-Karyda|this paper]] reflective pieces are best done through personalized design, but [[designing for everyone|if you're making mass media]], you won't know your players nor could you design something personal for them even if you did.
+[[Fleck and Fitzpatrick's reflection framework|There are different levels of reflection]]. [[games can teach philosophy|Games are good at teaching deeper, abstract concepts]] and facilitating reflection, though [[game transformations are low level|higher levels of reflection are rarer]].
 
-Potential solutions:
-
- - Design something beautiful that may or may not resonate with certain players and hope that it does.
- - Try to create a player profile and encourage reflection based on that profile.
- - Reflect on things that happened within the game. See [[Overwatch]]'s play of the game system.
+[[how to design reflective games|How can we design games to encourage reflection?]]

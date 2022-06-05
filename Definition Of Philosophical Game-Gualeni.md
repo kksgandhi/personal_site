@@ -3,9 +3,13 @@ Year   :
 Tags   : [[philosophical games]]
 Authors: [[Gualeni]]
 
+[Link to chapter](https://eolt.org/articles/philosophical-games)
+
 [[what makes a game philosophical]]? Also, may as well link my list of [[philosophy - games]]
 
 Games that are designed to invite players to think philosophically within (and about) their gameworlds.
+
+We [[suspension of disbelief|suspend our disbelief]], without literally believing.
 
 Not only do they have philosophy central to their plots, but they leverage [[moral dilemmas|hypotheticals]] to [[ethics involves the juxtaposition between intuition and reason|stimulate our intuitions]] and [[irritation triggers reflection|trigger our critical faculties]].
 
@@ -17,7 +21,9 @@ This paper is not looking at games that refer to philosophers or provide simple 
  - [[replayability allows for exploration]]
  - [[game worlds are more detailed than other media]]
 
-Focused, shorter games with specific messages could be also thought of as "playable essays" or "playable thought experiments"
+[[dialectic games]] and [[rhetorical games]]
+
+Focused, shorter games with specific messages could be also thought of as "playable essays" if rhetorical or "playable thought experiments" if dialectic
 
 Common areas currently addressed by philosophical games
 

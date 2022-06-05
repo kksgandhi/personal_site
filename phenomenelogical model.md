@@ -1,3 +1,5 @@
+Tag: [[phenomenology]]
+
 aka [[structuralism]]
 
 Things exist, but our conception of things is different than that.

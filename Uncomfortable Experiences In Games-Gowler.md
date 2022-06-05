@@ -22,7 +22,7 @@ Final Themes
    - Discomfort contributing to richer gameplay experience
    - [[irritation triggers reflection|discomfort as a catalyst for reflection]]
 
-[[reducing agency]]
+[[agency reduction]]
 
 [[people bond sharing uncomfortable experiences]]
 

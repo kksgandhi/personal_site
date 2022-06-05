@@ -1,0 +1,1 @@
+Games that are ambiguous and exploratory in their themes, relying on their [[procedural rhetoric]] and putting the onus of determining the best course of action and the meaning of in-game decisions onto the players themselves.

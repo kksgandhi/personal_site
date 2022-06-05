@@ -1,4 +1,4 @@
-This is the [[message|messaging]] system used by [[dark souls]]
+This is the [[message|messaging]] system used by [[Dark Souls]]
 
 this is a version of [[safe chat]]
 

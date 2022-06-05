@@ -3,6 +3,10 @@ Year   :
 Tags   :
 Authors: [[Bogost]]
 
-Games make claims about the world through processes. Tag: [[teach via rules and outcomes]]
+Games are a [[community of practice]]
+
+What is [[play]]?
+
+[[procedural rhetoric]]
 
 [[America's Army]]

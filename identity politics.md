@@ -1,4 +1,4 @@
-Tags: [[race]]
+Tags: [[race]], [[identity]]
 
 Identity politics are the tendency to vote because of a certain identity. For example, a person of a certain race is more likely to vote for someone of that same race.
 

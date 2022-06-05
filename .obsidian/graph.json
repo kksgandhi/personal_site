@@ -1,22 +1,79 @@
 {
-  "collapse-filter": true,
-  "search": "-tag:#notesFromPaper",
+  "collapse-filter": false,
+  "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
-  "collapse-display": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "file:/^[0-9a-c_]",
+      "color": {
+        "a": 1,
+        "rgb": 11897088
+      }
+    },
+    {
+      "query": "file:/^[d-e]",
+      "color": {
+        "a": 1,
+        "rgb": 13323030
+      }
+    },
+    {
+      "query": "file:/^[fg]",
+      "color": {
+        "a": 1,
+        "rgb": 14430767
+      }
+    },
+    {
+      "query": "file:/^[hij]",
+      "color": {
+        "a": 1,
+        "rgb": 13842050
+      }
+    },
+    {
+      "query": "file:/^[klmn]",
+      "color": {
+        "a": 1,
+        "rgb": 7107012
+      }
+    },
+    {
+      "query": "file:/^[opqr]",
+      "color": {
+        "a": 1,
+        "rgb": 2526162
+      }
+    },
+    {
+      "query": "file:/^[st]",
+      "color": {
+        "a": 1,
+        "rgb": 2793880
+      }
+    },
+    {
+      "query": "file:/^[u-z]",
+      "color": {
+        "a": 1,
+        "rgb": 8755456
+      }
+    }
+  ],
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": -0.2,
-  "nodeSizeMultiplier": 0.97948717948718,
-  "lineSizeMultiplier": 5,
-  "collapse-forces": true,
-  "centerStrength": 0.598290598290598,
-  "repelStrength": 7.52136752136752,
+  "nodeSizeMultiplier": 1.475,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.198979591836735,
+  "repelStrength": 9.59183673469388,
   "linkStrength": 1,
-  "linkDistance": 30,
-  "scale": 0.34783241780409935,
+  "linkDistance": 500,
+  "scale": 0.11877586969681055,
   "close": true
 }

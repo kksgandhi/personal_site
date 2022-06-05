@@ -1,0 +1,7 @@
+ - players were sad when games [[games - buried themes|buried their themes]], though this was often brought up as something unfortunate, not outright negative.
+ - players hated when games were [[ham fisted themes|blunt]] or preachy, preferring when games let them figure things out for themselves.
+   - Be subtle in your presentation, though that doesn't mean you have to neuter your message.
+   - Don't [[metriced morality systems|judge the player]], let the player judge themselves by seeing the effects of their in-game actions.
+   - rely on [[procedural rhetoric]]
+ - players liked [[philosophy snippets]]
+ - games take a while to beat. This lets designers build up their themes slowly.

@@ -6,4 +6,4 @@ Money can't buy happiness, but it can buy time. Time lets you work on yourself, 
 
 Money can't buy happiness, but it can buy therapy.
 
-Also it's pretty bullshit that "money can't buy happiness" is used to counter people pointing out [[systematic inequality]] or requesting basic human rights.
+Also it's pretty bullshit that "money can't buy happiness" is used to counter people pointing out [[systemic inequality]] or requesting basic human rights.

@@ -28,4 +28,4 @@ Everything I wrote above I went through rather quickly because this isn't a note
 
 More examples because why not:
 
- - Many arguments about abortion fall on deaf ears for pro-lifers because of their fundamental belief that abortion is murder and should be treated with that level of severity. This is why the [[dying violinist]] is really the only viable pro-choice argument (when talking to pro-lifers at least).
+ - Many arguments about abortion fall on deaf ears for pro-lifers because of their fundamental belief that abortion is murder and should be treated with that level of severity. This is why the [[dying violinist]] is one of the few viable pro-choice arguments (when talking to pro-lifers at least).

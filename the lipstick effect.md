@@ -1,0 +1,1 @@
+When the economy goes down, the sale of most luxury goods goes down, but small luxuries (like lipstick) sell better. Seems like people still want to feel luxurious, and things that cost less can fill that need.

@@ -2,6 +2,6 @@ A method of learning where understanding the application of content is emphasize
 
  - Understanding through [[empathy]]
  - Identifying and researching problems
- - [[communication|Communicating]] to ideate potential solutions
+ - Communicating to ideate potential solutions
  - Designing and testing solutions
  - Reflecting and iterating on solutions

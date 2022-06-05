@@ -1,28 +1,33 @@
 Important read next
 -------------------
 
-Pure Philosophy
----------------
-
 Philosophical Games
 -------------------
 
- - Boyan Grizzard Massively Moral Game: Mass effect to study the influence of moral intuitions on adherence to hero or antihero play styles (exists)
+Pure Philosophy
+---------------
 
 Benefits of Games
 -----------------
 
- - Moral And Character Education-Berkowitz.md (exists)
  - [Benefits of playing non-action games on cognition](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0058546)
  - Education And Involvement In Games-Iacovides.md
+ - [Using game design patterns in learning](https://www.mdpi.com/2078-2489/12/10/393)
  - [Game Based Learning](https://www-jime.open.ac.uk/articles/10.5334/2004-8-oblinger/)
  - https://www.degruyter.com/document/doi/10.1515/9783110675184-008/html
 
-Learning
+Pedagogy
 --------
 
+ - [Peer Marking case study](https://celt.our.dmu.ac.uk/elt-case-studies-2/peer-marking-introduction-to-research-and-ethics/)
+ - Biggs has two papers on constructive alignment (exists)
  - [Expertise reversal effect about reducing structure after people have competency](https://doi.apa.org/doiLanding?doi=10.1037%2Fa0022243)
  - [Casel Framework](https://casel.org/fundamentals-of-sel/what-is-the-casel-framework/)
+ - [Bloom's Taxonomy](https://www.tes.com/magazine/archive/pedagogy-focus-what-blooms-taxonomy#:~:text=Bloom%27s%20Taxonomy%20is%20one%20of,over%20from%20the%20one%20before)
+ - [Pedagogy Patterns](http://oro.open.ac.uk/34138/)
+ - [Instructional complexity](https://www.science.org/doi/abs/10.1126/science.1238056)
+ - Anderson Dalsen, failure learning through discourse ([4] in Failure In Games-Foch)
+ - [Teaching as a design science](https://www.taylorfrancis.com/books/mono/10.4324/9780203125083/teaching-design-science-diana-laurillard)
 
 Philosophy in the classroom
 ---------------------------
@@ -39,16 +44,15 @@ Philosophy in the classroom
 Game Design
 -----------
 
- - [Game Juice vs educational goals](https://www.sciencedirect.com/science/article/pii/S2666557322000039)
- - Games As Speculative Design-Coulton.md (exists)
  - [character believability in games](https://loading.journals.publicknowledgeproject.org/loading/index.php/loading/article/view/42/51)
  - pals in power armor besmann (anthropomorphization in games)
  - [Well played 2.0, games value and meaning](https://www.google.com/books/edition/Well_Played_3_0/wapFAwAAQBAJ?hl=en&gbpv=0)
+ - Abusive design - sicart
+ - Against procedurality (http://gamestudies.org/1103/articles/sicart_ap?utm_source=tech.mazavr.tk&utm_medium=link&utm_compaign=article%201/)
 
 Games User Research
 -------------------
 
- - Charline Foch's player perceptions of failure
  - [Reviewing Reflection: On the use of reflection in interactive system design](https://dl.acm.org/doi/10.1145/2598510.2598598)
  - Evaluating Serious Experience In Games-Iacovides.md (exists)
  - Gaming Motivation Scale-Lafrieniere.md (exists)

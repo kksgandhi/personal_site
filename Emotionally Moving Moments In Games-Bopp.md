@@ -15,7 +15,7 @@ More autonomy correlated with more happiness. More character engagement correlat
  - Players felt loss in their games
  - Players felt attached to their characters.
  - [[agency creates responsibility]]
-   - [[reducing agency]] caused negative emotions, but made existing choices more meaningful
+   - [[agency reduction]] caused negative emotions, but made existing choices more meaningful
  - achievement was emotionally moving
  - the atmosphere was emotionally moving
  - players related emotional game experiences with life experiences

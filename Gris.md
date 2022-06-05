@@ -1,4 +1,4 @@
-Gris is so fucking beautiful
+Gris is so fucking beautiful, and does a wonderful job [[mechanics in Gris|tying mechanics and message]]
 
 [How Gris made you cry with its colors](https://www.youtube.com/watch?v=A-UD-aW2tpg&list=PLM0XOPE-p91H0bY1nrHPiSILBMsCEJ6AL&index=2)
 

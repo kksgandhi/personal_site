@@ -1,1 +1,4 @@
-[Risky play and how it helps children](https://www.kanopy.com/product/land-adventure-play-documentary)
+[[risky play]]
+
+Play is free movement within a larger, more rigid structure. The structure does not limit play, it enables it.
+

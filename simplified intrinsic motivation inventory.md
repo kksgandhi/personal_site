@@ -1,0 +1,1 @@
+https://selfdeterminationtheory.org/intrinsic-motivation-inventory/ mentions that a 4 question version of each scale in the [[intrinsic motivation inventory|IMI]] is probably good enough

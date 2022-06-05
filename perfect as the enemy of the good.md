@@ -1,1 +1,1 @@
-Don't let the lack of a perfect solution stand in the way of a solution that's better than what we have now.
+"Is this solution better than what we have now" is the goal we should strive for, not "is this solution perfect"

@@ -1,0 +1,1 @@
+\$50 extra when buying a \$50,000 car isn't that much, but its a lot on a $150 plane ticket. Don't throw away your money on "small" price increases on otherwise large purchases, and don't feel too bad spending a lot of money on small things if the actual price increase is only a few dollars extra.

@@ -1,0 +1,1 @@
+Academia is smart people who want to change the world that are given absolutely no power to do so. This often leads to people trying to solve massively [[systemic issues]] through the limited tools they have. It'll nearly always fail, but you have to respect the effort.

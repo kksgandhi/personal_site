@@ -6,6 +6,7 @@ Similarly, I'm frustrated that games (especially video games) are often lumped t
 
  - [[game recommendations|Games you should play!]]
  - [[game design|How to design games]]
+	 - [[game development|How to develop games]]
  - [[game critique|How to critique games]]
  - [[transformational games|My notes on transformational games, games built for a purpose beyond simply being fun.]]
  - [[games - resources]]

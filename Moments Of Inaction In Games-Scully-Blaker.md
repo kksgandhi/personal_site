@@ -5,6 +5,7 @@ Tags   :
 Authors: [[Scully-Blaker]]
 
 ![[stasis]] and ![[stillness]]
+These ideas are integral to the [[ordinary player experience]]
 
 non-interactivity is nonsensical here because even within stasis and stillness players are "interacting" with the game.
 

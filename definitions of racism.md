@@ -5,4 +5,4 @@ I think it's unfortunate that "racism" has so many different definitions because
  - [[prejudice]]
  - [[prejudice plus power]]
  - [[racism by proxy]]
- - [[systematic racism]]
+ - [[systemic racism]]

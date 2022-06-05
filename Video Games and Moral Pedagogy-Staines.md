@@ -6,7 +6,7 @@
 
 Discusses [[Neo-Kohlbergianism]], starts with an intro on how Kohlberg came up with his theories on moral development.
 
-[[moral competency]]
+[[moral competency]] & [[moral reasoning]]
 
 Apparently [[Ultima IV]] uses [[moral dilemmas]] in its character creation. Recommends that UIV could have used consequences (aka [[mechanical morality systems|skill points]]) and [[modify moral dilemmas|repeatedly modifying moral dilemmas]]
 
