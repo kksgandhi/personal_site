@@ -10,7 +10,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "games - good endings.md",
+            "file": "implied designer.md",
             "options": {
               "collapse-filter": false,
               "search": "",
@@ -67,7 +67,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "games - good endings.md",
+                "file": "implied designer.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "games - good endings.md",
+                "file": "implied designer.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "byModifiedTimeReverse",
@@ -147,10 +147,10 @@
   },
   "active": "618f02ed934953c6",
   "lastOpenFiles": [
+    "implied designer.md",
     "games - good endings.md",
     "realism.md",
     "reality.md",
-    "implied designer.md",
     "intellectual exploration.md",
     "Frostpunk.md",
     "ham fisted themes.md",

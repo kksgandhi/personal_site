@@ -15,7 +15,7 @@ Two major questions:
 Background
 ----------
 
- - [[Definition Of Philosophical Game-Gualeni|What is a philosophical games?]]
+ - [[Definition Of Philosophical Game-Gualeni|What is a philosophical game?]]
  - [[The Implied Designer-Van De Mosselaer|The implied designer can be more important than the actual designer.]]
  - [[Fleck and Fitzpatrick's reflection framework|There are different levels of reflection]]. [[games can teach philosophy|Games are good at teaching deeper, abstract concepts]] and facilitating reflection, though [[game transformations are low level|higher levels of reflection are rarer]].
  - Reflection is linked to [[emotional challenge]]. Challenge can actually [[stress allows us to learn|help us learn]].
