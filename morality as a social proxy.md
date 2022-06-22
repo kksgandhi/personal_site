@@ -2,7 +2,7 @@ There's a fun thought experiment that goes like this: Someone goes to the grocer
 
 There's an argument that it isn't worse. I mean, who is this person harming?
 
-Let's say, for the sake of argument, that you find it morally ok, and think of something new: Someone is also at a party you are at and is loudly talking about how they take chicken meat home and have sex with it. Is this the kind of person you want to follow up with? The kind of person you want to invite into your social circle?
+Let's say, for the sake of argument, that you find it morally ok. Let's think of another thought experiment: Someone is also at a party you are at and is loudly talking about how they take chicken meat home and have sex with it. Is this the kind of person you want to follow up with? The kind of person you want to invite into your social circle?
 
 I imagine no, not because they necessarily did anything wrong, but because the fact that they're so loudly and casually talking about it at a party indicates that they don't understand social norms. That they're fine making people feel uncomfortable, and that they may be unpredictable or even immoral in different ways.
 
