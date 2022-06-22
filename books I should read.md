@@ -5,12 +5,13 @@ Significant zero
 # History
 Lies my teacher told me 
 # Uncategorized
+How to blow up a pipeline / Blessed Unrest
 Southern poverty law center
 Malcolm gladwell
 New republic
 13thh amendment
 Swords and somethibg
-What the healgh
+What the health
 Book theif
 Ask bayou.com
 The eye of minds

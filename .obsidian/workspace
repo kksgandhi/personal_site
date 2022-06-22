@@ -10,7 +10,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "implied designer.md",
+            "file": "morality as a social proxy.md",
             "options": {
               "collapse-filter": false,
               "search": "",
@@ -48,7 +48,7 @@
               "repelStrength": 10,
               "linkStrength": 1,
               "linkDistance": 30,
-              "scale": 0.8468651916104957,
+              "scale": 0.8938390996230583,
               "close": true
             }
           }
@@ -67,7 +67,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "implied designer.md",
+                "file": "morality as a social proxy.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "implied designer.md",
+                "file": "morality as a social proxy.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "byModifiedTimeReverse",
@@ -145,17 +145,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "618f02ed934953c6",
+  "active": "e02c218f9364dba2",
   "lastOpenFiles": [
-    "implied designer.md",
-    "games - good endings.md",
-    "realism.md",
-    "reality.md",
-    "intellectual exploration.md",
-    "Frostpunk.md",
-    "ham fisted themes.md",
-    "stasis.md",
-    "how to design reflective games.md",
-    "Reflection Through Representations Of Personal Data-Karyda.md"
+    "morality as a social proxy.md",
+    "homophobia.md",
+    "hate.md",
+    "expressivism.md",
+    "implicit gatekeeping.md",
+    "manners.md",
+    "ethics.md",
+    "we aren't done with ethical progress.md",
+    "deconstruction.md",
+    "counterexamples to utilitarianism.md"
   ]
 }

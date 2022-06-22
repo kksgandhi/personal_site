@@ -6,6 +6,7 @@ According to [this site](https://gradcoach.com/qualitative-data-analysis-methods
  - [[narrative analysis]]
  - [[discourse analysis]]
  - [[thematic analysis]]
+   - probably the one I use most often, though I want to learn more about grounded theory
  - [[grounded theory]]
  - [[interpretive phenomenological analysis]]
 

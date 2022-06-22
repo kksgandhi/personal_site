@@ -7,3 +7,5 @@ humans are intrinsically motivated to engage in activities that satisfy three in
    - growing in skills
  - [[relatedness]]
    - To others
+
+See also: [[geronto aesthetics]]

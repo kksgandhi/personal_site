@@ -1,6 +1,8 @@
 Important read next
 -------------------
 
+The psychological reality of procedural rhetoric - Noah Wardruip Fruin
+
 Philosophical Games
 -------------------
 
