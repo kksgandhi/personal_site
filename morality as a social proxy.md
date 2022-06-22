@@ -10,7 +10,7 @@ Similarly to [[expressivism]], I think a lot of statements of [[morality]] are a
 
 ------
 
-One more example, though content warning for **sexual abuse** (and a couple of spacers to prevent people from idly scrolling into it)
+One more example, though content warning for sexual abuse (and a couple of spacers to prevent people from idly scrolling into it)
 
 # ============
 
