@@ -5,14 +5,15 @@
  - [JP historical society](https://www.jphs.org/about)
  - So many art museums
  - Science museum?
- - Dorchester Art Project
  - Bad art Museum (indefinitely closed)
+ - Dorchester Art Project (I think they're closed too)
  - CCVA_Harvard + MIT Art and Architecture
  - Cooper Gallery (harvard)
  - New England Conservatory
  - Lily Pad Club
  - Sinclaire Show on Harvard Square
  - BPL main branch
+ - Copley square farmer's market
  - Middlesex Thursday/phoenix landing Wednesday nights
  - Lovestruck, dancing on the Charles
  - [ice skating!](https://www.mass.gov/ice-skating)

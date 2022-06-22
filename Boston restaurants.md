@@ -34,8 +34,8 @@ BTT = Before Tax & Tips, a \* means I want to go there but haven't yet
 
 ### North End
 
- - Mike's Pastries!!!
- - Modern Pastry (Less Canolis than Mikes, more everything else)
+ - Mike's Pastries!
+ - Modern Pastry! (Less Canolis than Mikes, more everything else)
  - Galleria Unberto (6 BTT)
  - Bova's
  - Regina's Pizza (though only the North End one, the others are crap)
@@ -54,13 +54,14 @@ BTT = Before Tax & Tips, a \* means I want to go there but haven't yet
 
 ### Cambridge
 
- - A4Cade (closed for covid)\*
+ - A4Cade!! (closed for covid)
+ - Toscanini's ice cream!! (Kendall Square)
+ - Honeycomb creamery\*
  - Nirvana Cambridge (I liked it, friends said it was only ok)
  - Yume Wo Katare\*
  - andala coffeehouse (palestinian)
  - asmara (eritrean)
  - Spyce\*
- - Toscanini's ice cream!! (Kendall Square)
  - Cafe Luna (Porter Square)
 
 ### Seaport
@@ -77,6 +78,6 @@ BTT = Before Tax & Tips, a \* means I want to go there but haven't yet
 ### Mission Hill
 
  - Penguin Pizza!!
- - Milkweed \*
+ - Milkweed (20 BTT)
 
 [List of authentic foreign cuisine](https://www.reddit.com/r/boston/comments/phcsq5/foreignborn_people_of_boston_what_is_the_best/)

@@ -10,7 +10,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "morality as a social proxy.md",
+            "file": "volunteers vs turkers.md",
             "options": {
               "collapse-filter": false,
               "search": "",
@@ -48,7 +48,7 @@
               "repelStrength": 10,
               "linkStrength": 1,
               "linkDistance": 30,
-              "scale": 0.8938390996230583,
+              "scale": 0.8938390996230581,
               "close": true
             }
           }
@@ -67,7 +67,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "morality as a social proxy.md",
+                "file": "volunteers vs turkers.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "morality as a social proxy.md",
+                "file": "volunteers vs turkers.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "byModifiedTimeReverse",
@@ -145,17 +145,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e02c218f9364dba2",
+  "active": "618f02ed934953c6",
   "lastOpenFiles": [
+    "volunteers vs turkers.md",
+    "whales.md",
+    "Games_Help_Citizen_Science.md",
+    "Player Motivations In Eyewire-Tinati.md",
+    "motivation in citizen science.md",
+    "Survey Of Citizen Science Gaming Experiences-Miller.md",
+    "citizen science.md",
     "morality as a social proxy.md",
     "homophobia.md",
-    "hate.md",
-    "expressivism.md",
-    "implicit gatekeeping.md",
-    "manners.md",
-    "ethics.md",
-    "we aren't done with ethical progress.md",
-    "deconstruction.md",
-    "counterexamples to utilitarianism.md"
+    "hate.md"
   ]
 }

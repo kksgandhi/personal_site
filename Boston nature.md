@@ -1,5 +1,5 @@
  - https://rootsrated.com/boston-ma/climbing/hammond-pond-reservation
  - https://rootsrated.com/boston-ma/climbing/middlesex-fells-climbing
-
-
-Middlesex falls
+ - Minuteman Trail (starts in Davis and goes up to Lexington and Concord)
+ - Mount Auburn cemetery
+ - Arnold Arboretum
