@@ -1,3 +1,5 @@
+Read Nick Bostrom's superintelligence!!
+
 [Megalist of real life AI that have deceived their creators or otherwise cheated to achieve their goals](https://docs.google.com/spreadsheets/d/e/2PACX-1vRPiprOaC3HsCf5Tuum8bRfzYUiKLRqJmbOoC-32JorNdfyTiRRsR7Ea5eWtvsWzuxo8bjOxCG84dAg/pubhtml)
 
  - Tetris AI that just paused the game

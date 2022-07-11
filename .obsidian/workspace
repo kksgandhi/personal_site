@@ -10,7 +10,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "volunteers vs turkers.md",
+            "file": "AI safety.md",
             "options": {
               "collapse-filter": false,
               "search": "",
@@ -48,7 +48,7 @@
               "repelStrength": 10,
               "linkStrength": 1,
               "linkDistance": 30,
-              "scale": 1.1671089581865959,
+              "scale": 1.051884985348497,
               "close": true
             }
           }
@@ -63,11 +63,11 @@
           {
             "id": "618f02ed934953c6",
             "type": "leaf",
-            "dimension": 71.70172084130019,
+            "dimension": 55.88673621460507,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "volunteers vs turkers.md",
+                "file": "AI safety.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,11 +77,11 @@
           {
             "id": "47fd7ea62fd84737",
             "type": "leaf",
-            "dimension": 28.298279158699806,
+            "dimension": 44.113263785394935,
             "state": {
               "type": "backlink",
               "state": {
-                "file": "volunteers vs turkers.md",
+                "file": "AI safety.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "byModifiedTimeReverse",
@@ -147,15 +147,15 @@
   },
   "active": "618f02ed934953c6",
   "lastOpenFiles": [
-    "volunteers vs turkers.md",
-    "Volunteers Vs Turkers Incentives And Tradeoffs-Mao.md",
-    "Increasing Cheat Robustness Of Crowdsourcing Tasks-Eickhoff.md",
-    "Malicious Behavior In Mturk-Gadiraju.md",
-    "Meaning In Mturk-Chandler.md",
-    "Behavioral Research On Mturk-Mason.md",
-    "Inside The Turk-Paolacci.md",
-    "Butterfly Citizen Science-Lewandowski.md",
-    "Designing For Citizen Data Analysis-Tinati.md",
-    "Survey Of Citizen Science Gaming Experiences-Miller.md"
+    "AI safety.md",
+    "AI.md",
+    "Intrinsic Skill Atoms For Gameful Design.md",
+    "Deterding.md",
+    "Spent Affective Learning Towards Homelessness-Ruggiero.md",
+    "Spent.md",
+    "Spent Game To Reduce Prejudice Towards The Poor-Roussos.md",
+    "philosophy - other media.md",
+    "philosophy - game recommendations.md",
+    "philosophy - games.md"
   ]
 }

@@ -4,3 +4,9 @@
  - Mount Auburn cemetery
  - Arnold Arboretum
  - The Emerald Necklace
+
+Longer trips?
+
+ - George's Island
+ - Spectacle Island
+ - bostonharborislands.org
