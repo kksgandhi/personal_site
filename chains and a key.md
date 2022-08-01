@@ -4,4 +4,4 @@ Philosophy is marketed as this extremely highbrow and beautiful thing. People ha
 
 [[ignorance is bliss|Maybe ignorance is just bliss?]]
 
-I don't know. There are benefits. I think [[stoicism]] has made me a less [[fragility|fragile]] person and it has helped me [[philosophy and laypeople|focus my thought process]].If you see philosophy as a [[search for truth]], you'll end up frustrated.
+I don't know. There are benefits. I think [[stoicism]] has made me a less [[fragility|fragile]] person and it has helped me [[philosophy and laypeople|focus my thought process]]. If you see philosophy as a [[search for truth]], you'll end up frustrated.

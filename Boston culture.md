@@ -10,6 +10,7 @@ Art & Museums
  - CCVA_Harvard + MIT Art and Architecture
  - Cooper Gallery (harvard)
  - New England Conservatory
+ - Athanaeum (has a book bound in human skin!)
 
 Culture / History
 ----------
@@ -23,6 +24,8 @@ Culture / History
  - Copley square farmer's market
  - Middlesex Thursday/phoenix landing Wednesday nights
  - Lovestruck, dancing on the Charles
+ - Madonna, queen of the universe (and the peruvian bakeries around)
+ - Greater Boston Stage company (https://www.greaterbostonstage.org/)
 
 Trivia and Events
 -----------------

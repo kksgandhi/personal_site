@@ -9,6 +9,16 @@ Philosophical Games
 Pure Philosophy
 ---------------
 
+Qualitative Methods
+-------------------
+
+ - Construction of knowledge online, James & Busher 2009
+ - Willis, Jost, Nilakanta 2007 Foundations of qualitative research
+ - Birks & Mills: Grounded Theory, a practical guide
+ - Guba & Lincoln Naturalistic Inquiry
+ - Miles and Huebner?? That's probably wrong but Laurie gave me the books lmaooo
+ - Cynefin.io sense making model / knowledge management model
+
 Benefits of Games
 -----------------
 
@@ -83,7 +93,6 @@ Reflection in Games Paper
 Other
 -----
 
- - [Making games in a fucked up world](https://www.molleindustria.org/blog/making-games-in-a-fucked-up-world-games-for-change-2014/)
  - Pierre Duhem physical theory and experiment
  - Conceptualization Of Skill Chains-Miller.md (exists)
  - Brain Computation By Assemblies Of Neurons-Papadimitriou.md (downloaded)

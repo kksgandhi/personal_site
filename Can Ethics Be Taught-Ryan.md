@@ -10,7 +10,7 @@ Authors: [[Ryan]] [[Bisson]]
 most business schools have business ethics classes.
 
  - classes aren't taken seriously?
- - [[bias is baked in - academia|profs project their ethics views?]]
+ - [[academia - bias is baked in|profs project their ethics views?]]
  - not enough real world examples?
 
 According to [[Kohlberg]]'s model, character education is finished by college.

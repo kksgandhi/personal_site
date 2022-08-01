@@ -3,6 +3,7 @@
  - [[Boston shopping]]
  - [[Boston culture]]
  - [[Boston Resources and Aggregators]]
+ - [[Boston Day Trips]]
 
 Ultimate Boston Tour:
 

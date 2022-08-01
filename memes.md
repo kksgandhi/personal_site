@@ -1,6 +1,3 @@
----
-title: Memes
----
 Organisms are subject to natural selection because of three things:
 
  - They reproduce

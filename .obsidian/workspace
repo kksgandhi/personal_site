@@ -6,11 +6,11 @@
       {
         "id": "e02c218f9364dba2",
         "type": "leaf",
-        "dimension": 69.97863247863248,
+        "dimension": 67.41452991452992,
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "AI safety.md",
+            "file": "critical thinking.md",
             "options": {
               "collapse-filter": false,
               "search": "",
@@ -48,7 +48,7 @@
               "repelStrength": 10,
               "linkStrength": 1,
               "linkDistance": 30,
-              "scale": 1.051884985348497,
+              "scale": 0.8445352270620539,
               "close": true
             }
           }
@@ -58,16 +58,16 @@
       {
         "id": "74f14d9a6a5639cd",
         "type": "split",
-        "dimension": 30.02136752136752,
+        "dimension": 32.585470085470085,
         "children": [
           {
             "id": "618f02ed934953c6",
             "type": "leaf",
-            "dimension": 55.88673621460507,
+            "dimension": 80.87954110898661,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI safety.md",
+                "file": "critical thinking.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,11 +77,11 @@
           {
             "id": "47fd7ea62fd84737",
             "type": "leaf",
-            "dimension": 44.113263785394935,
+            "dimension": 19.120458891013385,
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI safety.md",
+                "file": "critical thinking.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "byModifiedTimeReverse",
@@ -121,7 +121,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "reskin",
+                "query": "continental",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -130,7 +130,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -147,15 +148,15 @@
   },
   "active": "618f02ed934953c6",
   "lastOpenFiles": [
-    "AI safety.md",
-    "AI.md",
-    "Intrinsic Skill Atoms For Gameful Design.md",
-    "Deterding.md",
-    "Spent Affective Learning Towards Homelessness-Ruggiero.md",
-    "Spent.md",
-    "Spent Game To Reduce Prejudice Towards The Poor-Roussos.md",
-    "philosophy - other media.md",
-    "philosophy - game recommendations.md",
-    "philosophy - games.md"
+    "The Righteous Mind.md",
+    "lenses.md",
+    "we listen to those who empathize with us.md",
+    "critical thinking.md",
+    "Minecraft.md",
+    "colonialism.md",
+    "overmetricing.md",
+    "implied designer.md",
+    "autoelotic.md",
+    "transformational games need thoughtful implementation.md"
   ]
 }

@@ -2,4 +2,8 @@ We value things that can be measured by metrics (test scores) vs subjective thin
 
 Dr. Thi [[Nguyen]] calls this phenomenon "value capture"
 
+"The measurement of complex social phenomena is always reductionist" - [[Making Games In A Fucked Up World-Paolo Pedercini]]
+
+[[technofetishism]]
+
 [[Goodhart's law]]

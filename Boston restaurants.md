@@ -58,7 +58,8 @@ BTT = Before Tax & Tips, a \* means I want to go there but haven't yet
  - Toscanini's ice cream!! (Kendall Square)
  - Honeycomb creamery\*
  - Nirvana Cambridge (I liked it, friends said it was only ok)
- - Yume Wo Katare\*
+ - Yume Wo Katare
+   - Prepare for no vegetarian options and the weirdest meal of your life.
  - andala coffeehouse (palestinian)
  - asmara (eritrean)
  - Spyce\*

@@ -8,7 +8,7 @@ Not only is this disheartening, it's basically impossible to live by this logic.
 
 The solution to this is to intentionally be a [[hypocrisy|hypocrite]] and maintain [[cognitive dissonance]] between what you truly believe is correct, and what philosophy you will act by in a practical manner. Here's an example:
 
-I believe that the way you should act is [[deontology|deontologically]], there are some things you should never do, such as you should never murder people. Despite this being the way I think you should act, this is only a practical belief. My true belief is that the "true" answer to ethics is that there is any ethical framework is ad hoc and "ethics" doesn't even exist in an objective sense (not even that no objective morality exists, but that no coherent subjective morality can even exist)
+I don't really think there is some universally morally correct way to act, but even still, I think it's wrong to murder people. The first is my true belief, the second is a practical belief that lets me get around my day to day. (If we want to get real technical, my true belief is that any ethical framework is ad hoc, that no objective morality exists, and no coherent subjective morality can ever exist.)
 
 To reiterate: Having a "practical" philosophy that is somewhat divorced from your core principles is important, because if you truly tried to act within your principles at all time, you would quickly fall into nihilism and be unable to act at all.
 

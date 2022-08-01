@@ -1,0 +1,9 @@
+ - flip flop: take a concept and turn it around. What if <the opposite of what the participant said> was true?
+ - Can you relate it to your own perspectives for ease of understanding?
+ - Are there any absolutes? Only a sith deals in those.
+ - Are there any clues in the style of language that the respondent is using?
+ - Search for words indicating:
+   - emotion
+   - time
+ - Any metaphors / similes?
+ - Any cases that don't fit the pattern?
