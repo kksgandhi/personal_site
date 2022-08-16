@@ -30,3 +30,5 @@ framing learning as a reward
 the best way to play soccer is with a gun - how structure enables play
 
 avoiding dismissal involves taking things in good faith
+
+the nomai just being unadulterated good. Also Football 17776

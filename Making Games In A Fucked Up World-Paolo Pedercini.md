@@ -11,7 +11,7 @@ We use euphemisms like "social good", "values", and other progressive terms so t
 
 If your game really can facilitate simple and directly measurable change, then that's terrifying. Your techniques will be coopted by evil in no time.
 
-Progressives have won on social issues, but issues around capital, environment, and generally systemic issues have failed to be changed by large, top down organizations. At best, there has been grassroots, smaller mobilized change.
+Progressives have won on social issues, but issues around capital, environment, and generally systemic issues have failed to be changed by large, top down organizations. At best, there has been grassroots, smaller mobilized change. (See [[Cultivating The Grassroots-Hansen]])
 
 Games are expensive, so of course they need to be overblown as a replacement for organization, rather than as mere communication.
 

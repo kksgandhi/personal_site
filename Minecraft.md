@@ -1,1 +1,1 @@
-Minecraft and [[colonialism]]
+Minecraft and [[neo-colonial games]]

@@ -10,7 +10,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "critical thinking.md",
+            "file": "volunteers vs turkers.md",
             "options": {
               "collapse-filter": false,
               "search": "",
@@ -48,7 +48,7 @@
               "repelStrength": 10,
               "linkStrength": 1,
               "linkDistance": 30,
-              "scale": 0.8445352270620539,
+              "scale": 1.0985974695478145,
               "close": true
             }
           }
@@ -63,11 +63,11 @@
           {
             "id": "618f02ed934953c6",
             "type": "leaf",
-            "dimension": 80.87954110898661,
+            "dimension": 71.70172084130019,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "critical thinking.md",
+                "file": "volunteers vs turkers.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,11 +77,11 @@
           {
             "id": "47fd7ea62fd84737",
             "type": "leaf",
-            "dimension": 19.120458891013385,
+            "dimension": 28.298279158699806,
             "state": {
               "type": "backlink",
               "state": {
-                "file": "critical thinking.md",
+                "file": "volunteers vs turkers.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "byModifiedTimeReverse",
@@ -121,7 +121,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "continental",
+                "query": "dark room",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -130,8 +130,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -148,15 +147,15 @@
   },
   "active": "618f02ed934953c6",
   "lastOpenFiles": [
-    "The Righteous Mind.md",
-    "lenses.md",
-    "we listen to those who empathize with us.md",
-    "critical thinking.md",
-    "Minecraft.md",
-    "colonialism.md",
-    "overmetricing.md",
-    "implied designer.md",
-    "autoelotic.md",
-    "transformational games need thoughtful implementation.md"
+    "Sarkar.md",
+    "Spatharioti.md",
+    "Sophie.md",
+    "mturk pay.md",
+    "malicious turkers.md",
+    "Gadiraju.md",
+    "Cooper.md",
+    "Wilson.md",
+    "motivation in citizen science.md",
+    "citizen science.md"
   ]
 }

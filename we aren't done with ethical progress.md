@@ -9,3 +9,5 @@ For example, Martin Luther King is widely brought up as a bastion of virtue who 
 Ethics and progress is never solved. This doesn't mean that progressivism is always correct, but it does mean we should be just as critical of ourselves now as we are of the past.
 
 https://www.smbc-comics.com/comic/eugenics-is-a-great-idea
+
+See also [[the inevitability of the past]]

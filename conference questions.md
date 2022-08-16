@@ -8,3 +8,7 @@
  - NLP
    - chatbots that are customizable?
    - textual similarity?
+ - Industry
+   - What are my blind spots as an academic?
+   - Evaluation methods
+   - Creating edugames on a team?

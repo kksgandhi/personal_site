@@ -101,3 +101,34 @@ Chapter 9
 ---------
 
 Uses the analysis in Chapter 8 to create a structured interview template.
+
+Chapter 10
+----------
+
+Reading further primary sources, but this time in the context of the memos and concepts already written. Furthermore, this chapter broadens by focusing on the larger historical context surrounding the war and placing primary sources within that context.
+
+Chapter 11
+----------
+
+About understanding process in the data.
+
+Chapter 12
+----------
+
+Focuses on integration - pulling research threads together into constructing a plausible explanatory framework about the experience of combatants in Vietnam.
+
+I wonder if the theory they've created is actually overly broad, possibly applicable to other wars than the Vietnam war (and therefore less useful...)
+
+[[validating qualitative research]]
+
+Chapter 13
+----------
+
+Maybe don't present on everything? If your presentation is short, it may be worth just focusing on specific subconcepts.
+
+Chapter 14
+----------
+
+More on [[validating qualitative research]]
+
+Be clear in the purpose of your research. Description, or theory building?

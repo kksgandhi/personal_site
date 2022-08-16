@@ -1,6 +1,8 @@
 import sys, os, datetime
 from datetime import datetime
 from os import path
+import re
+from itertools import chain
 
 MAIN_DIR = sys.argv[1]
 TMP_DIR  = sys.argv[2]
@@ -38,8 +40,15 @@ def add_file_modified_time(org_file, tmp_file):
         .strftime("%B %e, %Y")
     insert(tmp_file, f'<center><em>This note last modified {orig_file_time_str}</em></center>\n\n-------------------------------\n\n')
 
+def create_empty_files(org_file):
+    print(org_file)
+    wikilink_regex = r'\[\[([^\]|]+)(?:\||\]\])'
+    chain(*[re.findall(wikilink_regex, line) for line in open(org_file)])
+
 for file_name in relevant_files:
     tmp_file = path.join(TMP_DIR, file_name)
     org_file = path.join(MAIN_DIR, file_name)
 
-    add_file_modified_time(org_file, tmp_file)
+    create_empty_files(org_file)
+    if file_name != "index.md":
+        add_file_modified_time(org_file, tmp_file)

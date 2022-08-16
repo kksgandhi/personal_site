@@ -22,6 +22,7 @@ Qualitative Methods
 Benefits of Games
 -----------------
 
+ - Case studies in Game Based Learning (https://www.mdpi.com/2414-4088/5/12/72) (Josh)
  - [Benefits of playing non-action games on cognition](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0058546)
  - Education And Involvement In Games-Iacovides.md
  - [Using game design patterns in learning](https://www.mdpi.com/2078-2489/12/10/393)
@@ -61,6 +62,7 @@ Game Design
  - [Well played 2.0, games value and meaning](https://www.google.com/books/edition/Well_Played_3_0/wapFAwAAQBAJ?hl=en&gbpv=0)
  - Abusive design - sicart
  - Against procedurality (http://gamestudies.org/1103/articles/sicart_ap?utm_source=tech.mazavr.tk&utm_medium=link&utm_compaign=article%201/)
+ - Outmersion (https://dl.acm.org/doi/10.1145/3465336.3475094)
 
 Games User Research
 -------------------
@@ -98,7 +100,6 @@ Other
  - Brain Computation By Assemblies Of Neurons-Papadimitriou.md (downloaded)
  - Work Group Diversity-Knippenberg.md (exists)
  - Gender Stereotypes In Modern Countries-Breda.md
- - [Colonialism in Civ 5](http://gamestudies.org/1602/articles/ford)
 
 Things to google
 ----------------

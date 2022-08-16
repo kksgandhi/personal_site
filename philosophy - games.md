@@ -8,7 +8,7 @@ See also: [[philosophy - game recommendations]] for the games I actually recomme
  - [[Spec Ops, The Line]]
  - [[Opera Omnia]]
  - [[This War of Mine]]
- - [[Frostpunk]]\*
+ - [[Frostpunk]]
  - [[Bioshock]]\*
  - [[Seedship]]
  - [[Ultima IV]]\*

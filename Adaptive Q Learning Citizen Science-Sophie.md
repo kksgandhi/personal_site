@@ -1,7 +1,7 @@
 #notesFromPaper
 Year   :
 Tags   : [[q learning]] [[cartoscope]] [[cairns]] #cairnsRL
-Authors: [[Sophie]]
+Authors: [[Spatharioti]]
 
 [[Q_Learning_Citizen_Science-Sophie]] had Q learning, but it didn't adapt to player skill on the fly
 

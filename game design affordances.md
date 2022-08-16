@@ -1,0 +1,1 @@
+Experienced video game players are able to effectively solve video games because they are aware of the language of [[affordances]] that designers use. E.g. yellow paint is often used to indicate a thing that players ought to look at.

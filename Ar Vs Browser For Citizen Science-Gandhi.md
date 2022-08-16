@@ -1,7 +1,7 @@
 #notesFromPaper
 Year   : 2021
 Tags   : #AR
-Authors: [[Gandhi]] [[Josh|Miller]] [[Sophie]] [[Apte]] [[Fatehi]] [[Wylie]] [[Cooper]]
+Authors: [[Gandhi]] [[Josh|Miller]] [[Spatharioti]] [[Apte]] [[Fatehi]] [[Wylie]] [[Cooper]]
 
 [PAPER PREPRINT](https://drive.google.com/file/d/1ca4L80-M8J9yoRtWJhRSEodBqnWUMMaY/view?usp=sharing)
 

@@ -1,5 +1,5 @@
 #notesFromPaper
-Authors: [[Sophie]]
+Authors: [[Spatharioti]]
 Year   :
 Tags   : [[q learning]] [[reinforcement learning]] [[cartoscope]] #cairnsRL [[cairns]]
 

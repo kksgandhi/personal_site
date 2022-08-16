@@ -1,0 +1,1 @@
+The past is unchanging, but I think that makes people think that that's the way it was always going to be. That what happened in the past was "the natural course the world was going to take", that it was good, right, and inevitable — rather than a series of struggles and diverging choices.

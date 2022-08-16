@@ -14,6 +14,7 @@ Games that are interesting or uniquely built
 --------------------------------------------
 
  - [[innovative games|games with interesting design elements]]
+ - [[prosocial games|games that facilitate social discussion and icebreaking (beyond simple party games)]]
  - [[tactile games|games that use standard controls in interesting ways]]
  - [[alternatively controlled games|games that use nonstandard controls or are played in different ways]]
  - [[abusive games]]

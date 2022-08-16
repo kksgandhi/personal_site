@@ -23,7 +23,7 @@ Built a game called wordsmith also introduced a social aspect
 
 [[higher pay in crowdsourcing]] may not actually lead to better outcomes
 
-talks about the [[overjustification]] effect, which is like the crowding out effect, but for gamification
+talks about the [[overjustification]] effect, which is like the [[crowding out effect]], but for gamification
 
 talks about some other frameworks for incentive engineering including [[MICE]], [[RASCLS]], and [[SAPS]]
 
