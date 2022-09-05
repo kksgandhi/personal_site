@@ -92,6 +92,11 @@ Reflection in Games Paper
  - Ethics practice and implementation-Schrier
  - https://www.youtube.com/watch?v=sxy_HPxYVss
 
+AI
+----
+
+ - https://dig.cmu.edu/publications/2020-aigwap.html
+
 Other
 -----
 

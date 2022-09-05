@@ -39,7 +39,7 @@ Recommendability: 10/10
 
 ### [[Gris]] (3-4 hours)
 
-Literally the most beautiful game I've ever played, every frame of that game is wallpaper worthy. I played Gris when I was at a bad point in my life, and afterwards I described it as a game that squished my soul back together again. It is rather slow at times, but it absolutely deserves to be on this list.
+The most aesthetically beautiful game I've ever played, every frame of that game is wallpaper worthy. I played Gris when I was at a bad point in my life, and afterwards I described it as a game that squished my soul back together again. It is rather slow at times, but it absolutely deserves to be on this list.
 
 My rating: 8/10
 

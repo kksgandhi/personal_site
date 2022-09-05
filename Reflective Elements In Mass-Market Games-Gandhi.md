@@ -3,6 +3,8 @@ Year   : 2022
 Tags   : 
 Authors: [[Gandhi]] [[Josh|Miller]] [[Cooper]]
 
+[Link to the original paper](https://drive.google.com/file/d/1n2I2Qi7xEU7N_HEkEU7kGNLY06G07VAq/view?usp=sharing)
+
 There have been recent pushes to study games which enable [[SEL|social and emotional learning]]. [[reflective games|Reflective games]] are well suited to this task. As examples, see [[Spent]] and [[Papers Please]].
 
 [[Reflective Game Design-Khaled|Khaled]] claims that reflection is under-represented within mainstream entertainment games. Perhaps this is because it's hard to balance the conflicting needs of [[commercialism affects art|commercial viability]] and designing for reflection? This paper tackles this issue by analyzing [[player experience|player perceptions]] of reflective games in the specific context of [[mass market games|mass-market oriented games]].

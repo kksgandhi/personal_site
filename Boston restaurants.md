@@ -55,8 +55,8 @@ BTT = Before Tax & Tips, a \* means I want to go there but haven't yet
 ### Cambridge
 
  - A4Cade!! (closed for covid)
- - Toscanini's ice cream!! (Kendall Square)
- - Honeycomb creamery\*
+ - Toscanini's ice cream!!! (Kendall Square)
+ - Honeycomb creamery
  - Nirvana Cambridge (I liked it, friends said it was only ok)
  - Yume Wo Katare
    - Prepare for no vegetarian options and the weirdest meal of your life.

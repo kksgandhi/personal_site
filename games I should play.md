@@ -26,3 +26,4 @@ Philosophy Games
 
  - https://here.gua-le-ni.com/
  - https://soup.gua-le-ni.com/
+  - https://www.survivalofthebestfit.com/game/

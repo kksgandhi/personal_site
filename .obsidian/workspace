@@ -10,7 +10,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "volunteers vs turkers.md",
+            "file": "gameplay subversion.md",
             "options": {
               "collapse-filter": false,
               "search": "",
@@ -48,7 +48,7 @@
               "repelStrength": 10,
               "linkStrength": 1,
               "linkDistance": 30,
-              "scale": 1.0985974695478145,
+              "scale": 1.3063760163794043,
               "close": true
             }
           }
@@ -63,11 +63,11 @@
           {
             "id": "618f02ed934953c6",
             "type": "leaf",
-            "dimension": 71.70172084130019,
+            "dimension": 63.76673040152964,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "volunteers vs turkers.md",
+                "file": "gameplay subversion.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,11 +77,11 @@
           {
             "id": "47fd7ea62fd84737",
             "type": "leaf",
-            "dimension": 28.298279158699806,
+            "dimension": 36.233269598470365,
             "state": {
               "type": "backlink",
               "state": {
-                "file": "volunteers vs turkers.md",
+                "file": "gameplay subversion.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "byModifiedTimeReverse",
@@ -134,8 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f7dc0de9c6484110",
@@ -147,15 +146,15 @@
   },
   "active": "618f02ed934953c6",
   "lastOpenFiles": [
-    "Sarkar.md",
-    "Spatharioti.md",
-    "Sophie.md",
-    "mturk pay.md",
-    "malicious turkers.md",
-    "Gadiraju.md",
-    "Cooper.md",
-    "Wilson.md",
-    "motivation in citizen science.md",
-    "citizen science.md"
+    "emergent play.md",
+    "gameplay subversion.md",
+    "Ar Vs Browser For Citizen Science-Gandhi.md",
+    "Gandhi.md",
+    "conference questions.md",
+    "_contacts.md",
+    "thesis ideas.md",
+    "classroom integration.md",
+    "shows.md",
+    "presentations.md"
   ]
 }
