@@ -9,6 +9,8 @@ Philosophical Games
 Pure Philosophy
 ---------------
 
+ - Transgressions: The Offences of Art, Anthony Julius
+
 Qualitative Methods
 -------------------
 
@@ -63,6 +65,7 @@ Game Design
  - Abusive design - sicart
  - Against procedurality (http://gamestudies.org/1103/articles/sicart_ap?utm_source=tech.mazavr.tk&utm_medium=link&utm_compaign=article%201/)
  - Outmersion (https://dl.acm.org/doi/10.1145/3465336.3475094)
+ - Mary Flanagan Critical Play
 
 Games User Research
 -------------------

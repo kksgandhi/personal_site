@@ -1,7 +1,3 @@
-"My rating" is how much I enjoyed a game.
-
-"Recommendability" is how comfortable I feel recommending the game to others. Low recommendability doesn't mean a game is bad, it just means that it's for a niche audience or you have to have a certain mindset going in.
-
 **The short paragraphs I've written here do not do the games justice. If a game interests you, message me because I always love to talk about them**
 
 ### [[Before Your Eyes]] (1-2 hours)
@@ -11,7 +7,7 @@ A game with an incredible story that is controlled entirely by your blinks! It s
 "This game is a once in a generation experience" - Jacob Geller
 
 My rating:        10/10\
-Recommendability: 10/10
+Mass Appeal: 10/10
 
 ### A Short Hike (2-3 hours)
 
@@ -19,7 +15,7 @@ This game makes me happy on a core level. It's completely pure and innocent joy,
 
 My rating:        9/10
 
-Recommendability: 10/10
+Mass Appeal: 10/10
 
 ### Mutazione (5-6 hours)
 
@@ -27,7 +23,7 @@ Very cute, very relaxing, and has a very interesting story / themes on "growth".
 
 My rating:        9/10
 
-Recommendability: 9/10
+Mass Appeal: 9/10
 
 ### [[Florence]] (1 hour)
 
@@ -35,7 +31,7 @@ An incredible story about the ups and downs of relationships. You can find it on
 
 My rating:        8/10
 
-Recommendability: 10/10
+Mass Appeal: 10/10
 
 ### [[Gris]] (3-4 hours)
 
@@ -43,7 +39,7 @@ The most aesthetically beautiful game I've ever played, every frame of that game
 
 My rating: 8/10
 
-Recommendability: 8/10
+Mass Appeal: 8/10
 
 ### To the Moon (2-3 hours)
 
@@ -51,7 +47,7 @@ A beautiful and sad story, though I will admit the gameplay is kinda clunky. One
 
 My rating: 9/10
 
-Recommendability: 6/10
+Mass Appeal: 6/10
 
 ### Celeste (15-20 hours)
 
@@ -59,15 +55,15 @@ Platformers have been done to death, and in all honesty I don't really like the 
 
 My rating: 7/10
 
-Recommendability: 6/10
+Mass Appeal: 6/10
 
 ### Undertale (6-8 hours)
 
-This game has a cult following for a reason! Incredibly memorable characters and a very unique approach to character relationships that I unfortunately can't speak about because of spoilers... Slightly lower recommendability because it's a parody of video games, so it only works if you've played a lot.
+This game has a cult following for a reason! Incredibly memorable characters and a very unique approach to character relationships that I unfortunately can't speak about because of spoilers... Slightly lower mass appeal because it's a parody of video games, so it only works if you've played a lot.
 
 My rating: 8/10
 
-Recommendability: 6/10
+Mass Appeal: 6/10
 
 ### A Hat in Time (9 hours)
 
@@ -75,7 +71,7 @@ This was a cute modern interpretation of the fun and style of Super Mario Galaxy
 
 My rating: 7/10
 
-Recommendability: 7/10 (it's still a slightly difficult platformer, though still one of the more accessible ones)
+Mass Appeal: 7/10 (it's still a slightly difficult platformer, though still one of the more accessible ones)
 
 ### [[Outer Wilds]] (15 - 20 hours / 22 minutes)
 
@@ -83,4 +79,4 @@ By fucking god do I love Outer Wilds. When I'm sad, I listen to Outer Wilds musi
 
 My rating:        10/10
 
-Recommendability: 4/10
+Mass Appeal: 4/10

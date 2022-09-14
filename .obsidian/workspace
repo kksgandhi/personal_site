@@ -10,7 +10,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "gameplay subversion.md",
+            "file": "online toxicity.md",
             "options": {
               "collapse-filter": false,
               "search": "",
@@ -48,7 +48,7 @@
               "repelStrength": 10,
               "linkStrength": 1,
               "linkDistance": 30,
-              "scale": 1.3063760163794043,
+              "scale": 1.3875704057294969,
               "close": true
             }
           }
@@ -67,7 +67,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gameplay subversion.md",
+                "file": "online toxicity.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "gameplay subversion.md",
+                "file": "online toxicity.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "byModifiedTimeReverse",
@@ -146,15 +146,15 @@
   },
   "active": "618f02ed934953c6",
   "lastOpenFiles": [
-    "emergent play.md",
+    "Sicart.md",
+    "soccer with a gun.md",
+    "Welcome to Nightvale.md",
+    "the human story.md",
+    "greece.md",
     "gameplay subversion.md",
+    "emergent play.md",
     "Ar Vs Browser For Citizen Science-Gandhi.md",
     "Gandhi.md",
-    "conference questions.md",
-    "_contacts.md",
-    "thesis ideas.md",
-    "classroom integration.md",
-    "shows.md",
-    "presentations.md"
+    "conference questions.md"
   ]
 }

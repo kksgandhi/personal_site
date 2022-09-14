@@ -1,4 +1,4 @@
-### Obsidian
+### [[Obsidian]]
 
 [[Obsidian]] lets you visually link your notes, and it's incredible how much it's changed the way I think and the way I take notes. Previously it was "what did the professor say on March 3", and now it's organized far more conceptually and lets me move around far more quickly. I didn't really take notes before I learned about Obsidian and now I apparently have 82 thousand words worth of notes. 
 
