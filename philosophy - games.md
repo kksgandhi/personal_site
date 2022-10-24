@@ -62,6 +62,8 @@ See also: [[philosophy - game recommendations]] for the games I actually recomme
  - [[Detention]]\*
  - [[Under Ash]]
 
+For War and Politics, see also [[list of civics games]]
+
 ### Transhumanism
 
  - [[Observer]]\*
@@ -71,6 +73,7 @@ See also: [[philosophy - game recommendations]] for the games I actually recomme
 
  - [[Undertale]]
  - [[The Beginner's Guide]]
+ - [[Train - game]]
 
 ### Currently Uncategorized, TODO
 

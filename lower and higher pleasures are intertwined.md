@@ -1,0 +1,1 @@
+[[lower pleasures]] form the basis of the [[hierarchy of needs]], so they are necessary before you can have higher pleasures.

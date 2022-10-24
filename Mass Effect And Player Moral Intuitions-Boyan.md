@@ -1,4 +1,4 @@
-#notesFromPaper
+		#notesFromPaper
 Year   : 2015
 Tags   :
 Authors: [[Boyan]] [[Grizzard]] [[Bowman]]
@@ -16,3 +16,5 @@ is harm the most important for our player group or is it the most important in v
 Maybe people remembering their playing of the game biased their MFT answers? If that were the case, that makes this result even stronger, since it seems that people's playing of the game made them think about moral foundations so much, it affected their thoughts on things unrelated to the game.
 
 Thought: Maybe purity wasn't relevant because it didn't have a lot of gross sections
+
+Reread this to see if it links to [[be yourself, then experiment]]

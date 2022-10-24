@@ -4,7 +4,7 @@ Train is a game about efficiently getting passengers to their destination. Each 
 
 And holy crap is this a gut punch. In some ways, the game is an exploration of the extent to which people will blindly follow rules. Of course, it is a bit of a trick - players expect a lighthearted game and don't think too much about what they are doing - but even still it really makes the players think about the casual ease with which they were playing the game.
 
-And now the symbolism in the game makes sense, the dreary trains, the yellow pieces, the broken glass symbolism, and the game flips on its head. Now the players take actions to stop the passengers, and they can't save everyone.
+And now the symbolism in the game makes sense, the dreary trains, the yellow pieces, the broken glass symbolism, and the game flips on its head. What a player does after they learn the reveal is the interesting bit. Do they not care? Do they stop? Do they take actions to stop the passangers, unable to save everyone?
 
 A fantastic game for evoking the despair of [[The Holocaust]] and forcing players to reflect on their actions. 
 

@@ -1,9 +1,7 @@
 interactivity, disco elysium, Signs of the Sojourner (Tori recommend), Quadrilateral cowboys, Codename: ROOM, 80 days, generally games from GSND, gone home, frog fractions 2
 
 
-Eliza, Gris, dicey dungeons, night in the woods, outer wilds, interactivity, disco elysium, Signs of the Sojourner (Tori recommend), Quadrilateral cowboys, Codename: ROOM
-
-Veninith marble game
+interactivity, Signs of the Sojourner (Tori recommend), Quadrilateral cowboys, Codename: ROOM
 
 minit - itch bundle
 
@@ -18,8 +16,6 @@ unearthu
 
 gathering sky - game about gathering birds
 unpacking
-
-How fish is made
 
 Philosophy Games
 ----------------

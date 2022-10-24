@@ -15,7 +15,7 @@ is this [[ludonarrative dissonance]]?
 
 don't turn to fiction to expand emotion in games, since fiction alone cannot carry a game. The real part of a game is the primary vehicle for affective impact
 
-Gameplay brings emotion. Thoughtless, basic, feeling. Fiction provides context and transforms emotion into something more specific. 
+[[gameplay brings emotion]]. Thoughtless, basic, feeling. Fiction provides context and transforms emotion into something more specific. 
 
 e.g. gameplay tension can be transformed by narrative into claustrophobia, paranoia, or even caring
 
@@ -26,3 +26,11 @@ don't build the avatar to be like the player, make the avatar strong and bring t
 [[The Marriage-Humble]]
 
 Look for structural similarities between a game and life.
+
+----
+
+rambling:
+
+game designers can control fiction, but they can't really control interpretation of gameplay
+
+When you project into an avatar, the avatar's views projects into you

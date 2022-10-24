@@ -6,4 +6,4 @@ I've gotten really obsessed with [[modern art]] (a term I'm misusing, really I'm
 
 Ostensibly, modern art was made to challenge the notions of what art even is, and damn has it worked fantastically. I think seeing so much [[absurd media]] and [[modern art]] has opened my mind to the idea that new worldviews can [[do things|come from anywhere]].
 
-I think my new definition of art is really anything that can evoke emotion and force you to [[critical thinking|reconsider your core beliefs]]. It's a broad definition, and maybe that weakens it somewhat, but [[anything can be art|inclusivity in art is better than being a gatekeeper.]]
+I think my new definition of art is really anything that can evoke [[emotions|emotion]] and force you to [[critical thinking|reconsider your core beliefs]]. It's a broad definition, and maybe that weakens it somewhat, but [[anything can be art|inclusivity in art is better than being a gatekeeper.]]

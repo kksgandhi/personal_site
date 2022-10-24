@@ -1,3 +1,5 @@
-When building academic games (or [[research]] oriented software in general), build it like a modular library that you can reuse, modify, and keep flexible
+Games are used in academic contexts. There's an FDG paper by Marcello Gomez-Maureira that's pretty great
 
-Tag: [[software engineering]]
+[[game studies]]
+
+[[academic game design]]

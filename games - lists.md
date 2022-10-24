@@ -8,6 +8,7 @@ Games that teach
  - [[philosophy - games|Games that were built to teach philosophy]]
    - [[philosophy - adjacent games|Games that can illustrate an interesting philosophical concept]]
  - [[list of civics games|Games that teach civics, history, and politics]]
+ - [[list of declarative learning games|Games that teach math, science, and other declarative learning]]
  - [[list of transformational games|Games that are otherwise transformational]]
 
 Games that are interesting or uniquely built

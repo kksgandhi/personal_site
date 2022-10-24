@@ -1,0 +1,1 @@
+To avoid limiting players from feeling limited in their romance options, games often make all NPCs bisexual.

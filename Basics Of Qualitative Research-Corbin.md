@@ -1,6 +1,6 @@
 #notesFromPaper
 Year   :
-Tags   :
+Tags   : [[grounded theory]]
 Authors: [[Corbin]] [[Strauss]]
 
 https://methods.sagepub.com/book/basics-of-qualitative-research/n2.xml

@@ -1,0 +1,1 @@
+They can add sensitivity, but cannot replace discussions with disabled people when designing for disability, since a simulator is temporary.

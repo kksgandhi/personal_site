@@ -4,6 +4,7 @@ BTT = Before Tax & Tips, a \* means I want to go there but haven't yet
 
  - Pho Basil
  - El Jefe's
+   - For vegetarian QDOBA has impossible
  - Wagamamas (20 BTT)
  - Phinista Crepes\* (Fenway)
 
@@ -22,7 +23,8 @@ BTT = Before Tax & Tips, a \* means I want to go there but haven't yet
  - Buttermilk and Bourbon \*
  - Dig!
  - Red White Buddha Ramen!
- - Santouka Ramen!!
+ - Clover!
+ - Santouka Ramen
 
 ### Somerville
 
@@ -55,7 +57,8 @@ BTT = Before Tax & Tips, a \* means I want to go there but haven't yet
 ### Cambridge
 
  - A4Cade!! (closed for covid)
- - Toscanini's ice cream!!! (Kendall Square)
+ - Toscanini's ice cream!!! (Central + Kendall Square)
+ - Veggie Galaxy!!! (Central Square)
  - Honeycomb creamery
  - Nirvana Cambridge (I liked it, friends said it was only ok)
  - Yume Wo Katare
@@ -63,7 +66,7 @@ BTT = Before Tax & Tips, a \* means I want to go there but haven't yet
  - andala coffeehouse (palestinian)
  - asmara (eritrean)
  - Spyce\*
- - Cafe Luna (Porter Square)
+ - Cafe Luna\* (Porter Square)
 
 ### Seaport
 

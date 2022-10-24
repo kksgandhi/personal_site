@@ -1,0 +1,1 @@
+I suggest looking at MSR UK (in particular Katja Hofmann and Sam Devlin are great colleagues)

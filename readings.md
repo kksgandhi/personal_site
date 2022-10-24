@@ -1,8 +1,6 @@
 Important read next
 -------------------
 
-The psychological reality of procedural rhetoric - Noah Wardruip Fruin
-
 Philosophical Games
 -------------------
 
@@ -10,10 +8,20 @@ Pure Philosophy
 ---------------
 
  - Transgressions: The Offences of Art, Anthony Julius
+ - Virtual Existentialism - Gualeni
+ - Weapons of Math Destruction
+ - Automating Inequality
+ - Computers as Theater - Brenda Laurel
+
+Research Creation
+-----------------
+
+ - Clara Fernandez Vara Game analysis guide
 
 Qualitative Methods
 -------------------
 
+ - Gee, introduction to discourse analysis, 2004 (there may be better ones, ask Josh)
  - Construction of knowledge online, James & Busher 2009
  - Willis, Jost, Nilakanta 2007 Foundations of qualitative research
  - Birks & Mills: Grounded Theory, a practical guide
@@ -24,12 +32,13 @@ Qualitative Methods
 Benefits of Games
 -----------------
 
- - Case studies in Game Based Learning (https://www.mdpi.com/2414-4088/5/12/72) (Josh)
  - [Benefits of playing non-action games on cognition](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0058546)
  - Education And Involvement In Games-Iacovides.md
  - [Using game design patterns in learning](https://www.mdpi.com/2078-2489/12/10/393)
  - [Game Based Learning](https://www-jime.open.ac.uk/articles/10.5334/2004-8-oblinger/)
  - https://www.degruyter.com/document/doi/10.1515/9783110675184-008/html
+ - More than serious: A game to treat ADHD (https://www.sciencedirect.com/science/article/pii/S8755461522000354)
+ - Negative effects of gamification in education, Toda, Valle 2017
 
 Pedagogy
 --------
@@ -59,17 +68,19 @@ Philosophy in the classroom
 Game Design
 -----------
 
+ - The psychological reality of procedural rhetoric - Noah Wardruip Fruin
  - [character believability in games](https://loading.journals.publicknowledgeproject.org/loading/index.php/loading/article/view/42/51)
+ - Designing for Discomfort Squinky (https://www.gdcvault.com/play/1023269/Designing)
  - pals in power armor besmann (anthropomorphization in games)
  - [Well played 2.0, games value and meaning](https://www.google.com/books/edition/Well_Played_3_0/wapFAwAAQBAJ?hl=en&gbpv=0)
  - Abusive design - sicart
  - Against procedurality (http://gamestudies.org/1103/articles/sicart_ap?utm_source=tech.mazavr.tk&utm_medium=link&utm_compaign=article%201/)
- - Outmersion (https://dl.acm.org/doi/10.1145/3465336.3475094)
  - Mary Flanagan Critical Play
 
 Games User Research
 -------------------
 
+ - Game Design Research (https://press.etc.cmu.edu/index.php/product/game-design-research/)
  - [Reviewing Reflection: On the use of reflection in interactive system design](https://dl.acm.org/doi/10.1145/2598510.2598598)
  - Evaluating Serious Experience In Games-Iacovides.md (exists)
  - Gaming Motivation Scale-Lafrieniere.md (exists)

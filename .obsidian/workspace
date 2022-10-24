@@ -10,7 +10,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "online toxicity.md",
+            "file": "philosophy.md",
             "options": {
               "collapse-filter": false,
               "search": "",
@@ -48,7 +48,7 @@
               "repelStrength": 10,
               "linkStrength": 1,
               "linkDistance": 30,
-              "scale": 1.3875704057294969,
+              "scale": 1.1157835476782334,
               "close": true
             }
           }
@@ -63,11 +63,11 @@
           {
             "id": "618f02ed934953c6",
             "type": "leaf",
-            "dimension": 63.76673040152964,
+            "dimension": 64.1491395793499,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "online toxicity.md",
+                "file": "philosophy.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,11 +77,11 @@
           {
             "id": "47fd7ea62fd84737",
             "type": "leaf",
-            "dimension": 36.233269598470365,
+            "dimension": 35.85086042065009,
             "state": {
               "type": "backlink",
               "state": {
-                "file": "online toxicity.md",
+                "file": "philosophy.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "byModifiedTimeReverse",
@@ -121,7 +121,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dark room",
+                "query": "cruelty squa",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -130,11 +130,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f7dc0de9c6484110",
@@ -146,15 +148,15 @@
   },
   "active": "618f02ed934953c6",
   "lastOpenFiles": [
-    "Sicart.md",
-    "soccer with a gun.md",
-    "Welcome to Nightvale.md",
-    "the human story.md",
-    "greece.md",
-    "gameplay subversion.md",
-    "emergent play.md",
-    "Ar Vs Browser For Citizen Science-Gandhi.md",
-    "Gandhi.md",
-    "conference questions.md"
+    "happiness - lesson plan.md",
+    "coherentism todo.md",
+    "Moral Intuitions And Video Game Decisions-Joeckel.md",
+    "philosophy - game recommendations.md",
+    "game recommendations.md",
+    "Intervention_Strategies_For_Engagement-Segal_Gal.md",
+    "Horvitz.md",
+    "Optimizing Intervention Via Offline Policy Evaluation-Segal.md",
+    "Volunteers Vs Turkers Incentives And Tradeoffs-Mao.md",
+    "Why Stop Now-Mao.md"
   ]
 }

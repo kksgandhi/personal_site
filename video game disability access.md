@@ -1,0 +1,1 @@
+https://gameaccessibilityguidelines.com/full-list/

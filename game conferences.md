@@ -1,4 +1,5 @@
 
+
 [[CHI]] [[CHIPlay]] [[AIIDE]] [[FDG]] [[EXAG]] [[COG]] [[UBICOMP]] [[CSCW]] [[ISCRAM]]
 
 [[Chaima]]'s recommendations: [[SAGE]] [[SIGCSE]] [[FDG]] [[Computers and Education]]
@@ -14,3 +15,11 @@ Civic something - game teaching civics iCivics (civics game)
 [[AIIDE]] (AI in games)
 
 [[COG]] (conference on games)
+
+[[conferences]]
+
+Meaningful play
+ICA Conference
+Game Studies
+
+ECGBL

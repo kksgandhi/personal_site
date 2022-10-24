@@ -11,15 +11,11 @@ Projection + Disliking what we see in ourselves
 
 Mistakes are a two way street, e.g. doctors and popup fatigue
 
-challenging yourself for learning vs sanity
-
 A lot of academic work is bullshit, but cherry picks what participants say in order to have the necessary trappings of an academic venture.
 
 Blood is compulsory
 
 Abstract morality still appeals to common sense morality through analogy, e.g. the violinist example works because it's not socially acceptable to chain someone up
-
-intentionally being bad (Minecraft, influencers, controversial games, discussion building games)
 
 Ebrahim's CS stuff, put it in your website
 
@@ -33,4 +29,12 @@ the nomai just being unadulterated good. Also Football 17776
 
 BCS
 
-hollow aesthetics
+hollow aesthetics, though the aesthetics of rebellion are useful in the creation of acceptance.
+
+the joy of naivety
+
+Games as relaxation counters games as reflection
+
+https://missing.csail.mit.edu/
+
+https://i.redd.it/zvh4py5k6zs91.png

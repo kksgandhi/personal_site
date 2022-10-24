@@ -1,0 +1,3 @@
+When I give people advice, I often find myself giving the advice I needed to hear (or even the advice I need to live by right now). This is understandable, but I often wonder whether I'm helping others, or I'm actually just mad at myself...
+
+"You teach best what you most need to learn."
