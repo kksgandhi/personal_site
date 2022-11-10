@@ -5,3 +5,5 @@ Beyond [[video game disability access|disability access]], video games have a lo
  - You need time
  - You need the energy to actively play
  - You need money
+
+Tag: [[accessibility]]

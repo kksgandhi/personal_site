@@ -1,7 +1,10 @@
 {
   "theme": "obsidian",
-  "baseFontSize": 16,
-  "cssTheme": "Solarized",
+  "baseFontSize": 14,
+  "cssTheme": "Minimal",
   "translucency": false,
-  "accentColor": "#62936a"
+  "accentColor": "#859900",
+  "textFontFamily": "Comic Code",
+  "interfaceFontFamily": "Comic Code",
+  "monospaceFontFamily": "Comic Code"
 }

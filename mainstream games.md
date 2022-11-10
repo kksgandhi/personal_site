@@ -2,6 +2,8 @@
  - Minecraft
  - Hollow Knight
    - Doma Doma
+ - FTL
+ - Slay The Spire
  - Xcom2
  - Enter The Gungeon
  - [[Hades]]

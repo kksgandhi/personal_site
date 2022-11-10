@@ -11,6 +11,8 @@ Art & Museums
  - Cooper Gallery (harvard)
  - New England Conservatory
  - Athanaeum (has a book bound in human skin!)
+ - MIT Museum
+   - [MIT Museum... After Dark](https://mitmuseum.mit.edu/programs/mit-museum-after-dark)
 
 Culture / History
 ----------

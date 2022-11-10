@@ -41,7 +41,7 @@ Edugames
 Most of the above came from [[Perspective Taking And Decision Making In Educational Game Play-Hilliard]]
 
  - [[learning activities survey]]
- - Moral Foundations Questionnaire
+ - Moral Foundations Questionnaire (See Moral Intuitions in Detroit become Human)
 
 Community
 ---------
@@ -71,7 +71,13 @@ Aesthetic Appreciation
 
  - AESTHEMOS
 
+Mental Health (anger, depression, suicidality, etc.)
+----------------------------------------------------
+
+ - [A good compilation of various scales](https://www.psychologytools.com/download-scales-and-measures/)
+
 Other
 ------
 
  - [[Emotionally Moving Moments In Games-Bopp]] mentions an emotional gratification in media survey by Bartsch
+ - 

@@ -1,3 +1,5 @@
+Also known as Design Based Research?
+
 A research methodology where you document and discuss the design of an artifact.
 
 Beneficial since, when applying for academic jobs you can say "oh yeah I'm a designer and I can teach that"

@@ -1,28 +1,8 @@
 #notesFromPaper
 Year   :
 Tags   :
-Authors: [[Miller]] [[Gandhi]] [[Gander]] [[Cooper]]
+Authors: [[Josh|Miller]] [[Gandhi]] [[Gander]] [[Cooper]]
 
-[[citizen science games]] struggle with retention due to: 
+Abstract:
 
- - players wanting more science communication regarding updates on the project
- - players need better instruction
- - UI sucks
- - data focused CSGs suffer from poor task quality
- - bugs and crashes
-
-[[motivation in citizen science]] (prior work)
-
-Mostly focused on foldit
-
-tutorial teaches most of the skills fairly well
-
-players think the puzzles are reasonably challenging but when they're stuck they don't really ask for help. This means some skills could never be taught, which sucks.
-
-CSG games should follow [[games as a service]] - frequent updates about the science and to the game.
-
-Bug fixes, QoL improvements, and new ways to play are requested, but how does this break down across player types?
-
-players want to contribute to the science, though a bunch still talk about the game (oh and don't forget educational value)
-
-quantitative work would be nice, though it's impossible to put telemetry hooks in the same way in all games.
+Citizen science games (CSGs) are a valuable means for motivating citizen science participation. However, many CSGs still suffer from the recruitment and retention issues of traditional citizen science projects, despite much prior literature on what motivates CSG players. In this study, we take a Human-Computer Interaction (HCI) perspective to explore in what ways CSGs are still failing to provide motivating play experiences for players. Using Qualitative Content Analysis, we conducted and analyzed an online survey of 185 players from 9 citizen science games. This survey contributes insights to the current state of CSG experiences and next steps for developers to address these issues. We found that major concerns included scientific communication, instructional design, user interface and controls, task quality, and software issues.

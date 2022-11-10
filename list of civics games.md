@@ -14,3 +14,5 @@ Games that discuss civics, politics, or history
  - September 12th
  - McDonalds Game
  - Layoff
+ - Headliner
+ - Tonight We Riot

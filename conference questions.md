@@ -12,3 +12,5 @@
    - What are my blind spots as an academic?
    - Evaluation methods
    - Creating edugames on a team?
+- Research
+  - What is required to actually make a "framework"

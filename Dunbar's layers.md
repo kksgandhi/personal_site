@@ -1,4 +1,4 @@
-People tend to have 150 friendships, including 50 good friendships, 15 best friendships, and 5 intimate friendships.
+People tend to have 150 acquaintanceships, including 50 friendships, 15 good friendships, and 5 best friendships.
 
 [[friendships|forming friendships]]
 

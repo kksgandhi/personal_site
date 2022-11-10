@@ -2,7 +2,7 @@ At the moment I [[research]] [[games]] at Northeastern university under the wond
 
 My interests primarily lie in [[educational games]], with a specific focus on [[games]] that promote [[critical thinking]] and [[philosophy]]. These interests arose from a course I taught in [[Rice|undergraduate]] where I used games like [[The Stanley Parable]], [[The Talos Principle]], and [[The Witness]] to teach [[philosophy]]
 
-I also run the game philosophy network's [unofficial discord for game academics.](https://discord.gg/QPzvX5NfX9).
+I also run the Game Philosophy Network's [unofficial discord for game academics.](https://discord.gg/QPzvX5NfX9)
 
  - [[publications|my publications]]
  - [[projects|my projects]]

@@ -8,4 +8,6 @@
 
 [[game transformations are low level]]
 
+I think Whitby likes Baumer's framework better?
+
 Original paper with some more notes: [[Reflection - Framing A Design Landscape-Fleck]]

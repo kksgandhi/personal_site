@@ -13,6 +13,12 @@ Possible topics of discussion
  - What is your utility function? Would you change it?
  - The chess puzzles AI
  - AI will know how to hide
+ - Chimps made you a cage. How would you break out?
+	 - That one generated a radio signal
+ - There's no rule saying we have to make it...
+ - Exponential growth and the lily pad that takes over the pond
+ - Intelligence Quality
+ - Paperclip maximizers
 
 Naive reasons why AI would destroy the world
 --------------------------------------------

@@ -1,3 +1,5 @@
  - Atlas Obscura
  - Boston Compass
+ - Boston Calendar
+ - Boston on Budget
  - Secret Boston

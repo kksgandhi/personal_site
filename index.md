@@ -6,5 +6,5 @@ This website is a blog and dump of all my notes. And when I say all, I mean *all
 
  - [[Who am I - professionally]]
  - [[Who am I - personally]]
- - [[stuff worth reading|Stuff I've written that you may actually enjoy reading. No guarantees.]]
+ - [[stuff worth reading|Stuff you may enjoy reading. No guarantees.]]
  - [[anonymous feedback form|I value self growth. If you have anonymous feedback, put it here.]]

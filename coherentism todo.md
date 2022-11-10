@@ -38,3 +38,9 @@ Games as relaxation counters games as reflection
 https://missing.csail.mit.edu/
 
 https://i.redd.it/zvh4py5k6zs91.png
+
+Should charity leaders be well paid
+
+Is religion a framing for thoughts, or the source of them?
+
+https://blogs.scientificamerican.com/scicurious-brain/ignobel-prize-in-neuroscience-the-dead-salmon-study/

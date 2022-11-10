@@ -4,6 +4,10 @@ Important read next
 Philosophical Games
 -------------------
 
+ - Weaver & Lewis Mirrored Morality
+ - Kremar & Cingel Moral Foundations Theory
+ - Tamborini, the influence of morality subcultures on the acceptance and appeal of violence
+
 Pure Philosophy
 ---------------
 
@@ -21,6 +25,7 @@ Research Creation
 Qualitative Methods
 -------------------
 
+ - Rhode island council on the humanities evaluation toolkit
  - Gee, introduction to discourse analysis, 2004 (there may be better ones, ask Josh)
  - Construction of knowledge online, James & Busher 2009
  - Willis, Jost, Nilakanta 2007 Foundations of qualitative research
@@ -81,6 +86,8 @@ Games User Research
 -------------------
 
  - Game Design Research (https://press.etc.cmu.edu/index.php/product/game-design-research/)
+ - Games User Research (https://gamesuserresearch.com/games-user-research-methods/)
+ - Another Games User Research (https://www.amazon.com/Games-User-Research-Anders-Drachen/dp/0198794843)
  - [Reviewing Reflection: On the use of reflection in interactive system design](https://dl.acm.org/doi/10.1145/2598510.2598598)
  - Evaluating Serious Experience In Games-Iacovides.md (exists)
  - Gaming Motivation Scale-Lafrieniere.md (exists)

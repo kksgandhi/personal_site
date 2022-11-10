@@ -1,6 +1,6 @@
 #notesFromPaper
 Year   :
-Tags   : [[game analysis]]
+Tags   : [[game analysis]], [[game critique]]
 Authors: [[Consalvo]] [[Dutton]]
 
 http://www.gamestudies.org/0601/articles/consalvo_dutton

@@ -1,4 +1,4 @@
-People [[thinking fast and slow|act intuitively about morality]]. The opposite of [[rationalism]]
+People [[thinking fast and slow|act]] [[intuitionism|intuitively about morality]]. The opposite of [[rationalism]]
 
 5 moral modules:
 

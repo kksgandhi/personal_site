@@ -2,10 +2,10 @@
 
 Things that interest me. Not everything, but a good place to start.
 
- - [[phronesis|practical wisdom and life lessons]]
- - [[philosophy]]
  - [[games]]
    - [[game recommendations|Games you should play!]]
+ - [[philosophy]]
+ - [[phronesis|life lessons, psuedointellectual wisdom, all that mushy stuff]]
  - [[art]]
  - [[social skills]]
  - [[productivity]]

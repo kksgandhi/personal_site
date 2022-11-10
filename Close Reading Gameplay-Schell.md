@@ -4,7 +4,7 @@ Tags   :
 Authors: [[Schell]]
 #unread 
 
-[[game critique]]
+[[game critique]], [[game analysis]]
 
 [[close reading]]
 

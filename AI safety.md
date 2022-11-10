@@ -6,6 +6,7 @@ Read Nick Bostrom's superintelligence!!
  - Tic tac toe bot that would play illegal moves to make its opponent crash
  - Two AI that converted images from one form to the other hiding messages
  - AI that played dead in a test environment, replicated out of control
+ - [AI meant to produce an oscillator made one by accidentally creating a radio](https://www.newscientist.com/article/dn2732-radio-emerges-from-the-electronic-soup/)
 
 [[Atari 57]]
 
