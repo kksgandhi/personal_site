@@ -11,4 +11,4 @@ Now I do believe that these characteristics are correlated. If you don't like fa
 
 That said, I do think that these correlate less than people want them to. In the above example someone made jokes around you. What if you found out someone watched crude humor in their free time? I don't think that should change the way you look at them at all; I've met some people who read high brow literature and were total assholes, and some people who watch children's cartoons and are amongst the most understanding people.
 
-Tags: [[emotional intelligence]], [[stoicism]], [[adulting]]
+Tags: [[emotional intelligence]], [[stoicism]], [[adulting]], [[growth mindset]]

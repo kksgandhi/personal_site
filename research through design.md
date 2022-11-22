@@ -25,3 +25,15 @@ Frustrations with designing games in a research context:
  - interdisciplinary work is difficult
  - Using existing games would be nice, but is tough
  - To measure your design goals, you want players playing in a certain way, but that gets in the way of player agency.
+
+According to [[Research Through Design In Hci-Zimmerman]], RTD is different than design practice in two ways:
+
+ - Built without a focus on commercial success (though real world considerations like cost should absolutely be thought of)
+ - RTD artifacts should do something novel (practitioners may do a lot of design that doesn't actually push the boundaries)
+
+How can you evaluate an RTD project? Also from [[Research Through Design In Hci-Zimmerman]]:
+
+ - is the process they used documented and rigorous?
+ - did they take the existing literature and extend it to something new?
+ - relevance. What is the current state, your motivation, and how does this artifact push the world to a preferred state? (this section also talks about how designers shouldn't worry about reproduceability)
+ - extensibility; can the work be used and built upon?

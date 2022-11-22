@@ -1,8 +1,4 @@
-[[Giovanni]] is cool
-
 [[Non rigid HCI]] - shapechanging interfaces
-
-Has an anime catgirl profile picture
 
 ghost is a flexible interface project
 

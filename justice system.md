@@ -1,0 +1,1 @@
+Is the point of a justice system to punish criminals, or to prevent future crimes? If, through some insane twist of fate, it was found that giving murders lollipops and setting them free actually led to a lower incidence of murder, would you accept that justice system?

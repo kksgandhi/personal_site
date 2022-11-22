@@ -25,4 +25,4 @@ don't create challenges that add enjoyment in an [[edutainment]] sense, instead 
 
 [[skill atom]]
 
-because [[game design lens]] were too game specific, this book created [[motivational design lens]]
+because [[game design lenses]] were too game specific, this book created [[motivational design lens]]

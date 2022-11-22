@@ -1,5 +1,3 @@
-Every calculus teacher teaches the same thing (if in different ways), but teaching [[design]] is specific to the teacher, their goals, and their medium.
+There are tons of design systems, frameworks, whatever, all of which aren't truly that different from each other. They're all valid, and you can often pull on different systems, though it can sometimes be a pain.
 
-This means that tons of design systems pop up that are all valid and similar. Sometimes this is fine, and you can pull on different design systems without much issue, sometimes it makes it hard to mesh conflicting parts of systems.
-
-e.g. [[Triadic_Game_Design-Harteveld]] vs [[MDA]] vs a bunch of other game design systems that I'm too lazy to write out.
+I guess I don't understand why people keep trying to make holistic systems when they each don't add too much.

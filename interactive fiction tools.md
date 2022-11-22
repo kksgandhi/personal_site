@@ -1,5 +1,6 @@
  - [[Twine]]
  - [[Ink]]
+	 - Good for stretch text
  - [[Inform 7]]
 
 Comparisons and discussions of various tools

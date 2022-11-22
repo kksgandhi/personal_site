@@ -25,8 +25,6 @@ framing learning as a reward
 
 avoiding dismissal involves taking things in good faith
 
-the nomai just being unadulterated good. Also Football 17776
-
 BCS
 
 hollow aesthetics, though the aesthetics of rebellion are useful in the creation of acceptance.
@@ -35,12 +33,12 @@ the joy of naivety
 
 Games as relaxation counters games as reflection
 
-https://missing.csail.mit.edu/
-
 https://i.redd.it/zvh4py5k6zs91.png
 
 Should charity leaders be well paid
 
-Is religion a framing for thoughts, or the source of them?
-
 https://blogs.scientificamerican.com/scicurious-brain/ignobel-prize-in-neuroscience-the-dead-salmon-study/
+
+changing people's minds vs fighting
+
+this should never happen again
