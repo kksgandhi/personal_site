@@ -2,6 +2,7 @@
  - [[Ink]]
 	 - Good for stretch text
  - [[Inform 7]]
+ - See also [[godot tools]]
 
 Comparisons and discussions of various tools
 

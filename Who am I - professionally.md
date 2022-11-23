@@ -7,6 +7,6 @@ I also run the Game Philosophy Network's [unofficial discord for game academics.
  - [[publications|my publications]]
  - [[projects|my projects]]
  - [[resume|my resume]]
- - [My Twitter](https://twitter.com/gandhi_kutub), because apparently that's a professional thing now.
+ - [My Mastodon](https://hci.social/@kksgandhi), which I use professionally
 
 **Note: If you do want to click on these links and go deeper into the site, please read my [[disclaimers]] first!**
