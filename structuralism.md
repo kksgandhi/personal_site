@@ -1,0 +1,1 @@
+Seems similar to [[constructivism]] in that people construct meanings on how the world works. Each reality is just as meaningful and "true" as any other.

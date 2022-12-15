@@ -60,7 +60,7 @@ See also: [[philosophy - game recommendations]] for the games I actually recomme
  - [[Spent]]
  - [[Papers Please]]
  - [[Detention]]\*
- - [[Under Ash]]
+ - [[Under Ash]]\*
 
 For War and Politics, see also [[list of civics games]]
 

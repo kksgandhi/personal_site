@@ -6,6 +6,7 @@ General lesson plan
  - Explain that AI will destroy the world, but not like terminator
  - AI does exactly what we want it to. (Annoying E)
  - Talk about instrumental goals and terminal goals
+ - What can humans do that AI cannot?
 
 Possible topics of discussion
 -----------------------------
@@ -19,6 +20,7 @@ Possible topics of discussion
  - Exponential growth and the lily pad that takes over the pond
  - Intelligence Quality
  - Paperclip maximizers
+ - Stop button problem
 
 Naive reasons why AI would destroy the world
 --------------------------------------------

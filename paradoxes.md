@@ -1,0 +1,1 @@
+Jan Misali has a fun video on what they call the 5 types of paradox

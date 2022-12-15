@@ -1,0 +1,3 @@
+Ok so [[immersion is counter to reflection]] and [[stress allows us to learn]], so is immersion beneficial in transformational games?
+
+Well, [[relating the message to the player increases its power]], but even beyond the message itself, I feel that if a player likes a game, that they are immersed, then they are much more likely to listen to its message. [[respect the player's intelligence with subtle messages, slowly built|A message has to be subtly built]], so immersion is valuable to build up "trust" before you bring in the intense, emotional scenes. This is all my personal opinion, no real research to back it up unfortunately.

@@ -21,8 +21,6 @@ Ebrahim's CS stuff, put it in your website
 
 the temptation of clarity and escapism validates our belief systems
 
-framing learning as a reward
-
 avoiding dismissal involves taking things in good faith
 
 BCS
@@ -31,14 +29,10 @@ hollow aesthetics, though the aesthetics of rebellion are useful in the creation
 
 the joy of naivety
 
-Games as relaxation counters games as reflection
-
-https://i.redd.it/zvh4py5k6zs91.png
-
-Should charity leaders be well paid
-
 https://blogs.scientificamerican.com/scicurious-brain/ignobel-prize-in-neuroscience-the-dead-salmon-study/
 
 changing people's minds vs fighting
 
-this should never happen again
+doom makes it clear what kind of game it is. This allows it to get away with certain things.
+
+because of all the propaganda, are people overly cynical now?

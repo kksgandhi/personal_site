@@ -2,4 +2,4 @@ The time you spend reading this could be time better spent volunteering, and the
 
 We are all deeply immoral, the question is not how to be a perfect bastion of ethics, the question is where the line is between acceptable and unacceptable.
 
-Tag: [[ethics]]
+Tag: [[ethics]], [[nihilism]]

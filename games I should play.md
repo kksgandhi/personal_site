@@ -23,3 +23,12 @@ Philosophy Games
  - https://here.gua-le-ni.com/
  - https://soup.gua-le-ni.com/
   - https://www.survivalofthebestfit.com/game/
+
+MolleIndustria's Phone Story
+Flanagan's Giant Joystick
+
+ooh definitely play moirai and little inferno, I think those are up your alley - Josh
+
+The Static Speaks my name is good, but similar to Dujanah
+
+Immortality!!

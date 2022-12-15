@@ -100,7 +100,7 @@ Behaviorism: The external behaviors produced are all that matters, and behaviors
 
 [[socioconstructivism|Socio-constructivism]]: Knowledge itself is situated in an environmental context and such environments must include authentic experience for learning to be meaningful
 
-[[constructionism]]: Learning happens when knowledge is applied external to one's self (onto the environment), even with something as simple as writing a paper
+[[constructivism]]: Learning happens when knowledge is applied external to one's self (onto the environment), even with something as simple as writing a paper
 
 Operations are mechanisms in the game or actions players can take. Do your operations create a meaning, or does your meaning create operations (bottom up vs top down)
 

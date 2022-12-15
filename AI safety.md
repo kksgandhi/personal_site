@@ -12,4 +12,4 @@ Read Nick Bostrom's superintelligence!!
 
 [Can you make an AI work properly?](https://transformsai.itch.io/animo-lab)
 
-[[we don't have to make it|There's no rule that says we have to make it]]
+[[we don't have to make it|There's no rule that says we make it]]

@@ -16,6 +16,7 @@ Pure Philosophy
  - Weapons of Math Destruction
  - Automating Inequality
  - Computers as Theater - Brenda Laurel
+ - The creative Mind, Boden. Apparently Chapter 4 has some stuff on what creativity is. 
 
 Research Creation
 -----------------

@@ -1,4 +1,4 @@
-[[introspection|Introspection]] and growth is hard. It's so much easier to [[lashing out|lash out]] than it is to think through your issues. It's so much easier to hang out with shitty people than build meaningful [[relationships]] with people who care.
+[[introspection|Introspection]] and [[growth mindset|growth]] is hard. It's so much easier to [[lashing out|lash out]] than it is to think through your issues. It's so much easier to hang out with shitty people than build meaningful [[relationships]] with people who care.
 
 It's an alluring trap, and provides happiness in the short term, but it is such a [[fragility|fragile way to live.]] These frictions between the surface way your life is and the reality build until they tear you apart.
 

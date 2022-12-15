@@ -1,6 +1,6 @@
 #notesFromPaper
 Year   :
-Tags   : #thesisReading  [[research through design]]
+Tags   : #thesisReading  [[research through design]] #killerPaper
 Authors: [[Lankoski]] [[Holopainen]]
 
 Initial design research were ad-hoc post mortems
@@ -31,3 +31,29 @@ Chapter 3 brings up approaches from architecture, like diagramming and sketching
  - [[game design patterns]]
  - [[game diagrams]]
  - [[machinations]]
+
+Talks a bit about [[research about design]] and [[research for design]], though I don't really get how the latter is different from simple RtD
+
+RtD suffers from [[academia - bias is baked in|the biases of the lead designer]]
+
+Game conferences ought to accept things that are not papers.
+
+[[action research]]
+
+[[craft]] as opposed to design
+
+talks a bit about [[speculative design]]
+
+The conclusion of chapter 5 is an excellent, excellent summary of what an RtD researcher needs to do.
+
+Chapter 6 talks about a game [[JEU SERAI]], a game built to replace psychological profiling exams.
+
+[[frameworks ought to include uncertainty]].
+
+Chapter 7 (the section titled "current serious game design frameworks") has some fantastic examples of [[transformational game design frameworks]]
+
+Chapter 9 talks about some issues with controlled design experiments, specifically the generalizability and small sample sizes. Do the factors you are varying affect how players play other aspects of the game?
+
+[[evocative experiments]]
+
+

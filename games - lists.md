@@ -19,3 +19,4 @@ Games that are interesting or uniquely built
  - [[tactile games|games that use standard controls in interesting ways]]
  - [[alternatively controlled games|games that use nonstandard controls or are played in different ways]]
  - [[abusive games]]
+ - [[profiling games|games that gather data or understand something about their players]]
