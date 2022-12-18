@@ -42,8 +42,9 @@ def add_file_modified_time(org_file, tmp_file):
 
 def create_empty_files(org_file):
     wikilink_regex = r'\[\[([^\]|]+)(?:\||\]\])'
-    referenced_files = chain(*[re.findall(wikilink_regex, line) 
-                            for line in open(org_file)])
+    referenced_files_no_md = chain(*[re.findall(wikilink_regex, line) 
+                                for line in open(org_file)])
+    referenced_files = map(lambda s: s + ".md", referenced_files_no_md)
     for referenced_file in referenced_files:
         if not path.isfile(path.join(MAIN_DIR, referenced_file)):
             with open(path.join(TMP_DIR, referenced_file), 'w') as empty_file:
