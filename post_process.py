@@ -44,7 +44,7 @@ def create_empty_files(org_file):
     print(org_file)
     wikilink_regex = r'\[\[([^\]|]+)(?:\||\]\])'
     a = chain(*[re.findall(wikilink_regex, line) for line in open(org_file)])
-    print(a)
+    print(list(a))
 
 for file_name in relevant_files:
     tmp_file = path.join(TMP_DIR, file_name)
