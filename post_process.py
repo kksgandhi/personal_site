@@ -44,7 +44,8 @@ def create_empty_files(org_file):
     wikilink_regex = r'\[\[([^\]|]+)(?:\||\]\])'
     referenced_files_no_md = chain(*[re.findall(wikilink_regex, line) 
                                 for line in open(org_file)])
-    referenced_files = map(lambda s: s + ".md", referenced_files_no_md)
+    referenced_files_unfiltered = map(lambda s: s + ".md", referenced_files_no_md)
+    referenced_files = filter(lambda s: '.pdf' not in s, referenced_files_unfiltered)
     for referenced_file in referenced_files:
         if not path.isfile(path.join(MAIN_DIR, referenced_file)):
             with open(path.join(TMP_DIR, referenced_file), 'w') as empty_file:
