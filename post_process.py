@@ -41,10 +41,13 @@ def add_file_modified_time(org_file, tmp_file):
     insert(tmp_file, f'<center><em>This note last modified {orig_file_time_str}</em></center>\n\n-------------------------------\n\n')
 
 def create_empty_files(org_file):
-    print(org_file)
     wikilink_regex = r'\[\[([^\]|]+)(?:\||\]\])'
-    a = chain(*[re.findall(wikilink_regex, line) for line in open(org_file)])
-    print(list(a))
+    referenced_files = chain(*[re.findall(wikilink_regex, line) 
+                            for line in open(org_file)])
+    for referenced_file in referenced_files:
+        if not path.isfile(path.join(MAIN_DIR, referenced_file)):
+            with open(path.join(TMP_DIR, referenced_file), 'w') as empty_file:
+                empty_file.write("This file is empty, and exists as a placeholder so you can see the backlinks")
 
 for file_name in relevant_files:
     tmp_file = path.join(TMP_DIR, file_name)
