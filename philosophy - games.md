@@ -82,5 +82,6 @@ For War and Politics, see also [[list of civics games]]
  - [[Subsurface Circular]]\*
  - Cruelty Squad & Absurdism
  - Dark Souls and Perseverance
+ - Journey
 
 (An asterix is an indicator that I'm not overly familiar with that game)

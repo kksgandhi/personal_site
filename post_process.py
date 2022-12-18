@@ -43,7 +43,8 @@ def add_file_modified_time(org_file, tmp_file):
 def create_empty_files(org_file):
     print(org_file)
     wikilink_regex = r'\[\[([^\]|]+)(?:\||\]\])'
-    chain(*[re.findall(wikilink_regex, line) for line in open(org_file)])
+    a = chain(*[re.findall(wikilink_regex, line) for line in open(org_file)])
+    print(a)
 
 for file_name in relevant_files:
     tmp_file = path.join(TMP_DIR, file_name)
