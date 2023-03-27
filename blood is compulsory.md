@@ -1,0 +1,9 @@
+ - everyone knows COD is going to sell
+ - Kevin Spacey is for reviewers to latch onto
+ - everyone knows what COD is, why bother writing reviews? You aren't comparing it to other forms of media
+ - each game is played for hundreds of hours, and is simultaneously ephemeral 
+ - gamers don't want games to be taken seriously
+ - a story brings legitimacy
+ - no value system but power
+ - power
+ - values do not matter

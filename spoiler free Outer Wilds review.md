@@ -1,0 +1,17 @@
+[Spoiler free review](https://steamcommunity.com/id/amuq/recommended/753640/)
+
+Here's the text:
+
+Everyone says that Outer Wilds is best experienced when you know _nothing_ about it before jumping in. And they're right. But still, this makes it difficult for an outsider to decide whether or not they want to buy the game (yes you should); so I'm going to try and describe the kind of game it is and what the experience is like, without spoiling anything.  
+  
+This game is a spatial exploration game in a fictional solar system, mostly based on uncovering the knowledge and actions of an ancient civilization. The game is entirely based on discovery and information gathering; your ship log records what you learn, and that's your progression. There is no other character progression than the knowledge you accumulate.  
+  
+Early on in the game, you'll find that something is going _very wrong_. There's a mystery that you will want to solve, and the only way you'll solve it is by going out in the universe, gathering clues and piecing them together. You decide where to go and what to do based on your own curiosity and desire to learn; when you explore a place, you learn things that give you background knowledge and/or hints about how to get past obstacles in other places. If you find yourself blocked, go explore another planet: chances are the information on how to overcome what's blocking you is written somewhere else. The game is totally non-linear and encourages you to try new things.  
+  
+At first, you get scattered bits and pieces of information and you don't understand _anything_, it's totally baffling. Then, as you get more bits, you start seeing connections and elaborating theories on what the hell is happening. This is a very exciting and enthralling part of the game, the reason why spoilers are so bad for this game, and the reason why you shouldn't use Internet guides. Making hypotheses and figuring out where you need to go next in order to check these hypotheses is a huge part of the fun and the experience, and you shouldn't spoil yourself out of it.  
+  
+Then you get key elements of information, and the pieces of the puzzle start falling into place. In the end, when you've almost explored everything, you finally understand what's going on, and it's _incredible_. Everything is cohesive, all the things that you couldn't figure out at start make perfect sense, and you're awestruck by the immaculate story put together by the developers, and by the grandeur and beauty of it all. And in the same moment, you know _exactly_ what you need to do to finish the game.  
+  
+During the whole experience, you meet a lot of characters. Your fellow Hearthian explorers, who each have their own personality, but also Nomai characters whose lives you read about on the walls they left behind, and you grow attached to them. The game isn't only a pleasure for the deductive center of the brain; it's full of emotion, too, and the end of the game is powerful enough to make the most cold-hearted of us melt into a puddle of tears.  
+  
+This game is unique, it's exciting, it's nerve-wracking at times, it's fun, it's tragic, it's heart string-pulling, it's awe-inspiring, and my only regret is that it can only be fully experienced once. Once you have played it, it will be your regret too.

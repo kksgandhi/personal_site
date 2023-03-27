@@ -7,4 +7,4 @@ Authors: [[James]] [[Busher]]
 
 [[theoretical positions in qualitative research]]
 
-[[hyperrealism]]
+[[the hyperreal]]

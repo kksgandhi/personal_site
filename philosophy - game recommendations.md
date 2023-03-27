@@ -38,6 +38,12 @@ This game taught me more philosophy than any textbook ever could. Beautiful stor
 
 Mass Appeal 6 (It's very long, and while I think the length helps the game's message soak in, it is still a problem)
 
+### Nova Alea (15 minutes)
+
+We can build stronger cities together, cities that work for the people who live there, not the landowners. Nova Alea represents that concept incredibly and only takes like 15 minutes to play
+
+Mass Appeal: 8
+
 ### The Witness (30+ hours)
 
 A Zen garden of puzzles with a beautiful message, though it doesn't really tell you the message until late into the game. Beautifully designed

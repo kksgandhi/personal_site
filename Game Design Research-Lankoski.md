@@ -1,6 +1,6 @@
 #notesFromPaper
 Year   :
-Tags   : #thesisReading  [[research through design]] #killerPaper
+Tags   : #thesisReading  #[[research through design]] #killerPaper
 Authors: [[Lankoski]] [[Holopainen]]
 
 Initial design research were ad-hoc post mortems
@@ -44,7 +44,7 @@ Game conferences ought to accept things that are not papers.
 
 talks a bit about [[speculative design]]
 
-The conclusion of chapter 5 is an excellent, excellent summary of what an RtD researcher needs to do.
+The conclusion of chapter 5 is an excellent, excellent summary of [[what an RTD researcher needs to do]].
 
 Chapter 6 talks about a game [[JEU SERAI]], a game built to replace psychological profiling exams.
 
@@ -56,4 +56,6 @@ Chapter 9 talks about some issues with controlled design experiments, specifical
 
 [[evocative experiments]]
 
+Chapter 10 involves interviewing critical game developers in an attempt to elucidate how they created their games.
 
+They initially asked them to do a design challenge, but the developers found that rather artificial. The intervention changed the context of design, and thus altered the process.

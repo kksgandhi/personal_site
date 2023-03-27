@@ -3,6 +3,7 @@
    - How can I work with a professor to actually make a piece of edutech that they want?
  - Philosophy
    - What is a philosophical game to you lol
+   - Leading horses to water and making them drink?
  - Games
    - I feel like building a game has a low effort / paper ratio. Am I correct / how should I feel about this?
  - NLP
@@ -14,3 +15,5 @@
    - Creating edugames on a team?
 - Research
   - What is required to actually make a "framework"
+- Casual Questions
+  - Are art games a problem for game designers?

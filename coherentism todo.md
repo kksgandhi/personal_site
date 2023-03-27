@@ -10,10 +10,9 @@ subtle changes in the setup of social networks changes how social groups are for
 Projection + Disliking what we see in ourselves
 
 Mistakes are a two way street, e.g. doctors and popup fatigue
+growth mindset and always thinking you could be wrong
 
 A lot of academic work is bullshit, but cherry picks what participants say in order to have the necessary trappings of an academic venture.
-
-Blood is compulsory
 
 Abstract morality still appeals to common sense morality through analogy, e.g. the violinist example works because it's not socially acceptable to chain someone up
 
@@ -36,3 +35,5 @@ changing people's minds vs fighting
 doom makes it clear what kind of game it is. This allows it to get away with certain things.
 
 because of all the propaganda, are people overly cynical now?
+
+how to become an expert

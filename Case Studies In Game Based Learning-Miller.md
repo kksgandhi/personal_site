@@ -27,5 +27,3 @@ Summary of findings and recommendations:
  - Sell the GBL
    - Hard constraints on learning goals and research questions will hinder the product quality
    - Work with professional designers and marketers
-
-Bookmark pg 5

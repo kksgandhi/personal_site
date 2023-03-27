@@ -1,0 +1,2 @@
+ - We no longer have walkable communities, so we don't walk, but we take time away to jog.
+ - We no longer have tight interpersonal networks, but we talk to therapists.

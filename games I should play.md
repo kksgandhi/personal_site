@@ -6,11 +6,8 @@ interactivity, Signs of the Sojourner (Tori recommend), Quadrilateral cowboys, C
 minit - itch bundle
 
  - ULTRA DELUXE
- - SILKSONG
- - ECHOES OF THE EYE
- - DISCO ELYSIUM
 
-wandersong? Hatoful boyfriend, little inferno, Old Man's Journey, Subsurface Circular, INSCRYPTION, it takes two
+wandersong? Hatoful boyfriend, Old Man's Journey, Subsurface Circular, it takes two
 
 unearthu
 
@@ -32,3 +29,5 @@ ooh definitely play moirai and little inferno, I think those are up your alley -
 The Static Speaks my name is good, but similar to Dujanah
 
 Immortality!!
+
+Republia times (Lpope)

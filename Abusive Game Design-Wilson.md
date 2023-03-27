@@ -3,7 +3,9 @@ Year   :
 Tags   :
 Authors: [[Wilson]] [[Sicart]]
 
-So I have a definition of abusive games, but this paper has a slightly different definition. [[abusive game design]]. I do think the things I categorize as [[abusive games]] do count, their definition is just broader.
+So I have a definition of abusive games, but this paper has a slightly different definition: [[abusive game design]]#. I do think the things I categorize as [[abusive games]] do count, their definition is just broader.
+
+---------------------------
 
 Discusses [[Dark Room Sex Game]]
 
@@ -24,3 +26,5 @@ They have a good example with Kaizo mario, pointing out that oftentimes beating 
 Interesting discussions on [[bleed]]
 
 A game can't abuse their players if they quit. Kaizo is imaginative, beatable, unique. Anyone can make a near impossible Mario level, but Kaizo is interesting enough to get people to continue.
+
+Tag: [[blurring the magic circle]]

@@ -13,6 +13,6 @@ Games that discuss civics, politics, or history
  - Ayiti
  - September 12th
  - McDonalds Game
- - Layoff
+ - [[LAYOFF]]
  - Headliner
  - Tonight We Riot

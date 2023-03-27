@@ -1,4 +1,4 @@
-Maturity has always been weird to me. When I was younger I was frustrated that people would call me immature as I ran around and jumped on things. Yes that's "immature", but I prided myself on being kind and respectful to others, something that is very mature. When people called my silly behavior immature, it felt like they were discounting my ability to be kind, respectful, etc.  
+Maturity has always been weird to me. When I was younger I was frustrated that people would call me immature as I ran around and jumped on things. Yes that's "immature", but I prided myself on being kind and respectful to others. When people called my silly behavior immature, it felt like they were discounting my maturity in being kind, respectful, etc.  
 
 In my opinion, maturity is a set of loosely correlated characteristics.
 
@@ -11,4 +11,4 @@ Now I do believe that these characteristics are correlated. If you don't like fa
 
 That said, I do think that these correlate less than people want them to. In the above example someone made jokes around you. What if you found out someone watched crude humor in their free time? I don't think that should change the way you look at them at all; I've met some people who read high brow literature and were total assholes, and some people who watch children's cartoons and are amongst the most understanding people.
 
-Tags: [[emotional intelligence]], [[stoicism]], [[adulting]], [[growth mindset]]
+Tags: [[emotional intelligence]]#, [[stoicism]], [[adulting]], [[growth mindset]]#

@@ -11,3 +11,4 @@ I wrote three notes on the topic and they're all pretty terrible. I couldn't pro
 ----
 
  - [[how to be kind]]
+ - [[everyone deserves love and compassion, but...]]

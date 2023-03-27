@@ -11,6 +11,6 @@ SOBA was a "scavenger hunt" that focused on finding genuine interactions in the 
 
 Talks about activist games e.g. Ayiti, McDonald's game, Sep 12th
 
-Also talks about LAYOFF, a game about cutting costs and corners
+Also talks about [[LAYOFF]], a game about cutting costs and corners
 
 Games show possible worlds, games are reality engines, frameworks for making meaning

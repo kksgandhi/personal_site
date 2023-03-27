@@ -22,5 +22,6 @@ Northeast
  - https://www.filamentgames.com/careers/
   - https://www.panoramaed.com/careers
   - PBS may have some internships?
+ - Not exactly a edugame company, but soft chaos: https://softchaos.games/
 
 Tag: [[educational games]]

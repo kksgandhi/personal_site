@@ -1,3 +1,4 @@
-https://www.youtube.com/watch?v=-GV814cWiAw&list=WL&index=30
-
-https://www.gamasutra.com/view/feature/129948/the_chemistry_of_game_design.php
+ - [How to teach complex games, by Gamemaker's toolkit](https://www.youtube.com/watch?v=-GV814cWiAw&list=WL&index=30)
+ - [Daniel Cook and Skill Atoms, The Chemistry of Game Design](https://www.gamasutra.com/view/feature/129948/the_chemistry_of_game_design.php)
+ - [Accessibility and Difficulty in Puzzle Games](https://youtu.be/yyrRVQnnBFs)
+ - [Experience Design for Inexperienced gamers](https://link.springer.com/chapter/10.1007/978-3-319-15985-0_8)

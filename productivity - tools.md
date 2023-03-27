@@ -18,4 +18,8 @@ Rofi is more powerful and customizable replacement for Window's start menu and m
 
 With coc and a few other plugins, neovim is a replacement for an IDE and is far more powerful. Even if you don't want to go through the pain of replacing your IDE with neovim, activating the vim modes of various IDEs is really great.
 
+### sioyek
+
+An awesome pdf reader with a ton of power user features
+
 

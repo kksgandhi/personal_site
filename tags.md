@@ -1,8 +1,10 @@
 Administrative
 --------------
 
- - conceptualHandle (A word that serves as a nice hook for a complex idea)
- - notesFromPaper (Notes from an academic paper, as opposed to freestanding notes)
+ - conceptualHandle 
+   * A word that serves as a nice hook for a complex idea
+ - notesFromPaper 
+   * Notes from an academic paper, as opposed to freestanding notes
  - unread
  - todo
  - skimmed
@@ -31,6 +33,7 @@ Fields
  - transformationalGameStudy
  - gamifiedEducation
  - HCI
+ - mobileGaming
 
 Study Types
 -----------
@@ -38,12 +41,14 @@ Study Types
  - largeScale (A large scale user study. Rare and hard to pull off)
  - litReview
 
-Interesting Study Aspects
+Interesting Paper Aspects
 -------------------------
 
  - worksCited (has a good works cited with papers I could look at in the future)
  - futureWork (interesting future work that could be followed up on)
- - citeMe (good general study that could be cited a lot)
+ - RTDExample (A good example of a research through design study)
+ - researchForIndustry 
+   * good examples of building research projects so that they are useful for industry professionals
 
 Projects
 --------

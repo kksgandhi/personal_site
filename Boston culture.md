@@ -35,4 +35,5 @@ Trivia and Events
  - Trident (Fridays)
  - Tavern of Tales (Thursdays)
  - Sinclaire Show on Harvard Square
+ - Improv!
  - [ice skating!](https://www.mass.gov/ice-skating)

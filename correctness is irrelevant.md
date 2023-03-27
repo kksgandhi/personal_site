@@ -1,6 +1,8 @@
-What if someone came up to you, entirely convinced that $2+2=5$. You'd be confident that they were wrong, you might even try convincing them otherwise, but I'd bet you'd have a ton of other thoughts as well. How did they come to this conclusion? How do they live with such a weird belief system? Is there just a miscommunication between the two of you?
+Don't stop asking questions, even when you're sure you're right. Sure, global warming is real, and everyone who doesn't accept that is wrong, but if you just say that, throw your hands up, and stop thinking, then you miss out on so many interesting questions.
 
-I used to think everyone who didn't "believe" in climate change was stupid. I didn't think anything past "I am right and they are wrong". Of course I still think that climate change is real, but I think a huge turning point in my maturity was when I started to ask deeper questions about why there were so many people who held "the objectively wrong" belief, and what I'd do with that information.
+I think a huge turning point in my maturity was when I started to ask deeper questions about why there were so many people who held "the objectively wrong" belief, and what I'd do with that information.
+
+In a similar vein, you can be [[you're not wrong, you're just an asshole|entirely right, but still an asshole]].
 
 ----------
 

@@ -1,0 +1,1 @@
+A game jam inviting creators to "ruin games" via forced diversity, talking about social / love lives, really anything that criticized existing franchises.

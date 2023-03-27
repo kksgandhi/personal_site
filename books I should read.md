@@ -1,9 +1,32 @@
 # Sci-Fi
-Artemis by Andy Weir
+
+ - Artemis by Andy Weir
+ - Wool by Hugh Howey
+ - What moves the dead (Tori recommends, horror)
+
 # Games
-Significant zero
+
+ - Significant zero
+
 # History
-Lies my teacher told me 
+
+ - Lies my teacher told me 
+
+# Philosophy
+
+ - Graphic introduction to Foucalt
+ 
+# Race
+
+ - Race After Technology, Ruha Benjamin 
+ - Sarah Ahmed, Queer Phenomenology 
+ 
+# Science
+
+- What If XKCD
+- Whatever SMBC has come out with
+- A short history of my last 6 years - wait but why
+
 # Uncategorized
 How to blow up a pipeline / Blessed Unrest
 Southern poverty law center

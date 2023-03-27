@@ -51,6 +51,7 @@ See also: [[philosophy - game recommendations]] for the games I actually recomme
  - [[Spec Ops, The Line]]
  - [[Dujanah]]
  - [[September 12th]]
+ - [[This War of Mine]]
 
 ### Politics
 
@@ -61,6 +62,7 @@ See also: [[philosophy - game recommendations]] for the games I actually recomme
  - [[Papers Please]]
  - [[Detention]]\*
  - [[Under Ash]]\*
+ - Nova Alea
 
 For War and Politics, see also [[list of civics games]]
 

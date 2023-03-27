@@ -3,7 +3,7 @@ Authors: [[Seth]] [[Josh]] [[Magy]]
 Year   :
 Tags   :
 
-This paper is great for #citeme about citizen science, games, SDT, and CLT
+This paper is great as a general basis for ideas in citizen science, games, SDT, and CLT
 
 Uses [[CLT]] and [[SDT]] to develop six interfaces and mechanical changes to [[foldit]]
 

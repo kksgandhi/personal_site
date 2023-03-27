@@ -1,4 +1,5 @@
 Base03    15       −12   −12   #002b36   0     43    54    234   brblack     background   tones
+
 Base02    20       −12   −12   #073642   7     54    66    235   black
 Base01    45       −07   −07   #586e75   88    110   117   240   brgreen     content      tones
 Base00    50       −07   −07   #657b83   101   123   131   241   bryellow

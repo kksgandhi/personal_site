@@ -1,11 +1,21 @@
 Important read next
 -------------------
 
+Tailoring Research to be Useful for Industry
+--------------------------------------------
+
+ - Gaps in game production research (exists)
+ - [a comparison of industry needs and existing game development curriculum](https://dl.acm.org/doi/abs/10.1145/1536513.1536542?casa_token=Eypt6lrdjSkAAAAA:AgKbXIKr_g6QEdn13_QFhjRrjjE_Rn0kU8kxllQL6bJdBaEF3BUKNIjj7fsZKmV7UGV9ZgVydapA)
+ - [Game design frameworks: where do we start?](https://dl.acm.org/doi/abs/10.1145/3337722.3337753?casa_token=oQ1p2p-Pd2oAAAAA:Fh1KvZ6UXtB8gXRn9Zd6qHixKM00vTQoBIxYyvLENd5GbmELmgjMf29A_CMH06Vr6wKb_fAZ06gN)
+
 Philosophical Games
 -------------------
 
+ - Distance and relevance (Iacovides, exists)
+ - embedded design kaufman (exists)
  - Weaver & Lewis Mirrored Morality
  - Kremar & Cingel Moral Foundations Theory
+ - Sicart, the banality of simulated evil
  - Tamborini, the influence of morality subcultures on the acceptance and appeal of violence
 
 Pure Philosophy
@@ -21,11 +31,13 @@ Pure Philosophy
 Research Creation
 -----------------
 
+ - [Methods for examining game design](https://dl.acm.org/doi/10.1145/3235765.3235767)
  - Clara Fernandez Vara Game analysis guide
 
 Qualitative Methods
 -------------------
 
+ - Look through the chapters in Game Research Methods (https://dl.acm.org/doi/book/10.5555/2812774)
  - Rhode island council on the humanities evaluation toolkit
  - Gee, introduction to discourse analysis, 2004 (there may be better ones, ask Josh)
  - Construction of knowledge online, James & Busher 2009
@@ -79,8 +91,8 @@ Game Design
  - Designing for Discomfort Squinky (https://www.gdcvault.com/play/1023269/Designing)
  - pals in power armor besmann (anthropomorphization in games)
  - [Well played 2.0, games value and meaning](https://www.google.com/books/edition/Well_Played_3_0/wapFAwAAQBAJ?hl=en&gbpv=0)
- - Abusive design - sicart
  - Against procedurality (http://gamestudies.org/1103/articles/sicart_ap?utm_source=tech.mazavr.tk&utm_medium=link&utm_compaign=article%201/)
+ - [On endogenous design](https://mitpress.mit.edu/9780262037808/resonant-games/)
  - Mary Flanagan Critical Play
 
 Games User Research
@@ -132,3 +144,5 @@ Things to google
 ----------------
 
  the generation effect of memory and the self-explanation principle of instructional desig
+
+[[books I should read]]

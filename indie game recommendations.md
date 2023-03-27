@@ -77,6 +77,8 @@ Mass Appeal: 7/10 (it's still a slightly difficult platformer, though still one 
 
 By fucking god do I love Outer Wilds. When I'm sad, I listen to Outer Wilds music and every time it hits me like a truck. The story is incredible, and the way that it lets you put the story together instead of just letting you walk through the story linearly makes you incredibly emotionally invested in the things I was piecing together. It is a very niche game: It is an exploration focused game that doesn't hold your hand, with a variety of puzzles and complex challenges. Absolutely worth it if you think that's the kind of game for you.
 
+[[spoiler free Outer Wilds review|Here's a review of the Outer Wilds without any spoilers]]
+
 My rating:        10/10
 
 Mass Appeal: 4/10

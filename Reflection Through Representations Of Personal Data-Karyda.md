@@ -1,9 +1,9 @@
 #notesFromPaper
 Year   :
-Tags   : [[data visualization]]
+Tags   : [[data visualization]], [[reflective visualizations]]
 Authors: [[Karyda]] [[Mekler]] [[Lucero]]
 
-Used data agents to encourage [[games - reflection|reflection]] by placing individual experience in relation to others.
+Used data agents to encourage reflection by placing individual experience in relation to others.
 
 Previous work has shown that engaging in visualizations of personal information can help individuals arrive at newfound understandings about themselves and encourage behavioral change.
 
@@ -84,8 +84,6 @@ The related work confused me, the idea of reflection is a complex one and so it'
 That said, the actual projects were incredibly interesting and thought provoking.
 
 One interesting sticking point is that these objects were designed with an incredible amount of personalization and design. It required someone intelligent and someone who knew the target well (with slight exceptions in the case of project 3). As a game designer, I'm interested in how to enable reflection in games, but the issue is that I don't know my players, nor would it be feasible to hand design something for all of them. 
-
-I talk a bit more in the [[games - reflection]] note.
 
 Google Calendar also does something interesting where if you put "watch the Red Sox game" in your calendar it'll look up pictures of the Red Sox and make that the icon. A little bit of personalization that can be done in a "mass media" sense.
 

@@ -4,3 +4,4 @@
  - That one with the witch resurrection
  - Honey Heist
  - There are ghosts in this discord
+ - The D1 RPG (in static)

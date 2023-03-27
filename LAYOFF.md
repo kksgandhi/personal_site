@@ -1,0 +1,1 @@
+Bejeweled, but instead of swapping around jewels, you swap around employees — employees with names, faces, and backstories. When you "clear" an employee, they are laid off, falling sadly into an unemployment office.

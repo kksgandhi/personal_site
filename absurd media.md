@@ -7,3 +7,4 @@ Some media tries to adhere to [[realism]] (sitcoms), some media sticks to its ow
 Other stuff:
 
  - [Extremely NSFW and extremely horrifying. Don't say I didn't warn you.](https://youtu.be/KgmoMO66uPg) (look at the comments for the... interesting parts)
+ - Everything everywhere all at once is such an incredible movie

@@ -12,7 +12,7 @@ conducted a [[power analysis]] using G*power
 created some personalized questions like "do you think poverty is personally controllable" and "how do you feel about service workers" and "how do you feel about establishing more soup kitchens"
 
 they found that SPENT did not actually make people think poverty was more controllable.
-
+	
 used a bootstrapping model to see how much controllability beliefs and empathy affected final policy support.
 
 ### Discussion

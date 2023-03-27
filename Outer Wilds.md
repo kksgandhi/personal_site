@@ -1,5 +1,7 @@
 I wrote the following note after completing the game. It has now been months since I've finished and I can't stop thinking about how amazing it is. #todo write more thoughts now that I've been able to think harder about it.
 
+[[spoiler free Outer Wilds review|Here's a review of the game without spoilers]]
+
 ------
 
 Absolutely one of my favorite games. I say that a lot, but honestly I only have time to play really good games. 
