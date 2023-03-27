@@ -1,3 +1,5 @@
+**WAXING POETIC LIKE A NERD WARNING**
+
 When I was in elementary school, a new kid moved to town. He was way smarter than me, and it hurt. I cried and cried because, until that moment, I had defined myself by my intelligence and my creativity. Being on top of the class and all that.
 
 There's a new kid in town, again. AI that can do anything a human can is coming soon, sooner than most people would like to face.
