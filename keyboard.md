@@ -1,0 +1,2 @@
+ - ctrl on left side of keyboard
+ - easier tilde

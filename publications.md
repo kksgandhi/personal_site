@@ -5,3 +5,8 @@
  - [[An Effective Platform For Crowd Classification Of Coastal Wetland Loss-Spatharioti|Spatharioti, S. E., Boetsch, E., Eustis, S., Gandhi, K., Rota, M., Apte, A., Cooper, S., Wylie, S., An Effective Platform for Crowd Classification of Coastal Wetland Loss. In *Conservation Science and Practice* (Forthcoming)]]
 
 "Forthcoming" indicates that a paper has been accepted for publication, however proceedings have not been published yet.
+
+Papers that have been submitted, but are pending review:
+
+ - A paper creating a "reflective toolkit", a set of lenses that designers can apply when creating a reflective game.
+ - A paper looking at the onboarding experience of games across multiple genres.
