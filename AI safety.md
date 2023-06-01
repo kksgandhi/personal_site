@@ -1,4 +1,6 @@
-AI might kill us all, but it probably won't be like in the terminator. Remember, [[we don't have to make it|there's no rule that says we make it]].
+[[AI ethics|AI can be misused to horrible effect]], but even if people don't misuse it, superintelligent AI might still kill us all (though it probably won't be like in The Terminator)
+
+Remember, [[we don't have to make it|there's no rule that says we make it]].
 
  - [Wait but Why has a fantastic article on why we should fear AI](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html)
  - [An incredible youtube channel on AI safety](https://www.youtube.com/channel/UCLB7AzTwc6VFZrBsO2ucBMg) on the same topic.
@@ -15,3 +17,13 @@ AI might kill us all, but it probably won't be like in the terminator. Remember,
 [[Atari 57|AI can already beat complex video games]]
 
 [Can you make an AI work properly?](https://transformsai.itch.io/animo-lab)
+
+------------------
+
+Here's an example of AI misalignment:
+
+You tell a robot to make a cup of coffee. On the way to make it, the robot knocks over a vase, because it doesn't care about the vase.
+
+Ok, you shut the robot off and reprogram it so it cause about coffee and the vase. Then, next time it boots up, it immediately kills your cat because the cat could have knocked over the vase, and the robot now cares about the vase...
+
+If you program a robot to care about a million things humans value, then the million and first thing is gone forever, because the AI will crush it on its path to optimizing whatever its goal is.

@@ -4,10 +4,6 @@ Important read next
 Tailoring Research to be Useful for Industry
 --------------------------------------------
 
- - Gaps in game production research (exists)
- - [a comparison of industry needs and existing game development curriculum](https://dl.acm.org/doi/abs/10.1145/1536513.1536542?casa_token=Eypt6lrdjSkAAAAA:AgKbXIKr_g6QEdn13_QFhjRrjjE_Rn0kU8kxllQL6bJdBaEF3BUKNIjj7fsZKmV7UGV9ZgVydapA)
- - [Game design frameworks: where do we start?](https://dl.acm.org/doi/abs/10.1145/3337722.3337753?casa_token=oQ1p2p-Pd2oAAAAA:Fh1KvZ6UXtB8gXRn9Zd6qHixKM00vTQoBIxYyvLENd5GbmELmgjMf29A_CMH06Vr6wKb_fAZ06gN)
-
 Philosophical Games
 -------------------
 
@@ -74,6 +70,7 @@ Pedagogy
 Philosophy in the classroom
 ---------------------------
 
+ - [Teaching philosophy through roleplaying](https://philpapers.org/rec/JOYTPT-3)
  - [Designing Technology to support reflection](https://link.springer.com/article/10.1007/BF02299633)
  - Survey On Teaching With Digital Games-Takeuchi.md
  - Schrier: Designing and using games to teach ethics and ethical thinking
@@ -86,6 +83,7 @@ Philosophy in the classroom
 Game Design
 -----------
 
+ - [Explorables tutorials](https://explorabl.es/tutorials/)
  - The psychological reality of procedural rhetoric - Noah Wardruip Fruin
  - [character believability in games](https://loading.journals.publicknowledgeproject.org/loading/index.php/loading/article/view/42/51)
  - Designing for Discomfort Squinky (https://www.gdcvault.com/play/1023269/Designing)

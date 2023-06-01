@@ -38,7 +38,7 @@ This game taught me more philosophy than any textbook ever could. Beautiful stor
 
 Mass Appeal 6 (It's very long, and while I think the length helps the game's message soak in, it is still a problem)
 
-### Nova Alea (15 minutes)
+### [[Nova Alea]] (15 minutes)
 
 We can build stronger cities together, cities that work for the people who live there, not the landowners. Nova Alea represents that concept incredibly and only takes like 15 minutes to play
 

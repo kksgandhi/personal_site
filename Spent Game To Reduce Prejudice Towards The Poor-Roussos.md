@@ -21,6 +21,8 @@ This study threw a lot of hypotheses out the window. While empathic concern incr
 
 They expected that winning the game would lead to a higher belief in controllability, but it turns out winning lead to the opposite. Their hypothesis is that Spent's real power comes from education about poverty, not empathy.
 
+Interestingly, *observing* people playing Spent did what the authors expected, increasing empathy, policy support, concern, etc.
+
 ## Study 2
 
 Does meritocracy beliefs affect how much Spent affected them?

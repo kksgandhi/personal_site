@@ -1,0 +1,2 @@
+ - differentiate yourself, compete on a different playing field than everyone else.
+ - be remarkable, have something worth commenting on

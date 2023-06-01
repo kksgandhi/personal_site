@@ -1,5 +1,6 @@
  - The [[pomodoro method]]
    - One problem when I work is that I work with extreme focus for an hour or to until I burn out, at which point I stare at my phone for a long time. The [[pomodoro method]] reminds me that things are a marathon, not a sprint.
  - Before you go on a break, decide what task you're going to do next and open the resources you need for that task. Before I did that, I'd just keep lazing about in my break because the cognitive load of "starting a new task" stopped me from wanting to finish my break. Now, I finish my break and hop right into what I need to do.
+ - Plan out tasks you want to get done by the end of the day, end of the week, and end of the month. Keeps yourself grounded in a PhD.
  - [Getting things done](https://hamberg.no/gtd)
    - I don't use it overly much because I don't actually have that much on my "to do list", but it seems like a neat system.

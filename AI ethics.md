@@ -1,3 +1,1 @@
-[[AI safety]]
-
-[[AI]]
+Even if the [[AI safety|AI itself won't kill us]], there's still the possibility of misuse...

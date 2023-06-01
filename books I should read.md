@@ -15,6 +15,7 @@
 # Philosophy
 
  - Graphic introduction to Foucalt
+ - Erica Chenowith Nonviolence
  
 # Race
 

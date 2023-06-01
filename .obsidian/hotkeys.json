@@ -156,5 +156,39 @@
     }
   ],
   "editor:toggle-checklist-status": [],
-  "open-with-default-app:open": []
+  "open-with-default-app:open": [],
+  "persistent-graph:save-node-positions": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "S"
+    }
+  ],
+  "persistent-graph:restore-node-positions": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "R"
+    }
+  ],
+  "persistent-graph:run-graph-simulation": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "S"
+    }
+  ],
+  "persistent-graph:stop-graph-simulation": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "D"
+    }
+  ]
 }

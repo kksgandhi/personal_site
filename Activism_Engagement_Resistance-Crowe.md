@@ -1,6 +1,6 @@
 #notesFromPaper
 Authors: [[Annabelle]]
-Tags   : [[activism]] [[engagement]] [[resistance]]
+Tags   : activism [[engagement]] [[resistance]]
 
 Central Methods in these movements:
 

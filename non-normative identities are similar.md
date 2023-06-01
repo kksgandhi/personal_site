@@ -1,0 +1,3 @@
+Being a woman is kind of like being a cyclist in a city where all the cars represent men. You’re supposed to be able to share the road equally with cars, but that’s not how it works. The roads are built for cars and you spend a great deal of physical and mental energy being defensive and trying not to get hurt. Some of the cars WANT you to get hurt. They think you don’t have any place on the road at all. And if you do get hurt by a car, everyone makes excuses that it’s your fault.
+
+https://shesfastonherbike.tumblr.com/post/120908315095/being-a-woman-is-kind-of-like-being-a-cyclist-in-a

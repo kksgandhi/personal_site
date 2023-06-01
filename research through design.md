@@ -12,6 +12,7 @@ RTD is a good approach for an academic looking for teaching positions, since it 
  - There are many [[RTD synonyms|synonyms for RTD]]# and [[methodologies similar to RTD|similar methodologies]]#
  - Examples of RTD projects can be found using the #RTDExample tag
  - [[RTD researchers|Some people doing this kind of work]]#
+ - [[RTD examples]]
  - [[what an RTD researcher needs to do|How to conduct RTD research]]#
  - [[how to evaluate RTD research|How to evaluate RTD research]]#
  - [[RTD conferences]]#

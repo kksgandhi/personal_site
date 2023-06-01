@@ -1,11 +1,9 @@
-interactivity, disco elysium, Signs of the Sojourner (Tori recommend), Quadrilateral cowboys, Codename: ROOM, 80 days, generally games from GSND, gone home, frog fractions 2
+interactivity, Signs of the Sojourner (Tori recommend), Quadrilateral cowboys, Codename: ROOM, 80 days, generally games from GSND, gone home, frog fractions 2
 
 
 interactivity, Signs of the Sojourner (Tori recommend), Quadrilateral cowboys, Codename: ROOM
 
 minit - itch bundle
-
- - ULTRA DELUXE
 
 wandersong? Hatoful boyfriend, Old Man's Journey, Subsurface Circular, it takes two
 
@@ -31,3 +29,5 @@ The Static Speaks my name is good, but similar to Dujanah
 Immortality!!
 
 Republia times (Lpope)
+
+Before I forget

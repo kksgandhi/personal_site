@@ -64,6 +64,7 @@ BTT = Before Tax & Tips, a \* means I want to go there but haven't yet
  - Yume Wo Katare
    - Prepare for no vegetarian options and the weirdest meal of your life.
  - andala coffeehouse (palestinian)
+ - Anoushella\*
  - asmara (eritrean)
  - Spyce\*
  - Cafe Luna\* (Porter Square)
@@ -71,7 +72,7 @@ BTT = Before Tax & Tips, a \* means I want to go there but haven't yet
 
 ### Seaport
 
- - taiyakinyc\*
+ - taiyakinyc
  - Everything is too expensive, avoid
 
 ### Brookline

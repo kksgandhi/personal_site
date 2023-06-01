@@ -29,7 +29,7 @@ Content Production
 
 Design is the production sub-category best represented in Academic Literature.
 
-The technical perspective on game development is well represented in the material, but mainly from a management perspective. There is a large gap in terms of the content production perspective on programming. (Honestly not sure what they're mean)
+The technical perspective on game development is well represented in the material, but mainly from a management perspective. There is a large gap in terms of the content production perspective on programming. (Honestly not sure what they mean)
 
 audio and narrative are missing studies, the "content production" section has some interesting ideas for research.
 

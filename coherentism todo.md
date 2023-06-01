@@ -37,3 +37,5 @@ doom makes it clear what kind of game it is. This allows it to get away with cer
 because of all the propaganda, are people overly cynical now?
 
 how to become an expert
+
+the educational theory of why people play games reduces them to what benefits they bring, instead of admiring them for their own sakes.
