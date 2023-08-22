@@ -5,19 +5,15 @@ interactivity, Signs of the Sojourner (Tori recommend), Quadrilateral cowboys, C
 
 minit - itch bundle
 
-wandersong? Hatoful boyfriend, Old Man's Journey, Subsurface Circular, it takes two
+wandersong? Hatoful boyfriend, Old Man's Journey, it takes two
 
 unearthu
-
-gathering sky - game about gathering birds
-unpacking
 
 Philosophy Games
 ----------------
 
  - https://here.gua-le-ni.com/
  - https://soup.gua-le-ni.com/
-  - https://www.survivalofthebestfit.com/game/
 
 MolleIndustria's Phone Story
 Flanagan's Giant Joystick
@@ -26,8 +22,13 @@ ooh definitely play moirai and little inferno, I think those are up your alley -
 
 The Static Speaks my name is good, but similar to Dujanah
 
-Immortality!!
-
 Republia times (Lpope)
 
 Before I forget
+
+ - Citizen Sleeper
+ - Return of the Obra Dinn
+ - Frog Fractions 2
+ - The swapper
+ - cruelty squad
+

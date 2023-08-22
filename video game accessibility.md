@@ -7,3 +7,11 @@ Beyond [[video game disability access|disability access]], video games have a lo
  - You need money
 
 Tag: [[accessibility]]
+
+----
+
+Game accessibility guide
+includeification document
+microsoft has training documentation
+following accessibility people in the community
+Steve Sailor, Grant Stoner

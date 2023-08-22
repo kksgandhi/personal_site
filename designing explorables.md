@@ -1,3 +1,5 @@
+[Tutorials for explorables](https://explorabl.es/tutorials/)
+
 Motivate the learning! Make the students love the question.
 
 Start with an experience. Right out of the gate, first thing they do
@@ -8,4 +10,4 @@ start by giving the player your question, end by letting them explore their own 
 
 play off the [[ladder of abstraction]]
 
-let players control the speed of the abstraction.
+Let players control the speed of the abstraction.

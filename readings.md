@@ -17,6 +17,7 @@ Philosophical Games
 Pure Philosophy
 ---------------
 
+ - The banality of simulated evil
  - Transgressions: The Offences of Art, Anthony Julius
  - Virtual Existentialism - Gualeni
  - Weapons of Math Destruction
@@ -46,6 +47,7 @@ Qualitative Methods
 Benefits of Games
 -----------------
 
+ - Exploring the effectiveness of game based learning hartt (exists)
  - [Benefits of playing non-action games on cognition](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0058546)
  - Education And Involvement In Games-Iacovides.md
  - [Using game design patterns in learning](https://www.mdpi.com/2078-2489/12/10/393)

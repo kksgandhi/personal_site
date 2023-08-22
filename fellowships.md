@@ -5,3 +5,5 @@ The ACLS grants from here look pretty good (unfortunately the gugenheim ones are
 https://www.neh.gov/divisions/odh/resources-for-applicants-to-the-NEH-office-of-digital-humanities
 
  - https://www.neh.gov/grants/public/digital-projects-the-public
+
+[[NEH]]

@@ -9,7 +9,7 @@ Administrative
  - todo
  - skimmed
  - killerPaper
-   - A really good paper
+   - A great paper
 
 Fields
 ------
@@ -46,7 +46,7 @@ Interesting Paper Aspects
 
  - worksCited (has a good works cited with papers I could look at in the future)
  - futureWork (interesting future work that could be followed up on)
- - RTDExample (A good example of a research through design study)
+ - RTDExample (A good example of a "research through design" study)
  - researchForIndustry 
    * good examples of building research projects so that they are useful for industry professionals
 
@@ -57,6 +57,7 @@ Projects
  - cairnsRL (cairns reinforcement learning)
  - systemsSurvey (systems class survey project)
  - hciFinalProject (aka the pdstudy)
+ - doctoralConsortium
 
 Events
 ------

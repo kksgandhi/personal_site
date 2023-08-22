@@ -39,3 +39,7 @@ because of all the propaganda, are people overly cynical now?
 how to become an expert
 
 the educational theory of why people play games reduces them to what benefits they bring, instead of admiring them for their own sakes.
+
+libertarian's guide to anti-capitalism
+
+remember, democratic policies are better for the environment

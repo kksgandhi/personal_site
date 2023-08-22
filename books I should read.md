@@ -1,7 +1,7 @@
 # Sci-Fi
 
+ - This is how you lose the time war (Sydney recommends)
  - Artemis by Andy Weir
- - Wool by Hugh Howey
  - What moves the dead (Tori recommends, horror)
 
 # Games

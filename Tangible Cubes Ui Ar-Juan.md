@@ -2,9 +2,9 @@
 Year   :
 Tags   : [[AR]]
 Authors: [[Juan]] [[Tofetti]] [[Giacomo]] [[Abad]] [[Francisco]]
-#hciFinalProject
+#hciFinalProject [[educational game example]]
 
-The team built an [[educational games]] that allowed children to learn about animals that are at the risk of extinction
+The team built an educational game that allowed children to learn about animals that are at the risk of extinction
 
 The game uses a head mounted display
 
