@@ -1,0 +1,1 @@
+Internal validity examines whether the study design, conduct, and analysis answer the research questions without bias

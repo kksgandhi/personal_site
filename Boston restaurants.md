@@ -87,3 +87,26 @@ BTT = Before Tax & Tips, a \* means I want to go there but haven't yet
  - Milkweed (20 BTT)
 
 [List of authentic foreign cuisine](https://www.reddit.com/r/boston/comments/phcsq5/foreignborn_people_of_boston_what_is_the_best/)
+
+Expensive List:
+
+ - Toro
+ - Mida
+ - SRV
+ - Celeste
+ - Barra
+ - Pammy's
+ - James Hook (for lobstah roll)
+ - Orinoco
+ - Select Oyster Bar
+ - Cafe Sauvage
+ - Committee
+ - Fox and the Knife
+ - Oleana
+ - Giulia 
+ - Dear Annie (for wine and snacks)
+ - Sarma (tapas)
+ - Mooncusser
+ - Tres Gatos
+ - Brassica (fried chicken)
+ - Field & Vine

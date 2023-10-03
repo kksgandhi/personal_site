@@ -3,6 +3,8 @@
  - This is how you lose the time war (Sydney recommends)
  - Artemis by Andy Weir
  - What moves the dead (Tori recommends, horror)
+ - Broken Earth Trilogy (Nathan)
+ - Gideon The Ninth (Space Lesbian Necromancers)
 
 # Games
 
@@ -11,6 +13,7 @@
 # History
 
  - Lies my teacher told me 
+ - COMMUNISM INTENSIFIES
 
 # Philosophy
 
@@ -24,7 +27,6 @@
  
 # Science
 
-- What If XKCD
 - Whatever SMBC has come out with
 - A short history of my last 6 years - wait but why
 

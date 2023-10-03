@@ -1,0 +1,5 @@
+ - How students are expected to be transformed by the learning process.
+ - A learning objective should have a verb (intended cognitive process) and a noun (the knowledge)
+ - Learning objectives go from global (school system level) down to individual instruction.
+ - LOs are about "what should happen", not "how".
+   - LOs are never "student should be able to pass this test"

@@ -6,5 +6,6 @@
   "accentColor": "#859900",
   "textFontFamily": "Comic Code",
   "interfaceFontFamily": "Comic Code",
-  "monospaceFontFamily": "Comic Code"
+  "monospaceFontFamily": "Comic Code",
+  "showViewHeader": true
 }

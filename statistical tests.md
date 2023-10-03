@@ -8,6 +8,7 @@
  - [[aligned rank transform]]
  - [[Shapiro Wilk]] for test of normality
  - [[TOST]] for *equivalence* of means instead of difference
+ - Cohen's Kappa for Inter-rater reliability
 
 Why are there so many [[ANOVA]]s
 

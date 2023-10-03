@@ -1,11 +1,9 @@
  - Pedagogy
    - How do you take a learning framework and actually develop a lesson plan around it?
-   - How can I work with a professor to actually make a piece of edutech that they want?
  - Philosophy
-   - What is a philosophical game to you lol
    - Leading horses to water and making them drink?
  - Games
-   - I feel like building a game has a low effort / paper ratio. Am I correct / how should I feel about this?
+	 - Do non simulation based edugames work?
  - NLP
    - chatbots that are customizable?
    - textual similarity?

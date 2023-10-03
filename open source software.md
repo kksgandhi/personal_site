@@ -1,0 +1,1 @@
+https://blog.bloonface.com/2023/06/12/why-did-the-twittermigration-fail/

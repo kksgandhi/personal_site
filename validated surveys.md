@@ -9,6 +9,8 @@ General motivation
 
  - [[intrinsic motivation inventory]] (This one is really good, and has a lot of subscales for various things)
  - [[Academic Motivation Scale]]
+ - Vallerand et. al passion scale? (2003, journal of personality and social psychology)
+ - User Engagement Scale?
 
 Games
 -----
@@ -18,10 +20,11 @@ Games
  - [[UPEQ-Azadvar_Canossa]]
  - [[Gaming Motivation Scale-Lafrieniere]]
  - More questionnaires here: https://designrshub.com/2019/05/gaming-questionnaires.html
- - PXI
+ - PXI (CHI 2022 has a shortened version)
  - PANAS
  - IEQ
  - GEngQ
+ - Games user experience satisfaction scale (GUESS-18)
 
 Edugames
 --------
@@ -42,6 +45,7 @@ Most of the above came from [[Perspective Taking And Decision Making In Educatio
 
  - [[learning activities survey]]
  - Moral Foundations Questionnaire (See Moral Intuitions in Detroit become Human)
+ - Creative Support Index
 
 Community
 ---------
@@ -80,4 +84,4 @@ Other
 ------
 
  - [[Emotionally Moving Moments In Games-Bopp]] mentions an emotional gratification in media survey by Bartsch
- - 
+ - wallner and kriglstein 2016 understanding of visual cues?

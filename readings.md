@@ -17,7 +17,6 @@ Philosophical Games
 Pure Philosophy
 ---------------
 
- - The banality of simulated evil
  - Transgressions: The Offences of Art, Anthony Julius
  - Virtual Existentialism - Gualeni
  - Weapons of Math Destruction
@@ -41,7 +40,6 @@ Qualitative Methods
  - Willis, Jost, Nilakanta 2007 Foundations of qualitative research
  - Birks & Mills: Grounded Theory, a practical guide
  - Guba & Lincoln Naturalistic Inquiry
- - Miles and Huebner?? That's probably wrong but Laurie gave me the books lmaooo
  - Cynefin.io sense making model / knowledge management model
 
 Benefits of Games
@@ -59,7 +57,8 @@ Benefits of Games
 Pedagogy
 --------
 
- - [Peer Marking case study](https://celt.our.dmu.ac.uk/elt-case-studies-2/peer-marking-introduction-to-research-and-ethics/)
+ - Revision of Blooms Taxonomy (exists)
+ - Zimmerman, 2009, Self-regulation where metacognition and motivation intersect.
  - Biggs has two papers on constructive alignment (exists)
  - [Expertise reversal effect about reducing structure after people have competency](https://doi.apa.org/doiLanding?doi=10.1037%2Fa0022243)
  - [Casel Framework](https://casel.org/fundamentals-of-sel/what-is-the-casel-framework/)
@@ -85,8 +84,9 @@ Philosophy in the classroom
 Game Design
 -----------
 
+ - Kate Compton's Work on Casual Creators.
  - [Explorables tutorials](https://explorabl.es/tutorials/)
- - The psychological reality of procedural rhetoric - Noah Wardruip Fruin
+ - Goeey Gut, CHIplay 2022, eduboardgame
  - [character believability in games](https://loading.journals.publicknowledgeproject.org/loading/index.php/loading/article/view/42/51)
  - Designing for Discomfort Squinky (https://www.gdcvault.com/play/1023269/Designing)
  - pals in power armor besmann (anthropomorphization in games)

@@ -11,3 +11,5 @@ start by giving the player your question, end by letting them explore their own 
 play off the [[ladder of abstraction]]
 
 Let players control the speed of the abstraction.
+
+Unlike more traditional edugames, explorables don't have an instructor that can scaffold learning.

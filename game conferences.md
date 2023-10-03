@@ -25,3 +25,5 @@ Game Studies
 ECGBL
 
 DiGRA
+
+GALA (edugames)
