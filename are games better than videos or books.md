@@ -1,0 +1,1 @@
+[This paper apparently has a discussion of watching vs playing](https://psycnet.apa.org/doi/10.1037/ppm0000018)

@@ -1,0 +1,2 @@
+ - How many books are in the hitchikers guide trilogy?
+ - How many ghosts visited Scrooge in the Christmas Carol?

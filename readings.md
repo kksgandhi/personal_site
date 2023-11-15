@@ -1,33 +1,41 @@
 Important read next
 -------------------
 
+ - Mental Models of Complex Systems (exists)
+ - A primer on learning theories (https://osf.io/preprints/edarxiv/ze5hc/)
+ - Revision of Blooms Taxonomy
+ - Intrinsically Motivating Play (https://www.researchgate.net/publication/344268912_Intrinsically_Motivating_Instruction-Thomas_Malone)
+ - Another reference that I use a lot is [K. R. Koedinger, J. L. Booth, and D. Klahr, “Instructional Complexity and the Science to Constrain It,” Science (80-. )., vol. 342, no. 6161, pp. 935–937, Nov. 2013, doi: 10.1126/science.1238056.]. The paper itself is not super useful (though it's a great reference for motivating grants) but the table of instructional design principles is great and if you look at the table provided in the supplementary material you can find the original sources for that principle list. What you're most interested in likely lives in the Sense-making / Understanding space. I've also used this list as this basis for a reference deck of principle cards that I use in my class here: http://edugames.design/principles I need to make some updates but might be useful for thinking about design.
+
 Tailoring Research to be Useful for Industry
 --------------------------------------------
 
-Philosophical Games
--------------------
+Reflective Games
+----------------
 
  - Distance and relevance (Iacovides, exists)
  - embedded design kaufman (exists)
+ - R. Wylie and M. T. H. Chi, “The Self-Explanation Principle in Multimedia Learning,” in The Cambridge Handbook of Multimedia Learning, Cambridge University Press, 2014, pp. 413–432.
+ - J. E. Richey and T. J. Nokes-Malach, “How much is too much? Learning and motivation effects of adding instructional explanations to worked examples,” Learn. Instr., vol. 25, pp. 104–124, 2013, doi: 10.1016/j.learninstruc.2012.11.006.
+ - D. B. Clark, S. S. Virk, J. Barnes, and D. M. Adams, “Self-explanation and digital games: Adaptively increasing abstraction,” Comput. Educ., vol. 103, pp. 28–43, Dec. 2016, doi: 10.1016/j.compedu.2016.09.010.
  - Weaver & Lewis Mirrored Morality
  - Kremar & Cingel Moral Foundations Theory
- - Sicart, the banality of simulated evil
+ - Melcer, Digra 2022, unintended learning in commercial video games.
  - Tamborini, the influence of morality subcultures on the acceptance and appeal of violence
 
-Pure Philosophy
----------------
+Digitally altered consciousness
+-------------------------------
 
- - Transgressions: The Offences of Art, Anthony Julius
- - Virtual Existentialism - Gualeni
- - Weapons of Math Destruction
- - Automating Inequality
- - Computers as Theater - Brenda Laurel
- - The creative Mind, Boden. Apparently Chapter 4 has some stuff on what creativity is. 
+ - digitally altered consciousness (exists)
+ - [Game Transfer Phenomena](https://www.igi-global.com/article/game-transfer-phenomena-video-game/58041)
+ - tuning stressful experiences in a VR game (exists)
+ - modifiers in adaptive video game music (exists)
 
 Research Creation
 -----------------
 
  - [Methods for examining game design](https://dl.acm.org/doi/10.1145/3235765.3235767)
+ - Apparently Will Odem has good RtD?
  - Clara Fernandez Vara Game analysis guide
 
 Qualitative Methods
@@ -45,6 +53,7 @@ Qualitative Methods
 Benefits of Games
 -----------------
 
+ - Mental Models of Complex Systems (exists)
  - Exploring the effectiveness of game based learning hartt (exists)
  - [Benefits of playing non-action games on cognition](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0058546)
  - Education And Involvement In Games-Iacovides.md
@@ -58,6 +67,7 @@ Pedagogy
 --------
 
  - Revision of Blooms Taxonomy (exists)
+ - A primer on learning theories (https://osf.io/preprints/edarxiv/ze5hc/)
  - Zimmerman, 2009, Self-regulation where metacognition and motivation intersect.
  - Biggs has two papers on constructive alignment (exists)
  - [Expertise reversal effect about reducing structure after people have competency](https://doi.apa.org/doiLanding?doi=10.1037%2Fa0022243)
@@ -81,10 +91,11 @@ Philosophy in the classroom
  - Ryan & Bisson. Can Ethics be taught?
  - Elliot: Ethics in the first person, a guide to teaching and learning practical ethics
 
-Game Design
------------
+Game & Explorable Design
+------------------------
 
  - Kate Compton's Work on Casual Creators.
+ - Intrinsically Motivating Play (https://www.researchgate.net/publication/344268912_Intrinsically_Motivating_Instruction-Thomas_Malone)
  - [Explorables tutorials](https://explorabl.es/tutorials/)
  - Goeey Gut, CHIplay 2022, eduboardgame
  - [character believability in games](https://loading.journals.publicknowledgeproject.org/loading/index.php/loading/article/view/42/51)
@@ -120,16 +131,20 @@ Violent Video Games
  - Implicit association test effects of video games (exists)
  - Hartmann Moral Disengagement in violent video games
 
-Reflection in Games Paper
--------------------------
-
- - Ethics practice and implementation-Schrier
- - https://www.youtube.com/watch?v=sxy_HPxYVss
-
 AI
 ----
 
- - https://dig.cmu.edu/publications/2020-aigwap.html
+ - https://dig.cmu.edu/publications/2020-aigwap.html (game to teach AI)
+
+Pure Philosophy
+---------------
+
+ - Transgressions: The Offences of Art, Anthony Julius
+ - Virtual Existentialism - Gualeni
+ - Weapons of Math Destruction
+ - Automating Inequality
+ - Computers as Theater - Brenda Laurel
+ - The creative Mind, Boden. Apparently Chapter 4 has some stuff on what creativity is. 
 
 Other
 -----
@@ -143,6 +158,6 @@ Other
 Things to google
 ----------------
 
- the generation effect of memory and the self-explanation principle of instructional desig
+ the generation effect of memory and the self-explanation principle of instructional design
 
 [[books I should read]]

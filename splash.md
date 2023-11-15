@@ -16,3 +16,10 @@ Fall 2022:
 
  - Who's afraid of red, yellow, and blue?
    - The Nazi's didn't just burn books, they burned art, too. Why is art such a big deal? Why do some pieces of art sell for millions while others pieces are viewed as "degenerate"? Can video games be considered art, and ultimately, who are the people afraid of red, yellow, and blue?
+
+Fall 2023:
+
+ - Will robots destroy the world?
+   - Robots may destroy the world, but probably not like they did in The Terminator. Come find out what future robots will look like, whether they will think like you or I, and whether you should be afraid of them. **This class does not require a computer science background**
+ - Let's make games
+   - So many games sound fun, but end up being total snoozefests. Why are games so hard to make? In this class we'll make our own games while talking about what makes a game good, bad, or downright ugly.

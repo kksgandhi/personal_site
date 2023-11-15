@@ -1,0 +1,6 @@
+ - Political
+ - Economic
+ - Socio Cultural
+ - Technological
+ - Environmental
+ - Legal

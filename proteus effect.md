@@ -1,0 +1,1 @@
+The behavior of someone in a game is changed by how their avatar looks.

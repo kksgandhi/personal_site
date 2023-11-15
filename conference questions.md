@@ -13,5 +13,6 @@
    - Creating edugames on a team?
 - Research
   - What is required to actually make a "framework"
+  - How to verify if an edugame actually works
 - Casual Questions
   - Are art games a problem for game designers?

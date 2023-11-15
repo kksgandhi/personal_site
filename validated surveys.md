@@ -21,6 +21,7 @@ Games
  - [[Gaming Motivation Scale-Lafrieniere]]
  - More questionnaires here: https://designrshub.com/2019/05/gaming-questionnaires.html
  - PXI (CHI 2022 has a shortened version)
+ - CORGIS (challenge, including emotional challenge, in games)
  - PANAS
  - IEQ
  - GEngQ

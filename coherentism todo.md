@@ -43,3 +43,7 @@ the educational theory of why people play games reduces them to what benefits th
 libertarian's guide to anti-capitalism
 
 remember, democratic policies are better for the environment
+
+how to apply to a PhD.
+
+Journeyman, by T1J

@@ -1,4 +1,4 @@
-[Tutorials for explorables](https://explorabl.es/tutorials/)
+[Tutorials for explorables](https://explorabl.es/tutorials/) and a similar idea, [playable concepts](https://playableconcepts.aalto.fi/)
 
 Motivate the learning! Make the students love the question.
 

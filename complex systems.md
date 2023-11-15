@@ -1,0 +1,4 @@
+ - detail complexity
+   - identifying a systems parts
+ - dynamic complexity
+   - how these parts relate to each other

@@ -8,3 +8,4 @@
  - [[Blowtooth]]
  - Kind Words
  - SOBA (see [[Creating Critical Play-Flanagan]])
+ - edible games (https://ediblegames.com/)

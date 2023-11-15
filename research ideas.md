@@ -1,0 +1,2 @@
+ - How does text work in a reflective game? Build two versions of Other People's Money
+ - Use [[open game data]] to do an analysis on how players play.
