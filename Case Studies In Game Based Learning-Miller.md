@@ -16,7 +16,7 @@ Summary of findings and recommendations:
    - remove busywork
    - iterate often
  - Constructionist environments
-   - JIT information
+   - [[just in time learning|JIT]] information
    - Let players drive learning and difficulty
    - Teach general problem solving
  - Do not let education prevent learning

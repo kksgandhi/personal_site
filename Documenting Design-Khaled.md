@@ -1,6 +1,6 @@
 #notesFromPaper
 Year   :
-Tags   :
+Tags   : #RTDExample
 Authors: [[Khaled]] [[Lessard]] [[Barr]]
 
 [[documenting research through design]]

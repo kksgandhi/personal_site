@@ -24,7 +24,7 @@ important organizing questions:
    - Relations between concepts
  - Procedural
    - How to do something
- - Meta-Cognitive
+ - [[metacognitive knowledge|Meta-Cognitive]]
    - Knowledge about strategy
    - Self Knowledge
 
@@ -36,3 +36,11 @@ When making an assessment, note what stage of the cognitive process you are asse
    - construct a cause->effect model
  - attribute
    - determine the POV, bias, values, or intent underlying presented material
+
+Chapter 2 has some criticisms of learning objectives, in that they can be too general, that not every student responds in the same way.
+
+[[inert knowledge]]
+
+Chapter 4 has a breakdown of types of knowledge and the subtle differences between them.
+
+bookmark chapter 5

@@ -21,6 +21,7 @@ See also: [[philosophy - game recommendations]] for the games I actually recomme
  - [[The Talos Principle]]
  - [[The Witness]]
  - [[Getting Over It]]
+ - Everything
 
 ### Free Will
 
@@ -36,6 +37,7 @@ See also: [[philosophy - game recommendations]] for the games I actually recomme
 ### Perspective
 
  - [[The Witness]]
+ - Everything
  - [[Antichamber]]
  - [[Portal]]
  - [[The Graveyard]]

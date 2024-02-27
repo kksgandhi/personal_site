@@ -1,5 +1,12 @@
 BTT = Before Tax & Tips, a \* means I want to go there but haven't yet
 
+### Downtown
+
+ - Saus!
+ - Boston Public Market!!
+ - Bakey
+ - Cafe 26\*
+
 ### Near NEU / West on Huntington
 
  - Pho Basil
@@ -7,6 +14,43 @@ BTT = Before Tax & Tips, a \* means I want to go there but haven't yet
    - For vegetarian QDOBA has impossible
  - Wagamamas (20 BTT)
  - Phinista Crepes\* (Fenway)
+
+### Chinatown
+
+ - Tora
+ - WakuWaku\*
+ - Boba and Waffles\*
+
+### North End
+
+ - Mike's Pastries!
+ - Modern Pastry! (Less Canolis than Mikes, more everything else)
+ - Galleria Unberto (6 BTT)
+ - Café Vittoria
+ - Bova's !!
+ - Regina's Pizza (though only the North End one, the others are crap)
+
+### Cambridge
+
+ - A4Cade!! (closed for covid)
+ - Veggie Galaxy!!! (Central Square, 20BTT)
+ - Honeycomb creamery
+ - Nirvana Cambridge (I liked it, friends said it was only ok)
+ - Yume Wo Katare
+   - Prepare for no vegetarian options and the weirdest meal of your life.
+ - andala coffeehouse (palestinian)
+ - Anoushella\*
+ - asmara (eritrean)
+ - Punjabi Dhaba\*
+ - Cafe Luna\* (Porter Square)
+ - 7,8,9 cheesecakes\*
+ - DO NOT GO TO TOSCANINI'S ICE CREAM
+
+### Somerville
+
+ - Bow Market!!!
+ - All Star Pizza
+ - Dosa And Curry\*
 
 ### Allston
 
@@ -26,27 +70,10 @@ BTT = Before Tax & Tips, a \* means I want to go there but haven't yet
  - Clover!
  - Santouka Ramen
 
-### Somerville
-
- - Bow Market!!!
 
 ### South End
 
  - Picco pizza
-
-### North End
-
- - Mike's Pastries!
- - Modern Pastry! (Less Canolis than Mikes, more everything else)
- - Galleria Unberto (6 BTT)
- - Bova's
- - Regina's Pizza (though only the North End one, the others are crap)
-
-### Chinatown
-
- - Tora
- - WakuWaku\*
- - Boba and Waffles\*
 
 ### JP
 
@@ -54,21 +81,6 @@ BTT = Before Tax & Tips, a \* means I want to go there but haven't yet
  - Blue Nile!
  - JP soup shack\*
 
-### Cambridge
-
- - A4Cade!! (closed for covid)
- - Toscanini's ice cream!!! (Central + Kendall Square)
- - Veggie Galaxy!!! (Central Square)
- - Honeycomb creamery
- - Nirvana Cambridge (I liked it, friends said it was only ok)
- - Yume Wo Katare
-   - Prepare for no vegetarian options and the weirdest meal of your life.
- - andala coffeehouse (palestinian)
- - Anoushella\*
- - asmara (eritrean)
- - Spyce\*
- - Cafe Luna\* (Porter Square)
- - 7,8,9 cheesecakes\*
 
 ### Seaport
 
@@ -84,9 +96,20 @@ BTT = Before Tax & Tips, a \* means I want to go there but haven't yet
 ### Mission Hill
 
  - Penguin Pizza!!
+ - Laughing Monk Cafe
  - Milkweed (20 BTT)
 
+### Everett
+
+ - Zuzu Momo
+ - Revolution Axe Throwing
+
 [List of authentic foreign cuisine](https://www.reddit.com/r/boston/comments/phcsq5/foreignborn_people_of_boston_what_is_the_best/)
+
+### Roslindale
+
+ - Square Root\*
+ - Distraction\*
 
 Expensive List:
 

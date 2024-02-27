@@ -34,12 +34,14 @@ Fields
  - gamifiedEducation
  - HCI
  - mobileGaming
+ - learningStudy
 
 Study Types
 -----------
 
  - largeScale (A large scale user study. Rare and hard to pull off)
  - litReview
+ - transformationalGameStudy
 
 Interesting Paper Aspects
 -------------------------

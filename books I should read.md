@@ -13,7 +13,6 @@
 # History
 
  - Lies my teacher told me 
- - COMMUNISM INTENSIFIES
 
 # Philosophy
 
@@ -29,6 +28,10 @@
 
 - Whatever SMBC has come out with
 - A short history of my last 6 years - wait but why
+
+# Fiction
+
+- Whatever books WTNV has come out with
 
 # Uncategorized
 How to blow up a pipeline / Blessed Unrest

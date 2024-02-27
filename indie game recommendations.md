@@ -65,6 +65,14 @@ My rating: 8/10
 
 Mass Appeal: 6/10
 
+### Citizen Sleeper (6 - 8 hours)
+
+Wake up sleeper. You have a hard day ahead of you, and it takes a lot to survive. It's a melancholy game, but one that doesn't slip into sadness or despair. A game about finding beauty in a broken world, building yourself up from a shell of a person. (Kind of like Disco Elysium, but it almost does it better in my opinion)
+
+My rating:        10/10
+
+Mass Appeal: 4/10
+
 ### A Hat in Time (9 hours)
 
 This was a cute modern interpretation of the fun and style of Super Mario Galaxy
@@ -73,12 +81,13 @@ My rating: 7/10
 
 Mass Appeal: 7/10 (it's still a slightly difficult platformer, though still one of the more accessible ones)
 
+
 ### [[Outer Wilds]] (15 - 20 hours / 22 minutes)
 
 By fucking god do I love Outer Wilds. When I'm sad, I listen to Outer Wilds music and every time it hits me like a truck. The story is incredible, and the way that it lets you put the story together instead of just letting you walk through the story linearly makes you incredibly emotionally invested in the things I was piecing together. It is a very niche game: It is an exploration focused game that doesn't hold your hand, with a variety of puzzles and complex challenges. Absolutely worth it if you think that's the kind of game for you.
 
 [[spoiler free Outer Wilds review|Here's a review of the Outer Wilds without any spoilers]]
 
-My rating:        10/10
+My rating:        infinity/10
 
 Mass Appeal: 4/10

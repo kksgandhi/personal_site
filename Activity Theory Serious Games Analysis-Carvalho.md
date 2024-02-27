@@ -1,13 +1,21 @@
 #notesFromPaper
 Year   :
-Tags   :
+Tags   : [[designing transformational games]]
 Authors: [[Carvalho]] [[Bellotti]] [[Berta]] [[Gloria]] [[Sedano]] [[Hauge]] [[Rauterberg]]
 
-What specific components of [[GBL]] need to exist in order to promote learning, and how do these components need to be structured?
+Has some good past work on how games enable learning.
+
+And also some good past work on game design frameworks.
+
+honestly the past work here is just killer
+
+This framework takes a component based approach to analyzing transformational games, aka what components of a game actually contribute to the communication of learning goals.
+
+the game is part of a dynamic system. Specifically, there are three systems: The gaming activity (playing the game), the learning activity (the learning happening), and the instructional activity (from the perspective of the designer, the learning). The instructional activity is further split into extrinsic and intrinsic (within the game, and outside, e.g. a teacher providing structure)
 
 Related work is the [[MDA]] framework and [[HABS]] frameworks
 
-This model does not look at games as isolated entities, but recognizes that games are also adjacent to the learning activity and instructional activity
+Creates a taxonomy, breaking down game mechanics into more discrete goals, tools, and actions. Does the same for learning and instructional activities.
 
 How to make a game with this framework!
 

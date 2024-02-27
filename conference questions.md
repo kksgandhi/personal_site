@@ -1,5 +1,6 @@
  - Pedagogy
    - How do you take a learning framework and actually develop a lesson plan around it?
+   - How does learning sciences avoid the issue of everything being a nightmare of variables?
  - Philosophy
    - Leading horses to water and making them drink?
  - Games
@@ -14,5 +15,8 @@
 - Research
   - What is required to actually make a "framework"
   - How to verify if an edugame actually works
+  - I want to be an academic, how will I eventually get funding
 - Casual Questions
   - Are art games a problem for game designers?
+- SORT
+  - How much do academic jobs care that you've had teaching experience?

@@ -1,0 +1,1 @@
+From [[Learning Theory Foundations Of Game-Based Learning-Wu]]: Vygotsky... The ZPD is the distance between a student's ability to perform a task with guidance, vs doing it themselves. You have to [[scaffolding|scaffold]] their learning while they are in this zone. 

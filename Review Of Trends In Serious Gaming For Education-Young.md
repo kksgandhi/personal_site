@@ -1,6 +1,6 @@
 #notesFromPaper #litReview
 Year   : 2012
-Tags   : [[GBL]]
+Tags   : [[GBL]] [[educational game literature reviews]]
 Authors: [[Young]] [[Slota]] [[Cutter]] [[Jalette]] [[Yukhymenko]]
 
 games are useful in a lot of fields, but maybe not [[STEM education|STEM]]?

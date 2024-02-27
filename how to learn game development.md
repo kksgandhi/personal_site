@@ -4,3 +4,4 @@ Honestly just start building games. You really don't need anything other than a 
  - [Game Programming Patterns](http://gameprogrammingpatterns.com/)
  - [Foundations of Game Engine Development](https://foundationsofgameenginedev.com/)
  - [Game Math](https://gamemath.com/)
+ - [[game art]]

@@ -5,5 +5,7 @@
  - What would the world look like if humans had an irresistible urge to steal ice cream every time they saw it?
  - If you were a marker what would you smell like?
  - What are your opinions on sneezes?
+ - If you could lick anything what would it be?
+ - What's a word you've never said aloud?
 
 [[icebreaker games]]

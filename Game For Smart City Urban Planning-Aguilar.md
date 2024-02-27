@@ -4,7 +4,7 @@ Tags   :
 Authors: [[Aguilar]] [[Diaz]] [[Altamiranda]] [[Cordero]] [[Chavez]] [[Gutierrez]]
 #unread #simcity
 
-Metropolis is a game that focuses on the social dynamics that underpin a city.
+Metropolis is a game that focuses on the social dynamics that underpin a city. Singleplayer or multiplayer
 
 emphasizes e-participation in a city.
 

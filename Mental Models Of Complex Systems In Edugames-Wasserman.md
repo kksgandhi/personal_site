@@ -1,6 +1,6 @@
 #notesFromPaper
 Year   :
-Tags   : [[simulation and learning]]
+Tags   : [[simulation and learning]], [[concept maps]]
 Authors: [[Wasserman]] [[Banks]]
 
 talks about [[systems thinking]]

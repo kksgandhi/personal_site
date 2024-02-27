@@ -1,7 +1,6 @@
 Important read next
 -------------------
 
- - Mental Models of Complex Systems (exists)
  - A primer on learning theories (https://osf.io/preprints/edarxiv/ze5hc/)
  - Revision of Blooms Taxonomy
  - Intrinsically Motivating Play (https://www.researchgate.net/publication/344268912_Intrinsically_Motivating_Instruction-Thomas_Malone)
@@ -26,8 +25,6 @@ Reflective Games
 Digitally altered consciousness
 -------------------------------
 
- - digitally altered consciousness (exists)
- - [Game Transfer Phenomena](https://www.igi-global.com/article/game-transfer-phenomena-video-game/58041)
  - tuning stressful experiences in a VR game (exists)
  - modifiers in adaptive video game music (exists)
 
@@ -53,6 +50,7 @@ Qualitative Methods
 Benefits of Games
 -----------------
 
+ - Zombie division and intrinsic integration
  - Mental Models of Complex Systems (exists)
  - Exploring the effectiveness of game based learning hartt (exists)
  - [Benefits of playing non-action games on cognition](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0058546)
@@ -68,6 +66,7 @@ Pedagogy
 
  - Revision of Blooms Taxonomy (exists)
  - A primer on learning theories (https://osf.io/preprints/edarxiv/ze5hc/)
+ - Kolb's learning cycle (describes learning goals from a constructivist angle)
  - Zimmerman, 2009, Self-regulation where metacognition and motivation intersect.
  - Biggs has two papers on constructive alignment (exists)
  - [Expertise reversal effect about reducing structure after people have competency](https://doi.apa.org/doiLanding?doi=10.1037%2Fa0022243)
@@ -98,6 +97,7 @@ Game & Explorable Design
  - Intrinsically Motivating Play (https://www.researchgate.net/publication/344268912_Intrinsically_Motivating_Instruction-Thomas_Malone)
  - [Explorables tutorials](https://explorabl.es/tutorials/)
  - Goeey Gut, CHIplay 2022, eduboardgame
+ - Design Science in Information systems research (exists, Seth)
  - [character believability in games](https://loading.journals.publicknowledgeproject.org/loading/index.php/loading/article/view/42/51)
  - Designing for Discomfort Squinky (https://www.gdcvault.com/play/1023269/Designing)
  - pals in power armor besmann (anthropomorphization in games)

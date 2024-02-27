@@ -1,0 +1,1 @@
+https://www.reddit.com/r/gamedev/comments/131oo3c/a_programmers_guide_to_learning_game_art/

@@ -10,7 +10,7 @@ Mass Appeal: 10, though trigger warning: Depression, not a casual game
 
 ### The Stanley Parable (3-4 hours)
 
-Great game about free will and the life we are all stuck in. Another game that's short enough that I feel like everyone should try it.
+Great game about free will and the life we are all stuck in. Another game that's short enough that I feel like everyone should try it. Honestly I didn't like the ultra deluxe version that much, but you can always ignore the new content.
 
 Mass Appeal: 10
 
@@ -29,6 +29,12 @@ Mass Appeal: 6 (For gore and an incredibly intensive story)
 ### Papers Please (6-8 hours)
 
 Working as border security in a parody of eastern block communism, you have to bend your ethics in order for your family to survive. An incredibly well made game to show how even well meaning people's ethics die after a thousand cuts.
+
+Mass Appeal: 8
+
+### Everything (3 hours)
+
+Be the universe. Play as... everything. Mind bending and requires minimal effort to play (it's not a puzzle game)
 
 Mass Appeal: 9
 
@@ -56,14 +62,14 @@ Mind bending puzzle game, teaches you to not always focus on the obvious solutio
 
 Mass Appeal: 8
 
+### Dujanah (4-5 hours)
+
+A painful and complex story about dealing with grief. This game is actively painful to play, just like grief is painful.
+
+Mass Appeal: 3
+
 ### [[Opera Omnia]] (2-3 hours)
 
 Are the facts really the facts? Is the blood on your hands if you didn't do the killing? A few more thoughts in my [[Opera Omnia|note on the game]]
 
 Mass Appeal: 3
-
-### Dujanah (4-5 hours)
-
-A painful and complex story about dealing with grief. This game is actively painful to play, just like grief is painful.
-
-Mass Appeal: 1
