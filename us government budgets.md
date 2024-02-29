@@ -3,7 +3,7 @@ Big numbers seen a different way, federal spending in dollars per U.S. resident:
  - Museum and Library Services: $0.81
  - Planned Parenthood: $1.44
  - SNAP fraud: $4.54 (SNAP = food stamps, 2022)
- - Israeli aid: $10.38 + $39.62 ($10.38 is average yearly contribution, $39.62 is in recent aid package approved by the House.)
+ - Israeli aid: $10.38 + \$39.62 ($10.38 is average yearly contribution, $39.62 is in recent aid package approved by the House.)
  - NASA: $74.32
  - Highways: $151.83 (2023)
  - Department of Defense: $2,300.51
@@ -11,7 +11,7 @@ Big numbers seen a different way, federal spending in dollars per U.S. resident:
 
 Oh, and wealth gain by 1% of richest Americans in 2021: $17,759.30
 
-Sources listed here, all numbers are 2024 budget requests unless otherwise stated: 
+Sources listed here, all numbers are 2024 budget requests unless otherwise stated: https://kksgandhi.github.io/personal_site/us_government_budgets.html
 
 Caveats:
 
