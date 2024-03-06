@@ -1,6 +1,6 @@
 #notesFromPaper
 Year   :
-Tags   :
+Tags   : #reflectiveGames
 Authors: [[Denisova]] [[Bopp]] [[Nguyen]] [[Mekler]]
 
 "The interviews began with a brief about the research project,  followed by the questions about the participant’s motivations to  create the game in question, the potential inspiration for the idea,  and a discussion of the intended experiences or feelings that the designers aimed to evoke in their players. This lead up to the discussion of the approaches they took to deliver the idea to the players  and the practices they followed to evoke the feelings and experiences intended. The third part of the interview was about challenge:  we asked designers whether they considered their game as challenging, and what the main challenges were for their players in  the game. The interview concluded with a discussion about the  suitability of the medium for delivering the aforementioned ideas  and experiences to the audience."

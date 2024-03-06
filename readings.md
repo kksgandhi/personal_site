@@ -12,8 +12,9 @@ Tailoring Research to be Useful for Industry
 Reflective Games
 ----------------
 
- - Distance and relevance (Iacovides, exists)
  - embedded design kaufman (exists)
+ - Slovak's reflective practicum 2017
+ - Reread evaluating serious experience in games
  - R. Wylie and M. T. H. Chi, “The Self-Explanation Principle in Multimedia Learning,” in The Cambridge Handbook of Multimedia Learning, Cambridge University Press, 2014, pp. 413–432.
  - J. E. Richey and T. J. Nokes-Malach, “How much is too much? Learning and motivation effects of adding instructional explanations to worked examples,” Learn. Instr., vol. 25, pp. 104–124, 2013, doi: 10.1016/j.learninstruc.2012.11.006.
  - D. B. Clark, S. S. Virk, J. Barnes, and D. M. Adams, “Self-explanation and digital games: Adaptively increasing abstraction,” Comput. Educ., vol. 103, pp. 28–43, Dec. 2016, doi: 10.1016/j.compedu.2016.09.010.

@@ -23,3 +23,10 @@ Fall 2023:
    - Robots may destroy the world, but probably not like they did in The Terminator. Come find out what future robots will look like, whether they will think like you or I, and whether you should be afraid of them. **This class does not require a computer science background**
  - Let's make games
    - So many games sound fun, but end up being total snoozefests. Why are games so hard to make? In this class we'll make our own games while talking about what makes a game good, bad, or downright ugly.
+
+Spring 2024:
+
+ - Let's make games
+   - So many games sound fun, but end up being total snoozefests. Why are games so hard to make? In this class we'll make our own games while talking about what makes a game good, bad, or downright ugly.
+ - Do your own research!
+   - Let's be real, the conspiracy theorists got one thing right: everyone is trying to manipulate you, especially the rich and powerful. Uncovering the truth about the world requires research, but research is a lot more complicated than clicking articles on Facebook. This class goes over bias, how research actually works, and how to find the truth about real world issues.

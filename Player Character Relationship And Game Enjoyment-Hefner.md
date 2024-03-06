@@ -1,6 +1,6 @@
 #notesFromPaper
 Year   :
-Tags   : [[NPCs]] [[player identification]] #playerPsychology
+Tags   : [[NPCs]] [[player identification]] #playerPsychology [[externalization with game avatars]]
 Authors: [[Hefner]] [[Klimmt]] [[Vorderer]]
 
 When players [[identification|identify]] with a game character, they take on aspects of that character
