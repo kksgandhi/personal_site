@@ -90,7 +90,7 @@ Games such as the Chiquita game and the McDonalds game can provide empathy for o
 
 Behaviorism: The external behaviors produced are all that matters, and behaviors can be positively / negatively reinforced
 
-[[Cognitivism|Cognitivism]]: Learning can involve internal mental events that are not reflected by behavior
+[[cognitivism|cognitivism]]: Learning can involve internal mental events that are not reflected by behavior
 
 [[humanism|Humanism]]: Learning should be centered around human growth, and believes that humans are inherently good and strive for a better world.
 

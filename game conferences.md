@@ -11,6 +11,15 @@ Most relevant ones for me:
  - COG
    - idk what exactly, but seems pretty technical with some other stuff thrown in.
 
+Learning and CS Education conferences (unordered and need to be looked into):
+
+ - SIGCSE
+ - ASEE (easy to get into apparently?)
+ - IITSCE
+ - AERA
+ - HSLS??
+ - ICER
+
 [[edugame conferences|Some notes from Erik Harpstead on edugame conferences]]
 
 [[CHI]] [[CHIPlay]] [[AIIDE]] [[FDG]] [[EXAG]] [[COG]] [[UBICOMP]] [[CSCW]] [[ISCRAM]]

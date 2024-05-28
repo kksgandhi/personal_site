@@ -1,0 +1,3 @@
+ - Learning happens in a complex social context.
+ - Community of Practice: a community with norms, distributed knowledge, and practices. Learning involves becoming part of that community.
+ - Distributed cognition: learning happens across people, tools, and artifacts.

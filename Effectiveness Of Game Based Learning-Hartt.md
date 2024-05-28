@@ -1,6 +1,6 @@
 #notesFromPaper
 Year   :
-Tags   :
+Tags   : #transformationalGameStudy 
 Authors: [[Hartt]] [[Hosseini]] [[Mostafapour]]
 #simcity
 

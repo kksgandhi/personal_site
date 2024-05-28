@@ -9,6 +9,7 @@
 # Games
 
  - Significant zero
+ - Achievement Relocked - loss aversion
 
 # History
 

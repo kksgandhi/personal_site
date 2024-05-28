@@ -2,4 +2,8 @@
 Year   :
 Tags   :
 Authors: [[Doroudi]]
-#unread
+
+ - [[behaviorism]]
+ - [[cognitivism]]
+ - [[constructivism]]
+ - [[situativism]]

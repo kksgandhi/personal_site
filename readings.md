@@ -1,17 +1,10 @@
 Important read next
 -------------------
 
- - A primer on learning theories (https://osf.io/preprints/edarxiv/ze5hc/)
- - Revision of Blooms Taxonomy
- - Intrinsically Motivating Play (https://www.researchgate.net/publication/344268912_Intrinsically_Motivating_Instruction-Thomas_Malone)
- - Another reference that I use a lot is [K. R. Koedinger, J. L. Booth, and D. Klahr, “Instructional Complexity and the Science to Constrain It,” Science (80-. )., vol. 342, no. 6161, pp. 935–937, Nov. 2013, doi: 10.1126/science.1238056.]. The paper itself is not super useful (though it's a great reference for motivating grants) but the table of instructional design principles is great and if you look at the table provided in the supplementary material you can find the original sources for that principle list. What you're most interested in likely lives in the Sense-making / Understanding space. I've also used this list as this basis for a reference deck of principle cards that I use in my class here: http://edugames.design/principles I need to make some updates but might be useful for thinking about design.
-
-Tailoring Research to be Useful for Industry
---------------------------------------------
-
 Reflective Games
 ----------------
 
+ - Designing reflective prompts: (https://doi.org/10.1046/j.1365-2923.2002.01227.x)
  - embedded design kaufman (exists)
  - Slovak's reflective practicum 2017
  - Reread evaluating serious experience in games
@@ -39,6 +32,7 @@ Research Creation
 Qualitative Methods
 -------------------
 
+ - Hogan, the elicitation interview technique
  - Look through the chapters in Game Research Methods (https://dl.acm.org/doi/book/10.5555/2812774)
  - Rhode island council on the humanities evaluation toolkit
  - Gee, introduction to discourse analysis, 2004 (there may be better ones, ask Josh)
@@ -48,14 +42,24 @@ Qualitative Methods
  - Guba & Lincoln Naturalistic Inquiry
  - Cynefin.io sense making model / knowledge management model
 
+Psychological Reactance
+-----------------------
+
+(unordered)
+
+ - https://www.researchgate.net/publication/286398299_Understanding_Psychological_Reactance
+ - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4675534/ (this one looks pretty good)
+ - https://link.springer.com/chapter/10.1007/978-3-030-13788-5_6
+ - https://link.springer.com/chapter/10.1007/978-3-030-13788-5_6#ref-CR31
+ - https://www.sciencedirect.com/book/9780121298401/psychological-reactance
+ - https://books.google.com/books/about/Psychological_Reactance.html?id=6ZxGBQAAQBAJ
+ - Psychological Reactance (Brehm, exists)
+
 Benefits of Games
 -----------------
 
  - Zombie division and intrinsic integration
- - Mental Models of Complex Systems (exists)
- - Exploring the effectiveness of game based learning hartt (exists)
  - [Benefits of playing non-action games on cognition](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0058546)
- - Education And Involvement In Games-Iacovides.md
  - [Using game design patterns in learning](https://www.mdpi.com/2078-2489/12/10/393)
  - [Game Based Learning](https://www-jime.open.ac.uk/articles/10.5334/2004-8-oblinger/)
  - https://www.degruyter.com/document/doi/10.1515/9783110675184-008/html

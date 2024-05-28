@@ -43,4 +43,19 @@ Chapter 2 has some criticisms of learning objectives, in that they can be too ge
 
 Chapter 4 has a breakdown of types of knowledge and the subtle differences between them.
 
-bookmark chapter 5
+ - retention: can you remember what was said in the past
+ - transfer: can you apply that knowledge?
+
+Chapter 5 goes into examples and possible assessments of cognitive processes.
+
+Bookmark Section 3
+
+Chapter 6
+---------
+
+The objective is to use the laws of magnetism, which goes in a specific cell. A variety of activities around this topic go in nearby cells.
+
+ - Mentions formative vs summative assessments.
+ - implementation vs execution: if an assignment has unfamiliar tasks, it's implementation. If it's all familiar, it's execution.
+
+Chapter 7 on is about vignettes, uses of the taxonomy in real classrooms.

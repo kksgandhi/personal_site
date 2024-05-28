@@ -1,1 +1,1 @@
-![My Resume](static/resume.jpg)
+![My Resume](./static/resume.jpg)

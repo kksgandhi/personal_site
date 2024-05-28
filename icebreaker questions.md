@@ -7,5 +7,8 @@
  - What are your opinions on sneezes?
  - If you could lick anything what would it be?
  - What's a word you've never said aloud?
+ - What do you think "snabby" means
+ - How often do you use sunscreen?
+ - Let's get through the ABCs as quickly as possible.
 
 [[icebreaker games]]

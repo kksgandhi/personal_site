@@ -1,0 +1,11 @@
+- Game Maker’s Toolkit
+- Razbuten
+- Snowman Gaming
+- Extra Credits (Especially their older stuff)
+- GDC (The Game Developers Conference. Their stuff is usually longer and pretty in-depth)
+- Jacob Geller (Not a game designer, but does some analyses of weird / interesting games)
+- Adam Millard
+- AI and Games
+- Thin Matrix
+- Sebastian Lague
+- NoClip

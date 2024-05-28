@@ -15,3 +15,6 @@
  - consulting
  - development of libraries and translational resources
  - blog ur research
+
+-------------------------
+ - A game dev recommends podcasts, articles, videos, or infographics (like Tommy Norberg's stuff?)

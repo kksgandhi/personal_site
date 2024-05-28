@@ -28,6 +28,7 @@ BTT = Before Tax & Tips, a \* means I want to go there but haven't yet
  - Galleria Unberto (6 BTT)
  - Café Vittoria
  - Bova's !!
+ - Parla (DnD bar)\*
  - Regina's Pizza (though only the North End one, the others are crap)
 
 ### Cambridge
@@ -44,6 +45,8 @@ BTT = Before Tax & Tips, a \* means I want to go there but haven't yet
  - Punjabi Dhaba\*
  - Cafe Luna\* (Porter Square)
  - 7,8,9 cheesecakes\*
+ - Bagelsaurus near Porter\*
+ - Pinocchio's Pizza Harvard
  - DO NOT GO TO TOSCANINI'S ICE CREAM
 
 ### Somerville
@@ -74,6 +77,7 @@ BTT = Before Tax & Tips, a \* means I want to go there but haven't yet
 ### South End
 
  - Picco pizza
+ - Blunch\*
 
 ### JP
 

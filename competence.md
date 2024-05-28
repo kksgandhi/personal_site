@@ -1,0 +1,1 @@
+[Why is it fun to learn the rules of a video game?](https://polarisgamedesign.com/2023/understanding-systems-suspense/)

@@ -60,6 +60,7 @@ Projects
  - systemsSurvey (systems class survey project)
  - hciFinalProject (aka the pdstudy)
  - doctoralConsortium
+ - reflectiveFrameworkValidation
 
 Events
 ------

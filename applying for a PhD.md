@@ -5,3 +5,7 @@ To find these niche labs, figure out what you're interested in, find the confere
 Questions about a lab's work are a great way to display your interest, but only if they are genuine. One good question is asking what projects a lab is spinning up / what research they have funding for. There are a lot of labs that might seem up your alley, but the projects they're currently doing aren't a good fit.
 
 **Talk to a professor's current students**. You don't want to be stuck for years with someone who is secretly abusive.
+
+[Questions to ask a potential advisor](https://blog.ml.cmu.edu/2020/03/02/questions-to-ask-a-prospective-ph-d-advisor-on-visit-day-with-thorough-and-forthright-explanations/)
+
+[More Questions](https://drive.google.com/file/d/13v1_xjbCSqtcT203q3lu-7Ch3u4h_zjE/view?usp=sharing)
