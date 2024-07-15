@@ -35,6 +35,7 @@ Fields
  - HCI
  - mobileGaming
  - learningStudy
+ - edugameInHigherEd
 
 Study Types
 -----------

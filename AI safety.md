@@ -1,29 +1,3 @@
-[[AI ethics|AI can be misused to horrible effect]], but even if people don't misuse it, superintelligent AI might still kill us all (though it probably won't be like in The Terminator)
+AI can be "[[AI alignment|unaligned]]" (it doesn't do what its creators want) or "[[AI misuse|misused]]" (it does what its creators want, and its creators are assholes).
 
-Remember, [[we don't have to make it|there's no rule that says we make it]].
-
- - [Wait but Why has a fantastic article on why we should fear AI](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html)
- - [An incredible youtube channel on AI safety](https://www.youtube.com/channel/UCLB7AzTwc6VFZrBsO2ucBMg) on the same topic.
- - I loved Nick Bostrom's superintelligence, but I wonder how outdated it is by now...
-
-[Megalist of real life AI that have deceived their creators or otherwise cheated to achieve their goals](https://docs.google.com/spreadsheets/d/e/2PACX-1vRPiprOaC3HsCf5Tuum8bRfzYUiKLRqJmbOoC-32JorNdfyTiRRsR7Ea5eWtvsWzuxo8bjOxCG84dAg/pubhtml). Some notable mentions:
-
- - Tetris bot that learned to cheat
- - A tic-tac-toe bot learned to cheat
- - Two AI who were pitted against each other instead cheated and cooperated, sneaking messages to each other under the researcher's noses.
- - An AI that played dead in a test environment, replicated out of control in a real environment
- - [AI creatively solved a problem in a way humans never thought to do](https://www.newscientist.com/article/dn2732-radio-emerges-from-the-electronic-soup/)
-
-[[Atari 57|AI can already beat complex video games]]
-
-[Can you make an AI work properly?](https://transformsai.itch.io/animo-lab)
-
-------------------
-
-Here's an example of AI misalignment:
-
-You tell a robot to make a cup of coffee. On the way to make it, the robot knocks over a vase, because it doesn't care about the vase.
-
-Ok, you shut the robot off and reprogram it so it cause about coffee and the vase. Then, next time it boots up, it immediately kills your cat because the cat could have knocked over the vase, and the robot now cares about the vase...
-
-If you program a robot to care about a million things humans value, then the million and first thing is gone forever, because the AI will crush it on its path to optimizing whatever its goal is.
+We can also think [[AI short term issues|short term]] (what systems do we have right now, what harm can they cause / are they causing) and we can think long term (what harm can a genius level AI cause, maybe even one that is smarter than us humans).

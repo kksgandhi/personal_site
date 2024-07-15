@@ -1,1 +1,3 @@
-[[political beliefs]]
+ - [[political beliefs]]
+ - [[the politics of what we can change]]
+ - [[berlinism]]

@@ -4,6 +4,6 @@ I mean, that's a weird sentiment to me, because if you've ever thought about som
 
 Maybe that's a bit uncharitable. It is clear that there's a big difference between 'figuring out your own thoughts on Justice' vs 'spending all day thinking about what Justice really means'
 
- - [[professional philosophers|Why are there people whose job it is to sit around and do philosophy]]?
- - [[philosophy jargon|Thinking about things is important, but there is no need to turn it into a rigorous study. Philosophers are just trying to sound smart by saying things everyone knows.]]
- - [[philosophy and laypeople|Why should the average person learn philosophy]]?
+- [[professional philosophers|Why are there people whose job it is to sit around and do philosophy]]?
+- [[philosophy jargon|Thinking about things is important, but there is no need to turn it into a rigorous study. Philosophers are just trying to sound smart by saying things everyone knows.]]
+- [[philosophy and laypeople|Why should the average person learn philosophy]]?

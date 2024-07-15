@@ -73,6 +73,14 @@ My rating:        10/10
 
 Mass Appeal: 4/10
 
+### Tunic (24 hours)
+
+Secrets on Secrets on Secrets on Secrets. This game is beautiful, makes you feel like a genius, and has some mind blowing puzzles. Some of the combat is tough, I recommend lowering the difficulty, and some of the late game puzzles are insanely tough (i.e. you could spend hours on some individual puzzles alone), so I recommend giving them a solid attempt, then looking up solutions.
+
+My rating 7/10
+
+Mass appeal 7/10
+
 ### A Hat in Time (9 hours)
 
 This was a cute modern interpretation of the fun and style of Super Mario Galaxy

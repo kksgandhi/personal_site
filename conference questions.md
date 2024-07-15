@@ -20,3 +20,5 @@
   - Are art games a problem for game designers?
 - SORT
   - How much do academic jobs care that you've had teaching experience?
+  - How to beef up my resume for teaching track positions
+  - How to make sure a university respects their teaching track professors.

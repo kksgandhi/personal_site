@@ -160,6 +160,11 @@ Other
  - Work Group Diversity-Knippenberg.md (exists)
  - Gender Stereotypes In Modern Countries-Breda.md
 
+Statistics
+----------
+
+ - Research design and method: a process approach, Kenneth Bordens1, Bruce Abbott
+
 Things to google
 ----------------
 

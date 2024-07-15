@@ -8,3 +8,5 @@ Things to worry about
    - media queries
  - the back button
  - test against common plugins
+
+[[learning web development]]

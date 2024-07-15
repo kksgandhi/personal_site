@@ -1,8 +1,5 @@
 interactivity, Signs of the Sojourner (Tori recommend), Quadrilateral cowboys, Codename: ROOM, 80 days, generally games from GSND, gone home, frog fractions 2
 
-
-interactivity, Signs of the Sojourner (Tori recommend), Quadrilateral cowboys, Codename: ROOM
-
 minit - itch bundle
 
 wandersong? Hatoful boyfriend, Old Man's Journey, it takes two
@@ -29,10 +26,6 @@ Before I forget
  - Frog Fractions 2
  - The swapper
  - cruelty squad
-
-Tunic?
-
-Hyperbolica + 4D golf
 
 manifold garden??
 
