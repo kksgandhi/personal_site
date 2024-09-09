@@ -1,6 +1,7 @@
 #[[design]]
 
  - [[game prototyping]]#
+ - [[game production]]#
  - [[design documents]]#
  - [[gameplay loops]]#
  - [[tutorial design]]#

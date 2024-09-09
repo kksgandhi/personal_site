@@ -1,4 +1,4 @@
-it's a kind of [[qualitative study]]
+it's a kind of [[qualitative study]] where you immerse yourself in a population.
 
 Participant (live in their culture) or non-participant?
 

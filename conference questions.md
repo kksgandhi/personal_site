@@ -5,20 +5,26 @@
    - Leading horses to water and making them drink?
  - Games
 	 - Do non simulation based edugames work?
+	 - What do you think of "games definitely work, but the real question is are they worth it?"
+	 - Design challenges, esp. K-12
  - NLP
    - chatbots that are customizable?
    - textual similarity?
  - Industry
+   - What companies are out there to keep an eye on?
    - What are my blind spots as an academic?
    - Evaluation methods
    - Creating edugames on a team?
+   - how do companies get funding and operate?
 - Research
   - What is required to actually make a "framework"
-  - How to verify if an edugame actually works
+  - How to verify if an edugame actually works, especially with complex ideas such as "critical thinking".
   - I want to be an academic, how will I eventually get funding
 - Casual Questions
   - Are art games a problem for game designers?
-- SORT
+- Teaching Track
   - How much do academic jobs care that you've had teaching experience?
   - How to beef up my resume for teaching track positions
   - How to make sure a university respects their teaching track professors.
+- GLAM
+  - Affordances of an interested audience?

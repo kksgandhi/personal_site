@@ -4,6 +4,7 @@
  - Mount Auburn cemetery
  - Arnold Arboretum
  - The Emerald Necklace
+ - Blue Hills!
 
 Longer trips?
 

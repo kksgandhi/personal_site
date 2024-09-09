@@ -2,4 +2,4 @@ The rough stages of research are [[literature review]], [[study design]], [[expe
 
 The types of research can be categorized by [[Pasteur's Quadrant]]
 
-Tag: [[research - tools]]
+Tag: [[research - tools]], [[research methods]]

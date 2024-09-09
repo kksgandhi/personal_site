@@ -1,6 +1,16 @@
 Important read next
 -------------------
 
+Read something on androgogic debriefing and organize the rest of these.
+
+Zigmont, J. J., Kappus, L. J., & Sudikoff, S. N. (2011, April). The 3D model of debriefing: defusing, discovering, and deepening. In Seminars in perinatology (Vol. 35, No. 2, pp. 52-58). WB Saunders.
+
+Rudolph, J. W., Simon, R., Rivard, P., Dufresne, R. L., & Raemer, D. B. (2007). Debriefing with good judgment: combining rigorous feedback with genuine inquiry. Anesthesiology clinics, 25(2), 361-376.
+
+Rudolph, J.W., Simon, R., Raemer, D.B. and Eppich, W.J. (2008), Debriefing as Formative Assessment: Closing Performance Gaps in Medical Education. Academic Emergency Medicine, 15: 1010-1016. https://doi.org/10.1111/j.1553-2712.2008.00248.x
+
+Rudolph, Jenny W. PhD; Simon, Robert EdD; Dufresne, Ronald L. MS; Raemer, Daniel B. PhD. There's No Such Thing as “Nonjudgmental” Debriefing: A Theory and Method for Debriefing with Good Judgment. Simulation in Healthcare: The Journal of the Society for Simulation in Healthcare 1(1):p 49-55, Spring 2006. 
+
 Reflective Games
 ----------------
 
@@ -41,6 +51,11 @@ Qualitative Methods
  - Birks & Mills: Grounded Theory, a practical guide
  - Guba & Lincoln Naturalistic Inquiry
  - Cynefin.io sense making model / knowledge management model
+
+Edugames
+--------
+
+ - Making games work in the classroom, Fuller (exists)
 
 Psychological Reactance
 -----------------------
@@ -163,7 +178,7 @@ Other
 Statistics
 ----------
 
- - Research design and method: a process approach, Kenneth Bordens1, Bruce Abbott
+ - Research design and method: a process approach, Kenneth Bordens, Bruce Abbott
 
 Things to google
 ----------------

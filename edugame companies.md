@@ -7,7 +7,8 @@ Near Boston
  - FableVision
  - Muzzy Lane
  - abcya games
-- iThrive games
+ - iThrive games
+ - greendoorlabs
 
 Northeast
 -------------

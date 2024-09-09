@@ -17,4 +17,4 @@ SDT is composed of 6 mini theories:
  - Goal content theory
  - Relationship motivation theory
 
-See also: [[geronto aesthetics]]
+See also: [[motive disposition theory]] [[geronto aesthetics]]

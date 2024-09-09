@@ -16,5 +16,6 @@ Games that discuss civics, politics, or history
  - [[LAYOFF]]
  - Headliner
  - Tonight We Riot
+ - [Moneymaker](https://moneymaker.games/about)
 
 Related: [[list of fake news games]]

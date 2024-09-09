@@ -1,26 +1,23 @@
-Most relevant ones for me:
+CHIPlay (see also the "Games and Play" track at CHI): Top conference for games, but is a bit limited in topics. It focuses on how players interact with games, and has a decent split between quantitative and qualitative studies.
 
- - CHIPlay
-   - Research into how humans play games
- - DiGRA
-   - Cultural and humanities side of games research
- - FDG
-   - Mix between humanities and AI/PCG/technical games research, prides itself on being where technical and non-technical people meet.
- - AIIDE
-   - AI
- - COG
-   - idk what exactly, but seems pretty technical with some other stuff thrown in.
+FDG: Sells itself as the conference where technical and non-technical people meet. Focuses on automatically generating content in games, creating systems that bolster narratives in games, and design work in general.
+
+DiGRA: Focuses on the artistic and social impacts of games. They look at gaming culture, gaming trends, and have interesting experimental game design.
+
+EXAG: This is a track within the larger AI conference AIIDE. They look at AI in games. (Notably, most AI in games is unlike ChatGPT or LLMs. The Youtube channel "AI in games" has a good breakdown)
+
+COG: Mostly technical conference, but still pretty general. Has an interesting track on "simulations", which includes training simulations for firefighters and roleplay games to teach business students how to run a business.
+
+There are plenty of conferences for educational games specifically, but they tend to be more local and held sporadically. Some of the bigger ones are Serious Play and Games 4 Change (non-academic conferences). For academic conferences, see Meaningful Play, GALA, ECGBL, Games Learning Society, Play Make Learn. [[edugame conferences|Some notes from Erik Harpstead on edugame conferences]]
 
 Learning and CS Education conferences (unordered and need to be looked into):
 
  - SIGCSE
- - ASEE (easy to get into apparently?)
+ - ASEE (easy to get into apparently?) (Late June)
  - IITSCE
  - AERA
  - HSLS??
  - ICER
-
-[[edugame conferences|Some notes from Erik Harpstead on edugame conferences]]
 
 [[CHI]] [[CHIPlay]] [[AIIDE]] [[FDG]] [[EXAG]] [[COG]] [[UBICOMP]] [[CSCW]] [[ISCRAM]]
 
@@ -31,12 +28,6 @@ Serious games conference - Portnoy (Sue Boll?)
 Most of the funding agencies fund STEM games
 
 Civic something - game teaching civics iCivics (civics game)
-
-[[FDG]] (lol shoulda attended)
-
-[[AIIDE]] (AI in games)
-
-[[COG]] (conference on games)
 
 [[conferences]]
 
@@ -49,3 +40,5 @@ ECGBL
 DiGRA
 
 GALA (edugames)
+
+Games Com (Germany)

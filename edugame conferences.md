@@ -8,8 +8,8 @@ Some small edugame conferences
 
  - Meaningful Play ([https://meaningfulplay.msu.edu/](https://meaningfulplay.msu.edu/)), in Michigan
  - Games Learning Society ([http://glsconference.net/](http://glsconference.net/)), in Irvine, CA formerly Madison, WI
- - Play Make Learn ([http://playmakelearn.org/](http://playmakelearn.org/)) in Madison, WI
- - Connected Learning Summit ([https://connectedlearningsummit.org/](https://connectedlearningsummit.org/)) seems yoked to MIT for the foreseeable future
- - Teach Play Learn ([https://tpl.iu.edu/](https://tpl.iu.edu/)) at Indiana University, which I had never heard of until someone mentioned it at Meaningful Play this past year
+ - Play Make Learn ([http://playmakelearn.org/](http://playmakelearn.org/)) in Madison, WI (Mid July)
+ - Connected Learning Summit ([https://connectedlearningsummit.org/](https://connectedlearningsummit.org/)) seems yoked to MIT for the foreseeable future (Late October, but maybe shut down?)
+ - Teach Play Learn ([https://tpl.iu.edu/](https://tpl.iu.edu/)) at Indiana University, which I had never heard of until someone mentioned it at Meaningful Play this past year (Late July)
  - The short lived Transformational Experience Summit ([https://www.youtube.com/playlist?list=PLVO8XTbRWtuHk6zccLuIA81pBfSAWrIe3](https://www.youtube.com/playlist?list=PLVO8XTbRWtuHk6zccLuIA81pBfSAWrIe3)) at CMU 
- - Games 4 Change ([https://www.gamesforchange.org/](https://www.gamesforchange.org/)) and Serious Play ([https://www.seriousplayconf.com/](https://www.seriousplayconf.com/)) are similar, though those both have some different flavors.
+ - Games 4 Change ([https://www.gamesforchange.org/](https://www.gamesforchange.org/)) (Late June) and Serious Play ([https://www.seriousplayconf.com/](https://www.seriousplayconf.com/)) are similar, though those both have some different flavors. (Mid August)

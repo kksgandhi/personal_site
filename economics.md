@@ -1,0 +1,2 @@
+ - [[economics 101]]
+ - [[living wage]]

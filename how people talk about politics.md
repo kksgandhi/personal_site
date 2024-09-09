@@ -1,0 +1,3 @@
+ - [[change is inevitable]]
+ - [[creating the problem by pointing it out]]
+ - [[who to pressure for stability]]

@@ -10,3 +10,4 @@
  - Hammond Castle in Gloucester\*
  - https://andresinstitute.org/ (New Hampshire, 1hr from Boston)
  - https://thetrustees.org/place/decordova/ (also like an hour)
+ - Provincetown
