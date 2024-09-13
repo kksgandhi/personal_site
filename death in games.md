@@ -1,0 +1,4 @@
+ - makes people sit out of the game, see euro games
+ - makes people restart annoyingly
+ - difficult to explain diegetically
+ - in something like XCOM, leads to a permanent change in the game (difficult to balance around)
