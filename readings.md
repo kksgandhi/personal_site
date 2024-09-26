@@ -60,6 +60,11 @@ Edugames
 Psychological Reactance
 -----------------------
 
+ - backfire effect
+   - https://link.springer.com/article/10.1007/s11109-010-9112-2
+   - https://www.tandfonline.com/doi/full/10.1080/0163853X.2015.1136507
+   - https://www.sciencedirect.com/science/article/abs/pii/S006526010639003X?via%3Dihub
+
 (unordered)
 
  - https://www.researchgate.net/publication/286398299_Understanding_Psychological_Reactance
@@ -84,8 +89,6 @@ Benefits of Games
 Pedagogy
 --------
 
- - Revision of Blooms Taxonomy (exists)
- - A primer on learning theories (https://osf.io/preprints/edarxiv/ze5hc/)
  - Kolb's learning cycle (describes learning goals from a constructivist angle)
  - Zimmerman, 2009, Self-regulation where metacognition and motivation intersect.
  - Biggs has two papers on constructive alignment (exists)

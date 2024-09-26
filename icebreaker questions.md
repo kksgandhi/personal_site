@@ -12,3 +12,10 @@
  - Let's get through the ABCs as quickly as possible.
 
 [[icebreaker games]]
+
+Talking Rock Questions
+------------------------
+
+ - Ideal pie flavoring?
+ - If you could pickle anything, what would you pickle?
+ - What's something you've done you're proud of in the last year?

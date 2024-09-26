@@ -1,0 +1,2 @@
+ - [This](https://www.youtube.com/watch?v=qQ9Wu1IxsYw) is a great video. At 4:35 they have a list of the best visualizations to use, and at 6:48 they have actual intensity vs perceived intensity of various visualizations.
+ - [[How We See Area-Yousif]]

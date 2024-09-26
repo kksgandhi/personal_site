@@ -1,6 +1,7 @@
  - Pedagogy
    - How do you take a learning framework and actually develop a lesson plan around it?
    - How does learning sciences avoid the issue of everything being a nightmare of variables?
+   - Is psychological reactance the right term for people digging their heels in?
  - Philosophy
    - Leading horses to water and making them drink?
  - Games

@@ -1,0 +1,7 @@
+ - [[perception of different visualization types]]
+ - searching for "how people communicate budgets" wasn't super helpful and "visualizing money" just led me to manifestation websites lol.
+ - [This site](https://www.visualcapitalist.com/all-of-the-worlds-money-and-markets-in-one-visualization-2020/) uses blocks, bar charts, pie charts, and pretty standard visualization tools. Similarly, [this site](https://www.usaspending.gov/explorer/budget_function) uses split-area diagrams.
+   - Some sites [A](https://alteredqualia.com/xg/examples/money.html#s[orders_of_magnitude]) and [B](https://human.games/how-much-money-is-that/) used 3D visualizations, which is funnily enough the worst way to visualize these things.
+ - [This site](https://nautil.us/how-to-understand-extreme-numbers-236443/) argues that to communicate large numbers, create analogies. A million seconds is 12 days. A billion seconds is 32 years.
+ - [This paper](https://journals.sagepub.com/doi/10.1177/1745691610393524) finds that people massively underestimate wealth inequality, and that even Republicans want a significantly more equal society than we currently have.
+ - Todo: communicating wealth inequality, search for academic papers on visualizing large numbers, visualizing money, and communicating wealth inequality.
