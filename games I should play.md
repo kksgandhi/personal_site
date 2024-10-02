@@ -19,8 +19,6 @@ ooh definitely play moirai and little inferno, I think those are up your alley -
 
 The Static Speaks my name is good, but similar to Dujanah
 
-Republia times (Lpope)
-
 Before I forget
 
  - Frog Fractions 2
@@ -29,10 +27,8 @@ Before I forget
 
 manifold garden??
 
-animal well?
-
 pacific drive, chants of sennar
 
-From Gabe: Nine Sols!!!
-
 Lil gator game
+
+All the to the moon update games

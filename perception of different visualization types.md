@@ -1,2 +1,4 @@
  - [This](https://www.youtube.com/watch?v=qQ9Wu1IxsYw) is a great video. At 4:35 they have a list of the best visualizations to use, and at 6:48 they have actual intensity vs perceived intensity of various visualizations.
  - [[How We See Area-Yousif]]
+ - [[Improving The Comprehension Of Large Numbers Through Infovis-Staudinger]] is a really great resource.
+ - [This site](https://nautil.us/how-to-understand-extreme-numbers-236443/) argues that to communicate large numbers, create analogies. A million seconds is 12 days. A billion seconds is 32 years.

@@ -1,0 +1,5 @@
+#notesFromPaper
+Year   :
+Tags   :
+
+[[genAI]]

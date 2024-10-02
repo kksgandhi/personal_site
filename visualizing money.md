@@ -1,0 +1,3 @@
+ - searching for "how people communicate budgets" wasn't super helpful and "visualizing money" just led me to manifestation websites lol.
+ - [This site](https://www.visualcapitalist.com/all-of-the-worlds-money-and-markets-in-one-visualization-2020/) uses blocks, bar charts, pie charts, and pretty standard visualization tools. Similarly, [this site](https://www.usaspending.gov/explorer/budget_function) uses split-area diagrams.
+   - Some sites [A](https://alteredqualia.com/xg/examples/money.html#s[orders_of_magnitude]) and [B](https://human.games/how-much-money-is-that/) used 3D visualizations, which is funnily enough the worst way to visualize these things.
