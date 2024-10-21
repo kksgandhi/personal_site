@@ -1,6 +1,6 @@
 #notesFromPaper
 Year   : 2008
-Tags   : #killerPaper [[pedagogy]] [[idealized class structure]]
+Tags   : #killerPaper [[idealized class structure]]
 Authors: [[Clark]] [[Yates]] [[Early]] [[Moulton]]
 
 Makes some strong claims, that media does not influence learning, motivation, or work performance. Popular design models and [[problem based learning]] is mostly ineffective. There are few, specific training methods that work, and they work because they support the mental processes by which people learn complex knowledge.

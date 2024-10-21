@@ -18,4 +18,4 @@ Their framework:
  - One to One Correspondence
    - Just use a loooot of symbols, and make the visualization space big. (e.g. each pixel represents a hundred dollar bill. Here's how much the war in Iraq costs)
  - Space, Time, and Sound
-   - Essentially "analogy", but use 
+   - Essentially "analogy", but use space, time, and sound as your new units

@@ -6,6 +6,12 @@ Questions about a lab's work are a great way to display your interest, but only 
 
 **Talk to a professor's current students**. You don't want to be stuck for years with someone who is secretly abusive.
 
+--------------------
+
+The skills a professor wants are (1) the ability to be self motivated and do a long term project without lots of supervision, (2) curiosity, and (3) passion for the subject. I didn't have too much research experience when I applied, but I did have a class I built myself. When applying, I talked about how the process of building my course showed that I had the three skills mentioned above.
+
+-------------------
+
 [Questions to ask a potential advisor](https://blog.ml.cmu.edu/2020/03/02/questions-to-ask-a-prospective-ph-d-advisor-on-visit-day-with-thorough-and-forthright-explanations/)
 
 [More Questions](https://drive.google.com/file/d/13v1_xjbCSqtcT203q3lu-7Ch3u4h_zjE/view?usp=sharing)
