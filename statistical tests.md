@@ -9,6 +9,7 @@
  - [[Shapiro Wilk]] for test of normality
  - [[TOST]] for *equivalence* of means instead of difference
  - Cohen's Kappa for Inter-rater reliability
+ - [Multiple Linear Regression](https://www.scribbr.com/statistics/multiple-linear-regression/)
 
 Why are there so many [[ANOVA]]s
 

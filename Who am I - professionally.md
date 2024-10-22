@@ -7,7 +7,7 @@ I also run the Game Philosophy Network's [unofficial discord for game academics.
  - [[publications|my publications]]
  - [[projects|my projects]]
  - [[resume|my resume]]
- - [My Mastodon](https://hci.social/@kksgandhi), which I use professionally
+ - [My Mastodon](https://hci.social/@kksgandhi) and [LinkedIn](www.linkedin.com/in/kutub-gandhi-83439514b), which I use professionally
  - My email is firstname dot lastname at hey.com
 
 **Note: If you do want to go deeper into the site, please remember, this website contains *all* my notes, as is. Some information may be incorrect. Take it as it is, don't assume that I stand strongly by anything written, and please actually talk to me in person — nuance is hard to portray in a medium like this.**

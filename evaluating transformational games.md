@@ -26,6 +26,10 @@ How to evaluate:
  - Survey stakeholders surrounding the players
  - Test the player
 
+Think about intermediaries: If you can't evaluate the thing you want, what can substitute?
+
+Imagine you already have the data, have done the analysis, and made the visualizations. What does it look like? What steps do you need to get that data?
+
 Try to evaluate with the audience and context you would actually deploy in.
 
 Players may themselves be interested in assessments, implicit or explicit

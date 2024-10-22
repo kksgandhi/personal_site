@@ -46,3 +46,5 @@ I do philosophy because I want the beauty of different perspectives. But if I wa
 The tissue game, the arm wrestling game, and the points game??
 
 games are inacessible
+
+Don't use games for education
