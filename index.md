@@ -9,4 +9,4 @@ This website is a blog and dump of all my notes. I take notes using [[Obsidian]]
  - [[stuff worth reading|Stuff you may enjoy reading. No guarantees.]]
  - I value self growth — if you have feedback, you can send it anonymously [[anonymous feedback form|here.]]
 
-![A professional photo](./static/itsme/linderpix-NU-KCCS-24791-web_cropped.jpg){ width=50% } ![A black and white photo](./static/itsme/shield_cropped_filesize_notop.jpg) ![A photo with sunglasses](./static/itsme/blue_sunglasses.jpg) ![A photo holding a toothbrush](./static/itsme/toothbrush_tub.jpg)
+![A professional photo](./static/itsme/linderpix-NU-KCCS-24791-web_cropped.jpg){ width=50% } ![A black and white photo](./static/itsme/shield_cropped_filesize_notop.jpg){ width=50% } ![A photo with sunglasses](./static/itsme/blue_sunglasses.jpg){ width=50% } ![A photo holding a toothbrush](./static/itsme/toothbrush_tub.jpg){ width=50% }
