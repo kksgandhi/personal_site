@@ -1,1 +1,3 @@
 People bully because they want to feel superior to others. As I've grown older, I've realized that a lot of people my age still have the desire to bully, they're just smarter about it, picking targets that are socially acceptable to bully.
+
+Why is someone being aggressive? Is it because they genuinely believe it's the right move, or because they are looking for an excuse to get their aggression out?
