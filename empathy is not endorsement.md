@@ -2,4 +2,4 @@ I started listening to a [[podcasts]] called "Conversations with people who hate
 
 The tagline of the show is "empathy is not endorsement" which I really like.
 
-You can understand what someone has done, why they've done it, even feel for them, without advocating for them or the things they've done.
+You can understand what someone has done, why they've done it, [[everyone deserves love and compassion, but...|even feel for them,]] without advocating for them or the things they've done.
