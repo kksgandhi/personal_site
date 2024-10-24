@@ -14,7 +14,7 @@ Rudolph, Jenny W. PhD; Simon, Robert EdD; Dufresne, Ronald L. MS; Raemer, Daniel
 Reflective Games
 ----------------
 
- - Designing reflective prompts: (https://doi.org/10.1046/j.1365-2923.2002.01227.x)
+ - all the readings in "empathy games"
  - embedded design kaufman (exists)
  - Slovak's reflective practicum 2017
  - Reread evaluating serious experience in games
@@ -90,6 +90,7 @@ Pedagogy
 --------
 
  - Kolb's learning cycle (describes learning goals from a constructivist angle)
+ - Small Teaching: Everyday Lessons from the Science of Learning (NEU e-library. The ends of chapters are really good)
  - Zimmerman, 2009, Self-regulation where metacognition and motivation intersect.
  - Biggs has two papers on constructive alignment (exists)
  - [Expertise reversal effect about reducing structure after people have competency](https://doi.apa.org/doiLanding?doi=10.1037%2Fa0022243)

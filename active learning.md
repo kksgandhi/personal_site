@@ -1,5 +1,7 @@
 [[pedagogy]]
 
+[Peer Instruction Video](https://www.youtube.com/watch?v=Z9orbxoRofI)
+
  - Retrieval
    - Repeated retrieval strengthens memory
    - frequent low stakes quizzing
