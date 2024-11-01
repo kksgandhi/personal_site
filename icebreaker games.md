@@ -11,3 +11,7 @@ http://peacethroughplay.org/volunteer-resources/
  - Beach ball pass around  
  - Charades acting  
  - Drawing telephone
+
+Team building activities:
+
+ - Magazine headlines. Write a headline about how things are, then an article about how you want things to be in 2 years.

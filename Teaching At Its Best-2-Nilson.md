@@ -23,3 +23,8 @@ Chapter 26
 Lol have your students come up with test questions.
 
 Very direct list of possible exam questions, along with pros and cons for each question type.
+
+Chapter 12
+-----------
+
+Argues that you shouldn't give out all your lecture notes, but rather a skeletal outline that students fill out.

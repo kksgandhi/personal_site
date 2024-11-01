@@ -32,4 +32,12 @@ Activities:
    - Have students do the same quiz with their team
    - Do a 4S activity with their team
  - Project Based Learning
-
+ - Pair and Compare
+   - Have students talk about their notes with each other, in the middle of class. Optionally have them write down questions.
+ - Active listening checks
+   - Have students write down what they thought the top three most important things were. Reveal your most important topic.
+ - Reflect / React
+   - How do you feel about the items just presented?
+ - Have students make a mind map together
+ - have students gather support for a statement
+ - have students paraphrase
