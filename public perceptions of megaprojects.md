@@ -1,0 +1,6 @@
+ - https://www.tandfonline.com/doi/pdf/10.1080/14719037.2021.2003107
+   - more positivity around major milestones. Talks about when projects see positive support and negative support
+ - https://www.tandfonline.com/doi/pdf/10.1080/00779950902803985
+   - despite increased government spending, people didn't perceive positive changes in quality
+ - https://doi.org/10.1093/scipol/sct091
+   - Discusses factors that account for someone's acceptance of government spending on R&D. The left is more willing. 
