@@ -81,6 +81,11 @@ Mental Health (anger, depression, suicidality, etc.)
 
  - [A good compilation of various scales](https://www.psychologytools.com/download-scales-and-measures/)
 
+Values
+--------
+
+ - [World Values Survey-measures what people value, how happy they are](https://www.worldvaluessurvey.org/WVSDocumentationWV6.jsp)
+
 Other
 ------
 

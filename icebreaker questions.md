@@ -10,6 +10,8 @@
  - What do you think "snabby" means
  - How often do you use sunscreen?
  - Let's get through the ABCs as quickly as possible.
+ - What does the noise in your head sound like?
+ - Do the ABCs as fast as possible
 
 [[icebreaker games]]
 

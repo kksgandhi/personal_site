@@ -17,6 +17,8 @@
 
 # Philosophy
 
+ - Quaker faith and practice, probably free online 
+ - Living the Quaker way Philip Gulley 
  - Graphic introduction to Foucalt
  - Erica Chenowith Nonviolence
  

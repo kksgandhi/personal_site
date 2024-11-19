@@ -53,6 +53,7 @@ BTT = Before Tax & Tips, a \* means I want to go there but haven't yet
 
  - Bow Market!!!
  - All Star Pizza
+ - Guru \*
  - Dosa And Curry\*
 
 ### Allston

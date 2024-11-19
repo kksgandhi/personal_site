@@ -1,0 +1,1 @@
+https://www.aljazeera.com/opinions/2024/9/11/debate-in-nuclear-armed-former-colony-fails-to-reassure-global-community

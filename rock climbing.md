@@ -1,0 +1,1 @@
+New Hampshire has Rumney climbing

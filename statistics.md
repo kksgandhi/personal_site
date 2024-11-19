@@ -5,6 +5,7 @@ I have no idea how to organize this note.
  - [[inferential statistics]] vs [[descriptive statistics]]
  - [[p value]]
  - [[statistical error]]
+ - [[bayesian data analysis]]
  - [[qq plots]]
 
 ------

@@ -8,15 +8,13 @@
 	 - Do non simulation based edugames work?
 	 - What do you think of "games definitely work, but the real question is are they worth it?"
 	 - Design challenges, esp. K-12
- - NLP
-   - chatbots that are customizable?
-   - textual similarity?
  - Industry
-   - What companies are out there to keep an eye on?
    - What are my blind spots as an academic?
+   - What companies are out there to keep an eye on?
    - Evaluation methods
    - Creating edugames on a team?
    - how do companies get funding and operate?
+   - How will funding for PBS and the like be affected?
 - Research
   - What is required to actually make a "framework"
   - How to verify if an edugame actually works, especially with complex ideas such as "critical thinking".
@@ -27,5 +25,9 @@
   - How much do academic jobs care that you've had teaching experience?
   - How to beef up my resume for teaching track positions
   - How to make sure a university respects their teaching track professors.
+  - Dealing with a conservative presidency
 - GLAM
   - Affordances of an interested audience?
+ - NLP
+   - chatbots that are customizable?
+   - textual similarity?

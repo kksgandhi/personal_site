@@ -6,9 +6,6 @@ subtle changes in the setup of social networks changes how social groups are for
 
 Projection + Disliking what we see in ourselves
 
-Mistakes are a two way street, e.g. doctors and popup fatigue
-growth mindset and always thinking you could be wrong
-
 A lot of academic work is bullshit, but cherry picks what participants say in order to have the necessary trappings of an academic venture.
 
 Abstract morality still appeals to common sense morality through analogy, e.g. the violinist example works because it's not socially acceptable to chain someone up
@@ -48,3 +45,15 @@ The tissue game, the arm wrestling game, and the points game??
 games are inacessible
 
 Don't use games for education
+
+There's a certain comfort in hopelessness
+
+Identities you choose (i.e. being a certain political party) vs Identities you don't (i.e. your race) and whether they are worthy of criticism.
+
+Lottery tickets as a thing I've changed my mind on. Also self driving cars lol.
+
+[https://www.youtube.com/watch?v=o5K0uqhxgsE](Game Design as a search problem)
+
+[https://www.youtube.com/watch?v=6pY7EjqD3QA](Keeping things the same but different)
+
+[https://www.youtube.com/watch?v=4Q-ZQFTr1XI](The most controversial book in history, the giving tree)
