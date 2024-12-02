@@ -26,11 +26,11 @@ Playtest questions:
    - Was the text annoying?
    - How would you feel about the other version of this game? 
      
-For quantitative research:
+For quantitative research, we can do a pre and post test of players, either through hired playtesters, or people who stumble on the game naturally. I'm thinking this would be in the form of an attitudes survey.
 
 For surveys towards wealth inequality and government spending, there's a good bunch out there. The [[World Values Survey - Inequality]] and [International Social Survey Program](https://issp.org/data-download/by-topic/) have widely used and well validated questionnaires. They are a bit long, which is why I'm also interested in [this Attitudes to Inequality Paper](https://www.researchgate.net/profile/Marc-Suhrcke/publication/254453090_Attitudes_to_Inequality_after_Ten_Years_of_Transition/links/0a85e535578e31092b000000/Attitudes-to-Inequality-after-Ten-Years-of-Transition.pdf?__cf_chl_tk=_zvvCPxEHf5qxVRsgupUoMK6_0MC3kZzxwbwJ.6.aUU-1732036247-1.0.1.1-0ikY4f9WRSRXhRqq7MsEsUc94.iUNQu54KJPHWD3XSI), since it has a shortened questionnaire.
 
-If we want to get more creative, we can take inspiration from [[Inequality Aversion And Risk Aversion-Carlsson]], which asked "What kind of society would you like your grandchild to grow up in? One that is inequal, but has a higher average income, or one that is more equal, but has a lower average income."
+If we want to get more creative, we can take inspiration from [[Inequality Aversion And Risk Aversion-Carlsson]], which asked "What kind of society would you like your grandchild to grow up in? One that is inequal, but has a higher average income, or one that is more equal, but has a lower average income." (paraphrased)
 
 My favorite though, was [[Measuring Attitudes Towards Inequality-Amiel]]. In it, they asked a bunch of variations on this question: "Person R is 10x wealthier than person P. A tax takes $1,000 from person R. Some of that tax is given to person P, while the rest is lost in administrative fees. What amount needs to make it to person P for the tax to be worthwhile?"
 
