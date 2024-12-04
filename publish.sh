@@ -1,6 +1,7 @@
 #!/bin/bash
 git add *.md
 git add -u
+git add static/*
 git commit -am "automatic commit"
 
 rm -rf /tmp/temp-obsidian
