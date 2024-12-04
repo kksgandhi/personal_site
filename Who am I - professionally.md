@@ -17,3 +17,5 @@ I also run the Game Philosophy Network's [unofficial discord for game academics.
 If you want to play one of my games, try this one out:
 
 [<img alt="Other People's Money, a game about wealth" src="static/OPM_icon.png" />](https://kksgandhi.itch.io/other-peoples-money)
+
+[![Other People's Money, a game about wealth](./static/OPM_Icon.png)](https://kksgandhi.itch.io/other-peoples-money)
