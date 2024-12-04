@@ -12,19 +12,26 @@ For qualitative research, I added a playtest question for each ideal transformat
 
 Playtest questions:
 
- - Standard Questions
+ - Standard Questions (For pilot testing only, remove for main study)
    - Think aloud during the playing of the game
    - How would you describe this game?
    - Were there any confusions with the controls?
    - What could have been explained better or earlier when I was teaching the game?
+ - General Reflective Questions
+   - Think aloud during the playing of the game
+   - What were you thinking about as you played the game?
    - What kind of emotions or feelings did you feel / notice as you played?
- - Reflective Questions
+ - Specific Reflective Questions
    - Is there anything for which your attitude changed?
    - Is there something new you feel like you learned?
    - Are there actions you took previously, that you'd change after the playing of this game.
- - Comparative Questions
-   - Was the text annoying?
-   - How would you feel about the other version of this game? 
+ - Questions for the "with-text" version of the game
+   - Let's talk about the text. Do you have any specific thoughts about it?
+   - Do you feel like the text could get annoying, or did you not mind it?
+ - Questions for the "without-text" version of the game
+   - (No specific questions, just watch out for mentions of the game feeling too abstract, or if the player felt like they wanted more structure / focus / discussion of the topics at hand. Follow up on these mentions, maybe even ask if there's something that would have made the game feel better.)
+ - Comparative questions
+   - How would you feel about the other version of this game? (Modify this question based on their version and previous responses)
      
 For quantitative research, we can do a pre and post test of players, either through hired playtesters, or people who stumble on the game naturally. I'm thinking this would be in the form of an attitudes survey.
 

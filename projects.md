@@ -2,6 +2,7 @@ Serious Stuff
 -------------
 
  - [Other People's Money, a game about how we allocate resources](https://kksgandhi.itch.io/other-peoples-money)
+ - [Building Forward, a game to teach urban planning](https://github.com/kksgandhi/building-forward)
  - [The Last AI, an interactive fiction game to teach philosophy](https://github.com/kksgandhi/the-last-AI)
  - [Micrologue, an interactive fiction game engine](https://github.com/kksgandhi/micrologue)
  - [Stupid Simple PY Server, a non-production way to run python code from any language](https://github.com/kksgandhi/stupid-simple-py-server)

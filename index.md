@@ -1,6 +1,6 @@
 Hi! I'm Kutub Gandhi. Welcome to my... blog?
 
-This website is a blog and dump of all my notes. I take notes using [[Obsidian]]; if you also have it you can [download the website here.](https://github.com/kksgandhi/personal_site)
+This website is a blog and mirror of all my notes. I take notes using [[Obsidian]]; if you also have it you can [download the website here.](https://github.com/kksgandhi/personal_site)
 
 --------------
 
