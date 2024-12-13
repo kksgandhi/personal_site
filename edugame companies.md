@@ -9,6 +9,7 @@ Near Boston
  - abcya games
  - iThrive games
  - greendoorlabs
+ - Trivium interactive
 
 Northeast
 -------------

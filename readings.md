@@ -64,6 +64,7 @@ Psychological Reactance
    - https://link.springer.com/article/10.1007/s11109-010-9112-2
    - https://www.tandfonline.com/doi/full/10.1080/0163853X.2015.1136507
    - https://www.sciencedirect.com/science/article/abs/pii/S006526010639003X?via%3Dihub
+ - [Reactance in HCI](https://dl.acm.org/doi/abs/10.1145/3121283.3121304)
 
 (unordered)
 

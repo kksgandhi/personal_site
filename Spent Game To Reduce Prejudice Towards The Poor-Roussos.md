@@ -5,7 +5,7 @@ Authors: [[Roussos]] [[Dovidio]]
 
 Media affects one's [[lenses]]. Playing a black character beating up a white character increases negative attitudes toward black people.
 
-There is a lot of stigma toward [[poverty]]. Games can help, but sometimes the autonomy and [[perspective taking]] of games actually increases stigma in people because they assume that impoverished people get given the same autonomy that they received in the game. An example of the [[backfire]]
+There is a lot of stigma toward [[poverty]]. Games can help, but sometimes the autonomy and [[perspective taking]] of games actually increases stigma in people because they assume that impoverished people get given the same autonomy that they received in the game. An example of the [[backfire]] effect.
 
 conducted a [[power analysis]] using G*power
 

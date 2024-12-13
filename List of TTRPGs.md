@@ -7,6 +7,7 @@
  - The D1 RPG (in static)
  - Unknown Armies TRPG
  - Sentinel Comics TRPG
+ - Long time listener, first time caller
 
 Alice is missing!
 
