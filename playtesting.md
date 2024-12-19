@@ -6,6 +6,7 @@
  - think aloud
  - "How would you describe this game?"
  - Players know their feelings, you know the solutions.
+ - Use the feelings wheel rather than asking about emotions
 
  - What was the most frustrating moment or aspect of what you just played?
  - What was your favorite moment or aspect of what you just played?

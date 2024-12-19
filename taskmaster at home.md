@@ -1,0 +1,25 @@
+ - Hold a grape in your mouth or your hand.
+ - Take a photo in the house
+ - Create an illustration of a friend
+ - Impressions of fellow housies
+ - Make the tallest tower
+ - Make the longest bridge
+ - Finger or carrot or finger
+ - bring the most interesting thing that can fit in the palm of your hand
+ - throw something in the trash in the most dramatic way possible
+ - get as much water from one side of the room to the other (team task?)
+ - dress Little Alex Horne up with the best outfit
+ - draw on someone's back?
+ - throw something in a bin without using your hands
+ - say your word via a 6 word question
+ - finish the 5 syllable word from the taskmaster
+ - Stand up after exactly 40 seconds
+ - Do the coolest thing that looks great in reverse
+ - make a noise for the blindfolded taskmaster
+ - shake the taskmaster's hand
+ - masking tape animal on your back, can't have the same animal as someone else
+ - hide a bean somewhere on the floor, your bean must be visible without moving anything
+ - make a christmas carol using only words from a certain book page
+ - make the best short story using only book titles
+ - you must tightly tie a towel around your waist. Afterwards, neatly fold your towel without using your hands
+ - draw the same picture, head of their favorite animal, top half of favorite building, underwear (no), bottom half of either a bird, fish, or insect, it's sitting on something your taskmaster finds funny
