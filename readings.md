@@ -25,6 +25,8 @@ Reflective Games
  - Kremar & Cingel Moral Foundations Theory
  - Melcer, Digra 2022, unintended learning in commercial video games.
  - Tamborini, the influence of morality subcultures on the acceptance and appeal of violence
+ - [Fairplay game: did it work?](https://gradstudents.fairplaygame.org/about/)
+ - [VR Game for creating empathy in abusers](https://www.nature.com/articles/s41598-018-19987-7)
 
 Digitally altered consciousness
 -------------------------------
@@ -54,8 +56,6 @@ Qualitative Methods
 
 Edugames
 --------
-
- - Making games work in the classroom, Fuller (exists)
 
 Psychological Reactance
 -----------------------

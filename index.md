@@ -6,12 +6,12 @@ This website contains *all* my notes, so watch out — some stuff might be outda
 
 I'm a 5th year PhD student with the wonderful [Seth Cooper](http://www.khoury.neu.edu/home/scooper/) (Northeastern University Department of Computer Science).
 
-I study [[educational games]], with a focus on [[reflective games|games that ask their players to reflect]] — touching on concepts in social issues, [[critical thinking]], and [[philosophical games|philosophy]]. I got started in undergrad, where I [[Coll 182|taught a course that used games to teach philosophy]].
+I study [[educational games]], with a focus on [[reflective games|games that ask their players to reflect]] — touching on concepts in social issues, [[critical thinking]], and [[philosophical games|philosophy]]. I got started in undergrad, where I [[Coll 182|taught a course that used games to teach philosophy]]. Through my work, I've gained strong skills in game design, pedagogy, user research, and programming.
 
  - [[projects|Projects]]
  - [[publications|Publications]]
  - [Resume](https://docs.google.com/document/d/1p-3EzrkZ1h9hOv5_uLfmwVsiPV7F0rS18Dh8UBUt2VQ/edit?usp=sharing)
- - [LinkedIn](www.linkedin.com/in/kutub-gandhi-83439514b), [Mastodon](https://hci.social/@kksgandhi), and [Bluesky](https://bsky.app/profile/kksgandhi.bsky.social) Email: firstname dot lastname at hey.com
+ - [LinkedIn](www.linkedin.com/in/kutub-gandhi-83439514b), [Mastodon](https://hci.social/@kksgandhi), and [Bluesky](https://bsky.app/profile/kksgandhi.bsky.social). Email: firstname dot lastname at hey.com
  - [[stuff worth reading|Stuff you may enjoy reading. No guarantees.]]
 
 If you want to play one of my games, try this one out:

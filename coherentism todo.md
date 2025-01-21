@@ -40,8 +40,6 @@ concrete and abstract
 
 I do philosophy because I want the beauty of different perspectives. But if I want that, why not just seek the beauty from talking to other people.
 
-The tissue game, the arm wrestling game, and the points game??
-
 games are inacessible
 
 Don't use games for education
@@ -56,4 +54,10 @@ Lottery tickets as a thing I've changed my mind on. Also self driving cars lol.
 
 [https://www.youtube.com/watch?v=6pY7EjqD3QA](Keeping things the same but different)
 
+[Keeping things the same but different](https://www.youtube.com/watch?v=6pY7EjqD3QA)
+
 [https://www.youtube.com/watch?v=4Q-ZQFTr1XI](The most controversial book in history, the giving tree)
+
+The Kowloon walled city and making assumptions about Kristie
+
+What I should have done differently in my PhD: doing projects with companies, including local companies

@@ -2,9 +2,12 @@
 Year   :
 Tags   :
 Authors: [[Ream]] [[Elliott]] [[Dunlap]]
-#unread
 
 [[game and drug concurrent use]]
+
+drug like interactions have been observed with certain behaviors.
+
+42% co-use, though that included things like caffeine.
 
 The positive or addictive feelings associated with game play might interact with substance use
 

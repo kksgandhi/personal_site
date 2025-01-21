@@ -10,14 +10,25 @@ COG: Mostly technical conference, but still pretty general. Has an interesting t
 
 There are plenty of conferences for educational games specifically, but they tend to be more local and held sporadically. Some of the bigger ones are Serious Play and Games 4 Change (non-academic conferences). For academic conferences, see Meaningful Play, GALA, ECGBL, Games Learning Society, Play Make Learn. [[edugame conferences|Some notes from Erik Harpstead on edugame conferences]]
 
-Learning and CS Education conferences (unordered and need to be looked into):
+Learning and CS Education conferences:
 
- - SIGCSE
- - ASEE (easy to get into apparently?) (Late June)
- - IITSCE
- - AERA
- - HSLS??
+ - SIGCSE (Late February)
+   - Big conference, CS education research. A bit informal. A bit of pure research, a bit of implementation research ("I did something in my class, here's what worked and what didn't!")
+ - ASEE (Late June)
+   - Similar to SIGCSE, but more broader STEM. Easy to get a paper into apparently.
  - ICER
+   - International CS education research. Higher quality and smaller venue than SIGCSE
+ - I/ITSEC
+   - Simulations, VR, and training for health and military applications
+
+-------------------------------
+
+### Random Scratchpad Notes
+
+I've heard of these two but have no idea what they are:
+
+ - AERA
+ - HSLS
 
 [[CHI]] [[CHIPlay]] [[AIIDE]] [[FDG]] [[EXAG]] [[COG]] [[UBICOMP]] [[CSCW]] [[ISCRAM]]
 

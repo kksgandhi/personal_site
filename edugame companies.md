@@ -10,6 +10,7 @@ Near Boston
  - iThrive games
  - greendoorlabs
  - Trivium interactive
+ - TERC
 
 Northeast
 -------------
@@ -30,6 +31,7 @@ Northeast
   - PBS may have some internships?
 - Breakaway Games
  - Not exactly a edugame company, but soft chaos: https://softchaos.games/
+ - Digital Promise
 
 Tag: [[educational games]]
 
@@ -43,3 +45,5 @@ Unsorted
 
  - roundtable games
  - Amplify Learning
+ - Zapdot??
+ - ObjectiveEd??
