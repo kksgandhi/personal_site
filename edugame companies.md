@@ -1,3 +1,5 @@
+Remember to check the 2024 applications cycle
+
 Near Boston
 -----------
 
@@ -19,6 +21,11 @@ Northeast
  - Breakaway Games (MD)
  - [Mind Games](https://www.philipp-busch.com/) (Toronto, or maybe Germany, it's unclear)
  - Gold Bug (Montreal)
+
+Remote
+---------
+
+ - Digital Promise
 
  General
  --------

@@ -1,4 +1,4 @@
-Ok, so this isn't really a guide 😅, I just want to highlight some tech that's private, sustainable, and importantly, doesn't require you to be a techy to use.
+Highlighting some tech that's private, sustainable, and importantly, doesn't require you to be techy to use.
 
 Why Bother?
 -----------
@@ -9,9 +9,9 @@ Why Bother?
 
 -----------------
 
- - [[private and sustainable hardware|Hardware (computers and phones)]]
- - [[private and sustainable operating systems|Operating Systems (the stuff that powers your computers and phones)]]
  - [[other private and sustainable software|Email, web browsing, search engines, and other stuff]]
+ - [[private and sustainable operating systems|Operating Systems (the stuff that powers your computers and phones)]]
+ - [[private and sustainable hardware|Hardware (computers and phones)]]
  - [[the fediverse|social media]]
 
 [[why not apple|A quick note on Apple]]

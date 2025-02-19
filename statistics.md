@@ -16,3 +16,6 @@ I have no idea how to organize this note.
 
  - [[floor effect]], [[ceiling effect]]
  - [[medical test paradox]]
+----------------------------
+
+ - [[Experimental Design And Analysis-Seltman]]

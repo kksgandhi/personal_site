@@ -9,6 +9,7 @@
 	 - What do you think of "games definitely work, but the real question is are they worth it?"
 	 - Design challenges, esp. K-12
  - Industry
+   - How can I sell myself?
    - What are my blind spots as an academic?
    - What companies are out there to keep an eye on?
    - Evaluation methods
