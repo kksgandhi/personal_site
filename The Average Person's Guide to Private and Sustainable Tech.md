@@ -16,4 +16,4 @@ Why Bother?
 
 [[why not apple|A quick note on Apple]]
 
-I love talking about this stuff, shoot me a message if you have any questions!
+If this is important to you, donate to the [Electronic Frontier Foundation](https://www.eff.org/).

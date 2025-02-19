@@ -11,3 +11,7 @@ For email, I personally use [hey](https://www.hey.com/), which has some nice pow
 ----------------------
 
 For search engines, Duck Duck Go has been beating my expectations, to the point where I often like the DDG results over the Google results. I sometimes do use Google as a backup, but I don't necessarily think Google has better results, just different ones.
+
+------------------
+
+[Privacy.com](https://privacy.com/) for private purchases.
