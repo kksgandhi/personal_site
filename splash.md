@@ -33,6 +33,22 @@ Fall 2023:
 Spring 2024:
 
  - Let's make games
-   - So many games sound fun, but end up being total snoozefests. Why are games so hard to make? In this class we'll make our own games while talking about what makes a game good, bad, or downright ugly.
+   - So many games sound fun, but end up being total snoozefests. Why are games so hard to make? In this class we'll make our own games while talking about what makes a game good, bad, or downright ugly. (15 registered)
  - Do your own research!
-   - Let's be real, the conspiracy theorists got one thing right: everyone is trying to manipulate you, especially the rich and powerful. Uncovering the truth about the world requires research, but research is a lot more complicated than clicking articles on Facebook. This class goes over bias, how research actually works, and how to find the truth about real world issues.
+   - Let's be real, the conspiracy theorists got one thing right: everyone is trying to manipulate you, especially the rich and powerful. Uncovering the truth about the world requires research, but research is a lot more complicated than clicking articles on Facebook. This class goes over bias, how research actually works, and how to find the truth about real world issues. (22 registered)
+
+Fall 2024:
+
+Can't say how many signups because the catalogues aren't available
+
+ - Let's Make Games
+	 - 6-8ish people actually came.
+ - You don't exist
+	 - Also 6-8ish people
+
+Spring 2025
+
+ - Violence
+	 - Hitting someone is a violent act... unless it's in self defense. Shooting someone is a violent act... unless you wear a badge. Why are some people labeled violent terrorists, while others are gritty freedom fighters? This class is about the concepts of violence and power; we'll talk through the philosophy and ethics of how power is used and abused.
+ - Non-Violence
+	 - Through history, non-violent movements have been the best way to create change... but there's a lot they don't teach you about MLK and Gandhi. How does non-violent action work, and how can we help each other when our political systems fail?

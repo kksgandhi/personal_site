@@ -23,7 +23,7 @@
 - Casual Questions
   - Are art games a problem for game designers?
 - Teaching Track
-  - How much do academic jobs care that you've had teaching experience?
+  - How much do academic jobs care that you've had industry experience?
   - How to beef up my resume for teaching track positions
   - How to make sure a university respects their teaching track professors.
   - Dealing with a conservative presidency
