@@ -1,6 +1,5 @@
 # Sci-Fi
 
- - This is how you lose the time war (Sydney recommends)
  - Artemis by Andy Weir
  - What moves the dead (Tori recommends, horror)
  - Broken Earth Trilogy (Nathan)
@@ -8,6 +7,7 @@
 
 # Games
 
+ - Blood, Sweat, And Pixels
  - Significant zero
  - Achievement Relocked - loss aversion
 
@@ -17,10 +17,10 @@
 
 # Philosophy
 
+ - Coders, Clive Thompson
  - Quaker faith and practice, probably free online 
  - Living the Quaker way Philip Gulley 
  - Graphic introduction to Foucalt
- - Erica Chenowith Nonviolence
  
 # Race
 

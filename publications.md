@@ -3,7 +3,7 @@
  - [[A Design Framework For Reflective Play-Miller-Gandhi|A Design Framework For Reflective Play]]
    - Josh Aaron Miller\*, Kutub Gandhi\*, Matthew Alexander Whitby, Mehmet Kosa, Seth Cooper, Elisa D. Mekler, and Ioanna Iacovides. 2024. A Design Framework for Reflective Play. In Proceedings of the CHI Conference on Human Factors in Computing Systems (CHI '24). Association for Computing Machinery, New York, NY, USA, Article 519, 1–21. https://doi.org/10.1145/3613904.3642455 \*Joint first authors
  - [[Insights From the Development of an Urban Planning Educational Game|Insights From the Development of an Urban Planning Educational Game]]
-   - Accepted, but not yet publsihed. Citation coming soon.
+   - Accepted, but not yet published. Citation coming soon.
  - [[Ar Vs Browser For Citizen Science-Gandhi|An Augmented Reality Game and a Browser Game for Citizen Science]]
    - Gandhi, K., Miller, J. A., Spatharioti, S. E., Apte, A., Fatehi, B., Wylie, S., & Cooper, S. (2021, August). A Comparison of Augmented Reality and Browser Versions of a Citizen Science Game. In The 16th International Conference on the Foundations of Digital Games (FDG) 2021 (pp. 1-8).
  - [[Performance Of Paid And Volunteer Image Labeling-Gandhi|Performance Of Paid And Volunteer Image Labeling]]
