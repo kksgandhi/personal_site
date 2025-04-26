@@ -13,41 +13,36 @@ Mass Appeal: 10/10
 
 This game makes me happy on a core level. It's completely pure and innocent joy, and touches me in a way very few things have. I tell everyone I can to buy this game and save it for a rainy or sad day.
 
-My rating:        9/10
+My rating:        9/10\
+Mass Appeal: 10/10
 
+### [[Florence]] (1 hour)
+
+An incredible story about the ups and downs of relationships. You can find it on mobile, on computer, on the Switch, at McDonald's, underneath your bed. Seriously just download this game right now and spend the hour it takes to play it.
+
+My rating:        8/10\
+Mass Appeal: 10/10
+
+### Little Gator Game (4 hours)
+
+A cozy and touching experience, just like A Short Hike.
+
+My rating: 9/10\
 Mass Appeal: 10/10
 
 ### Mutazione (5-6 hours)
 
 Very cute, very relaxing, and has a very interesting story / themes on "growth". Growth of your character, growth of the community, and growth of relationships. [[Mutazione|Here's an essay I wrote for a game design course about Mutazione]]
 
-My rating:        9/10
-
+My rating:        9/10\
 Mass Appeal: 9/10
-
-### [[Florence]] (1 hour)
-
-An incredible story about the ups and downs of relationships. You can find it on mobile, on computer, on the Switch, at McDonald's, underneath your bed. Seriously just download this game right now and spend the hour it takes to play it.
-
-My rating:        8/10
-
-Mass Appeal: 10/10
 
 ### [[Gris]] (3-4 hours)
 
 The most aesthetically beautiful game I've ever played, every frame of that game is wallpaper worthy. I played Gris when I was at a bad point in my life, and afterwards I described it as a game that squished my soul back together again. It is rather slow at times, but it absolutely deserves to be on this list.
 
-My rating: 8/10
-
+My rating: 8/10\
 Mass Appeal: 8/10
-
-### To the Moon (2-3 hours)
-
-A beautiful and sad story, though I will admit the gameplay is kinda clunky. One of the few games that I gave up on playing and instead watched a video of, though the story is still amazing.
-
-My rating: 9/10
-
-Mass Appeal: 6/10
 
 ### Celeste (15-20 hours)
 
@@ -65,37 +60,27 @@ My rating: 8/10
 
 Mass Appeal: 6/10
 
-### Citizen Sleeper (6 - 8 hours)
+### To the Moon (2-3 hours)
 
-Wake up sleeper. You have a hard day ahead of you, and it takes a lot to survive. It's a melancholy game, but one that doesn't slip into sadness or despair. A game about finding beauty in a broken world, building yourself up from a shell of a person. (Kind of like Disco Elysium, but it almost does it better in my opinion)
+A beautiful and sad story, though I will admit the gameplay is kinda clunky. One of the few games that I gave up on playing and instead watched a video of, though the story is still incredibly cute.
 
-My rating:        10/10
+My rating: 7/10
 
-Mass Appeal: 4/10
-
-### Tunic (24 hours)
-
-Secrets on Secrets on Secrets on Secrets. This game is beautiful, makes you feel like a genius, and has some mind blowing puzzles. Some of the combat is tough, I recommend lowering the difficulty, and some of the late game puzzles are insanely tough (i.e. you could spend hours on some individual puzzles alone), so I recommend giving them a solid attempt, then looking up solutions.
-
-My rating 7/10
-
-Mass appeal 7/10
+Mass Appeal: 6/10
 
 ### A Hat in Time (9 hours)
 
 This was a cute modern interpretation of the fun and style of Super Mario Galaxy
 
-My rating: 7/10
-
+My rating: 7/10\
 Mass Appeal: 7/10 (it's still a slightly difficult platformer, though still one of the more accessible ones)
 
 
 ### [[Outer Wilds]] (15 - 20 hours / 22 minutes)
 
-By fucking god do I love Outer Wilds. When I'm sad, I listen to Outer Wilds music and every time it hits me like a truck. The story is incredible, and the way that it lets you put the story together instead of just letting you walk through the story linearly makes you incredibly emotionally invested in the things I was piecing together. It is a very niche game: It is an exploration focused game that doesn't hold your hand, with a variety of puzzles and complex challenges. Absolutely worth it if you think that's the kind of game for you.
+I'm obsessed with Outer Wilds. When I'm sad, I listen to Outer Wilds music and every time it hits me like a truck. The story is incredible, and the way that it lets you put the story together instead of just letting you walk through the story linearly makes you incredibly emotionally invested in the things I was piecing together. It is a very niche game: It is an exploration focused game that doesn't hold your hand, with a variety of puzzles and complex challenges. Absolutely worth it if you think that's the kind of game for you.
 
 [[spoiler free Outer Wilds review|Here's a review of the Outer Wilds without any spoilers]]
 
-My rating:        infinity/10
-
+My rating:        infinity/10\
 Mass Appeal: 4/10

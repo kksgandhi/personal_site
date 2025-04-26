@@ -31,3 +31,14 @@ Discussion
 *Text*, and how it's used was an important factor in *Building Forward*. Text is important in actually conveying information, but too much text can feel boring, or worse, condescending. At certain times, the bluntness of a message would make players feel like they were being talked at by the developer. One thing that helped was making text more diegetic, having it be more a part of the game world. For example, an achievement that read "pedestrians now feel safer walking around" was replaced with a character in game saying "I now feel safer walking around with my kids!". Other benefits came from making text *timely* (having it only show up when relevant), and *meaningful* (removing redundant text and cutting down what remained).
 
 The simulation was important, insofar as it created a sandbox for players to mess around and visualize their changes in, but I spent a lot of time programming features that didn't actually add to the experience. Playtesting would have identified critical features.
+
+Conclusion and Design Insights
+------------------------------
+
+ - A detailed simulation is not as important as scaffolding (text and other elements that guide the player and make learning goals explicit).
+ - Subject-Matter Experts are critical in refining learning goals, while diverse playtesters are critical in identifying features deserving of further iteration.
+ - Player freedom is paramount in the game experience. Player freedom can be in harmony with the communication of learning goals, though one needs to tailor the learning goals to the path the player took through the game.
+ - Verify the full publishing pipeline, otherwise you may be unable to publish the game in the format you intended.
+ - Utilizing design frameworks and looking at other games is helpful, though less so if you are already familiar with these frameworks and other games.
+ - Text can be made more palatable in a game if there is focused development into making it meaningful, timely, and diegetic.
+ - Technical limitations should be addressed in even a minor way, at the least to prevent confusion about said limitations.

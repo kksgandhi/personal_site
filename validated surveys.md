@@ -47,6 +47,7 @@ Most of the above came from [[Perspective Taking And Decision Making In Educatio
  - [[learning activities survey]]
  - Moral Foundations Questionnaire (See Moral Intuitions in Detroit become Human)
  - Creative Support Index
+ - Critical Consciousness and Shortened Critical Consciousness Survey
 
 Community
 ---------

@@ -11,3 +11,5 @@ I'm doing a project where we are using Cohen's Kappa and summing the codes. Code
 [[Coding Manual For Qualitative Researchers-Saldana]] pg (35|58) says 80-90\% agreement is good
 
 For Cohen's Kappa, Landis and Koch 1977 The measurement of observer agreement for categorical data (biometrics) talks about appropriate interrater reliability.
+
+For multiple codes, do IRR based on the primary code (first code in the list?)

@@ -10,13 +10,19 @@ Mass Appeal: 10, though trigger warning: Depression, not a casual game
 
 ### The Stanley Parable (3-4 hours)
 
-Great game about free will and the life we are all stuck in. Another game that's short enough that I feel like everyone should try it. Honestly I didn't like the ultra deluxe version that much, but you can always ignore the new content.
+Great game about free will and the life we are all stuck in. Another game that's short enough that I feel like everyone should try it. Honestly I didn't care for the ultra deluxe version that much, but you can always ignore the new content.
 
 Mass Appeal: 10
 
 ### Disco Elysium (20ish hours)
 
 What an experience. The voices and music still ring through my head, the characters and setting are so well fleshed out. This game is basically a novel, a choose your own adventure novel amped up to the maximum, with visuals and audio to boot.
+
+Mass Appeal: 8 (There's a lot of reading though)
+
+### Citizen Sleeper (6 - 8 hours)
+
+Wake up sleeper. You have a hard day ahead of you, and it takes a lot to survive. It's a melancholy game, but one that doesn't slip into sadness or despair. A game about finding beauty in a broken world, building yourself up from a shell of a person. (Kind of like Disco Elysium, but it almost does it better in my opinion)
 
 Mass Appeal: 8
 

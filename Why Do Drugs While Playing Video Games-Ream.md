@@ -15,4 +15,6 @@ players concurrently used in order to:
 
  - enhance already pleasurable experiences.
  - calm down
+ - pass time
+ - regulate negative emotion generally
  - remediate the negative effects of drugs / games via the positive effects of the other.

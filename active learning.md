@@ -41,3 +41,5 @@ Activities:
  - Have students make a mind map together
  - have students gather support for a statement
  - have students paraphrase
+
+https://www.csteachingtips.org/tips-peer-instruction

@@ -54,3 +54,8 @@ Unsorted
  - Amplify Learning
  - Zapdot??
  - ObjectiveEd??
+
+Committee for Children
+TakeThis (Serious Play)
+Bill and Melinda Gates foundation does gaming adjacent stuff
+Look at all the non-profits coming to serious play

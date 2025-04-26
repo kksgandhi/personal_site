@@ -1,3 +1,2 @@
-[[research interests]]
-
-[[applying for a PhD]]
+ - [[applying for a PhD]]
+ - [[succeeding in a PhD]]

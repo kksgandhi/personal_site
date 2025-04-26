@@ -22,6 +22,7 @@ See also: [[philosophy - game recommendations]] for the games I actually recomme
  - [[The Witness]]
  - [[Getting Over It]]
  - Everything
+ - Gathering Sky
 
 ### Free Will
 

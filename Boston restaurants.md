@@ -20,6 +20,7 @@ BTT = Before Tax & Tips, a \* means I want to go there but haven't yet
  - Tora
  - WakuWaku\*
  - Boba and Waffles\*
+ - Windsor Dim Sum
 
 ### North End
 
