@@ -1,6 +1,6 @@
 [[PhD]]
 
-The value and experience of a PhD depends almost entirely on the lab you're part of (and your advisor). A small university might have a specific lab that's extremely well respected, while a big-name university might have programs that are only mediocre. Similarly, a PhD with one advisor might be a fantastic and rewarding time, while a different advisor might lead to a painful experience. (This is somewhat computer science specific. In CS, your application is pretty focused towards specific labs. In other fields like biology, you rotate labs within a university until you find one that works.)
+The value and experience of a PhD depends almost entirely on the lab you're part of (and your advisor). A small university might have a specific lab that's extremely well respected, while a big-name university might have programs that are only mediocre. Similarly, a PhD with one advisor might be a fantastic and rewarding time, while a different advisor might lead to a painful experience. (This is somewhat computer science specific. In other fields like biology, you rotate labs within a university until you find one that works.)
 
 To find these niche labs, figure out what you're interested in, find the conferences and journals for that interest, and start reading papers. The people whose names keep showing up are the people you want to follow up on.
 

@@ -9,5 +9,5 @@
  - Boda Borg / Level99
  - Hammond Castle in Gloucester\*
  - https://andresinstitute.org/ (New Hampshire, 1hr from Boston)
- - https://thetrustees.org/place/decordova/ (also like an hour)
+ - https://thetrustees.org/place/decordova/ (also like an hour). The trustees has a lot of good places
  - Provincetown

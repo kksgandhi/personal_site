@@ -23,6 +23,7 @@ See also: [[philosophy - game recommendations]] for the games I actually recomme
  - [[Getting Over It]]
  - Everything
  - Gathering Sky
+ - [[Indika]]
 
 ### Free Will
 
@@ -69,6 +70,9 @@ See also: [[philosophy - game recommendations]] for the games I actually recomme
 
 For War and Politics, see also [[list of civics games]]
 
+### Religion
+
+ - [[Indika]]
 ### Transhumanism
 
  - [[Observer]]\*

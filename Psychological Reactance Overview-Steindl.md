@@ -1,3 +1,9 @@
+---
+id: Psychological Reactance Overview-Steindl
+aliases: []
+tags: []
+---
+
 #notesFromPaper
 Year   :
 Tags   : [[psychological reactance]]
@@ -9,7 +15,7 @@ Hong Psychological Reactance Scale and Salzburger State Reactance Scale
 
 Physiological measurements might also be relevant.
 
-A surprising amount of research on individualistic vs collectivistic people
+A surprising amount of research on individualistic vs collectivistic people. People react more strongly to the outgroup. Individualistic cultures react more strongly to individual threats, collectivistic cultures react strongly to threats to their group.
 
 People can react vicariously, though that might be a more reflective, thoughtful process (as opposed to an impulsive, emotional process)
 

@@ -4,14 +4,12 @@ BTT = Before Tax & Tips, a \* means I want to go there but haven't yet
 
  - Saus!
  - Boston Public Market!!
- - Bakey
  - Cafe 26\*
 
 ### Near NEU / West on Huntington
 
  - Pho Basil
  - El Jefe's
-   - For vegetarian QDOBA has impossible
  - Wagamamas (20 BTT)
  - Phinista Crepes\* (Fenway)
 
@@ -39,7 +37,7 @@ BTT = Before Tax & Tips, a \* means I want to go there but haven't yet
  - Honeycomb creamery
  - Nirvana Cambridge (I liked it, friends said it was only ok)
  - Yume Wo Katare
-   - Prepare for no vegetarian options and the weirdest meal of your life.
+   - Prepare for the weirdest meal of your life. (Ramen)
  - andala coffeehouse (palestinian)
  - Anoushella\*
  - asmara (eritrean)
@@ -56,6 +54,7 @@ BTT = Before Tax & Tips, a \* means I want to go there but haven't yet
  - All Star Pizza
  - Guru \*
  - Dosa And Curry\*
+ - Koshari Mama
 
 ### Allston
 

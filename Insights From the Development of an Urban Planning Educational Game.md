@@ -1,9 +1,16 @@
+---
+id: Insights From the Development of an Urban Planning Educational Game
+aliases: []
+tags: []
+---
+
 #notesFromPaper
 Year   : 2024
 Tags   : 
 Authors: [[Gandhi]] [[Cooper]]
 
-[Link to the original paper](https://drive.google.com/file/d/1QZd7S4KzPwh9IO9FbkQ_TXBmuK2oOoWw/view?usp=sharing)
+[The original paper is the first in the Meaningful Play 2024 Proceedings](https://playstorypress.org/books/meaningful-play-2024-proceedings/)
+
 There are tons of papers that analyze a fully built educational game, but few that go into the process of building their game. Sure, a paper may say that a game was effective, but why was it effective? What worked, and didn't work, and what changes needed to be made during development?
 
 This paper details the process of making *Building Forward*, a game designed to teach young adults about urban planning. The game's design draws on theories in [[constructivism]].

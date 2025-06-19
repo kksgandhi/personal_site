@@ -63,3 +63,5 @@ The Kowloon walled city and making assumptions about Kristie
 What I should have done differently in my PhD: doing projects with companies, including local companies
 
 radicalization
+
+unity as "listen to me" vs unity as "respect everyone"

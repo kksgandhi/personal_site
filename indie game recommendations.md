@@ -60,6 +60,13 @@ My rating: 8/10
 
 Mass Appeal: 6/10
 
+### Terra Nil (5-10 hours)
+
+Restore and rewild a world ruined by pollution. A beautiful game, though not a ton of replayability and strategic depth. Still well worth checking out.
+
+My rating: 5/10\
+Mass Appeal: 2/10
+
 ### To the Moon (2-3 hours)
 
 A beautiful and sad story, though I will admit the gameplay is kinda clunky. One of the few games that I gave up on playing and instead watched a video of, though the story is still incredibly cute.
