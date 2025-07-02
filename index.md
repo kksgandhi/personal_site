@@ -1,7 +1,7 @@
 ---
 id: index
-aliases: 
-tags:
+aliases: []
+tags: []
 ---
 
 Hi! I'm Kutub Gandhi. Welcome to my... blog?

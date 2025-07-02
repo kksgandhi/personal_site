@@ -30,6 +30,21 @@ def insert(originalfile, string):
             f2.write(f.read())
     os.rename('/tmp/newfile.txt', originalfile)
 
+def try_remove_frontmatter(tmp_file):
+    lines = []
+    with open(tmp_file, "r") as f:
+        lines = f.readlines()
+    if len(lines) < 3 or lines[0] != "---":
+        return
+
+    frontmatter_counter = 0
+    with open(tmp_file, "w") as f:
+        for line in lines:
+            if frontmatter_counter > 1:
+                f.write(line)
+            elif line == "---":
+                frontmatter_counter += 1
+
 def add_file_modified_time(org_file, tmp_file):
     """
     Modify tmp_file to include a note about last modify date at the top
@@ -56,5 +71,6 @@ for file_name in relevant_files:
     org_file = path.join(MAIN_DIR, file_name)
 
     create_empty_files(org_file)
+    try_remove_frontmatter(tmp_file)
     if file_name != "index.md":
         add_file_modified_time(org_file, tmp_file)
