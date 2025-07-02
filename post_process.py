@@ -34,7 +34,7 @@ def try_remove_frontmatter(tmp_file):
     lines = []
     with open(tmp_file, "r") as f:
         lines = f.readlines()
-    if len(lines) < 3 or lines[0] != "---":
+    if len(lines) < 3 or lines[0] != "---\n":
         return
 
     frontmatter_counter = 0
@@ -42,7 +42,7 @@ def try_remove_frontmatter(tmp_file):
         for line in lines:
             if frontmatter_counter > 1:
                 f.write(line)
-            elif line == "---":
+            elif line == "---\n":
                 frontmatter_counter += 1
 
 def add_file_modified_time(org_file, tmp_file):
