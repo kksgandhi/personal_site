@@ -47,6 +47,18 @@ Other
 
 [Games against violence. Not edugames, but maybe interesting nonetheless](https://drive.google.com/file/d/1OSsywa1VeLbmwj2bYIoj6I-7-P_PP2ID/view)
 
+Researchy Places That Do Evaluation
+----------------------------------------
+
+ - EBC
+ - West Ed
+ - Concord Consortium
+
+Florida
+-------
+
+Limbitless games
+
 Unsorted
 ----------
 
@@ -59,3 +71,5 @@ Committee for Children
 TakeThis (Serious Play)
 Bill and Melinda Gates foundation does gaming adjacent stuff
 Look at all the non-profits coming to serious play
+Children's Media Association
+EBC, West Ed, Concord

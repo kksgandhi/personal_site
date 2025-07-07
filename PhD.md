@@ -1,3 +1,10 @@
+---
+id: PhD
+aliases: []
+tags: []
+---
+
  - [[applying for a PhD]]
  - [[succeeding in a PhD]]
  - [[reflections on my PhD]]
+ - [[Games PhD]]
