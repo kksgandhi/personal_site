@@ -3,3 +3,7 @@
 [EA](https://www.linkedin.com/jobs/user-researcher-jobs?trk=expired_jd_redirect&position=1&pageNum=0)
 
 Microsoft games?
+
+Hitmarker has game jobs
+
+Idealist

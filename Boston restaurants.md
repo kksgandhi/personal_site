@@ -15,10 +15,13 @@ BTT = Before Tax & Tips, a \* means I want to go there but haven't yet
 
 ### Chinatown
 
+ - Taiwan Cafe (20 BTT)
+ - My Thai Vegan Cafe
+ - Pho Basil
  - Tora
  - WakuWaku\*
  - Boba and Waffles\*
- - Windsor Dim Sum
+ - Windsor Dim Sum (not the best vegetarian)
 
 ### North End
 

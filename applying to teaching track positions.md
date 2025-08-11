@@ -1,4 +1,12 @@
+---
+id: applying to teaching track positions
+aliases: []
+tags: []
+---
+
+
 https://homes.cs.washington.edu/~mernst/advice/academic-job.html
+
 Applying
 --------
 
