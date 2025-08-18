@@ -22,7 +22,7 @@ I'll be looking for jobs in the fall and would love to get connected — I'm int
  - [LinkedIn](www.linkedin.com/in/kutub-gandhi-83439514b), [Mastodon](https://hci.social/@kksgandhi), and [Bluesky](https://bsky.app/profile/kksgandhi.bsky.social). Email: firstname dot lastname at hey.com
  - [[stuff worth reading|Stuff you may enjoy reading. No guarantees.]]
 
-If you want to play one of my games, try this one out (it works on mobile!):
+If you want to play one of my games, try this one out (it's 10 minutes long and works on desktop or mobile!):
 
 [![Other People's Money, a game about wealth](./static/OPM_Icon.png){width=50%}](https://kksgandhi.itch.io/other-peoples-money)
 
