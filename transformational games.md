@@ -14,5 +14,6 @@ Transformational games are an umbrella term for [[serious games]], [[educational
 
 ----------------------
 
+ - [[designing transformational games]]
  - [[transformational games - resources]]
  - closely related: [[how to design reflective games|reflective games]]

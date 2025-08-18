@@ -14,4 +14,4 @@ tags: []
  - [[diversifying game audiences]]#
  - [[game design youtubers]]
 
-A lot of my work is on [[transformational games]]#, so check out the notes around that. Specifically [[transformational games need thoughtful implementation]]
+A lot of my work is on [[transformational games]]#, so check out the notes around that. Specifically [[designing transformational games]]

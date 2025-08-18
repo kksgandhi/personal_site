@@ -2,7 +2,7 @@
 
 [[Swain]]
 
-[[transformational games need thoughtful implementation]]
+[[designing transformational games]]
 
  - Integrate SMEs
  - Identify and prioritize learning objectives

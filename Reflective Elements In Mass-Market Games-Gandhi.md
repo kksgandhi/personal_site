@@ -23,7 +23,7 @@ Background
  - Reflection is linked to [[emotional challenge]]. Challenge can actually [[stress allows us to learn|help us learn]].
  - [[Moments That Challenge A Player-Whitby|Whitby's work]] discusses moments in gameplay that players reported as causing them to reflect.
  - All the big stuff is important, but so is the [[ordinary player experience]]
- - Many reflective games fail because they try to [[transformational games need thoughtful implementation|just bluntly put a message on top of a game that has no relation to the message]]
+ - Many reflective games fail because they try to [[designing transformational games|just bluntly put a message on top of a game that has no relation to the message]]
  - One of the big theoretical pieces of work is [[Reflective Game Design-Khaled|Khaled's Reflective Game Design]]. Specifically the idea that [[conventional game design works against reflection]]
 
 Methods

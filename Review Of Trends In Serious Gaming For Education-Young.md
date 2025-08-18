@@ -21,7 +21,7 @@ Watch out, virtual worlds may introduce misconceptions about physics, rather tha
 
 Great for [[PE]]
 
-History is good too, especially with [[transformational games need thoughtful implementation|thoughtful implementation]]. One largescale study showed not too much benefit, but potential retention benefits (players may remember it for a long time, despite being just as good right after the lesson.)
+History is good too, especially with [[designing transformational games|thoughtful implementation]]. One largescale study showed not too much benefit, but potential retention benefits (players may remember it for a long time, despite being just as good right after the lesson.)
 
 [[edugames don't fit well into the classroom structure]]
 
