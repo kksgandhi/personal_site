@@ -17,7 +17,7 @@ tags: []
 
 [[games as an alibi|Games as alibis]]: Rather than directly bringing up a difficult topic, play a game that touches on those topics as a way to spark conversation.
 
-**Games as trojan horses**: Games can bring up uncomfortable topics while making players think they are just playing a silly game. See [[embedded design]]
+**Games as introductions**: Games can bring up topics to be followed up on later, all while making players think they are just playing a silly game. See [[embedded design]]
 
 [[gamification|Gamification]]: Using points, badges and leaderboards to motivate users in a non-game setting.
 
