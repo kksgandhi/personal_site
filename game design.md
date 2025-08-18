@@ -1,3 +1,9 @@
+---
+id: game design
+aliases: []
+tags: []
+---
+
 #[[design]]
 
  - [[game prototyping]]#

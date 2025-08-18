@@ -13,7 +13,7 @@ The intro does a good job explaining why edugame research and edugame advice for
  - Games are already powerful at teaching
    * Games incentivizes learning, that is then tested
    * They gradually release information and allow for contained practice / slow mastery.
- - No [[chocolate covered broccoli]]
+ - No [[intrinsic integration]]
  - Use collaborative action
  - Roleplaying and emotional engagement are also powerful
  - avoid [[the temptation of clarity]]

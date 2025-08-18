@@ -24,6 +24,6 @@ With coc and a few other plugins, neovim is a replacement for an IDE and is far 
 
 An awesome pdf reader with a ton of power user features
 
-### nnn
+### yazi
 
-extremely fast and powerful file browser.
+extremely fast and powerful file browser. Also a fan of nnn and ranger.

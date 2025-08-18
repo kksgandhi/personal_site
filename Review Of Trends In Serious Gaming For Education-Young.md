@@ -33,7 +33,7 @@ Recommendations for games researchers:
  - [[games research needs longitudinal studies|Conduct longitudinal studies]]
  - [[academia needs collaboration|Encourage collaboration between game companies and researchers and politicians]]
  - "Include the metagame", aka [[paratexts]]
- - Avoid [[chocolate covered broccoli]]
+ - Avoid [[intrinsic integration]]
  - Understand inter-player interaction as a mode of learning
 
 ----

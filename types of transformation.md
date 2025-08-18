@@ -1,3 +1,9 @@
+---
+id: types of transformation
+aliases: []
+tags: []
+---
+
  - knowledge
  - skills
  - physical
