@@ -14,7 +14,7 @@ I'm a 5th year PhD student with the wonderful [Seth Cooper](http://www.khoury.ne
 
 I study [[transformational games|educational games]], with a focus on social impact. How can we get players to [[reflective games|reflect]] and think [[critical thinking|critically]] about the world they live in? I got started in undergrad, where I [[Coll 182|taught a course that used games to teach philosophy]]. 
 
-My CS background has given me a strong base in programming, and through my research, I've gained skills in game design, pedagogy, and user research.
+My CS background has given me a strong base in programming, and through my research, I've gained expertise in game design, pedagogy, and user research.
 
 I'll be looking for jobs in the fall and would love to get connected — I'm interested in design / programming / user research for educational games; I'm also looking to teach computer science / game design at the university level.
 

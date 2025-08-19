@@ -22,4 +22,4 @@ tags: []
 
 **Games as a pasttime**: Games can provide something for a player to do while they're learning.
 
-[[what can entertainment games do?]]
+[[what can entertainment games do]]
