@@ -4,7 +4,6 @@ aliases:
   - what can games do?
 tags: []
 ---
-
 [[teach via rules and outcomes|Games as playful systems:]] A game can simulate a real world system, allowing players a safe space to modify things and see what happens.
 
 **Games as learning challenges**: In order to complete the game, players must learn. This can range from "do division to defeat zombies" up to "learn about Aristotle so you can accurately roleplay as him in a [[LARP]]". See [[gameful design]]
@@ -22,3 +21,5 @@ tags: []
 [[gamification|Gamification]]: Using points, badges and leaderboards to motivate users in a non-game setting.
 
 **Games as a pasttime**: Games can provide something for a player to do while they're learning.
+
+[[what can entertainment games do?]]
