@@ -1,3 +1,5 @@
+Possible gift for others:
+
  - 3D print something
  - custom socks?
 

@@ -66,6 +66,7 @@ Unsorted
  - Amplify Learning
  - Zapdot??
  - ObjectiveEd??
+ - CreatED consulting
 
 Committee for Children
 TakeThis (Serious Play)
@@ -73,3 +74,11 @@ Bill and Melinda Gates foundation does gaming adjacent stuff
 Look at all the non-profits coming to serious play
 Children's Media Association
 EBC, West Ed, Concord
+
+AAM jobs board
+(hashtags: musetech, museumjobs)
+
+Potion
+Blue Cadet (maybe check glassdoor)
+LocalProjects
+ArtProcessor

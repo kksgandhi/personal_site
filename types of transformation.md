@@ -14,3 +14,5 @@ tags: []
  - relationships
  - identity
  - society
+
+See [[Nsf Types Of Impacts-Friedman]]

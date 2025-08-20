@@ -30,3 +30,13 @@ Related notes:
  - [[transformational games often fail]]
  - [[transformational games shouldn't have safe environments]]
  - [[transformational games shouldn't overwhelm the player]]
+
+----------------
+
+Steps of creating a transformational game:
+
+ - Empathize (who is your audience, and what do they need?)
+ - Define (What are your learning goals?)
+ - Ideate (Think & prototype)
+ - Create (Build them)
+ - Iterate (Playtest and rebuild)

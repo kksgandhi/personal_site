@@ -25,6 +25,8 @@ Learning and CS Education conferences:
 
 ### Random Scratchpad Notes
 
+FETC: Florida edtech conference
+
 I've heard of these two but have no idea what they are:
 
  - AERA
