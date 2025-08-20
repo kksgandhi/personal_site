@@ -11,7 +11,6 @@ Let me know if you get something, that way others don't buy a duplicate.
  - [Two sets of 36 tactile switches](https://minokeys.com/products/tecsee-sapphire-tactile-switches)
  - [Ultimate 2C game controller](https://www.amazon.com/Bluetooth-Controller-Vibration-Joysticks-Gaming-Console/dp/B0DM1WH5BV/ref=sr_1_5?crid=3NO1MS9OLLV6K&dib=eyJ2IjoiMSJ9.IYpdds9cmh86sditP9kCMyEKx1_pgEFqm9s10NwyBrG-J8n3zHCQqtoLFVcltqvjXlKbJhuj7rqT4rHNh0xHoih68nuLR9rN6PL8V3CVEOqhGmC52dYRzyy1GaCYhvaT5bKMKYa-b1M-wYRm_MoDkzQXO4wZAyyy0apqwfcUEqppK11cbUekOzA75_tP5iMUd52aEIeL5Tpa4tCeWY0TNlm6JDzv4FiqM-jr9DLiirw.YMbIOhSnm9Cbvu8HVRpiWRGmj74p1cl6261KWjFJBnE&dib_tag=se&keywords=8bitdo%2Bultimate%2B2C&qid=1755646954&sprefix=8bitdo%2Bultimate%2B2c%2Caps%2C174&sr=8-5&th=1)
  - Pajama pants
- - [Death Clock](https://inqfactory.com/pages/death-clock)
  - [Ceramic Keycaps](https://www.cerakey.com/products/ceramic-full-set-white?variant=42647381016715)
  - Donate to charity
  - [Something from my Steam wishlist](https://store.steampowered.com/wishlist/profiles/76561198126714348/)
@@ -22,3 +21,7 @@ Let me know if you get something, that way others don't buy a duplicate.
  - Fancy versions of everyday things, e.g. soaps, 
 
 [[gift ideas|Gift ideas for others]]
+
+Stuff that used to be here, but someone has already bought:
+
+ - [Death Clock](https://inqfactory.com/pages/death-clock)
