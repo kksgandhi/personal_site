@@ -1,3 +1,9 @@
+---
+id: projects
+aliases: []
+tags: []
+---
+
 Serious Stuff
 -------------
 
