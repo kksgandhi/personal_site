@@ -13,6 +13,7 @@ Applying
  - SLAC applications tend to be looking for someone really specific (teach one specific course) or teach very generally.
  - SLACs want a generalist. How does your research area enable you to be a generalist?
  - You want to prove you'd fit their program. Look at their mission statement.
+ - Look at their AI statement. Are they full steam ahead or hesitant
  - Where to apply:
    - SIGCSE jobs board
    - PUI github (https://cs-pui.github.io/posting.html)
