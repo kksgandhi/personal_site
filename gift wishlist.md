@@ -3,7 +3,7 @@ id: gift wishlist
 aliases: []
 tags: []
 ---
-Listed in order of my interest.
+Listed roughly in order of my interest.
 
 Let me know if you get something, that way others don't buy a duplicate.
  
@@ -16,6 +16,7 @@ Let me know if you get something, that way others don't buy a duplicate.
  - Donate to charity
  - [Something from my Steam wishlist](https://store.steampowered.com/wishlist/profiles/76561198126714348/)
  - Something from [ROKR](https://www.rokronline.com/) or [mini materials](https://www.minimaterials.com/) or LEGOs, though I don't have much room space to actually put anything. I'd make space lol.
+ - [Extremely Fancy Trackball](https://www.zsa.io/voyager/navigator/buy)
  - Something from [good store](https://good.store/)
  - Something fashionable
  - Just weird stuff in general. If I can keep it on a desk and like... poke it.
