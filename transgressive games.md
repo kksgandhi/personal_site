@@ -2,4 +2,4 @@
 
 The [[transgressive aesthetic]] as opposed to [[profound trangression]]
 
-[[parapathic play]]
+tag: [[parapathic play]] [[gameplay subversion]]

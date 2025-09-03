@@ -1,0 +1,1 @@
+[[media]] where you have control over the experience, e.g. one where you can create an avatar.

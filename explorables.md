@@ -1,4 +1,4 @@
-[Interactive, gameful, explorable explanations.](https://explorabl.es/)
+[Interactive, gameful, explorable explanations.](https://explorabl.es/). In academic literature, these are known as intelligent tutoring systems.
 
  - [[designing explorables]]
  - [[making explorables]]

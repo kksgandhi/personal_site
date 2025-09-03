@@ -16,7 +16,7 @@ I study play, with a focus on social impact. I'm a 5th year PhD student with the
 
 My CS background has given me a strong base in programming, and through my research, I've gained expertise in game design, pedagogy, working with children, and user research.
 
-I'll be looking for jobs in the fall and would love to get connected — I'm interested in design / programming / user research for educational games; I'm also looking to teach computer science / game design at the university level.
+I'll be looking for jobs in the fall and would love to get connected — I'm interested in design / programming / user research / product management for educational technology; I'm also looking to teach computer science / game design at the university level.
 
  - [[projects|Projects]]
  - [[publications|Publications]]
@@ -24,7 +24,9 @@ I'll be looking for jobs in the fall and would love to get connected — I'm int
  - [LinkedIn](www.linkedin.com/in/kutub-gandhi-83439514b), [Mastodon](https://hci.social/@kksgandhi), and [Bluesky](https://bsky.app/profile/kksgandhi.bsky.social). Email: firstname dot lastname at hey.com
  - [[stuff worth reading|Stuff you may enjoy reading. No guarantees.]]
 
-[![Other People's Money, a game about wealth](./static/OPM_Icon.png){width=50%}](https://kksgandhi.itch.io/other-peoples-money) If you want to play one of my games, try this one out (it's 10 minutes long and works on desktop or mobile!):
+If you want to play one of my games, try this one out (it's 10 minutes long and works on desktop or mobile!):
+
+[![Other People's Money, a game about wealth](./static/OPM_Icon.png){width=50%}](https://kksgandhi.itch.io/other-peoples-money) 
 
  - I value self growth — if you have feedback about anything, you can send it anonymously [[anonymous feedback form|here.]]
 

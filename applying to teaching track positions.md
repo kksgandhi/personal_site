@@ -29,6 +29,8 @@ Applying
  - How will you adapt if things aren't going well?
  - Passion for working with others.
  - Look at existing curriculum. What would you add or change?
+ - Writing a teaching statement
+	 - [[Writing A Statement Of Teaching Philosophy-Oneil]]
 
 Do you fit at the Uni?
 ----------------------
@@ -71,3 +73,5 @@ Old Notes, Needs Organization
 What classes am I interested in teaching and do I have the skills to teach?
 
 What teaching styles would I use, look at pedagogy styles and have an overall understanding?
+
+ - [Recommendations for departments hiring teaching track faculty](https://cra.org/resources/best-practice-memos/hiring-teaching-faculty-in-research-computing-departments/)
