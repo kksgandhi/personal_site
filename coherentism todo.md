@@ -1,3 +1,9 @@
+---
+id: coherentism todo
+aliases: []
+tags: []
+---
+
 [post hoc reasoning is a social function](https://www.youtube.com/watch?v=_ArVh3Cj9rw&list=PLM0XOPE-p91H0bY1nrHPiSILBMsCEJ6AL&index=10&t=180s)
 
 some stereotypes are harmful, others are not
@@ -65,3 +71,5 @@ What I should have done differently in my PhD: doing projects with companies, in
 radicalization
 
 unity as "listen to me" vs unity as "respect everyone"
+
+I should have kept a list of mock interview questions

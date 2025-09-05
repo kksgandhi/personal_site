@@ -16,7 +16,7 @@ I study play, with a focus on social impact. I'm a 5th year PhD student with the
 
 My CS background has given me a strong base in programming, and through my research, I've gained expertise in game design, pedagogy, working with children, and user research.
 
-I'll be looking for jobs in the fall and would love to get connected — I'm interested in design / programming / user research / product management for educational technology; I'm also looking to teach computer science / game design at the university level.
+I'll be looking for jobs in the fall and would love to get connected — I'm interested in educational technology: design, user research, programming, and product management all appeal to me. I'm also looking to teach computer science / game design at the university level.
 
  - [[projects|Projects]]
  - [[publications|Publications]]
