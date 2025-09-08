@@ -3,9 +3,11 @@ id: applying to teaching track positions
 aliases: []
 tags: []
 ---
-
+[CS Job and Interview Guide](https://csguides.github.io/grad-job-guide/)
 
 https://homes.cs.washington.edu/~mernst/advice/academic-job.html
+
+[Teaching Job Resources (CS)](https://docs.google.com/document/d/1bPwwrHwkLBcaEvAdMpPQEddVtVEj-8V1rJmBJJWxlwE/edit?tab=t.0)
 
 Applying
 --------
