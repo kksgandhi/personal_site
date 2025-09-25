@@ -49,6 +49,7 @@ Questions to ask:
  - Job security? Is there a tenure process?
  - What's the surrounding town like? Do you like living there?
  - How many preps?
+ - What is the culture of community, retreats, going out to bars, covering each other's classes when someone is out at a conference...
 
 Researching the Uni:
 
@@ -61,7 +62,6 @@ Unis to look out for
 
  - Grinnell
  - Purdue
- - 
 
 Old Notes, Needs Organization
 --------------------------------
@@ -71,6 +71,7 @@ Old Notes, Needs Organization
  - Do you get voting rights?
  - Contracts + Tenure
  - pay equity?
+ - Get someone to observe your class
 
 What classes am I interested in teaching and do I have the skills to teach?
 

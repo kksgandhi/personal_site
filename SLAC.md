@@ -1,0 +1,1 @@
+[Computing education in the liberal arts](https://computing-in-the-liberal-arts.github.io/SIGCSE2025-Affiliated-Event/eventAgenda.html)

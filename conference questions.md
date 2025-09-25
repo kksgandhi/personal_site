@@ -1,8 +1,14 @@
- - Pedagogy
+---
+id: conference questions
+aliases: []
+tags: []
+---
+
+- Pedagogy
    - How do you take a learning framework and actually develop a lesson plan around it?
    - How does learning sciences avoid the issue of everything being a nightmare of variables?
    - Is psychological reactance the right term for people digging their heels in?
- - Philosophy
+ - Philosophy / Ethics
    - Leading horses to water and making them drink?
  - Games
 	 - Do non simulation based edugames work?
@@ -10,16 +16,16 @@
 	 - Design challenges, esp. K-12
  - Industry
    - How can I sell myself?
+     - Show off my leadership skills?
    - What are my blind spots as an academic?
    - What companies are out there to keep an eye on?
-   - Evaluation methods
-   - Creating edugames on a team?
    - how do companies get funding and operate?
+   - where do you sell your games?
    - How will funding for PBS and the like be affected?
+   - setting myself up for product management roles
+   - Should I sign up for senior roles or junior roles
 - Research
-  - What is required to actually make a "framework"
   - How to verify if an edugame actually works, especially with complex ideas such as "critical thinking".
-  - I want to be an academic, how will I eventually get funding
 - Casual Questions
   - Are art games a problem for game designers?
 - Teaching Track
@@ -27,8 +33,11 @@
   - How to beef up my resume for teaching track positions
   - How to make sure a university respects their teaching track professors.
   - Dealing with a conservative presidency
+  - Is my CV good?
+  - What's the point of a cover letter?
+  - Places with a game design program
+  - 2 body problem
+  - AI job positions?
+  - Using AI in the classroom
 - GLAM
   - Affordances of an interested audience?
- - NLP
-   - chatbots that are customizable?
-   - textual similarity?

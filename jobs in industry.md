@@ -16,4 +16,4 @@ apparently NASA is gamifying stuff and could use interns??
 
 https://applyall.com/
 
-[[mock interview questions]]
+[[mock interview questions]] and [how to set up a resume](https://www.youtube.com/watch?v=8vuiLWc7XEQ&t=3s)

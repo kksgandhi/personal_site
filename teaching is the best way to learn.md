@@ -1,1 +1,1 @@
-[[teaching]], [[rubber ducking]]
+[[teaching philosophy]], [[rubber ducking]]

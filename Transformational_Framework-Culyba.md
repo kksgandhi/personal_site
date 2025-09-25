@@ -1,3 +1,9 @@
+---
+id: Transformational_Framework-Culyba
+aliases: []
+tags: []
+---
+
 #notesFromPaper #inbib
 Authors: [[Culyba]]
 Year   :

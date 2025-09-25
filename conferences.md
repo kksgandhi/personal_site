@@ -1,3 +1,5 @@
+How to [[conference prep|prepare for a conference]].
+
 [[CHI conference]]
 
 apparently most of my notes are in [[game conferences]]

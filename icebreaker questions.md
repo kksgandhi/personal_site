@@ -9,9 +9,10 @@
  - What's a word you've never said aloud?
  - What do you think "snabby" means
  - How often do you use sunscreen?
- - Let's get through the ABCs as quickly as possible.
  - What does the noise in your head sound like?
  - Do the ABCs as fast as possible
+ - If your mood was a weather, what would it be?
+ - If you were arrested, what would your friends assume it was for?
 
 [[icebreaker games]]
 
@@ -21,3 +22,4 @@ Talking Rock Questions
  - Ideal pie flavoring?
  - If you could pickle anything, what would you pickle?
  - What's something you've done you're proud of in the last year?
+ - What's a positive memory that you don't think you're ever going to forget?
