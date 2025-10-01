@@ -15,6 +15,7 @@ There are four major things you can do after your PhD, and success means somethi
    - Is your work related (even tangentially) to the kinds of problems companies face?
    - Have you done industry internships?
      - I'd even recommend working for a company for free (but make sure you're getting something out of it, such as data you wouldn't otherwise have access to and / or a paper)
+   - I'd recommend pretending you're applying to jobs, to see how many jobs are available and what skills they're looking for. You might realize there are positions available you weren't originally thinking about!
  - Non-profits and the government.
    - Admittedly I don't know too much about this, but it is a viable path.
  - Teaching at a university

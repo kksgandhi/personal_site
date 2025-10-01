@@ -6,29 +6,33 @@ tags: []
 
 Design
 ------
-What experiences have you created that had an unexpected impact on their players?
-When is a time you've had to pivot?
-How do you understand your potential users when starting a project?
-Where do you think this industry is going?
-Tell me about an interesting case study.
-Walk me through how you validate your experiences? 
-How do you stay on top of trends?
-What companies out there right now do you think are doing game design right? or innovative work? Why? 
-How do you champion the voice of the user?
-How do you balance the needs of the end user and the stakeholder?
-How do you ensure your interpretation and your presentation of test data is not biased?
+
+ - What experiences have you created that had an unexpected impact on their players?
+ - When is a time you've had to pivot?
+ - How do you understand your potential users when starting a project?
+ - Where do you think this industry is going?
+ - Tell me about an interesting case study.
+ - Walk me through how you validate your experiences? 
+ - How do you stay on top of trends?
+ - What companies out there right now do you think are doing game design right? or innovative work? Why? 
+ - How do you champion the voice of the user?
+ - How do you balance the needs of the end user and the stakeholder?
+ - How do you ensure your interpretation and your presentation of test data is not biased?
+ - What is your least favorite app and why?
 
 Organization
 ------------
-When have you experienced working on a tight timeline.
-What tools do you use?
-How do you ensure deadlines are met?
-How do you prioritize which features are needed for an experience?
+
+ - When have you experienced working on a tight timeline.
+ - What tools do you use?
+ - How do you ensure deadlines are met?
+ - How do you prioritize which features are needed for an experience?
 
 Teamwork
 --------
-How do you like to receive feedback? How do you like to best collaborate with your peers? 
-General: Give me a time that you resolved conflict (helpful when going after leadership / management positions)
+
+ - How do you like to receive feedback? How do you like to best collaborate with your peers? 
+ - General: Give me a time that you resolved conflict (helpful when going after leadership / management positions)
 
 Game Programming
 ----------------
