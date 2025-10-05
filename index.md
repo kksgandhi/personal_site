@@ -32,4 +32,4 @@ If you want to play one of my games, try this one out (it's 10 minutes long and 
 
 <br/><br/>
 
-![A black and white photo of Kutub](./static/itsme/shield_cropped_filesize_notop.jpg){ width=30% } ![A photo of Kutub with sunglasses](./static/itsme/blue_sunglasses.jpg){ width=30% } ![A photo of Kutub in front of some trees](./static/itsme/smokin_cropped.jpg){ width=30% }
+![A black and white photo of Kutub](./static/itsme/shield_circle_crop.png){ width=30% } ![A photo of Kutub with sunglasses](./static/itsme/blue_sunglasses.jpg){ width=30% } ![A photo of Kutub in front of some trees](./static/itsme/smokin_cropped.jpg){ width=30% }

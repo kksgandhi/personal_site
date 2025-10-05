@@ -4,6 +4,10 @@ aliases: []
 tags: []
 ---
 
+- General
+	- What are you working on?
+	- What's your story / path to where you are now?
+	- What are the must read resources in your field?
 - Pedagogy
    - How do you take a learning framework and actually develop a lesson plan around it?
    - How does learning sciences avoid the issue of everything being a nightmare of variables?

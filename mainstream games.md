@@ -1,5 +1,5 @@
  - Minecraft
- - Hollow Knight
+ - Hollow Knight / Silksong
    - Doma Doma
  - FTL
  - Slay The Spire
@@ -7,7 +7,7 @@
  - Tactical Breach Wizards
  - Xcom2
  - Enter The Gungeon
- - [[Hades]]
+ - [[Hades]] / Hades II
    - A roguelike for people who hate roguelikes
  - Factorio
    - I've stopped playing this game because if I start again I won't be able to stop.
