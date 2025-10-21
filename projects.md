@@ -8,9 +8,10 @@ Serious Stuff
 -------------
 
  - [Other People's Money](https://kksgandhi.itch.io/other-peoples-money)
-   - This award winning game visualizes how we allocate resources, and asks if we can do better. Currently the focus of a research project, looking at how to better communicate complex topics through games.
+   - This award winning game visualizes how we allocate resources, and asks if we can do better. Currently the focus of a research project, looking at how to better communicate complex topics through games. Preliminary design and production notes available [[Getting Players to Reflect On Wealth Inequality|here]].
  - [Building Forward](https://github.com/kksgandhi/building-forward)
    - A simulated city with a focus on teaching how cities evolve and grow. ~2,700 lines of code; open source, to serve as an example for others looking to make complex Godot games.
+   - Design and production notes available [[Insights From the Development of an Urban Planning Educational Game|here]].
  - [The Last AI](https://github.com/kksgandhi/the-last-AI)
    - Dabbling in interactive fiction by building my own engine. This game teaches concepts in ethics by placing you as the last AI to ever be built.
  - [The Game Philosophy Network's unofficial discord for game academics.](https://discord.gg/QPzvX5NfX9)
