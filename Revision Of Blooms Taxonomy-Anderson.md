@@ -1,3 +1,9 @@
+---
+id: Revision Of Blooms Taxonomy-Anderson
+aliases: []
+tags: []
+---
+
 #notesFromPaper
 Year   :
 Tags   :
@@ -47,8 +53,6 @@ Chapter 4 has a breakdown of types of knowledge and the subtle differences betwe
  - transfer: can you apply that knowledge?
 
 Chapter 5 goes into examples and possible assessments of cognitive processes.
-
-Bookmark Section 3
 
 Chapter 6
 ---------

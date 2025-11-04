@@ -1,6 +1,11 @@
+---
+id: active learning
+aliases: []
+tags: []
+---
+
 [[pedagogy]]
 
-[Peer Instruction Video](https://www.youtube.com/watch?v=Z9orbxoRofI)
 
  - Retrieval
    - Repeated retrieval strengthens memory
@@ -9,11 +14,14 @@
    - pause lecture to ask students questions
  - Prediction
    - Making a prediction about an outcome increases understanding and retention of material
+   - [[zone of proximal development]]: Provide students basic information, then ask them questions that are just a little more complicated. That require them to build off the information they know, but isn't just direct recall.
  - Self-explanation
    - Ask students to explain concepts to themselves in their own words
    - Ask students to explain things to others
+	   - [Peer Instruction Video](https://www.youtube.com/watch?v=Z9orbxoRofI)
+	   - https://www.csteachingtips.org/tips-peer-instruction
 
-Activities:
+Activities: (from [[Active Learning In Face To Face Courses-Millis]])
 
  - Visible Quiz
  - Pass a problem
@@ -42,4 +50,3 @@ Activities:
  - have students gather support for a statement
  - have students paraphrase
 
-https://www.csteachingtips.org/tips-peer-instruction
