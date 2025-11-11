@@ -7,3 +7,5 @@ Tag: [[fake news]]
  - [fake it to make it](https://www.fakeittomakeitgame.com/play/site/jd21a79s/create)
  - [[Factitious Computer Game To Fight Fake News-Grace|factitious]]
  - Cat Park
+
+The researcher Scott DeJong focuses on misinformation games, he might have some resources.
