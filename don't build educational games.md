@@ -14,3 +14,5 @@ Heck, you don't even have to build a game to get the benefits of game based lear
  - Competition, through points, badges, and leaderboards.
  - Customized learning, by using software to track student success and deploy specific interventions for students that need them.
  - Realistic scenarios, by giving out projects and [[scaffolding|scaffolded]] real world scenarios.
+
+See also: [[what transformational games can't do]].

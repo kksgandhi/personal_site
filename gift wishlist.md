@@ -12,7 +12,7 @@ Let me know if you get something, that way others don't buy a duplicate.
  - [Ceramic Keycaps](https://www.cerakey.com/products/ceramic-full-set-white?variant=42647381016715)
  - Donate to charity
  - Something from [ROKR](https://www.rokronline.com/) or [mini materials](https://www.minimaterials.com/) or LEGOs, though I don't have much room space to actually put anything. I'd make space lol.
- - Something from [good store](https://good.store/) or [yetch](https://yetch.studio/)
+ - Something from [good store](https://good.store/) or [yetch](https://yetch.studio/) or [art of play](https://www.artofplay.com/)
  - [Something from my Steam wishlist](https://store.steampowered.com/wishlist/profiles/76561198126714348/) (Though honestly, I have so little time to play video games...)
  - [Extremely Fancy Trackball](https://www.zsa.io/voyager/navigator/buy)
  - Something fashionable

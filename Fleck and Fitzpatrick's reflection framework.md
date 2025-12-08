@@ -1,3 +1,9 @@
+---
+id: Fleck and Fitzpatrick's reflection framework
+aliases: []
+tags: []
+---
+
  - Remembering without further thought
  - Explanation without further thought
  - Looking for relationships between experiences

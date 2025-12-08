@@ -84,6 +84,11 @@ For War and Politics, see also [[list of civics games]]
  - [[The Beginner's Guide]]
  - [[Train - game]]
 
+### AI
+
+ - [Survival of the Best Fit](https://www.survivalofthebestfit.com/)
+
+
 ### Currently Uncategorized, TODO
 
  - [[Nier Automata]]\*

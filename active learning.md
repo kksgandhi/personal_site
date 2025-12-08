@@ -21,6 +21,8 @@ tags: []
 	   - [Peer Instruction Video](https://www.youtube.com/watch?v=Z9orbxoRofI)
 	   - https://www.csteachingtips.org/tips-peer-instruction
 
+[Harvard's list of active learning activities is pretty good](https://bokcenter.harvard.edu/active-learning)
+
 Activities: (from [[Active Learning In Face To Face Courses-Millis]])
 
  - Visible Quiz

@@ -1,2 +1,0 @@
- - best for teaching already motivated players?
- - not useful otherwise?

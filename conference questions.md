@@ -9,11 +9,10 @@ tags: []
 	- What's your story / path to where you are now?
 	- What are the must read resources in your field?
 - Pedagogy
-   - How do you take a learning framework and actually develop a lesson plan around it?
    - How does learning sciences avoid the issue of everything being a nightmare of variables?
-   - Is psychological reactance the right term for people digging their heels in?
+   - Learning-To-Learn, especially in the world of AI
  - Philosophy / Ethics
-   - Leading horses to water and making them drink?
+   - Leading horses to water and making them drink? How do you actually change someone's mind?
  - Games
 	 - Do non simulation based edugames work?
 	 - What do you think of "games definitely work, but the real question is are they worth it?"

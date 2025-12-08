@@ -14,6 +14,8 @@ tags: []
 
 **Games as social platforms**: Games encourage social interaction, where players may learn social skills or discuss concepts.
 
+**Games as internalization via interaction**: By requiring the player to interact, 
+
 [[games as an alibi|Games as alibis]]: Rather than directly bringing up a difficult topic, play a game that touches on those topics as a way to spark conversation.
 
 **Games as introductions**: Games can bring up topics to be followed up on later, all while making players think they are just playing a silly game. See [[embedded design]]
@@ -22,4 +24,4 @@ tags: []
 
 **Games as a pasttime**: Games can provide something for a player to do while they're learning.
 
-[[what can entertainment games do]]
+See also: [[what can entertainment games do]] and [[what transformational games can't do]]
