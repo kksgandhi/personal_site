@@ -7,6 +7,7 @@ Listed roughly in order of my interest.
 
 Let me know if you get something, that way others don't buy a duplicate.
  
+ - New home stuff, like kitchenware. Maybe from [oxo](https://www.oxo.com/). Garlic press, oven mitts... souper cubes
  - Weird wristwatches. The more insane the better.
  - Pajama pants
  - [Ceramic Keycaps](https://www.cerakey.com/products/ceramic-full-set-white?variant=42647381016715)

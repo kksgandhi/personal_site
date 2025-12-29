@@ -1,3 +1,9 @@
+---
+id: Reflection - Framing A Design Landscape-Fleck
+aliases: []
+tags: []
+---
+
 #notesFromPaper
 Year   :
 Tags   : [[Fleck and Fitzpatrick's reflection framework]] [[reflection]]

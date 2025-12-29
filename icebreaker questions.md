@@ -1,3 +1,9 @@
+---
+id: icebreaker questions
+aliases: []
+tags: []
+---
+
  - How many chuggas before a choo choo?
  - Would you buy the most [[expensive things|expensive thing]] at a cheap place, or the cheapest thing at an expensive place?
  - Would you rather sleep 8 hours a day, or be at half brain capacity for 16 hours a day?
@@ -13,6 +19,7 @@
  - Do the ABCs as fast as possible
  - If your mood was a weather, what would it be?
  - If you were arrested, what would your friends assume it was for?
+ - What's the smallest body of water you'd be willing to swim in, if you knew there was a dead body in it.
 
 [[icebreaker games]]
 
