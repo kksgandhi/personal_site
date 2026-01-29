@@ -23,3 +23,9 @@
  - make the best short story using only book titles
  - you must tightly tie a towel around your waist. Afterwards, neatly fold your towel without using your hands
  - draw the same picture, head of their favorite animal, top half of favorite building, underwear (no), bottom half of either a bird, fish, or insect, it's sitting on something your taskmaster finds funny
+  - bring the the most interesting thing that can fit in the palm of your hand
+ - throw something in the trash can in the most dramatic way you can
+ - get as much water from one side of the room to the other
+ - shake the taskmasters hand
+ - dress up Little Alex Horne in the best way possible 
+

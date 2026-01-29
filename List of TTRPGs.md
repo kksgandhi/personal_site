@@ -3,6 +3,7 @@
  - Everyone is John
  - That one with the witch resurrection
  - Honey Heist
+ - Butter Princess
  - There are ghosts in this discord
  - The D1 RPG (in static)
  - Unknown Armies TRPG

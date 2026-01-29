@@ -1,2 +1,4 @@
  - How does text work in a reflective game? Build two versions of Other People's Money
  - Use [[open game data]] to do an analysis on how players play.
+ - - Questions posed as text vs virtual environment in terms of how people react.
+- Statistics flowchart website

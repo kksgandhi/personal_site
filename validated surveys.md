@@ -93,5 +93,5 @@ Other
  - [[Emotionally Moving Moments In Games-Bopp]] mentions an emotional gratification in media survey by Bartsch
  - wallner and kriglstein 2016 understanding of visual cues?
  - Hong Psychological Reactance Scale (for measuring [[trait reactance]]).
-   - Has some variations, see Jonason, Bryan, Herrera (2010) and De Las Cuevas et al. (2014)
+   - Has some variations, see Jonason, Bryan, Herrera (2010) and De Las Cuevas et al. (2014). See also [[measuring psychological reactance]]
  - Salzburger state reactance scale looks at behavioral intent as well as negative evaluations.

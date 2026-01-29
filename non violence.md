@@ -17,3 +17,9 @@ Further reading
 ---------------
 
 https://wagingnonviolence.org/2024/11/10-things-to-do-if-trump-wins/
+
+https://theradicalfederalist.substack.com/p/the-protest-playbook-how-to-win-real
+
+https://www.sociocracy.info/
+
+https://beautifultrouble.org/beautifulsolutions

@@ -1,7 +1,13 @@
+---
+id: books I should read
+aliases: []
+tags: []
+---
 # Sci-Fi
 
  - Artemis by Andy Weir
  - What moves the dead (Tori recommends, horror)
+ - Keiran Gillian, The Power Fantasy (Nick recommends, what happens if superheroes in a realistic world)
  - Broken Earth Trilogy (Nathan)
  - Gideon The Ninth (Space Lesbian Necromancers)
 

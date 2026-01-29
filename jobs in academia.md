@@ -20,3 +20,5 @@ How is grant writing different than normal writing? - Grant writing is a combina
 -------
 
 https://twitter.com/annetropy/status/1465444410188079107?t=OvQoqCQ0KWFBdNOoN-6Cpw&s=19
+
+Australia supports a lot of game research. Look up games week and the Australia youth visa

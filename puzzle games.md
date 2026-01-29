@@ -1,0 +1,1 @@
+[Puzzle games can get annoying if it feels like you're just trying to read the developers mind](https://youtu.be/RYQl5hcipUM?si=FCY18SMqBA8n7atn)

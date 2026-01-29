@@ -1,3 +1,8 @@
+---
+id: Boston restaurants
+aliases: []
+tags: []
+---
 BTT = Before Tax & Tips, a \* means I want to go there but haven't yet
 
 ### Downtown
@@ -89,6 +94,10 @@ BTT = Before Tax & Tips, a \* means I want to go there but haven't yet
  - Blue Nile!
  - JP soup shack\*
 
+### Fenway
+
+ - YGF Malatang\*
+ - Cafe 472 near Kenmore\*
 
 ### Seaport
 

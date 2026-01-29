@@ -11,7 +11,7 @@ Authors: [[Steindl]] [[Jonas]] [[Sittenthaler]] [[Traut-Mattausch]] [[Greenberg]
 
 During reactance, people may act hostile towards the threat, "upgrade" their view of the restricted freedom, or "downgrade" the imposed option.
 
-Hong Psychological Reactance Scale and Salzburger State Reactance Scale
+Hong Psychological Reactance Scale and Salzburger State Reactance Scale (also see [[measuring psychological reactance]])
 
 Physiological measurements might also be relevant.
 
