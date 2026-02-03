@@ -1,9 +1,11 @@
+---
+id: conferences
+aliases: []
+tags: []
+---
+
+ - [[game conferences]]
+ - [[edugame conferences]]
+ - [[cs education conferences]]
+
 How to [[conference prep|prepare for a conference]].
-
-[[CHI conference]]
-
-apparently most of my notes are in [[game conferences]]
-
-Maybe check out the [Digital Humanities](https://www.springer.com/journal/44206) journal?
-
-Boston EdTech meeting

@@ -1,3 +1,8 @@
+---
+id: game conferences
+aliases: []
+tags: []
+---
 CHIPlay (see also the "Games and Play" track at CHI): Top conference for games, but is a bit limited in topics. It focuses on how players interact with games, and has a decent split between quantitative and qualitative studies.
 
 FDG: Sells itself as the conference where technical and non-technical people meet. Focuses on automatically generating content in games, creating systems that bolster narratives in games, and design work in general.
@@ -10,16 +15,6 @@ COG: Mostly technical conference, but still pretty general. Has an interesting t
 
 There are plenty of conferences for educational games specifically, but they tend to be more local and held sporadically. Some of the bigger ones are Serious Play and Games 4 Change (non-academic conferences). For academic conferences, see Meaningful Play, GALA, ECGBL, Games Learning Society, Play Make Learn. [[edugame conferences|Some notes from Erik Harpstead on edugame conferences]]
 
-Learning and CS Education conferences:
-
- - SIGCSE (Late February)
-   - Big conference, CS education research. A bit informal. A bit of pure research, a bit of implementation research ("I did something in my class, here's what worked and what didn't!")
- - ASEE (Late June)
-   - Similar to SIGCSE, but more broader STEM and even bigger. Easy to get a paper into apparently.
- - ICER
-   - International CS education research. Higher quality and smaller venue than SIGCSE
- - I/ITSEC
-   - Simulations, VR, and training for health and military applications
 
 -------------------------------
 

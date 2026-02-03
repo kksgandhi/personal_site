@@ -1,3 +1,8 @@
+---
+id: edugame conferences
+aliases: []
+tags: []
+---
 [A general list of conferences and deadlines](https://docs.google.com/spreadsheets/d/1l3YA8ukuFeUdZ2bThN5N50NTasZIieFKS66OLxO6nTo/edit#gid=0)
 
 In the Northeast there is the Connected Learning Summit, which has an anchor in MIT but I think is increasingly planning on being online. These small venues may not be the best as publication targets (with the possible exception of Meaningful Play) but they're nice to find community and they're almost always fun as events.
@@ -13,3 +18,7 @@ Some small edugame conferences
  - Teach Play Learn ([https://tpl.iu.edu/](https://tpl.iu.edu/)) at Indiana University, which I had never heard of until someone mentioned it at Meaningful Play this past year (Late July)
  - The short lived Transformational Experience Summit ([https://www.youtube.com/playlist?list=PLVO8XTbRWtuHk6zccLuIA81pBfSAWrIe3](https://www.youtube.com/playlist?list=PLVO8XTbRWtuHk6zccLuIA81pBfSAWrIe3)) at CMU 
  - Games 4 Change ([https://www.gamesforchange.org/](https://www.gamesforchange.org/)) (Late June) and Serious Play ([https://www.seriousplayconf.com/](https://www.seriousplayconf.com/)) are similar, though those both have some different flavors. (Mid August)
+
+Boston EdTech meeting
+
+Maybe check out the [Digital Humanities](https://www.springer.com/journal/44206) journal?
