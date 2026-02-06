@@ -65,6 +65,8 @@ Things I would tailor:
 
 I don't bother tailoring my teaching statement or research statement unless I'm applying to wildly different programs (professor of computer science vs data science vs game design)
 
+[My application materials](https://drive.google.com/drive/u/0/folders/1Q7VaUlXcivTtwUQP1uo5NpBMLibZKZ7t)
+
 Interviewing
 ------------
 
@@ -84,6 +86,21 @@ Mock interview questions:
  - Give an instance of a successful classroom experience and one that was less successful.
  - Thoughts on AI?
  - How would you apply active learning?
+ - How do you get feedback? Do you use some sort of mid-semester feedback? Once you get feedback, do you implement it?
+
+Potential Teaching Demo topics, in no particular order:
+
+ - bloom filters
+ - how vectors work under the hood
+ - how hashmaps work
+ - minima sets
+ - stable matching problem
+ - huffman coding
+ - k nearest neighbors
+ - page rank
+ - linear regression
+ - Inheritance
+ - Heaps
 
 Making the decision
 -------------------

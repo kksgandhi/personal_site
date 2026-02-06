@@ -12,6 +12,13 @@ Aggregator Websites
    - [A syllabi I like](https://courses.cs.washington.edu/courses/cse480/26wi/#schedule)
  - [More general resources, including a great example syllabi](https://computer-ethics.com/resources/)
 
+Ethics assignments
+------------------
+
+ - [Stanford embedded ethics](https://embeddedethics.stanford.edu/)
+ - [Princeton Integrated Ethics](https://citp.princeton.edu/programs/integrated-ethics-computer-science)
+ - [Ethics roleplays](https://agile-ethics.princeton.edu/)
+
 Ethical Frameworks
 ------------------
 
