@@ -4,7 +4,7 @@ aliases: []
 tags: []
 ---
 
-Conferences are overwhelming. It's helpful to prep a few things beforehand so you can fall back to them when your brain is much.
+Conferences are overwhelming. It's helpful to prep a few things beforehand so you can fall back to them when your brain is mush.
 
  - What are my goals? Are there people I want to meet? Do I have a project for which I need a collaborator?
  - What's my elevator pitch? What have I worked on that's interesting, and why?

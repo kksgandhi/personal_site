@@ -1,3 +1,8 @@
-https://gurbook.com/
-
-https://gamesuserresearch.com/
+ - https://gurbook.com/
+ - https://gamesuserresearch.com/
+ - Game Design Research (https://press.etc.cmu.edu/index.php/product/game-design-research/)
+ - Games User Research (https://gamesuserresearch.com/games-user-research-methods/)
+ - Another Games User Research (https://www.amazon.com/Games-User-Research-Anders-Drachen/dp/0198794843)
+ - [Reviewing Reflection: On the use of reflection in interactive system design](https://dl.acm.org/doi/10.1145/2598510.2598598)
+ - Evaluating Serious Experience In Games-Iacovides.md (exists)
+ - Gaming Motivation Scale-Lafrieniere.md (exists)

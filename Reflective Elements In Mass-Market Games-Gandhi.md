@@ -1,9 +1,14 @@
+---
+id: Reflective Elements In Mass-Market Games-Gandhi
+aliases: []
+tags: []
+---
 #notesFromPaper
 Year   : 2022
 Tags   : 
 Authors: [[Gandhi]] [[Josh|Miller]] [[Cooper]]
 
-[Link to the original paper](https://drive.google.com/file/d/1n2I2Qi7xEU7N_HEkEU7kGNLY06G07VAq/view?usp=sharing)
+[Link to the original paper](https://drive.google.com/file/d/1n2I2Qi7xEU7N_HEkEU7kGNLY06G07VAq/view?usp=sharing) (Gandhi, K., Miller, J. A., & Cooper, S. (2022, September). "Philosophy is Seeped into Every Brick" - Weaving Reflective Elements into Mass-Market Games. In The 17th International Conference on the Foundations of Digital Games (FDG) 2022 (pp. 1-9).)
 
 There have been recent pushes to study games which enable [[SEL|social and emotional learning]]. [[reflective games|Reflective games]] are well suited to this task. As examples, see [[Spent]] and [[Papers Please]].
 

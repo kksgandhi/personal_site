@@ -1,0 +1,7 @@
+ - Zombie division and intrinsic integration
+ - [Benefits of playing non-action games on cognition](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0058546)
+ - [Using game design patterns in learning](https://www.mdpi.com/2078-2489/12/10/393)
+ - [Game Based Learning](https://www-jime.open.ac.uk/articles/10.5334/2004-8-oblinger/)
+ - https://www.degruyter.com/document/doi/10.1515/9783110675184-008/html
+ - More than serious: A game to treat ADHD (https://www.sciencedirect.com/science/article/pii/S8755461522000354)
+ - Negative effects of gamification in education, Toda, Valle 2017

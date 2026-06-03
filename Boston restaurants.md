@@ -64,6 +64,7 @@ BTT = Before Tax & Tips, a \* means I want to go there but haven't yet
  - Guru \*
  - Dosa And Curry\*
  - Koshari Mama!
+ - Tsu ramen\*
 
 ### Allston
 
@@ -74,6 +75,7 @@ BTT = Before Tax & Tips, a \* means I want to go there but haven't yet
  - Grasshopper!!!
  - Stoked Pizza Washington Square!!
  - Shinmio Tea\*
+ - Yi Soon bakery
 
 ### Newbury / Copley
 
@@ -88,6 +90,7 @@ BTT = Before Tax & Tips, a \* means I want to go there but haven't yet
 
  - Picco pizza
  - Blunch\*
+ - Elephant Walk\*
 
 ### JP
 
@@ -110,12 +113,18 @@ BTT = Before Tax & Tips, a \* means I want to go there but haven't yet
  - Orinico\*
  - Bottega de capri\*
  - Brothers & Sisters coffeeshop
+ - Clear flour bread\*
+ - Brookline Pizza Spa\*
 
 ### Mission Hill
 
  - Penguin Pizza!!
  - Laughing Monk Cafe
  - Milkweed (20 BTT)
+
+### East Boston
+
+ - Rino's Place\*
 
 ### Everett
 

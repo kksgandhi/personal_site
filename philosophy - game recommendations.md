@@ -50,6 +50,12 @@ This game taught me more philosophy than any textbook ever could. Beautiful stor
 
 Mass Appeal 6 (It's very long, and while I think the length helps the game's message soak in, it is still a problem)
 
+1000xResist (10 hours)
+
+A deeply abstract and confusing game, I understood very little until basically the end. That said, I was so happy I played; this game has so much to say about memory, authoritarianism, and relationships.
+
+Mass Appeal: 4
+
 ### [[Nova Alea]] (15 minutes)
 
 We can build stronger cities together, cities that work for the people who live there, not the landowners. Nova Alea represents that concept incredibly and only takes like 15 minutes to play

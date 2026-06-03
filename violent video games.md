@@ -1,0 +1,5 @@
+ - Violent Video Games Makes Players Violent (exists)
+ - Games and Aggression (exists)
+ - General aggression model (exists)
+ - Implicit association test effects of video games (exists)
+ - Hartmann Moral Disengagement in violent video games

@@ -1,7 +1,6 @@
-[[qualitative research]]
-
- - See if your theory explains the data
- - Send it back to your participants, see if they agree with it.
+ - Read over your earlier interviews etc. See if the themes explain things said there.
+ - Send your final analysis to research participants and have them read it.
+ - Think about negative cases: examples that your theory doesn't fit or outright refutes your theory.
 
 Lenses from Charmaz (2006)
 

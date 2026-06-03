@@ -4,3 +4,4 @@ Check out the [official Godot resources compilation](https://github.com/godoteng
  - [[godot - example projects|example projects]]
  - [[godot - templates|templates you can use to kickstart your own game]]
  - [[godot - UI|UI]]
+ - [Guide on Godot Tweens](https://qaqelol.itch.io/tweens)

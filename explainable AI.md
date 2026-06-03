@@ -1,0 +1,1 @@
+ - game to teach AI concepts (https://dig.cmu.edu/publications/2020-aigwap.html)

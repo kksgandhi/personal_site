@@ -1,1 +1,2 @@
-See also: https://dl.acm.org/doi/10.5555/2812774.2812779 ?
+ - See also: https://dl.acm.org/doi/10.5555/2812774.2812779 (Lankoski Formal Analysis of Gameplay)
+ - Clara Fernandez Vara (Game Analysis Guide)

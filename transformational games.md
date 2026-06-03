@@ -4,7 +4,9 @@ aliases: []
 tags: []
 ---
 
-Games designed to transform the player by making them learn something, [[lenses|see things in a different way]], feel some emotion, etc. Transformational games may also seek to transform the world beyond the player, e.g. through data collection in [[citizen science]].
+Games designed to transform the player by helping them [[lenses|see things in a different way]], feel emotion, etc. Educational games are well studied, but many games are taking it a step further, helping players wrestle with their identity and think about the world they live in.
+
+Transformational games may also seek to transform the world beyond the player, e.g. through data collection in [[citizen science]].
 
 See my broader note on: [[what transformational games can do|what can games do?]] and [[what transformational games can't do|what can't games do]]?
 

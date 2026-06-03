@@ -8,7 +8,7 @@ I still have a bit to go; here are my thoughts so far.
 
 My PhD has been incredible. There have been ups and downs, and periods of high stress, but for the most part I've gotten the chance to explore my interests and work on projects I'm passionate about.
 
-My biggest regret is that my PhD was *isolated*. I started in the pandemic, and so I was behind on going to conferences and building up my network. Conferences were incredibly important in giving me ideas for impactful and impressive projects, but I've gotten these ideas too late, I need to finish up now.
+My biggest regret is that my PhD was *isolated*. I started in the pandemic, and so I was behind on going to conferences and building up my network. Conferences were incredibly important in giving me ideas for impactful and impressive projects, but I've gotten these ideas too late, I need to finish up now. I love the connections I've built, but it would have been nice to have more.
 
 Ideally, I would have worked with companies earlier, maybe even for free. While that sounds bad, it would have been invaluable to get access to datasets and create projects with larger real world impact. It also would have been helpful to help me convert into a job post-PhD.
 

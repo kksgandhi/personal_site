@@ -1,0 +1,4 @@
+ - https://pubsonline.informs.org/doi/10.1287/msom.2021.0999
+ - https://www.nature.com/articles/s41586-024-07856-5#Sec6
+ - https://www.nature.com/articles/s41586-018-0637-6
+ - https://dl.acm.org/doi/10.1145/3722227

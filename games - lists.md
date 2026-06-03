@@ -1,3 +1,8 @@
+---
+id: games - lists
+aliases: []
+tags: []
+---
 Within these lists, games marked with a \* are games that I don't know too much about.
 
 [[game recommendations|Games I recommend]]
@@ -12,6 +17,7 @@ Games that teach
  - [[list of declarative learning games|Games that teach math, science, and other declarative learning]]
  - [[list of transformational games|Games that are otherwise transformational]]
  - [Erik Harpstead's big list of edugames](http://edugames.design/big-list)
+ - [List of games used in higher education](https://zenodo.org/records/18412104)
  - The Vault by Field Day research lab is launching soon as a repository of edugames.
 
 Games that are interesting or uniquely built

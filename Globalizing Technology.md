@@ -1,0 +1,3 @@
+ - https://www.masakhane.io/
+ - https://script-ed.org/article/algorithmic-colonization-of-africa/
+ - https://theconversation.com/ais-fluency-in-other-languages-hides-a-western-worldview-that-can-mislead-users-a-scholar-of-indonesian-society-explains-276865

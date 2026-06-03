@@ -4,19 +4,44 @@ aliases: []
 tags: []
 ---
 
-- General
-	- What are you working on?
-	- What's your story / path to where you are now?
-	- What are the must read resources in your field?
-- Pedagogy
+ - General
+	 - What are you working on?
+	 - What's your story / path to where you are now?
+	 - What are the must read resources in your field?
+ - Pedagogy
    - How does learning sciences avoid the issue of everything being a nightmare of variables?
    - Learning-To-Learn, especially in the world of AI
  - Philosophy / Ethics
-   - Leading horses to water and making them drink? How do you actually change someone's mind?
+   - General class structure?
+   - Creating AI proof assignments
+   - In class exercises?
+   - How to engage students who don't have an interest or background in philosophy.
+   - How to promote effective in-class discussion.
+   - How to run debates.
+   - How to assign / rubric / grade essays.
+   - How to make sure students are doing their reading outside of class.
+   - How to teach research methods and the identification of good sources.
  - Games
 	 - Do non simulation based edugames work?
 	 - What do you think of "games definitely work, but the real question is are they worth it?"
 	 - Design challenges, esp. K-12
+ - Research
+   - How to verify if an edugame actually works, especially with complex ideas such as "critical thinking".
+ - Casual Questions
+   - Are art games a problem for game designers?
+ - Teaching Track
+   - How much do academic jobs care that you've had industry experience?
+   - How to beef up my resume for teaching track positions
+   - How to make sure a university respects their teaching track professors.
+   - Dealing with a conservative presidency
+   - Is my CV good?
+   - What's the point of a cover letter?
+   - Places with a game design program
+   - 2 body problem
+   - AI job positions?
+   - Using AI in the classroom
+ - GLAM
+   - Affordances of an interested audience?
  - Industry
    - How can I sell myself?
      - Show off my leadership skills?
@@ -27,20 +52,3 @@ tags: []
    - How will funding for PBS and the like be affected?
    - setting myself up for product management roles
    - Should I sign up for senior roles or junior roles
-- Research
-  - How to verify if an edugame actually works, especially with complex ideas such as "critical thinking".
-- Casual Questions
-  - Are art games a problem for game designers?
-- Teaching Track
-  - How much do academic jobs care that you've had industry experience?
-  - How to beef up my resume for teaching track positions
-  - How to make sure a university respects their teaching track professors.
-  - Dealing with a conservative presidency
-  - Is my CV good?
-  - What's the point of a cover letter?
-  - Places with a game design program
-  - 2 body problem
-  - AI job positions?
-  - Using AI in the classroom
-- GLAM
-  - Affordances of an interested audience?

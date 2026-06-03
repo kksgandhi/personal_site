@@ -8,8 +8,6 @@ tags: []
  - Artemis by Andy Weir
  - What moves the dead (Tori recommends, horror)
  - Keiran Gillian, The Power Fantasy (Nick recommends, what happens if superheroes in a realistic world)
- - Broken Earth Trilogy (Nathan)
- - Gideon The Ninth (Space Lesbian Necromancers)
 
 # Games
 
@@ -53,8 +51,6 @@ What the health
 Book theif
 Ask bayou.com
 The eye of minds
-The jaein list
-HPMOR
 Terry Pratchett 
 Jonathan Haidt 
 The book thief
@@ -166,5 +162,3 @@ NLP how effective is science communication
 How we know that online communities are designed by white males
 
 The importance of being earnest
-
-Several people are typing book about uploading your consciousness into Slack
