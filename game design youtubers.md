@@ -1,11 +1,31 @@
-- Game Maker’s Toolkit
-- Razbuten
-- Snowman Gaming
-- Extra Credits (Especially their older stuff)
-- GDC (The Game Developers Conference. Their stuff is usually longer and pretty in-depth)
-- Jacob Geller (Not a game designer, but does some analyses of weird / interesting games)
-- Adam Millard
-- AI and Games
-- Thin Matrix
-- Sebastian Lague
-- NoClip
+---
+id: game design youtubers
+aliases: []
+tags: []
+---
+- General Design
+  - GDC — The Game Developers Conference. Their stuff is usually longer and pretty in-depth
+  - Game Maker’s Toolkit
+  - Razbuten — has a brilliant "gaming for non-gamers" series about what it's like to play as a new player
+  - Extra Credits — Especially their older stuff)
+  - Adam Millard
+  - Snowman Gaming
+- Programming Deep Dives
+  - AI and Games
+  - Sebastian Lague
+  - Acerola
+  - Freya Holmer
+  - CodeParade
+  - 2swap — not games specific, but algorithms that often apply to games
+- Development Vloggers
+  - JuniperDev
+  - Thin Matrix
+- Game Industry and Documentaries
+  - NoClip
+  - People Make Games
+  - Ahoy
+- Game Philosophy and video essays
+  - Jacob Geller — Brilliant video essays, maybe my favorite channel on Youtube)
+  - Pixel A Day
+  - Writing on Games
+  - Daryl Talks Games — Psychology and a bit of Philosophy
