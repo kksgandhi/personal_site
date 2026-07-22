@@ -1,6 +1,6 @@
 Prebuilt templates
 
-
+[Dave Churchill's materials](https://davechurchill.ca/teaching/)
 
 Other Engines
 -------------

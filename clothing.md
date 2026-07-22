@@ -1,3 +1,8 @@
+---
+id: clothing
+aliases: []
+tags: []
+---
 Americana pipe dream
 Bronson Manufacturing company 
 40 south street

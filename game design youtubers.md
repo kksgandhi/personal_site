@@ -29,3 +29,30 @@ tags: []
   - Pixel A Day
   - Writing on Games
   - Daryl Talks Games — Psychology and a bit of Philosophy
+
+- General Design
+  - [GDC](https://www.youtube.com/channel/UC0JB7TSe49lg56u6qH8y_MQ) — The Game Developers Conference. Their stuff is usually longer and pretty in-depth
+  - [Game Maker's Toolkit](https://www.youtube.com/@GMTK)
+  - [Razbuten](https://www.youtube.com/channel/UCfHmyqCntYHQ81ZukNu66rg) — has a brilliant "gaming for non-gamers" series about what it's like to play as a new player
+  - [Extra Credits](https://www.youtube.com/@extracredits) — Especially their older stuff
+  - [Adam Millard](https://www.youtube.com/channel/UCY3A_5R_m3PXCn5XDhvBBsg)
+  - [Snoman Gaming](https://www.youtube.com/@snomangaming)
+- Programming Deep Dives
+  - [AI and Games](https://www.youtube.com/channel/UCov_51F0betb6hJ6Gumxg3Q)
+  - [Sebastian Lague](https://www.youtube.com/@SebastianLague)
+  - [Acerola](https://www.youtube.com/@Acerola_t)
+  - [Freya Holmer](https://www.youtube.com/channel/UC7M-Wz4zK8oikt6ATcoTwBA)
+  - [CodeParade](https://www.youtube.com/@CodeParade)
+  - [2swap](https://www.youtube.com/@twoswap) — not games specific, but algorithms that often apply to games
+- Development Vloggers
+  - [JuniperDev](https://www.youtube.com/@JuniperDev)
+  - [Thin Matrix](https://www.youtube.com/@ThinMatrix)
+- Game Industry and Documentaries
+  - [NoClip](https://www.youtube.com/@NoclipDocs)
+  - [People Make Games](https://www.youtube.com/channel/UCZB6V9fUov0Mx_us3MWWILg)
+  - [Ahoy](https://www.youtube.com/channel/UCE1jXbVAGJQEORz9nZqb5bQ)
+- Game Philosophy and video essays
+  - [Jacob Geller](https://www.youtube.com/@JacobGeller) — Brilliant video essays, maybe my favorite channel on Youtube
+  - [Pixel A Day](https://www.youtube.com/channel/UCRmZM0WpKzSu_27unPuyEZA)
+  - [Writing on Games](https://www.youtube.com/@WritingOnGames)
+  - [Daryl Talks Games](https://www.youtube.com/channel/UCJfJWct8jN1RpCuVWk3zHTA) — Psychology and a bit of Philosophy

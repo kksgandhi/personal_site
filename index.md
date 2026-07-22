@@ -1,9 +1,3 @@
----
-id: index
-aliases: []
-tags: []
----
-
 Hi! I'm Kutub Gandhi. Welcome to my... blog?
 
 This website contains *all* my notes, so watch out — some stuff might be outdated or written without much thought.
@@ -12,11 +6,9 @@ This website contains *all* my notes, so watch out — some stuff might be outda
 
 How can we get players to [[reflective games|reflect]] and think [[critical thinking|critically]] about themselves and the world they live in?
 
-I study play, with a focus on social impact. I'm a 6th year PhD student with the wonderful [Seth Cooper](http://www.khoury.neu.edu/home/scooper/) (Northeastern University Department of Computer Science). I got started in undergrad, where I [[Coll 182|taught a course that used games to teach philosophy]]. 
+In my PhD I studied play, with a focus on social impact. Now — as a professor of Game Design at University of Tampa — I'm broadening out into general CS, education, and games research.
 
-My CS background has given me a strong base in programming, and through my research, I've gained expertise in game design, pedagogy, working with children, and user research.
-
-I'll be looking for jobs in the fall and would love to get connected — I'm interested in educational technology: design, user research, programming, and product management all appeal to me. I'm also looking to teach computer science / game design at the university level.
+I'm always looking for research projects and industry collaborations, both for me and my students. Feel free to reach out!
 
  - [[projects|Projects]]
  - [[publications|Publications]]

@@ -13,3 +13,5 @@ tags: []
  - [Dry hands on an old piano](https://www.youtube.com/watch?v=gtW2ObSz3p4)
  - [A sonic memorial to the Orlando shooting victims](https://revealnews.org/blog/a-sonic-memorial-to-the-victims-at-orlandos-pulse-nightclub/)
  - [Photos of the world set to music](https://www.tumblr.com/queersona/799899478397206528/everytime-i-look-at-the-stars-i-feel-homesick-for?source=share)
+ - [Live as if you got the chance to come back](https://www.tumblr.com/allhailthe70shousewife/818718648174854144?source=share
+)

@@ -7,7 +7,8 @@ Listed roughly in order of my interest.
 
 Let me know if you get something, that way others don't buy a duplicate.
  
- - New home stuff, like kitchenware. Maybe from [oxo](https://www.oxo.com/). Garlic press, oven mitts... souper cubes
+ - [The Magical Code of Regulations](https://linktr.ee/christopherfrigo)
+ - Summer clothing (shorts, button down shirts) from [reyn spooner](https://www.reynspooner.com/) or [quince](https://www.quince.com/men/the-summer-edit)
  - Weird wristwatches. The more insane the better.
  - Donate to charity
  - Something from [Jacob Geller](https://jacobgeller.com/)

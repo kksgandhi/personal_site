@@ -4,7 +4,9 @@ When grading grammar, maybe select a section, mark lines with grammar mistakes, 
 
 Nilson Chapter 27 has an interesting argument for specifications based grading, where every assignment is pass/fail. (And then you do funky stuff to get a letter grade out of that at the end.)
 
-[Grading for growth](https://gradingforgrowth.com/p/the-four-pillars-of-alternative-grading)
+ - [Grading for growth](https://gradingforgrowth.com/p/the-four-pillars-of-alternative-grading)
+ - https://www.centerforgradingreform.org/
+
 
 4 pillars:
 
