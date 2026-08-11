@@ -10,5 +10,5 @@ Note: This website contains *all* my notes, as is. It's the ramblings of a madma
 
  - [[games]]
    - [[game recommendations|Games you should play!]]
- - [[philosophy]]
+ - [[career advice|advice for fellow academics]]
  - [[phronesis|reflections, life lessons, psuedointellectual wisdom, all that mushy stuff]]

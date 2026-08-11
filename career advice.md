@@ -1,0 +1,3 @@
+ - [[PhD|Reflections on my PhD and advice for yours]]
+ - [[applying to teaching track positions|Advice for the CS teaching professor job process]]
+ - [[networking]]

@@ -1,4 +1,4 @@
-This is a guide to the professor job application process. It's primarily aimed at teaching focused positions, like PUIs (primarily undergraduate institutions, where advising grad students is minimal or nonexistant), SLACs (small liberal arts colleges), or teaching-track positions (purely teaching focused positions alongside colleagues who may do more research).
+This is a guide to the CS professor job application process. It's primarily aimed at teaching focused positions, like PUIs (primarily undergraduate institutions, where advising grad students is minimal or nonexistant), SLACs (small liberal arts colleges), or teaching-track positions (purely teaching focused positions alongside colleagues who may do more research).
 
 Other People's Guides
 ---------------------
