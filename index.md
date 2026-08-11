@@ -1,12 +1,12 @@
 Hi! I'm Kutub Gandhi. Welcome to my... blog?
 
-This website contains *all* my notes, so watch out — some stuff might be outdated or written without much thought.
+This website contains my notes — all of them — so watch out, some stuff might be outdated or written without much thought.
 
 --------------
 
 How can we get players to [[reflective games|reflect]] and think [[critical thinking|critically]] about themselves and the world they live in?
 
-I'm a professor of game design at UTampa. In my PhD I studied play, with a focus on social impact. Now — as a professor — I'm broadening out into general CS, education, and games research.
+I'm a professor of game design at UTampa. In my PhD I studied play, with a focus on social impact. Now I'm broadening out into general CS, education, and games research.
 
 I'm always looking for research projects and industry collaborations, both for me and my students. Feel free to reach out!
 

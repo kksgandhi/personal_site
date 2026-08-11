@@ -11,6 +11,7 @@ Games are often written off compared to formal courses because the benefits are 
 Similarly, I'm frustrated that games (especially video games) are often lumped together. Many people think all video games are violent irredeemable shooting games.
 
  - [[game recommendations|Games you should play!]]
+   - [[games - lists|Games that do interesting things]]
  - [[game design|How to design games]]
 	 - [[game development|How to develop games]]
  - [[transformational games|Transformational games, games built to transform the player, or the world around them]]

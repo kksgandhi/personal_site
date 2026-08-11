@@ -6,6 +6,8 @@ tags: []
 
 **Headline Takeaway**: I built a [wealth-inequality game](https://kksgandhi.itch.io/other-peoples-money) which was effective at shifting people's views and motivating them to act against inequality. There were two major surprises: the game shifted conservative players just as much as liberal players. Furthermore, the game's effectiveness did not change whether or not I included a layer of inflammatory anti-capitalist messaging. These counter-intuitive findings are a good avenue for future research.
 
+The game is playable in 10 minutes on any device! [Check it out](https://kksgandhi.itch.io/other-peoples-money).
+
 ------------------
 
 [Other People's Money](https://kksgandhi.itch.io/other-peoples-money) (OPM) is an award winning game asking players to reflect on wealth inequality and our priorities as a society. Throughout the game the player plays around with huge expensive projects, juxtaposing the cost of these projects with the wealth of the richest 400 Americans. They also encounter bits of text, snippets that provide information and prompt them to reflect.
