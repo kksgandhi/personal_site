@@ -20,4 +20,4 @@ Books that talk about game design:
   
 In terms of basic game design, the book everyone talks about is _The Art of Game Design_ by Jesse Schell. In edugames, it's _The Transformational Framework_ by Sabrina Culyba. (Even for entertainment designers, I suggest reading it, since it gives you an interesting perspective on connecting with players). I've also heard good things about Tynan Sylvester's _Designing Games_, Tracy Fullerton's _Game Design Studio_, and Riot Games' Game Design Framework. For Game AI, *there*'s _AI For Games_ by Ian Millington and _Artificial Intelligence and Games_ by Georgios N. Yannakakis and Julian Togelius  
   
-For more casual resources, I'm a fan of _Game Maker's Toolkit_ and _AI and Games_ on YouTube.
+For more casual resources, I'm a fan of _Game Maker's Toolkit_ and _AI and Games_ on YouTube. I like [this random video](https://www.youtube.com/watch?v=o5K0uqhxgsE)

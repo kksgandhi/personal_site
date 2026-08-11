@@ -1,0 +1,1 @@
+I've found the people who annoy me the most are those who remind me of the parts I like least about myself.

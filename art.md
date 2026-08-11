@@ -14,4 +14,6 @@ Ostensibly, modern art was made to challenge the notions of what art even is, an
 
 I think my new definition of art is really anything that can evoke [[emotions|emotion]] and force you to [[critical thinking|reconsider your core beliefs]]. It's a broad definition, and maybe that weakens it somewhat, but [[anything can be art|inclusivity in art is better than being a gatekeeper.]]
 
-I think people, whether they know it or not, [[art as a value judgement|define art as whatever exemplifies their values]]. This is especially relevant in discussions of AI art, and why people don't consider AI art to be art.
+I think people, whether they know it or not, [[art as a value judgement|define art as whatever represents their values]]. This is especially relevant in discussions of AI art, and why people don't consider AI art to be art.
+
+[[beauty of the banal]]

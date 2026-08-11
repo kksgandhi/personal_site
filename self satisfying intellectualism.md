@@ -1,0 +1,1 @@
+Do you think deeply in order to critique your own views, or to justify things you're already emotionally certain of.

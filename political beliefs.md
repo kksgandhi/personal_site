@@ -8,3 +8,5 @@ If you have a political belief, is it:
  - something you believe, but can't enforce
  - something you believe, but can't enforce without side effects you feel uncomfortable with (like a surveillance state)
  - something you believe in and would enforce.
+
+Legality is not morality. There are many things that I believe should be illegal *and* believe are morally correct ([[disruptive protest]]).

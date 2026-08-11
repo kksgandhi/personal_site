@@ -1,0 +1,8 @@
+Tips from when I interviewed prospective undergrads:
+
+ - Say something abstract about yourself (e.g. "I'm a quick learner"), followed by a story about yourself that hammers in that the abstract statement is true (e.g. "I had to put together a project under a tight deadline..."). A statement without a story sounds like a lie, or at least fluff that anyone could say about themselves. A story without a statement is unfocused, the interviewer may not know what you are getting at.
+ - Remember your fundamentals. Search a bunch about interviews and if you see the same advice repeated, drill it into your head.
+ - Don't just say what you did. Your paper application will list what you did. If all you do is rehash your paper application, then there's no point in an interview. Use the interview space to elaborate on how the various elements of your resume has affected you, talk about who you are as a person (aka show aspects of yourself that don't come across on paper).
+ - Know things about the organization specifically. More relevant for some orgs than others.
+ - Get a list of these stories and practice the *cores* of each one. Memorizing them word for word will make you sound stiff, but knowing the core of each story and modifying it based on the specific question is a good tactic. Be practiced enough that you can focus on your tone, body language and even modifying the story on the fly as the interviewer reacts, all while you say the words. Being practiced is not the same as memorizing.
+ - A nobody who genuinely learned from their experiences is infinitely better than a someone impressive sounding who did things just to pad their resume.

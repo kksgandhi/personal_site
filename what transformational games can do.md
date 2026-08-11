@@ -14,11 +14,7 @@ tags: []
 
 **Games as social platforms**: Games encourage social interaction, where players may learn social skills or discuss concepts.
 
-**Games as internalization via interaction**: By requiring the player to interact, 
-
-[[games as an alibi|Games as alibis]]: Rather than directly bringing up a difficult topic, play a game that touches on those topics as a way to spark conversation.
-
-**Games as introductions**: Games can bring up topics to be followed up on later, all while making players think they are just playing a silly game. See [[embedded design]]
+**Games as introductions**: Games can bring up topics, even emotionally difficult topics, to be followed up on later by other players or mentor figures, all while making players think they are just playing a silly game. See [[embedded design]]
 
 [[gamification|Gamification]]: Using points, badges and leaderboards to motivate users in a non-game setting.
 

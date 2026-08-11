@@ -16,3 +16,4 @@ I'm really not that old, and that scares me. If I've had so much time to mess up
  - [[self care]]
  - [[social skills]]
  - [[time]]
+ - [[growth mindset]]

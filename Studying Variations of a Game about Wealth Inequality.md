@@ -4,6 +4,10 @@ aliases: []
 tags: []
 ---
 
+**Headline Takeaway**: I built a [wealth-inequality game](https://kksgandhi.itch.io/other-peoples-money) which was effective at shifting people's views and motivating them to act against inequality. There were two major surprises: the game shifted conservative players just as much as liberal players. Furthermore, the game's effectiveness did not change whether or not I included a layer of inflammatory anti-capitalist messaging. These counter-intuitive findings are a good avenue for future research.
+
+------------------
+
 [Other People's Money](https://kksgandhi.itch.io/other-peoples-money) (OPM) is an award winning game asking players to reflect on wealth inequality and our priorities as a society. Throughout the game the player plays around with huge expensive projects, juxtaposing the cost of these projects with the wealth of the richest 400 Americans. They also encounter bits of text, snippets that provide information and prompt them to reflect.
 
 The game was iteratively designed to incorporate [[Other People's Money background research|best practices in the communication of wealth inequality]].
@@ -13,6 +17,7 @@ The main question of this project is whether the text snippets are worth it, and
 Understanding the effect of text will also provide insight into a big contradiction in the literature: the [[Embedded vs Reflective Design|debate on how blunt]] a transformational game should be, balancing being overly annoying to the player with the fear that a player may miss the major points of the game.
 
 I conducted structured playtesting and a large scale online study to better understand the player experience of OPM and its variations, to understand whether the text adds to or takes away from the impact of the game.
+
 
 Structured Playtesting
 ----------------------

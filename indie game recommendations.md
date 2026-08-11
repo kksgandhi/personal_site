@@ -13,6 +13,8 @@ Mass Appeal: 10/10
 
 This game makes me happy on a core level. It's completely pure and innocent joy, and touches me in a way very few things have. I tell everyone I can to buy this game and save it for a rainy or sad day.
 
+A [video](https://youtu.be/MAZ8lS-1Ygg) on games similar to A Short Hike.
+
 My rating:        9/10\
 Mass Appeal: 10/10
 

@@ -11,7 +11,7 @@ Use Power
 
 Effective protests are [[disruptive protest|disruptive]]. In the most extreme cases, that can even mean blocking access to spaces and committing sabotage. Even famous cases of nonviolence were intensely maligned at their times for being destructive (though that was also often propaganda).
 
-There's an escalating ladder of tactics. If a regime 
+There's an escalating ladder of tactics. If a regime #todo
 
 Further reading
 ---------------

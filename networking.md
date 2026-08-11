@@ -22,3 +22,4 @@ I'd also update my resume each month and update my answers to [[mock interview q
 ------------
 
 [Networking for introverts](https://www.youtube.com/watch?v=g7yfZ6GHh8s)
+[[interview tips|general interview tips]]

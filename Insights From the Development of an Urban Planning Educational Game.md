@@ -37,7 +37,9 @@ As the game wrapped up, I met with my SMEs again to ensure there were no mistake
 Discussion
 ---------------
 
-*Text*, and how it's used was an important factor in *Building Forward*. Text is important in actually conveying information, but too much text can feel boring, or worse, condescending. At certain times, the bluntness of a message would make players feel like they were being talked at by the developer. One thing that helped was making text more diegetic, having it be more a natural extension of the game's core mechanics and UI. For example, an achievement that read "pedestrians now feel safer walking around" was replaced with a character in game saying "I now feel safer walking around with my kids!". The achievement felt like a blunt addition on top of the game, but the character talking felt like a part of the game that players more readily accepted, causing players to build their cities specifically to make the in-game characters happy.
+*Text*, and how it's used was an important factor in *Building Forward*. Text is important in actually conveying information, but too much text can feel boring, or worse, condescending. At certain times, the bluntness of a message would make players feel like they were being talked at by the developer. 
+
+One thing that helped was making text more _diegetic_, having it be more a natural extension of the game's core mechanics and UI. For example, an achievement that read "pedestrians now feel safer walking around" was replaced with a character in game saying "I now feel safer walking around with my kids!". The achievement felt like a blunt addition on top of the game, but the character talking felt like a part of the game that players more readily accepted, causing players to build their cities specifically to make the in-game characters happy.
 
 Other benefits came from making text *timely* (having it only show up when relevant), and *meaningful* (removing redundant text and cutting down what remained).
 
