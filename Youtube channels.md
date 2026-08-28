@@ -1,0 +1,72 @@
+Within each category, roughly ordered by enjoyment
+
+ - Video Essayists
+   - Jacob Geller
+   - Benn Jordan
+   - Boy Boy
+   - bobby broccoli
+   - Solar Sands
+   - Miniminuteman
+   - Unlearning Economics
+   - F.D. Signifier
+   - Fredrik Knudsen
+   - Alternate History Hub
+   - Defunctland
+   - EmpLemon
+   - Folding Ideas
+   - hbomberguy
+   - Jan Misali
+ - Short Explainers
+   - Map Men
+   - Tom Scott
+   - Practical Engineering
+   - Steve Mould
+   - Good Work
+   - Atomic Frontier
+   - Captain Disillusion
+   - Wendover
+   - Polymatter
+   - Blumineck
+   - Empathy Machines
+   - engineerguy
+   - Ethan Chlebowski
+   - Gneiss Name
+   - Kurzgesagt
+   - Scishow
+   - xkcd's what if
+ - Programming
+   - SuckerPinch
+   - Logan Smith
+   - Sebastian Lague
+   - Welch Labs
+   - Acerola
+   - Code Parade
+   - Polylog
+ - Math
+   - 2swap
+   - 3blue1brown
+   - Sheafification of G
+ - Silly
+   - Jet Lag
+   - Shoot from the Hip
+   - Almost Friday TV
+   - Ben Walker
+   - Alternative Cuts
+   - Taskmaster
+   - Eelis
+   - Jaiden Animations
+   - Joel Haver
+   - Max0r
+   - Pannenkoek2012
+   - PointlessHub
+   - Stuff Made Here
+   - Summoning Salt
+   - Tom Cardy
+   - Wizards with Guns
+ - Uncategorizable
+   - Bobby Fingers
+   - Ben Palmer
+   - Jazz Emu
+   
+
+See also [[game design youtubers]]

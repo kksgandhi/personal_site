@@ -1,0 +1,2 @@
+- How to Lie with Statistics by Darrell Huff
+- Foolproof: Why Misinformation Infects Our Minds and How to Build Immunity by Sander van der Linden
