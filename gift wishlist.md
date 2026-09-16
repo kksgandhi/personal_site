@@ -7,7 +7,6 @@ Listed roughly in order of my interest.
 
 Let me know if you get something, that way others don't buy a duplicate.
  
- - [The Magical Code of Regulations](https://linktr.ee/christopherfrigo)
  - Summer clothing (shorts, button down shirts) from [reyn spooner](https://www.reynspooner.com/) or [quince](https://www.quince.com/men/the-summer-edit)
  - Weird wristwatches. The more insane the better.
  - Donate to charity
@@ -28,3 +27,4 @@ Stuff that used to be here, but someone has already bought:
  - [Death Clock](https://inqfactory.com/pages/death-clock)
  - [Two sets of 36 tactile switches](https://minokeys.com/products/tecsee-sapphire-tactile-switches)
  - [The Transformational Framework Book](https://www.transformationalframework.com/product/the-transformational-framework-color-paperback/)
+ - [The Magical Code of Regulations](https://linktr.ee/christopherfrigo)

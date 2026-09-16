@@ -6,6 +6,7 @@ Within each category, roughly ordered by enjoyment
    - Boy Boy
    - bobby broccoli
    - Solar Sands
+   - Technology Connections
    - Miniminuteman
    - Unlearning Economics
    - F.D. Signifier

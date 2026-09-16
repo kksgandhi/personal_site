@@ -14,3 +14,5 @@ Learning and CS Education conferences:
    - International CS education research. Higher quality and smaller venue than SIGCSE
  - I/ITSEC
    - Simulations, VR, and training for health and military applications
+
+[Chris Bourke's list](https://github.com/cbourke/CSEd-Conferences)
