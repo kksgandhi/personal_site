@@ -7,5 +7,6 @@
   "textFontFamily": "Comic Code",
   "interfaceFontFamily": "Comic Code",
   "monospaceFontFamily": "Comic Code",
-  "showViewHeader": true
+  "showViewHeader": true,
+  "showRibbon": true
 }

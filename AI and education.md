@@ -1,0 +1,4 @@
+ - https://aiandeducation.mit.edu/report/
+	 - AI isn't just hurting cognitive development, but social development as well
+ - https://arxiv.org/abs/2609.27842
+ - https://www.youtube.com/watch?v=m9-zPO9iSn8
